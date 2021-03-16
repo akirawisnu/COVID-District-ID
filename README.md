@@ -29,3 +29,6 @@ This repository will help researcher or any curious mind that want to explore or
 * Updated Daily COVID Data (High Frequency Data)
 	
 In addition, you can find the study that I was doing in collaboration in Dr. Arianto Patunru of The Australian National University for FKP21, "Economic risks of COVID-19: a local perspective" in this repository. 
+
+This repo is under GNU GPL v3 License, which means:
+**Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.**
