@@ -26,6 +26,6 @@ This repository will help researcher or any curious mind that want to explore or
 	* District COVID Data is still rare and particularly hard to find
 * Easy to map, use my other repository in case you don't have the necessary Shapefiles
 	* [ShapefileID](https://github.com/akirawisnu/GIS_Shapefile_2020_ID)
-* Updated Daily COVID Data
+* Updated Daily COVID Data (High Frequency Data)
 	
 In addition, you can find the study that I was doing in collaboration in Dr. Arianto Patunru of The Australian National University for FKP21, "Economic risks of COVID-19: a local perspective" in this repository. 
