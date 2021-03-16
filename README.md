@@ -1,11 +1,15 @@
 # COVID-District-ID
 **District Data COVID in Indonesia: Vaccine and COVID**
 
-![COVID FKP](url)
-[FKP21 - COVID](https://www.fkpindonesia.org/summary-report/covid-local-economic-risks)
-[![FKP21 - youtube](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=tXN-tmRC_R4)
+![COVID FKP](https://github.com/akirawisnu/COVID-District-ID/blob/main/1dcd1a7d-50c2-4848-ab83-57793d307783.png?raw=true)
+
+[![FKP21 - COVID](https://github.com/akirawisnu/COVID-District-ID/blob/main/cc6bb8a3-3826-4bd8-9139-ebe3508edb05.png?raw=true)](https://www.fkpindonesia.org/summary-report/covid-local-economic-risks)
+
+[![FKP21 - youtube](https://github.com/akirawisnu/COVID-District-ID/blob/main/Screen-Shot-2021-03-12-at-09.54.57-1024x575.png?raw=true)](https://www.youtube.com/watch?v=tXN-tmRC_R4)
 
 **What is this Repository?**
+
+![DistrictMap](https://github.com/akirawisnu/COVID-District-ID/blob/main/DALY-1.png?raw=true)
 
 This repository will help researcher or any curious mind that want to explore or doing research for COVID related data in Indonesia. The advantage of this repository is due to:
 * Usage of Free Open Data:
