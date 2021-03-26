@@ -1,4 +1,11 @@
 date|day|month|year|id_district|id_province|province_name|district_name|city_name|confirmed_case|death_case|recovered_case|active_case|population|area_km2|pop_density|num_kecamatan|num_village|num_islands
+23032021|23|03|2021|162|12|Kalimantan Barat|Kab. Bengkayang|Bengkayang|276||176|100|293000|5075.5|58|17|124|12
+22032021|22|03|2021|162|12|Kalimantan Barat|Kab. Bengkayang|Bengkayang|276||176|100|293000|5075.5|58|17|124|12
+21032021|21|03|2021|162|12|Kalimantan Barat|Kab. Bengkayang|Bengkayang|276||175|101|293000|5075.5|58|17|124|12
+20032021|20|03|2021|162|12|Kalimantan Barat|Kab. Bengkayang|Bengkayang|275||171|104|293000|5075.5|58|17|124|12
+19032021|19|03|2021|162|12|Kalimantan Barat|Kab. Bengkayang|Bengkayang|272||167|105|293000|5075.5|58|17|124|12
+18032021|18|03|2021|162|12|Kalimantan Barat|Kab. Bengkayang|Bengkayang|272||165|107|293000|5075.5|58|17|124|12
+17032021|17|03|2021|162|12|Kalimantan Barat|Kab. Bengkayang|Bengkayang|272||165|107|293000|5075.5|58|17|124|12
 16032021|16|03|2021|162|12|Kalimantan Barat|Kab. Bengkayang|Bengkayang|268||164|104|293000|5075.5|58|17|124|12
 15032021|15|03|2021|162|12|Kalimantan Barat|Kab. Bengkayang|Bengkayang|268||163|105|293000|5075.5|58|17|124|12
 14032021|14|03|2021|162|12|Kalimantan Barat|Kab. Bengkayang|Bengkayang|268||163|105|293000|5075.5|58|17|124|12
@@ -261,6 +268,13 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 30062020|30|06|2020|162|12|Kalimantan Barat|Kab. Bengkayang|Bengkayang|5||3|2|293000|5075.5|58|17|124|12
 29062020|29|06|2020|162|12|Kalimantan Barat|Kab. Bengkayang|Bengkayang|5||3|2|293000|5075.5|58|17|124|12
 28062020|28|06|2020|162|12|Kalimantan Barat|Kab. Bengkayang|Bengkayang|5||3|2|293000|5075.5|58|17|124|12
+23032021|23|03|2021|163|12|Kalimantan Barat|Kab. Kapuas Hulu|Kapuas Hulu|188|1|187||245000|29842|8|23|282|
+22032021|22|03|2021|163|12|Kalimantan Barat|Kab. Kapuas Hulu|Kapuas Hulu|188|1|187||245000|29842|8|23|282|
+21032021|21|03|2021|163|12|Kalimantan Barat|Kab. Kapuas Hulu|Kapuas Hulu|188|1|186|1|245000|29842|8|23|282|
+20032021|20|03|2021|163|12|Kalimantan Barat|Kab. Kapuas Hulu|Kapuas Hulu|188|1|186|1|245000|29842|8|23|282|
+19032021|19|03|2021|163|12|Kalimantan Barat|Kab. Kapuas Hulu|Kapuas Hulu|188|1|183|4|245000|29842|8|23|282|
+18032021|18|03|2021|163|12|Kalimantan Barat|Kab. Kapuas Hulu|Kapuas Hulu|186|1|181|4|245000|29842|8|23|282|
+17032021|17|03|2021|163|12|Kalimantan Barat|Kab. Kapuas Hulu|Kapuas Hulu|186|1|180|5|245000|29842|8|23|282|
 16032021|16|03|2021|163|12|Kalimantan Barat|Kab. Kapuas Hulu|Kapuas Hulu|186|1|179|6|245000|29842|8|23|282|
 15032021|15|03|2021|163|12|Kalimantan Barat|Kab. Kapuas Hulu|Kapuas Hulu|183|1|178|4|245000|29842|8|23|282|
 14032021|14|03|2021|163|12|Kalimantan Barat|Kab. Kapuas Hulu|Kapuas Hulu|183|1|178|4|245000|29842|8|23|282|
@@ -523,6 +537,13 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 30062020|30|06|2020|163|12|Kalimantan Barat|Kab. Kapuas Hulu|Kapuas Hulu|2||1|1|245000|29842|8|23|282|
 29062020|29|06|2020|163|12|Kalimantan Barat|Kab. Kapuas Hulu|Kapuas Hulu|2||1|1|245000|29842|8|23|282|
 28062020|28|06|2020|163|12|Kalimantan Barat|Kab. Kapuas Hulu|Kapuas Hulu|2||1|1|245000|29842|8|23|282|
+23032021|23|03|2021|164|12|Kalimantan Barat|Kab. Kayong Utara|Kayong Utara|123||48|75|126000|4568.3|28|6|43|112
+22032021|22|03|2021|164|12|Kalimantan Barat|Kab. Kayong Utara|Kayong Utara|123||48|75|126000|4568.3|28|6|43|112
+21032021|21|03|2021|164|12|Kalimantan Barat|Kab. Kayong Utara|Kayong Utara|123||48|75|126000|4568.3|28|6|43|112
+20032021|20|03|2021|164|12|Kalimantan Barat|Kab. Kayong Utara|Kayong Utara|123||47|76|126000|4568.3|28|6|43|112
+19032021|19|03|2021|164|12|Kalimantan Barat|Kab. Kayong Utara|Kayong Utara|123||46|77|126000|4568.3|28|6|43|112
+18032021|18|03|2021|164|12|Kalimantan Barat|Kab. Kayong Utara|Kayong Utara|119||45|74|126000|4568.3|28|6|43|112
+17032021|17|03|2021|164|12|Kalimantan Barat|Kab. Kayong Utara|Kayong Utara|119||45|74|126000|4568.3|28|6|43|112
 16032021|16|03|2021|164|12|Kalimantan Barat|Kab. Kayong Utara|Kayong Utara|118||45|73|126000|4568.3|28|6|43|112
 15032021|15|03|2021|164|12|Kalimantan Barat|Kab. Kayong Utara|Kayong Utara|111||45|66|126000|4568.3|28|6|43|112
 14032021|14|03|2021|164|12|Kalimantan Barat|Kab. Kayong Utara|Kayong Utara|111||45|66|126000|4568.3|28|6|43|112
@@ -785,6 +806,13 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 30062020|30|06|2020|164|12|Kalimantan Barat|Kab. Kayong Utara|Kayong Utara|3||2|1|126000|4568.3|28|6|43|112
 29062020|29|06|2020|164|12|Kalimantan Barat|Kab. Kayong Utara|Kayong Utara|3||2|1|126000|4568.3|28|6|43|112
 28062020|28|06|2020|164|12|Kalimantan Barat|Kab. Kayong Utara|Kayong Utara|3||1|2|126000|4568.3|28|6|43|112
+23032021|23|03|2021|165|12|Kalimantan Barat|Kab. Ketapang|Ketapang|304||300|4|597000|31240.7|19|20|262|44
+22032021|22|03|2021|165|12|Kalimantan Barat|Kab. Ketapang|Ketapang|304||298|6|597000|31240.7|19|20|262|44
+21032021|21|03|2021|165|12|Kalimantan Barat|Kab. Ketapang|Ketapang|304||295|9|597000|31240.7|19|20|262|44
+20032021|20|03|2021|165|12|Kalimantan Barat|Kab. Ketapang|Ketapang|304||289|15|597000|31240.7|19|20|262|44
+19032021|19|03|2021|165|12|Kalimantan Barat|Kab. Ketapang|Ketapang|301||282|19|597000|31240.7|19|20|262|44
+18032021|18|03|2021|165|12|Kalimantan Barat|Kab. Ketapang|Ketapang|297||279|18|597000|31240.7|19|20|262|44
+17032021|17|03|2021|165|12|Kalimantan Barat|Kab. Ketapang|Ketapang|297||279|18|597000|31240.7|19|20|262|44
 16032021|16|03|2021|165|12|Kalimantan Barat|Kab. Ketapang|Ketapang|296||277|19|597000|31240.7|19|20|262|44
 15032021|15|03|2021|165|12|Kalimantan Barat|Kab. Ketapang|Ketapang|275||275||597000|31240.7|19|20|262|44
 14032021|14|03|2021|165|12|Kalimantan Barat|Kab. Ketapang|Ketapang|275||275||597000|31240.7|19|20|262|44
@@ -1047,6 +1075,13 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 30062020|30|06|2020|165|12|Kalimantan Barat|Kab. Ketapang|Ketapang|39||31|8|597000|31240.7|19|20|262|44
 29062020|29|06|2020|165|12|Kalimantan Barat|Kab. Ketapang|Ketapang|39||31|8|597000|31240.7|19|20|262|44
 28062020|28|06|2020|165|12|Kalimantan Barat|Kab. Ketapang|Ketapang|39||30|8|597000|31240.7|19|20|262|44
+23032021|23|03|2021|166|12|Kalimantan Barat|Kab. Kubu Raya|Kubu Raya|637||637||621000|6958.2|89|9|117|39
+22032021|22|03|2021|166|12|Kalimantan Barat|Kab. Kubu Raya|Kubu Raya|637||637||621000|6958.2|89|9|117|39
+21032021|21|03|2021|166|12|Kalimantan Barat|Kab. Kubu Raya|Kubu Raya|637||635|2|621000|6958.2|89|9|117|39
+20032021|20|03|2021|166|12|Kalimantan Barat|Kab. Kubu Raya|Kubu Raya|635||633|2|621000|6958.2|89|9|117|39
+19032021|19|03|2021|166|12|Kalimantan Barat|Kab. Kubu Raya|Kubu Raya|632||629|3|621000|6958.2|89|9|117|39
+18032021|18|03|2021|166|12|Kalimantan Barat|Kab. Kubu Raya|Kubu Raya|626||625|1|621000|6958.2|89|9|117|39
+17032021|17|03|2021|166|12|Kalimantan Barat|Kab. Kubu Raya|Kubu Raya|626||625|1|621000|6958.2|89|9|117|39
 16032021|16|03|2021|166|12|Kalimantan Barat|Kab. Kubu Raya|Kubu Raya|624||623|1|621000|6958.2|89|9|117|39
 15032021|15|03|2021|166|12|Kalimantan Barat|Kab. Kubu Raya|Kubu Raya|623||618|5|621000|6958.2|89|9|117|39
 14032021|14|03|2021|166|12|Kalimantan Barat|Kab. Kubu Raya|Kubu Raya|623||618|5|621000|6958.2|89|9|117|39
@@ -1309,6 +1344,13 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 30062020|30|06|2020|166|12|Kalimantan Barat|Kab. Kubu Raya|Kubu Raya|34||26|8|621000|6958.2|89|9|117|39
 29062020|29|06|2020|166|12|Kalimantan Barat|Kab. Kubu Raya|Kubu Raya|34||26|8|621000|6958.2|89|9|117|39
 28062020|28|06|2020|166|12|Kalimantan Barat|Kab. Kubu Raya|Kubu Raya|34||25|8|621000|6958.2|89|9|117|39
+23032021|23|03|2021|167|12|Kalimantan Barat|Kab. Landak|Landak|537||336|201|409000|8915.1|46|13|156|
+22032021|22|03|2021|167|12|Kalimantan Barat|Kab. Landak|Landak|537||335|202|409000|8915.1|46|13|156|
+21032021|21|03|2021|167|12|Kalimantan Barat|Kab. Landak|Landak|537||332|205|409000|8915.1|46|13|156|
+20032021|20|03|2021|167|12|Kalimantan Barat|Kab. Landak|Landak|536||325|211|409000|8915.1|46|13|156|
+19032021|19|03|2021|167|12|Kalimantan Barat|Kab. Landak|Landak|521||317|204|409000|8915.1|46|13|156|
+18032021|18|03|2021|167|12|Kalimantan Barat|Kab. Landak|Landak|507||313|194|409000|8915.1|46|13|156|
+17032021|17|03|2021|167|12|Kalimantan Barat|Kab. Landak|Landak|507||313|194|409000|8915.1|46|13|156|
 16032021|16|03|2021|167|12|Kalimantan Barat|Kab. Landak|Landak|480||311|169|409000|8915.1|46|13|156|
 15032021|15|03|2021|167|12|Kalimantan Barat|Kab. Landak|Landak|469||309|160|409000|8915.1|46|13|156|
 14032021|14|03|2021|167|12|Kalimantan Barat|Kab. Landak|Landak|469||309|160|409000|8915.1|46|13|156|
@@ -1571,6 +1613,13 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 30062020|30|06|2020|167|12|Kalimantan Barat|Kab. Landak|Landak|18||15|3|409000|8915.1|46|13|156|
 29062020|29|06|2020|167|12|Kalimantan Barat|Kab. Landak|Landak|18||15|3|409000|8915.1|46|13|156|
 28062020|28|06|2020|167|12|Kalimantan Barat|Kab. Landak|Landak|18||15|3|409000|8915.1|46|13|156|
+23032021|23|03|2021|168|12|Kalimantan Barat|Kab. Melawi|Melawi|145|2|143||236000|10640.8|22|11|169|
+22032021|22|03|2021|168|12|Kalimantan Barat|Kab. Melawi|Melawi|145|2|143||236000|10640.8|22|11|169|
+21032021|21|03|2021|168|12|Kalimantan Barat|Kab. Melawi|Melawi|145|2|143||236000|10640.8|22|11|169|
+20032021|20|03|2021|168|12|Kalimantan Barat|Kab. Melawi|Melawi|144|2|141|1|236000|10640.8|22|11|169|
+19032021|19|03|2021|168|12|Kalimantan Barat|Kab. Melawi|Melawi|142|2|140||236000|10640.8|22|11|169|
+18032021|18|03|2021|168|12|Kalimantan Barat|Kab. Melawi|Melawi|141|2|139||236000|10640.8|22|11|169|
+17032021|17|03|2021|168|12|Kalimantan Barat|Kab. Melawi|Melawi|141|2|139||236000|10640.8|22|11|169|
 16032021|16|03|2021|168|12|Kalimantan Barat|Kab. Melawi|Melawi|141|2|139||236000|10640.8|22|11|169|
 15032021|15|03|2021|168|12|Kalimantan Barat|Kab. Melawi|Melawi|141|2|139||236000|10640.8|22|11|169|
 14032021|14|03|2021|168|12|Kalimantan Barat|Kab. Melawi|Melawi|141|2|139||236000|10640.8|22|11|169|
@@ -1833,6 +1882,13 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 30062020|30|06|2020|168|12|Kalimantan Barat|Kab. Melawi|Melawi|21||18|3|236000|10640.8|22|11|169|
 29062020|29|06|2020|168|12|Kalimantan Barat|Kab. Melawi|Melawi|21||18|3|236000|10640.8|22|11|169|
 28062020|28|06|2020|168|12|Kalimantan Barat|Kab. Melawi|Melawi|21||18|3|236000|10640.8|22|11|169|
+23032021|23|03|2021|169|12|Kalimantan Barat|Kab. Mempawah|Mempawah|392|1|212|179|311000|2797.9|111|9|67|9
+22032021|22|03|2021|169|12|Kalimantan Barat|Kab. Mempawah|Mempawah|392|1|211|180|311000|2797.9|111|9|67|9
+21032021|21|03|2021|169|12|Kalimantan Barat|Kab. Mempawah|Mempawah|392|1|209|182|311000|2797.9|111|9|67|9
+20032021|20|03|2021|169|12|Kalimantan Barat|Kab. Mempawah|Mempawah|371|1|205|165|311000|2797.9|111|9|67|9
+19032021|19|03|2021|169|12|Kalimantan Barat|Kab. Mempawah|Mempawah|371|1|200|170|311000|2797.9|111|9|67|9
+18032021|18|03|2021|169|12|Kalimantan Barat|Kab. Mempawah|Mempawah|357|1|198|158|311000|2797.9|111|9|67|9
+17032021|17|03|2021|169|12|Kalimantan Barat|Kab. Mempawah|Mempawah|357|1|198|158|311000|2797.9|111|9|67|9
 16032021|16|03|2021|169|12|Kalimantan Barat|Kab. Mempawah|Mempawah|328|1|197|130|311000|2797.9|111|9|67|9
 15032021|15|03|2021|169|12|Kalimantan Barat|Kab. Mempawah|Mempawah|315|1|196|118|311000|2797.9|111|9|67|9
 14032021|14|03|2021|169|12|Kalimantan Barat|Kab. Mempawah|Mempawah|315|1|196|118|311000|2797.9|111|9|67|9
@@ -2095,6 +2151,13 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 30062020|30|06|2020|169|12|Kalimantan Barat|Kab. Mempawah|Mempawah|5||4|1|311000|2797.9|111|9|67|9
 29062020|29|06|2020|169|12|Kalimantan Barat|Kab. Mempawah|Mempawah|5||4|1|311000|2797.9|111|9|67|9
 28062020|28|06|2020|169|12|Kalimantan Barat|Kab. Mempawah|Mempawah|5||4|1|311000|2797.9|111|9|67|9
+23032021|23|03|2021|170|12|Kalimantan Barat|Kota Pontianak|Kota Pontianak|1409|23|1386||677000|107.8|6278|6|29|1
+22032021|22|03|2021|170|12|Kalimantan Barat|Kota Pontianak|Kota Pontianak|1409|23|1386||677000|107.8|6278|6|29|1
+21032021|21|03|2021|170|12|Kalimantan Barat|Kota Pontianak|Kota Pontianak|1409|23|1383|3|677000|107.8|6278|6|29|1
+20032021|20|03|2021|170|12|Kalimantan Barat|Kota Pontianak|Kota Pontianak|1402|23|1375|4|677000|107.8|6278|6|29|1
+19032021|19|03|2021|170|12|Kalimantan Barat|Kota Pontianak|Kota Pontianak|1396|23|1365|8|677000|107.8|6278|6|29|1
+18032021|18|03|2021|170|12|Kalimantan Barat|Kota Pontianak|Kota Pontianak|1380|23|1355|2|677000|107.8|6278|6|29|1
+17032021|17|03|2021|170|12|Kalimantan Barat|Kota Pontianak|Kota Pontianak|1380|23|1355|2|677000|107.8|6278|6|29|1
 16032021|16|03|2021|170|12|Kalimantan Barat|Kota Pontianak|Kota Pontianak|1376|23|1344|9|677000|107.8|6278|6|29|1
 15032021|15|03|2021|170|12|Kalimantan Barat|Kota Pontianak|Kota Pontianak|1366|23|1334|9|677000|107.8|6278|6|29|1
 14032021|14|03|2021|170|12|Kalimantan Barat|Kota Pontianak|Kota Pontianak|1366|23|1334|9|677000|107.8|6278|6|29|1
@@ -2357,6 +2420,13 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 30062020|30|06|2020|170|12|Kalimantan Barat|Kota Pontianak|Kota Pontianak|117|4|108|5|677000|107.8|6278|6|29|1
 29062020|29|06|2020|170|12|Kalimantan Barat|Kota Pontianak|Kota Pontianak|117|4|103|25|677000|107.8|6278|6|29|1
 28062020|28|06|2020|170|12|Kalimantan Barat|Kota Pontianak|Kota Pontianak|117|4|103|25|677000|107.8|6278|6|29|1
+23032021|23|03|2021|171|12|Kalimantan Barat|Kab. Sambas|Sambas|232|2|224|6|652000|6716.5|97|19|193|6
+22032021|22|03|2021|171|12|Kalimantan Barat|Kab. Sambas|Sambas|232|2|221|9|652000|6716.5|97|19|193|6
+21032021|21|03|2021|171|12|Kalimantan Barat|Kab. Sambas|Sambas|232|2|219|11|652000|6716.5|97|19|193|6
+20032021|20|03|2021|171|12|Kalimantan Barat|Kab. Sambas|Sambas|232|2|215|15|652000|6716.5|97|19|193|6
+19032021|19|03|2021|171|12|Kalimantan Barat|Kab. Sambas|Sambas|232|2|210|20|652000|6716.5|97|19|193|6
+18032021|18|03|2021|171|12|Kalimantan Barat|Kab. Sambas|Sambas|230|2|207|21|652000|6716.5|97|19|193|6
+17032021|17|03|2021|171|12|Kalimantan Barat|Kab. Sambas|Sambas|230|2|205|23|652000|6716.5|97|19|193|6
 16032021|16|03|2021|171|12|Kalimantan Barat|Kab. Sambas|Sambas|229|2|204|23|652000|6716.5|97|19|193|6
 15032021|15|03|2021|171|12|Kalimantan Barat|Kab. Sambas|Sambas|228|2|202|24|652000|6716.5|97|19|193|6
 14032021|14|03|2021|171|12|Kalimantan Barat|Kab. Sambas|Sambas|228|2|202|24|652000|6716.5|97|19|193|6
@@ -2619,6 +2689,13 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 30062020|30|06|2020|171|12|Kalimantan Barat|Kab. Sambas|Sambas|12||10|2|652000|6716.5|97|19|193|6
 29062020|29|06|2020|171|12|Kalimantan Barat|Kab. Sambas|Sambas|12||10|2|652000|6716.5|97|19|193|6
 28062020|28|06|2020|171|12|Kalimantan Barat|Kab. Sambas|Sambas|12||10|2|652000|6716.5|97|19|193|6
+23032021|23|03|2021|172|12|Kalimantan Barat|Kab. Sanggau|Sanggau|206||145|61|498000|12857.8|39|15|169|6
+22032021|22|03|2021|172|12|Kalimantan Barat|Kab. Sanggau|Sanggau|206||144|62|498000|12857.8|39|15|169|6
+21032021|21|03|2021|172|12|Kalimantan Barat|Kab. Sanggau|Sanggau|206||143|63|498000|12857.8|39|15|169|6
+20032021|20|03|2021|172|12|Kalimantan Barat|Kab. Sanggau|Sanggau|201||140|61|498000|12857.8|39|15|169|6
+19032021|19|03|2021|172|12|Kalimantan Barat|Kab. Sanggau|Sanggau|197||136|61|498000|12857.8|39|15|169|6
+18032021|18|03|2021|172|12|Kalimantan Barat|Kab. Sanggau|Sanggau|194||134|60|498000|12857.8|39|15|169|6
+17032021|17|03|2021|172|12|Kalimantan Barat|Kab. Sanggau|Sanggau|194||134|60|498000|12857.8|39|15|169|6
 16032021|16|03|2021|172|12|Kalimantan Barat|Kab. Sanggau|Sanggau|193||133|60|498000|12857.8|39|15|169|6
 15032021|15|03|2021|172|12|Kalimantan Barat|Kab. Sanggau|Sanggau|193||132|61|498000|12857.8|39|15|169|6
 14032021|14|03|2021|172|12|Kalimantan Barat|Kab. Sanggau|Sanggau|193||132|61|498000|12857.8|39|15|169|6
@@ -2881,6 +2958,13 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 30062020|30|06|2020|172|12|Kalimantan Barat|Kab. Sanggau|Sanggau|9||7|2|498000|12857.8|39|15|169|6
 29062020|29|06|2020|172|12|Kalimantan Barat|Kab. Sanggau|Sanggau|9||7|2|498000|12857.8|39|15|169|6
 28062020|28|06|2020|172|12|Kalimantan Barat|Kab. Sanggau|Sanggau|9||7|2|498000|12857.8|39|15|169|6
+23032021|23|03|2021|173|12|Kalimantan Barat|Kab. Sekadau|Sekadau|73||31|42|216000|5444.2|40|7|87|
+22032021|22|03|2021|173|12|Kalimantan Barat|Kab. Sekadau|Sekadau|73||31|42|216000|5444.2|40|7|87|
+21032021|21|03|2021|173|12|Kalimantan Barat|Kab. Sekadau|Sekadau|73||31|42|216000|5444.2|40|7|87|
+20032021|20|03|2021|173|12|Kalimantan Barat|Kab. Sekadau|Sekadau|73||30|43|216000|5444.2|40|7|87|
+19032021|19|03|2021|173|12|Kalimantan Barat|Kab. Sekadau|Sekadau|73||29|44|216000|5444.2|40|7|87|
+18032021|18|03|2021|173|12|Kalimantan Barat|Kab. Sekadau|Sekadau|72||29|43|216000|5444.2|40|7|87|
+17032021|17|03|2021|173|12|Kalimantan Barat|Kab. Sekadau|Sekadau|72||29|43|216000|5444.2|40|7|87|
 16032021|16|03|2021|173|12|Kalimantan Barat|Kab. Sekadau|Sekadau|72||29|43|216000|5444.2|40|7|87|
 15032021|15|03|2021|173|12|Kalimantan Barat|Kab. Sekadau|Sekadau|72||29|43|216000|5444.2|40|7|87|
 14032021|14|03|2021|173|12|Kalimantan Barat|Kab. Sekadau|Sekadau|72||29|43|216000|5444.2|40|7|87|
@@ -3143,6 +3227,13 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 30062020|30|06|2020|173|12|Kalimantan Barat|Kab. Sekadau|Sekadau|7||5|2|216000|5444.2|40|7|87|
 29062020|29|06|2020|173|12|Kalimantan Barat|Kab. Sekadau|Sekadau|7||5|2|216000|5444.2|40|7|87|
 28062020|28|06|2020|173|12|Kalimantan Barat|Kab. Sekadau|Sekadau|7||5|2|216000|5444.2|40|7|87|
+23032021|23|03|2021|174|12|Kalimantan Barat|Kota Singkawang|Kota Singkawang|291||291||241000|504|477|5|26|1
+22032021|22|03|2021|174|12|Kalimantan Barat|Kota Singkawang|Kota Singkawang|291||291||241000|504|477|5|26|1
+21032021|21|03|2021|174|12|Kalimantan Barat|Kota Singkawang|Kota Singkawang|291||289|2|241000|504|477|5|26|1
+20032021|20|03|2021|174|12|Kalimantan Barat|Kota Singkawang|Kota Singkawang|291||288|3|241000|504|477|5|26|1
+19032021|19|03|2021|174|12|Kalimantan Barat|Kota Singkawang|Kota Singkawang|291||281|10|241000|504|477|5|26|1
+18032021|18|03|2021|174|12|Kalimantan Barat|Kota Singkawang|Kota Singkawang|290||278|12|241000|504|477|5|26|1
+17032021|17|03|2021|174|12|Kalimantan Barat|Kota Singkawang|Kota Singkawang|290||278|12|241000|504|477|5|26|1
 16032021|16|03|2021|174|12|Kalimantan Barat|Kota Singkawang|Kota Singkawang|289||276|13|241000|504|477|5|26|1
 15032021|15|03|2021|174|12|Kalimantan Barat|Kota Singkawang|Kota Singkawang|288||274|14|241000|504|477|5|26|1
 14032021|14|03|2021|174|12|Kalimantan Barat|Kota Singkawang|Kota Singkawang|288||274|14|241000|504|477|5|26|1
@@ -3405,6 +3496,13 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 30062020|30|06|2020|174|12|Kalimantan Barat|Kota Singkawang|Kota Singkawang|12||8|4|241000|504|477|5|26|1
 29062020|29|06|2020|174|12|Kalimantan Barat|Kota Singkawang|Kota Singkawang|12||8|4|241000|504|477|5|26|1
 28062020|28|06|2020|174|12|Kalimantan Barat|Kota Singkawang|Kota Singkawang|12||8|4|241000|504|477|5|26|1
+23032021|23|03|2021|175|12|Kalimantan Barat|Kab. Sintang|Sintang|695|1|665|29|416000|21638.2|19|14|406|
+22032021|22|03|2021|175|12|Kalimantan Barat|Kab. Sintang|Sintang|695|1|660|34|416000|21638.2|19|14|406|
+21032021|21|03|2021|175|12|Kalimantan Barat|Kab. Sintang|Sintang|695|1|654|40|416000|21638.2|19|14|406|
+20032021|20|03|2021|175|12|Kalimantan Barat|Kab. Sintang|Sintang|695|1|641|53|416000|21638.2|19|14|406|
+19032021|19|03|2021|175|12|Kalimantan Barat|Kab. Sintang|Sintang|691|1|625|65|416000|21638.2|19|14|406|
+18032021|18|03|2021|175|12|Kalimantan Barat|Kab. Sintang|Sintang|679|1|617|61|416000|21638.2|19|14|406|
+17032021|17|03|2021|175|12|Kalimantan Barat|Kab. Sintang|Sintang|679|1|615|63|416000|21638.2|19|14|406|
 16032021|16|03|2021|175|12|Kalimantan Barat|Kab. Sintang|Sintang|671|1|611|59|416000|21638.2|19|14|406|
 15032021|15|03|2021|175|12|Kalimantan Barat|Kab. Sintang|Sintang|659|1|606|52|416000|21638.2|19|14|406|
 14032021|14|03|2021|175|12|Kalimantan Barat|Kab. Sintang|Sintang|659|1|606|52|416000|21638.2|19|14|406|

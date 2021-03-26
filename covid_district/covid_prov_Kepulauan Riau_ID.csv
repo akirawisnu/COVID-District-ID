@@ -1,4 +1,11 @@
 date|day|month|year|id_district|id_province|province_name|district_name|city_name|confirmed_case|death_case|recovered_case|active_case|population|area_km2|pop_density|num_kecamatan|num_village|num_islands
+23032021|23|03|2021|217|18|Kepulauan Riau|Kota Batam|Kota Batam|6227|161|6006|60|1100000|960.3|1142|12|64|354
+22032021|22|03|2021|217|18|Kepulauan Riau|Kota Batam|Kota Batam|6216|161|6002|53|1100000|960.3|1142|12|64|354
+21032021|21|03|2021|217|18|Kepulauan Riau|Kota Batam|Kota Batam|6192|160|5984|48|1100000|960.3|1142|12|64|354
+20032021|20|03|2021|217|18|Kepulauan Riau|Kota Batam|Kota Batam|6188|160|5972|56|1100000|960.3|1142|12|64|354
+19032021|19|03|2021|217|18|Kepulauan Riau|Kota Batam|Kota Batam|6180|160|5970|50|1100000|960.3|1142|12|64|354
+18032021|18|03|2021|217|18|Kepulauan Riau|Kota Batam|Kota Batam|6166|160|5966|40|1100000|960.3|1142|12|64|354
+17032021|17|03|2021|217|18|Kepulauan Riau|Kota Batam|Kota Batam|6160|159|5953|48|1100000|960.3|1142|12|64|354
 16032021|16|03|2021|217|18|Kepulauan Riau|Kota Batam|Kota Batam|6134|158|5950|26|1100000|960.3|1142|12|64|354
 15032021|15|03|2021|217|18|Kepulauan Riau|Kota Batam|Kota Batam|6132|158|5934|40|1100000|960.3|1142|12|64|354
 14032021|14|03|2021|217|18|Kepulauan Riau|Kota Batam|Kota Batam|6129|157|5933|39|1100000|960.3|1142|12|64|354
@@ -349,6 +356,13 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|217|18|Kepulauan Riau|Kota Batam|Kota Batam|4|3|1||1100000|960.3|1142|12|64|354
 02042020|02|04|2020|217|18|Kepulauan Riau|Kota Batam|Kota Batam|3|2|1||1100000|960.3|1142|12|64|354
 01042020|01|04|2020|217|18|Kepulauan Riau|Kota Batam|Kota Batam|3|2|1||1100000|960.3|1142|12|64|354
+23032021|23|03|2021|218|18|Kepulauan Riau|Kab. Bintan|Bintan|658|14|584|60|153000|1318.2|116|10|51|237
+22032021|22|03|2021|218|18|Kepulauan Riau|Kab. Bintan|Bintan|657|14|584|59|153000|1318.2|116|10|51|237
+21032021|21|03|2021|218|18|Kepulauan Riau|Kab. Bintan|Bintan|655|14|582|59|153000|1318.2|116|10|51|237
+20032021|20|03|2021|218|18|Kepulauan Riau|Kab. Bintan|Bintan|655|14|581|60|153000|1318.2|116|10|51|237
+19032021|19|03|2021|218|18|Kepulauan Riau|Kab. Bintan|Bintan|654|14|581|59|153000|1318.2|116|10|51|237
+18032021|18|03|2021|218|18|Kepulauan Riau|Kab. Bintan|Bintan|653|14|581|58|153000|1318.2|116|10|51|237
+17032021|17|03|2021|218|18|Kepulauan Riau|Kab. Bintan|Bintan|652|14|580|58|153000|1318.2|116|10|51|237
 16032021|16|03|2021|218|18|Kepulauan Riau|Kab. Bintan|Bintan|649|14|580|55|153000|1318.2|116|10|51|237
 15032021|15|03|2021|218|18|Kepulauan Riau|Kab. Bintan|Bintan|649|14|579|56|153000|1318.2|116|10|51|237
 14032021|14|03|2021|218|18|Kepulauan Riau|Kab. Bintan|Bintan|649|14|579|56|153000|1318.2|116|10|51|237
@@ -699,6 +713,13 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|218|18|Kepulauan Riau|Kab. Bintan|Bintan|||||153000|1318.2|116|10|51|237
 02042020|02|04|2020|218|18|Kepulauan Riau|Kab. Bintan|Bintan|||||153000|1318.2|116|10|51|237
 01042020|01|04|2020|218|18|Kepulauan Riau|Kab. Bintan|Bintan|||||153000|1318.2|116|10|51|237
+23032021|23|03|2021|219|18|Kepulauan Riau|Kab. Karimun|Karimun|442|18|412|12|249000|912.8|272|12|71|246
+22032021|22|03|2021|219|18|Kepulauan Riau|Kab. Karimun|Karimun|441|18|412|11|249000|912.8|272|12|71|246
+21032021|21|03|2021|219|18|Kepulauan Riau|Kab. Karimun|Karimun|439|18|411|10|249000|912.8|272|12|71|246
+20032021|20|03|2021|219|18|Kepulauan Riau|Kab. Karimun|Karimun|439|18|410|11|249000|912.8|272|12|71|246
+19032021|19|03|2021|219|18|Kepulauan Riau|Kab. Karimun|Karimun|438|18|410|10|249000|912.8|272|12|71|246
+18032021|18|03|2021|219|18|Kepulauan Riau|Kab. Karimun|Karimun|437|18|410|9|249000|912.8|272|12|71|246
+17032021|17|03|2021|219|18|Kepulauan Riau|Kab. Karimun|Karimun|437|18|409|10|249000|912.8|272|12|71|246
 16032021|16|03|2021|219|18|Kepulauan Riau|Kab. Karimun|Karimun|435|18|409|8|249000|912.8|272|12|71|246
 15032021|15|03|2021|219|18|Kepulauan Riau|Kab. Karimun|Karimun|435|18|408|9|249000|912.8|272|12|71|246
 14032021|14|03|2021|219|18|Kepulauan Riau|Kab. Karimun|Karimun|435|18|408|9|249000|912.8|272|12|71|246
@@ -1049,6 +1070,13 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|219|18|Kepulauan Riau|Kab. Karimun|Karimun|1||1||249000|912.8|272|12|71|246
 02042020|02|04|2020|219|18|Kepulauan Riau|Kab. Karimun|Karimun|1||1||249000|912.8|272|12|71|246
 01042020|01|04|2020|219|18|Kepulauan Riau|Kab. Karimun|Karimun|1||1||249000|912.8|272|12|71|246
+23032021|23|03|2021|220|18|Kepulauan Riau|Kab. Kepulauan Anambas|Kepulauan Anambas|103|1|99|3|45000|590.1|76|7|54|231
+22032021|22|03|2021|220|18|Kepulauan Riau|Kab. Kepulauan Anambas|Kepulauan Anambas|103|1|99|3|45000|590.1|76|7|54|231
+21032021|21|03|2021|220|18|Kepulauan Riau|Kab. Kepulauan Anambas|Kepulauan Anambas|103|1|99|3|45000|590.1|76|7|54|231
+20032021|20|03|2021|220|18|Kepulauan Riau|Kab. Kepulauan Anambas|Kepulauan Anambas|103|1|99|3|45000|590.1|76|7|54|231
+19032021|19|03|2021|220|18|Kepulauan Riau|Kab. Kepulauan Anambas|Kepulauan Anambas|103|1|99|3|45000|590.1|76|7|54|231
+18032021|18|03|2021|220|18|Kepulauan Riau|Kab. Kepulauan Anambas|Kepulauan Anambas|103|1|99|3|45000|590.1|76|7|54|231
+17032021|17|03|2021|220|18|Kepulauan Riau|Kab. Kepulauan Anambas|Kepulauan Anambas|103|1|99|3|45000|590.1|76|7|54|231
 16032021|16|03|2021|220|18|Kepulauan Riau|Kab. Kepulauan Anambas|Kepulauan Anambas|103|1|99|3|45000|590.1|76|7|54|231
 15032021|15|03|2021|220|18|Kepulauan Riau|Kab. Kepulauan Anambas|Kepulauan Anambas|103|1|99|3|45000|590.1|76|7|54|231
 14032021|14|03|2021|220|18|Kepulauan Riau|Kab. Kepulauan Anambas|Kepulauan Anambas|103|1|99|3|45000|590.1|76|7|54|231
@@ -1362,6 +1390,13 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|220|18|Kepulauan Riau|Kab. Kepulauan Anambas|Kepulauan Anambas|||||45000|590.1|76|7|54|231
 02042020|02|04|2020|220|18|Kepulauan Riau|Kab. Kepulauan Anambas|Kepulauan Anambas|||||45000|590.1|76|7|54|231
 01042020|01|04|2020|220|18|Kepulauan Riau|Kab. Kepulauan Anambas|Kepulauan Anambas|||||45000|590.1|76|7|54|231
+23032021|23|03|2021|221|18|Kepulauan Riau|Kab. Lingga|Lingga|53|3|42|8|98000|2266.8|43|10|82|509
+22032021|22|03|2021|221|18|Kepulauan Riau|Kab. Lingga|Lingga|53|3|42|8|98000|2266.8|43|10|82|509
+21032021|21|03|2021|221|18|Kepulauan Riau|Kab. Lingga|Lingga|53|3|42|8|98000|2266.8|43|10|82|509
+20032021|20|03|2021|221|18|Kepulauan Riau|Kab. Lingga|Lingga|53|3|42|8|98000|2266.8|43|10|82|509
+19032021|19|03|2021|221|18|Kepulauan Riau|Kab. Lingga|Lingga|53|3|42|8|98000|2266.8|43|10|82|509
+18032021|18|03|2021|221|18|Kepulauan Riau|Kab. Lingga|Lingga|53|3|42|8|98000|2266.8|43|10|82|509
+17032021|17|03|2021|221|18|Kepulauan Riau|Kab. Lingga|Lingga|53|3|42|8|98000|2266.8|43|10|82|509
 16032021|16|03|2021|221|18|Kepulauan Riau|Kab. Lingga|Lingga|53|3|42|8|98000|2266.8|43|10|82|509
 15032021|15|03|2021|221|18|Kepulauan Riau|Kab. Lingga|Lingga|53|3|42|8|98000|2266.8|43|10|82|509
 14032021|14|03|2021|221|18|Kepulauan Riau|Kab. Lingga|Lingga|53|3|42|8|98000|2266.8|43|10|82|509
@@ -1712,6 +1747,13 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|221|18|Kepulauan Riau|Kab. Lingga|Lingga|||||98000|2266.8|43|10|82|509
 02042020|02|04|2020|221|18|Kepulauan Riau|Kab. Lingga|Lingga|||||98000|2266.8|43|10|82|509
 01042020|01|04|2020|221|18|Kepulauan Riau|Kab. Lingga|Lingga|||||98000|2266.8|43|10|82|509
+23032021|23|03|2021|222|18|Kepulauan Riau|Kab. Natuna|Natuna|90|1|89||77000|2009|39|15|76|149
+22032021|22|03|2021|222|18|Kepulauan Riau|Kab. Natuna|Natuna|90|1|89||77000|2009|39|15|76|149
+21032021|21|03|2021|222|18|Kepulauan Riau|Kab. Natuna|Natuna|90|1|89||77000|2009|39|15|76|149
+20032021|20|03|2021|222|18|Kepulauan Riau|Kab. Natuna|Natuna|90|1|89||77000|2009|39|15|76|149
+19032021|19|03|2021|222|18|Kepulauan Riau|Kab. Natuna|Natuna|90|1|89||77000|2009|39|15|76|149
+18032021|18|03|2021|222|18|Kepulauan Riau|Kab. Natuna|Natuna|90|1|89||77000|2009|39|15|76|149
+17032021|17|03|2021|222|18|Kepulauan Riau|Kab. Natuna|Natuna|90|1|89||77000|2009|39|15|76|149
 16032021|16|03|2021|222|18|Kepulauan Riau|Kab. Natuna|Natuna|90|1|89||77000|2009|39|15|76|149
 15032021|15|03|2021|222|18|Kepulauan Riau|Kab. Natuna|Natuna|90|1|89||77000|2009|39|15|76|149
 14032021|14|03|2021|222|18|Kepulauan Riau|Kab. Natuna|Natuna|90|1|89||77000|2009|39|15|76|149
@@ -2043,6 +2085,13 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|222|18|Kepulauan Riau|Kab. Natuna|Natuna|||||77000|2009|39|15|76|149
 02042020|02|04|2020|222|18|Kepulauan Riau|Kab. Natuna|Natuna|||||77000|2009|39|15|76|149
 01042020|01|04|2020|222|18|Kepulauan Riau|Kab. Natuna|Natuna|||||77000|2009|39|15|76|149
+23032021|23|03|2021|223|18|Kepulauan Riau|Kota Tanjung Pinang|Kota Tanjung Pinang|1434|27|1358|49|215000|144.6|1485|4|18|7
+22032021|22|03|2021|223|18|Kepulauan Riau|Kota Tanjung Pinang|Kota Tanjung Pinang|1432|27|1357|48|215000|144.6|1485|4|18|7
+21032021|21|03|2021|223|18|Kepulauan Riau|Kota Tanjung Pinang|Kota Tanjung Pinang|1427|27|1353|47|215000|144.6|1485|4|18|7
+20032021|20|03|2021|223|18|Kepulauan Riau|Kota Tanjung Pinang|Kota Tanjung Pinang|1426|27|1350|49|215000|144.6|1485|4|18|7
+19032021|19|03|2021|223|18|Kepulauan Riau|Kota Tanjung Pinang|Kota Tanjung Pinang|1424|27|1350|47|215000|144.6|1485|4|18|7
+18032021|18|03|2021|223|18|Kepulauan Riau|Kota Tanjung Pinang|Kota Tanjung Pinang|1421|27|1349|45|215000|144.6|1485|4|18|7
+17032021|17|03|2021|223|18|Kepulauan Riau|Kota Tanjung Pinang|Kota Tanjung Pinang|1420|27|1346|47|215000|144.6|1485|4|18|7
 16032021|16|03|2021|223|18|Kepulauan Riau|Kota Tanjung Pinang|Kota Tanjung Pinang|1414|27|1345|42|215000|144.6|1485|4|18|7
 15032021|15|03|2021|223|18|Kepulauan Riau|Kota Tanjung Pinang|Kota Tanjung Pinang|1414|27|1342|45|215000|144.6|1485|4|18|7
 14032021|14|03|2021|223|18|Kepulauan Riau|Kota Tanjung Pinang|Kota Tanjung Pinang|1413|27|1342|44|215000|144.6|1485|4|18|7
