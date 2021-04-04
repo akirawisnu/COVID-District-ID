@@ -1,4 +1,13 @@
 date|day|month|year|id_district|id_province|province_name|district_name|city_name|confirmed_case|death_case|recovered_case|active_case|population|area_km2|pop_density|num_kecamatan|num_village|num_islands
+01042021|01|04|2021|35|5|DI Yogyakarta|Kab. Bantul|Bantul|9750|151|4726|4873|962000|508.1|1892|17|75|
+31032021|31|03|2021|35|5|DI Yogyakarta|Kab. Bantul|Bantul|9702|151|4726|4825|962000|508.1|1892|17|75|
+30032021|30|03|2021|35|5|DI Yogyakarta|Kab. Bantul|Bantul|9609|151|4726|4732|962000|508.1|1892|17|75|
+29032021|29|03|2021|35|5|DI Yogyakarta|Kab. Bantul|Bantul|9609|151|4726|4732|962000|508.1|1892|17|75|
+28032021|28|03|2021|35|5|DI Yogyakarta|Kab. Bantul|Bantul|9590|150|4726|4714|962000|508.1|1892|17|75|
+27032021|27|03|2021|35|5|DI Yogyakarta|Kab. Bantul|Bantul|9524|150|4726|4648|962000|508.1|1892|17|75|
+26032021|26|03|2021|35|5|DI Yogyakarta|Kab. Bantul|Bantul|9502|150|4726|4626|962000|508.1|1892|17|75|
+25032021|25|03|2021|35|5|DI Yogyakarta|Kab. Bantul|Bantul|9439|150|4726|4563|962000|508.1|1892|17|75|
+24032021|24|03|2021|35|5|DI Yogyakarta|Kab. Bantul|Bantul|9381|150|4726|4505|962000|508.1|1892|17|75|
 23032021|23|03|2021|35|5|DI Yogyakarta|Kab. Bantul|Bantul|9292|150|4726|4416|962000|508.1|1892|17|75|
 22032021|22|03|2021|35|5|DI Yogyakarta|Kab. Bantul|Bantul|9249|150|4726|4373|962000|508.1|1892|17|75|
 21032021|21|03|2021|35|5|DI Yogyakarta|Kab. Bantul|Bantul|9232|150|4726|4356|962000|508.1|1892|17|75|
@@ -280,6 +289,15 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 18062020|18|06|2020|35|5|DI Yogyakarta|Kab. Bantul|Bantul|67|2|53|12|962000|508.1|1892|17|75|
 17062020|17|06|2020|35|5|DI Yogyakarta|Kab. Bantul|Bantul|67|1|52|13|962000|508.1|1892|17|75|
 16062020|16|06|2020|35|5|DI Yogyakarta|Kab. Bantul|Bantul|66|1|52|13|962000|508.1|1892|17|75|
+01042021|01|04|2021|36|5|DI Yogyakarta|Kab. Gunung Kidul|Gunung Kidul|2285|57|1068|1160|780000|1431.4|545|18|144|30
+31032021|31|03|2021|36|5|DI Yogyakarta|Kab. Gunung Kidul|Gunung Kidul|2255|57|1068|1130|780000|1431.4|545|18|144|30
+30032021|30|03|2021|36|5|DI Yogyakarta|Kab. Gunung Kidul|Gunung Kidul|2251|57|1068|1126|780000|1431.4|545|18|144|30
+29032021|29|03|2021|36|5|DI Yogyakarta|Kab. Gunung Kidul|Gunung Kidul|2251|57|1068|1126|780000|1431.4|545|18|144|30
+28032021|28|03|2021|36|5|DI Yogyakarta|Kab. Gunung Kidul|Gunung Kidul|2227|57|1068|1102|780000|1431.4|545|18|144|30
+27032021|27|03|2021|36|5|DI Yogyakarta|Kab. Gunung Kidul|Gunung Kidul|2225|57|1068|1100|780000|1431.4|545|18|144|30
+26032021|26|03|2021|36|5|DI Yogyakarta|Kab. Gunung Kidul|Gunung Kidul|2218|57|1068|1093|780000|1431.4|545|18|144|30
+25032021|25|03|2021|36|5|DI Yogyakarta|Kab. Gunung Kidul|Gunung Kidul|2202|57|1068|1077|780000|1431.4|545|18|144|30
+24032021|24|03|2021|36|5|DI Yogyakarta|Kab. Gunung Kidul|Gunung Kidul|2181|57|1068|1056|780000|1431.4|545|18|144|30
 23032021|23|03|2021|36|5|DI Yogyakarta|Kab. Gunung Kidul|Gunung Kidul|2180|57|1068|1055|780000|1431.4|545|18|144|30
 22032021|22|03|2021|36|5|DI Yogyakarta|Kab. Gunung Kidul|Gunung Kidul|2174|57|1068|1049|780000|1431.4|545|18|144|30
 21032021|21|03|2021|36|5|DI Yogyakarta|Kab. Gunung Kidul|Gunung Kidul|2151|57|1068|1026|780000|1431.4|545|18|144|30
@@ -561,6 +579,15 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 18062020|18|06|2020|36|5|DI Yogyakarta|Kab. Gunung Kidul|Gunung Kidul|50|1|40|9|780000|1431.4|545|18|144|30
 17062020|17|06|2020|36|5|DI Yogyakarta|Kab. Gunung Kidul|Gunung Kidul|50|1|39|10|780000|1431.4|545|18|144|30
 16062020|16|06|2020|36|5|DI Yogyakarta|Kab. Gunung Kidul|Gunung Kidul|50|1|39|10|780000|1431.4|545|18|144|30
+01042021|01|04|2021|37|5|DI Yogyakarta|Kab. Kulon Progo|Kulon Progo|3770|27|1004|2739|460000|586.3|785|12|88|
+31032021|31|03|2021|37|5|DI Yogyakarta|Kab. Kulon Progo|Kulon Progo|3739|27|1004|2708|460000|586.3|785|12|88|
+30032021|30|03|2021|37|5|DI Yogyakarta|Kab. Kulon Progo|Kulon Progo|3591|27|1004|2560|460000|586.3|785|12|88|
+29032021|29|03|2021|37|5|DI Yogyakarta|Kab. Kulon Progo|Kulon Progo|3591|27|1004|2560|460000|586.3|785|12|88|
+28032021|28|03|2021|37|5|DI Yogyakarta|Kab. Kulon Progo|Kulon Progo|3562|27|1004|2531|460000|586.3|785|12|88|
+27032021|27|03|2021|37|5|DI Yogyakarta|Kab. Kulon Progo|Kulon Progo|3559|27|1004|2528|460000|586.3|785|12|88|
+26032021|26|03|2021|37|5|DI Yogyakarta|Kab. Kulon Progo|Kulon Progo|3536|27|1004|2505|460000|586.3|785|12|88|
+25032021|25|03|2021|37|5|DI Yogyakarta|Kab. Kulon Progo|Kulon Progo|3485|27|1004|2454|460000|586.3|785|12|88|
+24032021|24|03|2021|37|5|DI Yogyakarta|Kab. Kulon Progo|Kulon Progo|3447|27|1004|2416|460000|586.3|785|12|88|
 23032021|23|03|2021|37|5|DI Yogyakarta|Kab. Kulon Progo|Kulon Progo|3428|27|1004|2397|460000|586.3|785|12|88|
 22032021|22|03|2021|37|5|DI Yogyakarta|Kab. Kulon Progo|Kulon Progo|3370|27|1004|2339|460000|586.3|785|12|88|
 21032021|21|03|2021|37|5|DI Yogyakarta|Kab. Kulon Progo|Kulon Progo|3345|27|1004|2314|460000|586.3|785|12|88|
@@ -842,6 +869,15 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 18062020|18|06|2020|37|5|DI Yogyakarta|Kab. Kulon Progo|Kulon Progo|12||11|1|460000|586.3|785|12|88|
 17062020|17|06|2020|37|5|DI Yogyakarta|Kab. Kulon Progo|Kulon Progo|12||11||460000|586.3|785|12|88|
 16062020|16|06|2020|37|5|DI Yogyakarta|Kab. Kulon Progo|Kulon Progo|11||11||460000|586.3|785|12|88|
+01042021|01|04|2021|38|5|DI Yogyakarta|Kab. Sleman|Sleman|11989|156|6331|5502|1100000|574.8|1909|17|86|
+31032021|31|03|2021|38|5|DI Yogyakarta|Kab. Sleman|Sleman|11940|156|6331|5453|1100000|574.8|1909|17|86|
+30032021|30|03|2021|38|5|DI Yogyakarta|Kab. Sleman|Sleman|11705|156|6331|5218|1100000|574.8|1909|17|86|
+29032021|29|03|2021|38|5|DI Yogyakarta|Kab. Sleman|Sleman|11705|156|6331|5218|1100000|574.8|1909|17|86|
+28032021|28|03|2021|38|5|DI Yogyakarta|Kab. Sleman|Sleman|11681|156|6331|5194|1100000|574.8|1909|17|86|
+27032021|27|03|2021|38|5|DI Yogyakarta|Kab. Sleman|Sleman|11634|156|6330|5148|1100000|574.8|1909|17|86|
+26032021|26|03|2021|38|5|DI Yogyakarta|Kab. Sleman|Sleman|11562|156|6330|5076|1100000|574.8|1909|17|86|
+25032021|25|03|2021|38|5|DI Yogyakarta|Kab. Sleman|Sleman|11480|156|6330|4994|1100000|574.8|1909|17|86|
+24032021|24|03|2021|38|5|DI Yogyakarta|Kab. Sleman|Sleman|11380|156|6330|4894|1100000|574.8|1909|17|86|
 23032021|23|03|2021|38|5|DI Yogyakarta|Kab. Sleman|Sleman|11266|156|6330|4780|1100000|574.8|1909|17|86|
 22032021|22|03|2021|38|5|DI Yogyakarta|Kab. Sleman|Sleman|11208|156|6330|4722|1100000|574.8|1909|17|86|
 21032021|21|03|2021|38|5|DI Yogyakarta|Kab. Sleman|Sleman|11144|156|6330|4658|1100000|574.8|1909|17|86|
@@ -1123,6 +1159,15 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 18062020|18|06|2020|38|5|DI Yogyakarta|Kab. Sleman|Sleman|104|4|85|15|1100000|574.8|1909|17|86|
 17062020|17|06|2020|38|5|DI Yogyakarta|Kab. Sleman|Sleman|104|4|83|17|1100000|574.8|1909|17|86|
 16062020|16|06|2020|38|5|DI Yogyakarta|Kab. Sleman|Sleman|104|4|83|17|1100000|574.8|1909|17|86|
+01042021|01|04|2021|39|5|DI Yogyakarta|Kota Yogyakarta|Kota Yogyakarta|5903|148|2962|2793|424000|32.5|13032|14|45|
+31032021|31|03|2021|39|5|DI Yogyakarta|Kota Yogyakarta|Kota Yogyakarta|5885|148|2962|2775|424000|32.5|13032|14|45|
+30032021|30|03|2021|39|5|DI Yogyakarta|Kota Yogyakarta|Kota Yogyakarta|5810|148|2962|2700|424000|32.5|13032|14|45|
+29032021|29|03|2021|39|5|DI Yogyakarta|Kota Yogyakarta|Kota Yogyakarta|5810|148|2962|2700|424000|32.5|13032|14|45|
+28032021|28|03|2021|39|5|DI Yogyakarta|Kota Yogyakarta|Kota Yogyakarta|5800|148|2962|2690|424000|32.5|13032|14|45|
+27032021|27|03|2021|39|5|DI Yogyakarta|Kota Yogyakarta|Kota Yogyakarta|5790|148|2962|2680|424000|32.5|13032|14|45|
+26032021|26|03|2021|39|5|DI Yogyakarta|Kota Yogyakarta|Kota Yogyakarta|5774|148|2962|2664|424000|32.5|13032|14|45|
+25032021|25|03|2021|39|5|DI Yogyakarta|Kota Yogyakarta|Kota Yogyakarta|5754|148|2962|2644|424000|32.5|13032|14|45|
+24032021|24|03|2021|39|5|DI Yogyakarta|Kota Yogyakarta|Kota Yogyakarta|5713|148|2962|2603|424000|32.5|13032|14|45|
 23032021|23|03|2021|39|5|DI Yogyakarta|Kota Yogyakarta|Kota Yogyakarta|5682|148|2962|2572|424000|32.5|13032|14|45|
 22032021|22|03|2021|39|5|DI Yogyakarta|Kota Yogyakarta|Kota Yogyakarta|5642|148|2962|2532|424000|32.5|13032|14|45|
 21032021|21|03|2021|39|5|DI Yogyakarta|Kota Yogyakarta|Kota Yogyakarta|5628|148|2962|2518|424000|32.5|13032|14|45|
