@@ -1,4 +1,9 @@
 date|day|month|year|id_district|id_province|province_name|district_name|city_name|confirmed_case|death_case|recovered_case|active_case|population|area_km2|pop_density|num_kecamatan|num_village|num_islands
+06042021|06|04|2021|46|7|Gorontalo|Kab. Boalemo|Boalemo|351|16|323|12|148000|1521.9|97|7|82|24
+05042021|05|04|2021|46|7|Gorontalo|Kab. Boalemo|Boalemo|351|16|323|12|148000|1521.9|97|7|82|24
+04042021|04|04|2021|46|7|Gorontalo|Kab. Boalemo|Boalemo|351|16|323|12|148000|1521.9|97|7|82|24
+03042021|03|04|2021|46|7|Gorontalo|Kab. Boalemo|Boalemo|339|16|320|3|148000|1521.9|97|7|82|24
+02042021|02|04|2021|46|7|Gorontalo|Kab. Boalemo|Boalemo|339|16|320|3|148000|1521.9|97|7|82|24
 01042021|01|04|2021|46|7|Gorontalo|Kab. Boalemo|Boalemo|339|16|320|3|148000|1521.9|97|7|82|24
 31032021|31|03|2021|46|7|Gorontalo|Kab. Boalemo|Boalemo|339|16|320|3|148000|1521.9|97|7|82|24
 30032021|30|03|2021|46|7|Gorontalo|Kab. Boalemo|Boalemo|339|16|320|3|148000|1521.9|97|7|82|24
@@ -356,6 +361,11 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 12042020|12|04|2020|46|7|Gorontalo|Kab. Boalemo|Boalemo|||||148000|1521.9|97|7|82|24
 11042020|11|04|2020|46|7|Gorontalo|Kab. Boalemo|Boalemo|||||148000|1521.9|97|7|82|24
 10042020|10|04|2020|46|7|Gorontalo|Kab. Boalemo|Boalemo|||||148000|1521.9|97|7|82|24
+06042021|06|04|2021|47|7|Gorontalo|Kab. Bone Bolango|Bone Bolango|607|17|572|18|165000|1984.3|83|18|165|
+05042021|05|04|2021|47|7|Gorontalo|Kab. Bone Bolango|Bone Bolango|607|16|569|22|165000|1984.3|83|18|165|
+04042021|04|04|2021|47|7|Gorontalo|Kab. Bone Bolango|Bone Bolango|607|16|569|22|165000|1984.3|83|18|165|
+03042021|03|04|2021|47|7|Gorontalo|Kab. Bone Bolango|Bone Bolango|599|15|569|15|165000|1984.3|83|18|165|
+02042021|02|04|2021|47|7|Gorontalo|Kab. Bone Bolango|Bone Bolango|599|15|569|15|165000|1984.3|83|18|165|
 01042021|01|04|2021|47|7|Gorontalo|Kab. Bone Bolango|Bone Bolango|599|15|569|15|165000|1984.3|83|18|165|
 31032021|31|03|2021|47|7|Gorontalo|Kab. Bone Bolango|Bone Bolango|598|15|569|14|165000|1984.3|83|18|165|
 30032021|30|03|2021|47|7|Gorontalo|Kab. Bone Bolango|Bone Bolango|597|15|569|13|165000|1984.3|83|18|165|
@@ -713,6 +723,11 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 12042020|12|04|2020|47|7|Gorontalo|Kab. Bone Bolango|Bone Bolango|1||1||165000|1984.3|83|18|165|
 11042020|11|04|2020|47|7|Gorontalo|Kab. Bone Bolango|Bone Bolango|1||1||165000|1984.3|83|18|165|
 10042020|10|04|2020|47|7|Gorontalo|Kab. Bone Bolango|Bone Bolango|1||1||165000|1984.3|83|18|165|
+06042021|06|04|2021|48|7|Gorontalo|Kab. Gorontalo|Gorontalo|1376|50|1291|35|405000|1750.8|231|19|205|
+05042021|05|04|2021|48|7|Gorontalo|Kab. Gorontalo|Gorontalo|1371|50|1289|32|405000|1750.8|231|19|205|
+04042021|04|04|2021|48|7|Gorontalo|Kab. Gorontalo|Gorontalo|1371|50|1289|32|405000|1750.8|231|19|205|
+03042021|03|04|2021|48|7|Gorontalo|Kab. Gorontalo|Gorontalo|1365|50|1287|28|405000|1750.8|231|19|205|
+02042021|02|04|2021|48|7|Gorontalo|Kab. Gorontalo|Gorontalo|1365|50|1287|28|405000|1750.8|231|19|205|
 01042021|01|04|2021|48|7|Gorontalo|Kab. Gorontalo|Gorontalo|1365|50|1287|28|405000|1750.8|231|19|205|
 31032021|31|03|2021|48|7|Gorontalo|Kab. Gorontalo|Gorontalo|1365|50|1287|28|405000|1750.8|231|19|205|
 30032021|30|03|2021|48|7|Gorontalo|Kab. Gorontalo|Gorontalo|1364|50|1283|31|405000|1750.8|231|19|205|
@@ -1070,6 +1085,11 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 12042020|12|04|2020|48|7|Gorontalo|Kab. Gorontalo|Gorontalo|||||405000|1750.8|231|19|205|
 11042020|11|04|2020|48|7|Gorontalo|Kab. Gorontalo|Gorontalo|||||405000|1750.8|231|19|205|
 10042020|10|04|2020|48|7|Gorontalo|Kab. Gorontalo|Gorontalo|||||405000|1750.8|231|19|205|
+06042021|06|04|2021|49|7|Gorontalo|Kota Gorontalo|Kota Gorontalo|2246|61|2131|54|202000|79.59999999999999|2543|9|50|
+05042021|05|04|2021|49|7|Gorontalo|Kota Gorontalo|Kota Gorontalo|2233|57|2121|55|202000|79.59999999999999|2543|9|50|
+04042021|04|04|2021|49|7|Gorontalo|Kota Gorontalo|Kota Gorontalo|2233|57|2121|55|202000|79.59999999999999|2543|9|50|
+03042021|03|04|2021|49|7|Gorontalo|Kota Gorontalo|Kota Gorontalo|2211|56|2114|41|202000|79.59999999999999|2543|9|50|
+02042021|02|04|2021|49|7|Gorontalo|Kota Gorontalo|Kota Gorontalo|2211|56|2114|41|202000|79.59999999999999|2543|9|50|
 01042021|01|04|2021|49|7|Gorontalo|Kota Gorontalo|Kota Gorontalo|2211|56|2114|41|202000|79.59999999999999|2543|9|50|
 31032021|31|03|2021|49|7|Gorontalo|Kota Gorontalo|Kota Gorontalo|2210|56|2114|40|202000|79.59999999999999|2543|9|50|
 30032021|30|03|2021|49|7|Gorontalo|Kota Gorontalo|Kota Gorontalo|2206|56|2110|40|202000|79.59999999999999|2543|9|50|
@@ -1427,6 +1447,11 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 12042020|12|04|2020|49|7|Gorontalo|Kota Gorontalo|Kota Gorontalo|||||202000|79.59999999999999|2543|9|50|
 11042020|11|04|2020|49|7|Gorontalo|Kota Gorontalo|Kota Gorontalo|||||202000|79.59999999999999|2543|9|50|
 10042020|10|04|2020|49|7|Gorontalo|Kota Gorontalo|Kota Gorontalo|||||202000|79.59999999999999|2543|9|50|
+06042021|06|04|2021|50|7|Gorontalo|Kab. Gorontalo Utara|Gorontalo Utara|342|5|336|1|128000|1676.2|77|11|123|51
+05042021|05|04|2021|50|7|Gorontalo|Kab. Gorontalo Utara|Gorontalo Utara|342|5|335|2|128000|1676.2|77|11|123|51
+04042021|04|04|2021|50|7|Gorontalo|Kab. Gorontalo Utara|Gorontalo Utara|342|5|335|2|128000|1676.2|77|11|123|51
+03042021|03|04|2021|50|7|Gorontalo|Kab. Gorontalo Utara|Gorontalo Utara|341|5|335|1|128000|1676.2|77|11|123|51
+02042021|02|04|2021|50|7|Gorontalo|Kab. Gorontalo Utara|Gorontalo Utara|341|5|335|1|128000|1676.2|77|11|123|51
 01042021|01|04|2021|50|7|Gorontalo|Kab. Gorontalo Utara|Gorontalo Utara|341|5|335|1|128000|1676.2|77|11|123|51
 31032021|31|03|2021|50|7|Gorontalo|Kab. Gorontalo Utara|Gorontalo Utara|341|5|335|1|128000|1676.2|77|11|123|51
 30032021|30|03|2021|50|7|Gorontalo|Kab. Gorontalo Utara|Gorontalo Utara|341|5|335|1|128000|1676.2|77|11|123|51
@@ -1784,6 +1809,11 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 12042020|12|04|2020|50|7|Gorontalo|Kab. Gorontalo Utara|Gorontalo Utara|||||128000|1676.2|77|11|123|51
 11042020|11|04|2020|50|7|Gorontalo|Kab. Gorontalo Utara|Gorontalo Utara|||||128000|1676.2|77|11|123|51
 10042020|10|04|2020|50|7|Gorontalo|Kab. Gorontalo Utara|Gorontalo Utara|||||128000|1676.2|77|11|123|51
+06042021|06|04|2021|51|7|Gorontalo|Kab. Pohuwato|Pohuwato|287|5|275|7|146000|4244.3|34|13|104|51
+05042021|05|04|2021|51|7|Gorontalo|Kab. Pohuwato|Pohuwato|287|5|267|15|146000|4244.3|34|13|104|51
+04042021|04|04|2021|51|7|Gorontalo|Kab. Pohuwato|Pohuwato|287|5|267|15|146000|4244.3|34|13|104|51
+03042021|03|04|2021|51|7|Gorontalo|Kab. Pohuwato|Pohuwato|284|5|267|12|146000|4244.3|34|13|104|51
+02042021|02|04|2021|51|7|Gorontalo|Kab. Pohuwato|Pohuwato|284|5|267|12|146000|4244.3|34|13|104|51
 01042021|01|04|2021|51|7|Gorontalo|Kab. Pohuwato|Pohuwato|284|5|267|12|146000|4244.3|34|13|104|51
 31032021|31|03|2021|51|7|Gorontalo|Kab. Pohuwato|Pohuwato|284|5|267|12|146000|4244.3|34|13|104|51
 30032021|30|03|2021|51|7|Gorontalo|Kab. Pohuwato|Pohuwato|284|5|267|12|146000|4244.3|34|13|104|51
