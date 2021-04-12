@@ -1,4 +1,7 @@
 date|day|month|year|id_district|id_province|province_name|district_name|city_name|confirmed_case|death_case|recovered_case|active_case|population|area_km2|pop_density|num_kecamatan|num_village|num_islands
+09042021|09|04|2021|352|26|Riau|Kab. Bengkalis|Bengkalis|2377|68|2210|99|555000|6975.4|79|11|155|18
+08042021|08|04|2021|352|26|Riau|Kab. Bengkalis|Bengkalis|2371|68|2203|100|555000|6975.4|79|11|155|18
+07042021|07|04|2021|352|26|Riau|Kab. Bengkalis|Bengkalis|2354|68|2196|90|555000|6975.4|79|11|155|18
 06042021|06|04|2021|352|26|Riau|Kab. Bengkalis|Bengkalis|2342|68|2194|80|555000|6975.4|79|11|155|18
 05042021|05|04|2021|352|26|Riau|Kab. Bengkalis|Bengkalis|2339|68|2182|89|555000|6975.4|79|11|155|18
 04042021|04|04|2021|352|26|Riau|Kab. Bengkalis|Bengkalis|2334|68|2180|86|555000|6975.4|79|11|155|18
@@ -399,6 +402,9 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 05032020|05|03|2020|352|26|Riau|Kab. Bengkalis|Bengkalis|||||555000|6975.4|79|11|155|18
 04032020|04|03|2020|352|26|Riau|Kab. Bengkalis|Bengkalis|||||555000|6975.4|79|11|155|18
 03032020|03|03|2020|352|26|Riau|Kab. Bengkalis|Bengkalis|||||555000|6975.4|79|11|155|18
+09042021|09|04|2021|353|26|Riau|Kota Dumai|Kota Dumai|3149|55|3000|94|289000|1623.4|178|7|33|
+08042021|08|04|2021|353|26|Riau|Kota Dumai|Kota Dumai|3125|54|2997|74|289000|1623.4|178|7|33|
+07042021|07|04|2021|353|26|Riau|Kota Dumai|Kota Dumai|3116|54|2992|70|289000|1623.4|178|7|33|
 06042021|06|04|2021|353|26|Riau|Kota Dumai|Kota Dumai|3105|53|2983|69|289000|1623.4|178|7|33|
 05042021|05|04|2021|353|26|Riau|Kota Dumai|Kota Dumai|3093|53|2978|62|289000|1623.4|178|7|33|
 04042021|04|04|2021|353|26|Riau|Kota Dumai|Kota Dumai|3093|53|2968|72|289000|1623.4|178|7|33|
@@ -799,6 +805,9 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 05032020|05|03|2020|353|26|Riau|Kota Dumai|Kota Dumai|||||289000|1623.4|178|7|33|
 04032020|04|03|2020|353|26|Riau|Kota Dumai|Kota Dumai|||||289000|1623.4|178|7|33|
 03032020|03|03|2020|353|26|Riau|Kota Dumai|Kota Dumai|||||289000|1623.4|178|7|33|
+09042021|09|04|2021|354|26|Riau|Kab. Indragiri Hilir|Indragiri Hilir|1020|52|935|33|636000|12614.8|50|20|236|33
+08042021|08|04|2021|354|26|Riau|Kab. Indragiri Hilir|Indragiri Hilir|1013|52|933|28|636000|12614.8|50|20|236|33
+07042021|07|04|2021|354|26|Riau|Kab. Indragiri Hilir|Indragiri Hilir|1007|52|930|25|636000|12614.8|50|20|236|33
 06042021|06|04|2021|354|26|Riau|Kab. Indragiri Hilir|Indragiri Hilir|1003|52|927|24|636000|12614.8|50|20|236|33
 05042021|05|04|2021|354|26|Riau|Kab. Indragiri Hilir|Indragiri Hilir|1000|52|926|22|636000|12614.8|50|20|236|33
 04042021|04|04|2021|354|26|Riau|Kab. Indragiri Hilir|Indragiri Hilir|1000|51|923|26|636000|12614.8|50|20|236|33
@@ -1199,6 +1208,9 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 05032020|05|03|2020|354|26|Riau|Kab. Indragiri Hilir|Indragiri Hilir|||||636000|12614.8|50|20|236|33
 04032020|04|03|2020|354|26|Riau|Kab. Indragiri Hilir|Indragiri Hilir|||||636000|12614.8|50|20|236|33
 03032020|03|03|2020|354|26|Riau|Kab. Indragiri Hilir|Indragiri Hilir|||||636000|12614.8|50|20|236|33
+09042021|09|04|2021|355|26|Riau|Kab. Indragiri Hulu|Indragiri Hulu|1526|40|1414|72|436000|7723.8|56|14|194|1
+08042021|08|04|2021|355|26|Riau|Kab. Indragiri Hulu|Indragiri Hulu|1525|40|1412|73|436000|7723.8|56|14|194|1
+07042021|07|04|2021|355|26|Riau|Kab. Indragiri Hulu|Indragiri Hulu|1503|39|1337|127|436000|7723.8|56|14|194|1
 06042021|06|04|2021|355|26|Riau|Kab. Indragiri Hulu|Indragiri Hulu|1497|39|1336|122|436000|7723.8|56|14|194|1
 05042021|05|04|2021|355|26|Riau|Kab. Indragiri Hulu|Indragiri Hulu|1493|39|1336|118|436000|7723.8|56|14|194|1
 04042021|04|04|2021|355|26|Riau|Kab. Indragiri Hulu|Indragiri Hulu|1482|39|1323|120|436000|7723.8|56|14|194|1
@@ -1599,6 +1611,9 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 05032020|05|03|2020|355|26|Riau|Kab. Indragiri Hulu|Indragiri Hulu|||||436000|7723.8|56|14|194|1
 04032020|04|03|2020|355|26|Riau|Kab. Indragiri Hulu|Indragiri Hulu|||||436000|7723.8|56|14|194|1
 03032020|03|03|2020|355|26|Riau|Kab. Indragiri Hulu|Indragiri Hulu|||||436000|7723.8|56|14|194|1
+09042021|09|04|2021|356|26|Riau|Kab. Kampar|Kampar|2590|91|2385|114|765000|10983.5|70|21|250|
+08042021|08|04|2021|356|26|Riau|Kab. Kampar|Kampar|2571|90|2381|100|765000|10983.5|70|21|250|
+07042021|07|04|2021|356|26|Riau|Kab. Kampar|Kampar|2557|90|2374|93|765000|10983.5|70|21|250|
 06042021|06|04|2021|356|26|Riau|Kab. Kampar|Kampar|2546|90|2369|87|765000|10983.5|70|21|250|
 05042021|05|04|2021|356|26|Riau|Kab. Kampar|Kampar|2530|90|2367|73|765000|10983.5|70|21|250|
 04042021|04|04|2021|356|26|Riau|Kab. Kampar|Kampar|2527|89|2362|76|765000|10983.5|70|21|250|
@@ -1999,6 +2014,9 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 05032020|05|03|2020|356|26|Riau|Kab. Kampar|Kampar|||||765000|10983.5|70|21|250|
 04032020|04|03|2020|356|26|Riau|Kab. Kampar|Kampar|||||765000|10983.5|70|21|250|
 03032020|03|03|2020|356|26|Riau|Kab. Kampar|Kampar|||||765000|10983.5|70|21|250|
+09042021|09|04|2021|357|26|Riau|Kab. Kuantan Singingi|Kuantan Singingi|880|21|827|32|337000|5259.4|64|15|229|
+08042021|08|04|2021|357|26|Riau|Kab. Kuantan Singingi|Kuantan Singingi|880|21|824|35|337000|5259.4|64|15|229|
+07042021|07|04|2021|357|26|Riau|Kab. Kuantan Singingi|Kuantan Singingi|874|21|819|34|337000|5259.4|64|15|229|
 06042021|06|04|2021|357|26|Riau|Kab. Kuantan Singingi|Kuantan Singingi|873|21|811|41|337000|5259.4|64|15|229|
 05042021|05|04|2021|357|26|Riau|Kab. Kuantan Singingi|Kuantan Singingi|871|21|811|39|337000|5259.4|64|15|229|
 04042021|04|04|2021|357|26|Riau|Kab. Kuantan Singingi|Kuantan Singingi|870|20|805|45|337000|5259.4|64|15|229|
@@ -2399,6 +2417,9 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 05032020|05|03|2020|357|26|Riau|Kab. Kuantan Singingi|Kuantan Singingi|||||337000|5259.4|64|15|229|
 04032020|04|03|2020|357|26|Riau|Kab. Kuantan Singingi|Kuantan Singingi|||||337000|5259.4|64|15|229|
 03032020|03|03|2020|357|26|Riau|Kab. Kuantan Singingi|Kuantan Singingi|||||337000|5259.4|64|15|229|
+09042021|09|04|2021|358|26|Riau|Kota Pekanbaru|Kota Pekanbaru|17541|378|16171|992|915000|632.3|1447|12|83|
+08042021|08|04|2021|358|26|Riau|Kota Pekanbaru|Kota Pekanbaru|17426|377|16113|936|915000|632.3|1447|12|83|
+07042021|07|04|2021|358|26|Riau|Kota Pekanbaru|Kota Pekanbaru|17260|374|16078|808|915000|632.3|1447|12|83|
 06042021|06|04|2021|358|26|Riau|Kota Pekanbaru|Kota Pekanbaru|17145|372|16022|751|915000|632.3|1447|12|83|
 05042021|05|04|2021|358|26|Riau|Kota Pekanbaru|Kota Pekanbaru|17028|369|15907|752|915000|632.3|1447|12|83|
 04042021|04|04|2021|358|26|Riau|Kota Pekanbaru|Kota Pekanbaru|16983|364|15846|773|915000|632.3|1447|12|83|
@@ -2799,6 +2820,9 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 05032020|05|03|2020|358|26|Riau|Kota Pekanbaru|Kota Pekanbaru|||||915000|632.3|1447|12|83|
 04032020|04|03|2020|358|26|Riau|Kota Pekanbaru|Kota Pekanbaru|||||915000|632.3|1447|12|83|
 03032020|03|03|2020|358|26|Riau|Kota Pekanbaru|Kota Pekanbaru|||||915000|632.3|1447|12|83|
+09042021|09|04|2021|359|26|Riau|Kab. Pelalawan|Pelalawan|1312|28|1260|24|378000|12758.5|30|12|118|52
+08042021|08|04|2021|359|26|Riau|Kab. Pelalawan|Pelalawan|1308|28|1260|20|378000|12758.5|30|12|118|52
+07042021|07|04|2021|359|26|Riau|Kab. Pelalawan|Pelalawan|1303|27|1259|17|378000|12758.5|30|12|118|52
 06042021|06|04|2021|359|26|Riau|Kab. Pelalawan|Pelalawan|1301|26|1258|17|378000|12758.5|30|12|118|52
 05042021|05|04|2021|359|26|Riau|Kab. Pelalawan|Pelalawan|1298|25|1253|20|378000|12758.5|30|12|118|52
 04042021|04|04|2021|359|26|Riau|Kab. Pelalawan|Pelalawan|1298|25|1253|20|378000|12758.5|30|12|118|52
@@ -3199,6 +3223,9 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 05032020|05|03|2020|359|26|Riau|Kab. Pelalawan|Pelalawan|||||378000|12758.5|30|12|118|52
 04032020|04|03|2020|359|26|Riau|Kab. Pelalawan|Pelalawan|||||378000|12758.5|30|12|118|52
 03032020|03|03|2020|359|26|Riau|Kab. Pelalawan|Pelalawan|||||378000|12758.5|30|12|118|52
+09042021|09|04|2021|360|26|Riau|Kab. Rokan Hilir|Rokan Hilir|1287|31|1155|101|652000|8881.6|73|15|184|33
+08042021|08|04|2021|360|26|Riau|Kab. Rokan Hilir|Rokan Hilir|1272|31|1144|97|652000|8881.6|73|15|184|33
+07042021|07|04|2021|360|26|Riau|Kab. Rokan Hilir|Rokan Hilir|1259|31|1143|85|652000|8881.6|73|15|184|33
 06042021|06|04|2021|360|26|Riau|Kab. Rokan Hilir|Rokan Hilir|1237|31|1138|68|652000|8881.6|73|15|184|33
 05042021|05|04|2021|360|26|Riau|Kab. Rokan Hilir|Rokan Hilir|1227|31|1134|62|652000|8881.6|73|15|184|33
 04042021|04|04|2021|360|26|Riau|Kab. Rokan Hilir|Rokan Hilir|1217|31|1133|53|652000|8881.6|73|15|184|33
@@ -3599,6 +3626,9 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 05032020|05|03|2020|360|26|Riau|Kab. Rokan Hilir|Rokan Hilir|||||652000|8881.6|73|15|184|33
 04032020|04|03|2020|360|26|Riau|Kab. Rokan Hilir|Rokan Hilir|||||652000|8881.6|73|15|184|33
 03032020|03|03|2020|360|26|Riau|Kab. Rokan Hilir|Rokan Hilir|||||652000|8881.6|73|15|184|33
+09042021|09|04|2021|361|26|Riau|Kab. Rokan Hulu|Rokan Hulu|971|49|833|89|571000|7588.1|75|16|145|
+08042021|08|04|2021|361|26|Riau|Kab. Rokan Hulu|Rokan Hulu|960|49|824|87|571000|7588.1|75|16|145|
+07042021|07|04|2021|361|26|Riau|Kab. Rokan Hulu|Rokan Hulu|951|49|820|82|571000|7588.1|75|16|145|
 06042021|06|04|2021|361|26|Riau|Kab. Rokan Hulu|Rokan Hulu|936|49|817|70|571000|7588.1|75|16|145|
 05042021|05|04|2021|361|26|Riau|Kab. Rokan Hulu|Rokan Hulu|933|49|816|68|571000|7588.1|75|16|145|
 04042021|04|04|2021|361|26|Riau|Kab. Rokan Hulu|Rokan Hulu|933|49|814|70|571000|7588.1|75|16|145|
@@ -3999,6 +4029,9 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 05032020|05|03|2020|361|26|Riau|Kab. Rokan Hulu|Rokan Hulu|||||571000|7588.1|75|16|145|
 04032020|04|03|2020|361|26|Riau|Kab. Rokan Hulu|Rokan Hulu|||||571000|7588.1|75|16|145|
 03032020|03|03|2020|361|26|Riau|Kab. Rokan Hulu|Rokan Hulu|||||571000|7588.1|75|16|145|
+09042021|09|04|2021|362|26|Riau|Kab. Siak|Siak|2713|66|2486|161|429000|8275.200000000001|52|14|131|2
+08042021|08|04|2021|362|26|Riau|Kab. Siak|Siak|2694|65|2466|163|429000|8275.200000000001|52|14|131|2
+07042021|07|04|2021|362|26|Riau|Kab. Siak|Siak|2675|64|2466|145|429000|8275.200000000001|52|14|131|2
 06042021|06|04|2021|362|26|Riau|Kab. Siak|Siak|2666|64|2446|156|429000|8275.200000000001|52|14|131|2
 05042021|05|04|2021|362|26|Riau|Kab. Siak|Siak|2636|64|2424|148|429000|8275.200000000001|52|14|131|2
 04042021|04|04|2021|362|26|Riau|Kab. Siak|Siak|2631|64|2424|143|429000|8275.200000000001|52|14|131|2
@@ -4399,6 +4432,9 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 05032020|05|03|2020|362|26|Riau|Kab. Siak|Siak|||||429000|8275.200000000001|52|14|131|2
 04032020|04|03|2020|362|26|Riau|Kab. Siak|Siak|||||429000|8275.200000000001|52|14|131|2
 03032020|03|03|2020|362|26|Riau|Kab. Siak|Siak|||||429000|8275.200000000001|52|14|131|2
+09042021|09|04|2021|497|26|Riau|Kab. Kepulauan Meranti|Kepulauan Meranti|368|8|326|34|213000|3707.8|58|9|101|10
+08042021|08|04|2021|497|26|Riau|Kab. Kepulauan Meranti|Kepulauan Meranti|364|8|322|34|213000|3707.8|58|9|101|10
+07042021|07|04|2021|497|26|Riau|Kab. Kepulauan Meranti|Kepulauan Meranti|362|8|322|32|213000|3707.8|58|9|101|10
 06042021|06|04|2021|497|26|Riau|Kab. Kepulauan Meranti|Kepulauan Meranti|357|8|322|27|213000|3707.8|58|9|101|10
 05042021|05|04|2021|497|26|Riau|Kab. Kepulauan Meranti|Kepulauan Meranti|351|7|321|23|213000|3707.8|58|9|101|10
 04042021|04|04|2021|497|26|Riau|Kab. Kepulauan Meranti|Kepulauan Meranti|350|7|317|26|213000|3707.8|58|9|101|10

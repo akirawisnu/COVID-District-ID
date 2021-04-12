@@ -1,4 +1,7 @@
 date|day|month|year|id_district|id_province|province_name|district_name|city_name|confirmed_case|death_case|recovered_case|active_case|population|area_km2|pop_density|num_kecamatan|num_village|num_islands
+09042021|09|04|2021|312|24|Papua|Kab. Asmat|Asmat|170|3|77|90|106000|31983.7|3|19|221|4
+08042021|08|04|2021|312|24|Papua|Kab. Asmat|Asmat|169|3|77|89|106000|31983.7|3|19|221|4
+07042021|07|04|2021|312|24|Papua|Kab. Asmat|Asmat|168|3|77|88|106000|31983.7|3|19|221|4
 06042021|06|04|2021|312|24|Papua|Kab. Asmat|Asmat|168|3|77|88|106000|31983.7|3|19|221|4
 05042021|05|04|2021|312|24|Papua|Kab. Asmat|Asmat|168|3|77|88|106000|31983.7|3|19|221|4
 04042021|04|04|2021|312|24|Papua|Kab. Asmat|Asmat|168|3|77|88|106000|31983.7|3|19|221|4
@@ -274,6 +277,9 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 23062020|23|06|2020|312|24|Papua|Kab. Asmat|Asmat|||||106000|31983.7|3|19|221|4
 20042020|20|04|2020|312|24|Papua|Kab. Asmat|Asmat|||||106000|31983.7|3|19|221|4
 04042020|04|04|2020|312|24|Papua|Kab. Asmat|Asmat|||||106000|31983.7|3|19|221|4
+09042021|09|04|2021|313|24|Papua|Kab. Biak Numfor|Biak Numfor|1349|24|507|818|145000|2602|56|19|268|143
+08042021|08|04|2021|313|24|Papua|Kab. Biak Numfor|Biak Numfor|1345|24|505|816|145000|2602|56|19|268|143
+07042021|07|04|2021|313|24|Papua|Kab. Biak Numfor|Biak Numfor|1340|24|503|813|145000|2602|56|19|268|143
 06042021|06|04|2021|313|24|Papua|Kab. Biak Numfor|Biak Numfor|1336|24|502|810|145000|2602|56|19|268|143
 05042021|05|04|2021|313|24|Papua|Kab. Biak Numfor|Biak Numfor|1334|24|502|808|145000|2602|56|19|268|143
 04042021|04|04|2021|313|24|Papua|Kab. Biak Numfor|Biak Numfor|1334|24|500|810|145000|2602|56|19|268|143
@@ -627,6 +633,9 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 21042020|21|04|2020|313|24|Papua|Kab. Biak Numfor|Biak Numfor|2||1|1|145000|2602|56|19|268|143
 20042020|20|04|2020|313|24|Papua|Kab. Biak Numfor|Biak Numfor|||||145000|2602|56|19|268|143
 04042020|04|04|2020|313|24|Papua|Kab. Biak Numfor|Biak Numfor|||||145000|2602|56|19|268|143
+09042021|09|04|2021|314|24|Papua|Kab. Boven Digoel|Boven Digoel|50||39|11|60000|27108|2|20|112|
+08042021|08|04|2021|314|24|Papua|Kab. Boven Digoel|Boven Digoel|50||39|11|60000|27108|2|20|112|
+07042021|07|04|2021|314|24|Papua|Kab. Boven Digoel|Boven Digoel|50||39|11|60000|27108|2|20|112|
 06042021|06|04|2021|314|24|Papua|Kab. Boven Digoel|Boven Digoel|50||39|11|60000|27108|2|20|112|
 05042021|05|04|2021|314|24|Papua|Kab. Boven Digoel|Boven Digoel|50||39|11|60000|27108|2|20|112|
 04042021|04|04|2021|314|24|Papua|Kab. Boven Digoel|Boven Digoel|50||39|11|60000|27108|2|20|112|
@@ -1082,6 +1091,9 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 23062020|23|06|2020|315|24|Papua|Kab. Deiyai|Deiyai|||||91000|537.4|169|5|67|
 20042020|20|04|2020|315|24|Papua|Kab. Deiyai|Deiyai|||||91000|537.4|169|5|67|
 04042020|04|04|2020|315|24|Papua|Kab. Deiyai|Deiyai|||||91000|537.4|169|5|67|
+09042021|09|04|2021|316|24|Papua|Kab. Dogiyai|Dogiyai|||||116000|4237.4|27|10|79|
+08042021|08|04|2021|316|24|Papua|Kab. Dogiyai|Dogiyai|||||116000|4237.4|27|10|79|
+07042021|07|04|2021|316|24|Papua|Kab. Dogiyai|Dogiyai|||||116000|4237.4|27|10|79|
 06042021|06|04|2021|316|24|Papua|Kab. Dogiyai|Dogiyai|||||116000|4237.4|27|10|79|
 05042021|05|04|2021|316|24|Papua|Kab. Dogiyai|Dogiyai|||||116000|4237.4|27|10|79|
 04042021|04|04|2021|316|24|Papua|Kab. Dogiyai|Dogiyai|||||116000|4237.4|27|10|79|
@@ -1352,6 +1364,9 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 23062020|23|06|2020|316|24|Papua|Kab. Dogiyai|Dogiyai|||||116000|4237.4|27|10|79|
 20042020|20|04|2020|316|24|Papua|Kab. Dogiyai|Dogiyai|||||116000|4237.4|27|10|79|
 04042020|04|04|2020|316|24|Papua|Kab. Dogiyai|Dogiyai|||||116000|4237.4|27|10|79|
+09042021|09|04|2021|317|24|Papua|Kab. Intan Jaya|Intan Jaya|||||141000|3922|36|8|97|
+08042021|08|04|2021|317|24|Papua|Kab. Intan Jaya|Intan Jaya|||||141000|3922|36|8|97|
+07042021|07|04|2021|317|24|Papua|Kab. Intan Jaya|Intan Jaya|||||141000|3922|36|8|97|
 06042021|06|04|2021|317|24|Papua|Kab. Intan Jaya|Intan Jaya|||||141000|3922|36|8|97|
 05042021|05|04|2021|317|24|Papua|Kab. Intan Jaya|Intan Jaya|||||141000|3922|36|8|97|
 04042021|04|04|2021|317|24|Papua|Kab. Intan Jaya|Intan Jaya|||||141000|3922|36|8|97|
@@ -1620,6 +1635,9 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 23062020|23|06|2020|317|24|Papua|Kab. Intan Jaya|Intan Jaya|||||141000|3922|36|8|97|
 20042020|20|04|2020|317|24|Papua|Kab. Intan Jaya|Intan Jaya|||||141000|3922|36|8|97|
 04042020|04|04|2020|317|24|Papua|Kab. Intan Jaya|Intan Jaya|||||141000|3922|36|8|97|
+09042021|09|04|2021|318|24|Papua|Kab. Jayapura|Jayapura|1347|23|670|654|171000|11157.2|15|19|144|23
+08042021|08|04|2021|318|24|Papua|Kab. Jayapura|Jayapura|1343|23|668|652|171000|11157.2|15|19|144|23
+07042021|07|04|2021|318|24|Papua|Kab. Jayapura|Jayapura|1338|23|666|649|171000|11157.2|15|19|144|23
 06042021|06|04|2021|318|24|Papua|Kab. Jayapura|Jayapura|1334|23|665|646|171000|11157.2|15|19|144|23
 05042021|05|04|2021|318|24|Papua|Kab. Jayapura|Jayapura|1332|23|665|644|171000|11157.2|15|19|144|23
 04042021|04|04|2021|318|24|Papua|Kab. Jayapura|Jayapura|1332|23|662|647|171000|11157.2|15|19|144|23
@@ -1989,6 +2007,9 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 05042020|05|04|2020|318|24|Papua|Kab. Jayapura|Jayapura|2||1|1|171000|11157.2|15|19|144|23
 04042020|04|04|2020|318|24|Papua|Kab. Jayapura|Jayapura|2||1|1|171000|11157.2|15|19|144|23
 03042020|03|04|2020|318|24|Papua|Kab. Jayapura|Jayapura|2||1|1|171000|11157.2|15|19|144|23
+09042021|09|04|2021|319|24|Papua|Kota Jayapura|Kota Jayapura|10275|101|4765|5409|431000|935.9|461|5|39|15
+08042021|08|04|2021|319|24|Papua|Kota Jayapura|Kota Jayapura|10243|100|4748|5395|431000|935.9|461|5|39|15
+07042021|07|04|2021|319|24|Papua|Kota Jayapura|Kota Jayapura|10207|99|4733|5375|431000|935.9|461|5|39|15
 06042021|06|04|2021|319|24|Papua|Kota Jayapura|Kota Jayapura|10178|99|4724|5355|431000|935.9|461|5|39|15
 05042021|05|04|2021|319|24|Papua|Kota Jayapura|Kota Jayapura|10164|99|4722|5343|431000|935.9|461|5|39|15
 04042021|04|04|2021|319|24|Papua|Kota Jayapura|Kota Jayapura|10161|98|4701|5362|431000|935.9|461|5|39|15
@@ -2357,6 +2378,9 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 05042020|05|04|2020|319|24|Papua|Kota Jayapura|Kota Jayapura|12|1|3|8|431000|935.9|461|5|39|15
 04042020|04|04|2020|319|24|Papua|Kota Jayapura|Kota Jayapura|12||2|10|431000|935.9|461|5|39|15
 03042020|03|04|2020|319|24|Papua|Kota Jayapura|Kota Jayapura|9||1|8|431000|935.9|461|5|39|15
+09042021|09|04|2021|320|24|Papua|Kab. Jayawijaya|Jayawijaya|400|1|227|172|277000|7030.7|39|40|332|
+08042021|08|04|2021|320|24|Papua|Kab. Jayawijaya|Jayawijaya|399|1|226|172|277000|7030.7|39|40|332|
+07042021|07|04|2021|320|24|Papua|Kab. Jayawijaya|Jayawijaya|398|1|225|172|277000|7030.7|39|40|332|
 06042021|06|04|2021|320|24|Papua|Kab. Jayawijaya|Jayawijaya|397|1|225|171|277000|7030.7|39|40|332|
 05042021|05|04|2021|320|24|Papua|Kab. Jayawijaya|Jayawijaya|396|1|225|170|277000|7030.7|39|40|332|
 04042021|04|04|2021|320|24|Papua|Kab. Jayawijaya|Jayawijaya|396|1|224|171|277000|7030.7|39|40|332|
@@ -2716,6 +2740,9 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 14042020|14|04|2020|320|24|Papua|Kab. Jayawijaya|Jayawijaya|2||2||277000|7030.7|39|40|332|
 13042020|13|04|2020|320|24|Papua|Kab. Jayawijaya|Jayawijaya|2||1|1|277000|7030.7|39|40|332|
 04042020|04|04|2020|320|24|Papua|Kab. Jayawijaya|Jayawijaya|||||277000|7030.7|39|40|332|
+09042021|09|04|2021|321|24|Papua|Kab. Keerom|Keerom|253|2|142|109|61000|8390|7|11|91|
+08042021|08|04|2021|321|24|Papua|Kab. Keerom|Keerom|252|2|142|108|61000|8390|7|11|91|
+07042021|07|04|2021|321|24|Papua|Kab. Keerom|Keerom|251|2|142|107|61000|8390|7|11|91|
 06042021|06|04|2021|321|24|Papua|Kab. Keerom|Keerom|250|2|142|106|61000|8390|7|11|91|
 05042021|05|04|2021|321|24|Papua|Kab. Keerom|Keerom|250|2|142|106|61000|8390|7|11|91|
 04042021|04|04|2021|321|24|Papua|Kab. Keerom|Keerom|250|2|141|107|61000|8390|7|11|91|
@@ -3078,6 +3105,9 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 12042020|12|04|2020|321|24|Papua|Kab. Keerom|Keerom|1||1||61000|8390|7|11|91|
 11042020|11|04|2020|321|24|Papua|Kab. Keerom|Keerom|1||1||61000|8390|7|11|91|
 04042020|04|04|2020|321|24|Papua|Kab. Keerom|Keerom|||||61000|8390|7|11|91|
+09042021|09|04|2021|322|24|Papua|Kab. Kepulauan Yapen|Kepulauan Yapen|338|5|203|130|113000|2050|55|16|165|142
+08042021|08|04|2021|322|24|Papua|Kab. Kepulauan Yapen|Kepulauan Yapen|337|5|202|130|113000|2050|55|16|165|142
+07042021|07|04|2021|322|24|Papua|Kab. Kepulauan Yapen|Kepulauan Yapen|336|5|201|130|113000|2050|55|16|165|142
 06042021|06|04|2021|322|24|Papua|Kab. Kepulauan Yapen|Kepulauan Yapen|335|5|201|129|113000|2050|55|16|165|142
 05042021|05|04|2021|322|24|Papua|Kab. Kepulauan Yapen|Kepulauan Yapen|335|5|201|129|113000|2050|55|16|165|142
 04042021|04|04|2021|322|24|Papua|Kab. Kepulauan Yapen|Kepulauan Yapen|335|5|200|130|113000|2050|55|16|165|142
@@ -3393,6 +3423,9 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 20052020|20|05|2020|322|24|Papua|Kab. Kepulauan Yapen|Kepulauan Yapen|1||1||113000|2050|55|16|165|142
 20042020|20|04|2020|322|24|Papua|Kab. Kepulauan Yapen|Kepulauan Yapen|||||113000|2050|55|16|165|142
 04042020|04|04|2020|322|24|Papua|Kab. Kepulauan Yapen|Kepulauan Yapen|||||113000|2050|55|16|165|142
+09042021|09|04|2021|323|24|Papua|Kab. Lanny Jaya|Lanny Jaya|32|1|27|4|204000|2248|91|39|355|
+08042021|08|04|2021|323|24|Papua|Kab. Lanny Jaya|Lanny Jaya|32|1|27|4|204000|2248|91|39|355|
+07042021|07|04|2021|323|24|Papua|Kab. Lanny Jaya|Lanny Jaya|32|1|27|4|204000|2248|91|39|355|
 06042021|06|04|2021|323|24|Papua|Kab. Lanny Jaya|Lanny Jaya|32|1|27|4|204000|2248|91|39|355|
 05042021|05|04|2021|323|24|Papua|Kab. Lanny Jaya|Lanny Jaya|32|1|27|4|204000|2248|91|39|355|
 04042021|04|04|2021|323|24|Papua|Kab. Lanny Jaya|Lanny Jaya|32|1|27|4|204000|2248|91|39|355|
@@ -3680,6 +3713,9 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 23062020|23|06|2020|323|24|Papua|Kab. Lanny Jaya|Lanny Jaya|||||204000|2248|91|39|355|
 20042020|20|04|2020|323|24|Papua|Kab. Lanny Jaya|Lanny Jaya|||||204000|2248|91|39|355|
 04042020|04|04|2020|323|24|Papua|Kab. Lanny Jaya|Lanny Jaya|||||204000|2248|91|39|355|
+09042021|09|04|2021|324|24|Papua|Kab. Mamberamo Raya|Mamberamo Raya|||||36000|23813.9|1|8|60|2
+08042021|08|04|2021|324|24|Papua|Kab. Mamberamo Raya|Mamberamo Raya|||||36000|23813.9|1|8|60|2
+07042021|07|04|2021|324|24|Papua|Kab. Mamberamo Raya|Mamberamo Raya|||||36000|23813.9|1|8|60|2
 06042021|06|04|2021|324|24|Papua|Kab. Mamberamo Raya|Mamberamo Raya|||||36000|23813.9|1|8|60|2
 05042021|05|04|2021|324|24|Papua|Kab. Mamberamo Raya|Mamberamo Raya|||||36000|23813.9|1|8|60|2
 04042021|04|04|2021|324|24|Papua|Kab. Mamberamo Raya|Mamberamo Raya|||||36000|23813.9|1|8|60|2
@@ -3951,6 +3987,9 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 23062020|23|06|2020|324|24|Papua|Kab. Mamberamo Raya|Mamberamo Raya|||||36000|23813.9|1|8|60|2
 20042020|20|04|2020|324|24|Papua|Kab. Mamberamo Raya|Mamberamo Raya|||||36000|23813.9|1|8|60|2
 04042020|04|04|2020|324|24|Papua|Kab. Mamberamo Raya|Mamberamo Raya|||||36000|23813.9|1|8|60|2
+09042021|09|04|2021|325|24|Papua|Kab. Mamberamo Tengah|Mamberamo Tengah|5||4|1|46000|1275|36|5|59|
+08042021|08|04|2021|325|24|Papua|Kab. Mamberamo Tengah|Mamberamo Tengah|5||4|1|46000|1275|36|5|59|
+07042021|07|04|2021|325|24|Papua|Kab. Mamberamo Tengah|Mamberamo Tengah|5||4|1|46000|1275|36|5|59|
 06042021|06|04|2021|325|24|Papua|Kab. Mamberamo Tengah|Mamberamo Tengah|5||4|1|46000|1275|36|5|59|
 05042021|05|04|2021|325|24|Papua|Kab. Mamberamo Tengah|Mamberamo Tengah|5||4|1|46000|1275|36|5|59|
 04042021|04|04|2021|325|24|Papua|Kab. Mamberamo Tengah|Mamberamo Tengah|5||4|1|46000|1275|36|5|59|
@@ -4308,6 +4347,9 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 14042020|14|04|2020|325|24|Papua|Kab. Mamberamo Tengah|Mamberamo Tengah|1||1||46000|1275|36|5|59|
 13042020|13|04|2020|325|24|Papua|Kab. Mamberamo Tengah|Mamberamo Tengah|1||1||46000|1275|36|5|59|
 04042020|04|04|2020|325|24|Papua|Kab. Mamberamo Tengah|Mamberamo Tengah|||||46000|1275|36|5|59|
+09042021|09|04|2021|326|24|Papua|Kab. Mappi|Mappi|22||15|7|105000|24118|4|15|164|
+08042021|08|04|2021|326|24|Papua|Kab. Mappi|Mappi|22||15|7|105000|24118|4|15|164|
+07042021|07|04|2021|326|24|Papua|Kab. Mappi|Mappi|22||15|7|105000|24118|4|15|164|
 06042021|06|04|2021|326|24|Papua|Kab. Mappi|Mappi|22||15|7|105000|24118|4|15|164|
 05042021|05|04|2021|326|24|Papua|Kab. Mappi|Mappi|22||15|7|105000|24118|4|15|164|
 04042021|04|04|2021|326|24|Papua|Kab. Mappi|Mappi|22||15|7|105000|24118|4|15|164|
@@ -4589,6 +4631,9 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 23062020|23|06|2020|326|24|Papua|Kab. Mappi|Mappi|||||105000|24118|4|15|164|
 20042020|20|04|2020|326|24|Papua|Kab. Mappi|Mappi|||||105000|24118|4|15|164|
 04042020|04|04|2020|326|24|Papua|Kab. Mappi|Mappi|||||105000|24118|4|15|164|
+09042021|09|04|2021|327|24|Papua|Kab. Merauke|Merauke|358||225|133|229000|44071|5|20|190|6
+08042021|08|04|2021|327|24|Papua|Kab. Merauke|Merauke|357||224|133|229000|44071|5|20|190|6
+07042021|07|04|2021|327|24|Papua|Kab. Merauke|Merauke|356||223|133|229000|44071|5|20|190|6
 06042021|06|04|2021|327|24|Papua|Kab. Merauke|Merauke|355||223|132|229000|44071|5|20|190|6
 05042021|05|04|2021|327|24|Papua|Kab. Merauke|Merauke|354||223|131|229000|44071|5|20|190|6
 04042021|04|04|2021|327|24|Papua|Kab. Merauke|Merauke|354||222|132|229000|44071|5|20|190|6
@@ -4958,6 +5003,9 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 05042020|05|04|2020|327|24|Papua|Kab. Merauke|Merauke|4|||4|229000|44071|5|20|190|6
 04042020|04|04|2020|327|24|Papua|Kab. Merauke|Merauke|2|||2|229000|44071|5|20|190|6
 03042020|03|04|2020|327|24|Papua|Kab. Merauke|Merauke|2|||2|229000|44071|5|20|190|6
+09042021|09|04|2021|328|24|Papua|Kab. Mimika|Mimika|5846|32|3159|2655|316000|21633|15|18|152|6
+08042021|08|04|2021|328|24|Papua|Kab. Mimika|Mimika|5828|32|3148|2648|316000|21633|15|18|152|6
+07042021|07|04|2021|328|24|Papua|Kab. Mimika|Mimika|5807|32|3138|2637|316000|21633|15|18|152|6
 06042021|06|04|2021|328|24|Papua|Kab. Mimika|Mimika|5791|32|3132|2627|316000|21633|15|18|152|6
 05042021|05|04|2021|328|24|Papua|Kab. Mimika|Mimika|5783|32|3131|2620|316000|21633|15|18|152|6
 04042021|04|04|2021|328|24|Papua|Kab. Mimika|Mimika|5781|32|3117|2632|316000|21633|15|18|152|6
@@ -5327,6 +5375,9 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 05042020|05|04|2020|328|24|Papua|Kab. Mimika|Mimika|8|1|1|6|316000|21633|15|18|152|6
 04042020|04|04|2020|328|24|Papua|Kab. Mimika|Mimika|3||1|2|316000|21633|15|18|152|6
 03042020|03|04|2020|328|24|Papua|Kab. Mimika|Mimika|3||1|2|316000|21633|15|18|152|6
+09042021|09|04|2021|329|24|Papua|Kab. Nabire|Nabire|713|12|350|351|172000|11112.6|15|15|81|44
+08042021|08|04|2021|329|24|Papua|Kab. Nabire|Nabire|711|12|349|350|172000|11112.6|15|15|81|44
+07042021|07|04|2021|329|24|Papua|Kab. Nabire|Nabire|708|12|348|348|172000|11112.6|15|15|81|44
 06042021|06|04|2021|329|24|Papua|Kab. Nabire|Nabire|706|12|347|347|172000|11112.6|15|15|81|44
 05042021|05|04|2021|329|24|Papua|Kab. Nabire|Nabire|705|12|347|346|172000|11112.6|15|15|81|44
 04042021|04|04|2021|329|24|Papua|Kab. Nabire|Nabire|705|12|345|348|172000|11112.6|15|15|81|44
@@ -5683,6 +5734,9 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 18042020|18|04|2020|329|24|Papua|Kab. Nabire|Nabire|3||2|1|172000|11112.6|15|15|81|44
 17042020|17|04|2020|329|24|Papua|Kab. Nabire|Nabire|3||2|1|172000|11112.6|15|15|81|44
 04042020|04|04|2020|329|24|Papua|Kab. Nabire|Nabire|||||172000|11112.6|15|15|81|44
+09042021|09|04|2021|330|24|Papua|Kab. Nduga|Nduga|||||110000|2168|51|32|248|
+08042021|08|04|2021|330|24|Papua|Kab. Nduga|Nduga|||||110000|2168|51|32|248|
+07042021|07|04|2021|330|24|Papua|Kab. Nduga|Nduga|||||110000|2168|51|32|248|
 06042021|06|04|2021|330|24|Papua|Kab. Nduga|Nduga|||||110000|2168|51|32|248|
 05042021|05|04|2021|330|24|Papua|Kab. Nduga|Nduga|||||110000|2168|51|32|248|
 04042021|04|04|2021|330|24|Papua|Kab. Nduga|Nduga|||||110000|2168|51|32|248|
@@ -5953,6 +6007,9 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 23062020|23|06|2020|330|24|Papua|Kab. Nduga|Nduga|||||110000|2168|51|32|248|
 20042020|20|04|2020|330|24|Papua|Kab. Nduga|Nduga|||||110000|2168|51|32|248|
 04042020|04|04|2020|330|24|Papua|Kab. Nduga|Nduga|||||110000|2168|51|32|248|
+09042021|09|04|2021|331|24|Papua|Kab. Paniai|Paniai|24|1|18|5|121000|6525.3|19|23|221|
+08042021|08|04|2021|331|24|Papua|Kab. Paniai|Paniai|24|1|18|5|121000|6525.3|19|23|221|
+07042021|07|04|2021|331|24|Papua|Kab. Paniai|Paniai|24|1|18|5|121000|6525.3|19|23|221|
 06042021|06|04|2021|331|24|Papua|Kab. Paniai|Paniai|24|1|18|5|121000|6525.3|19|23|221|
 05042021|05|04|2021|331|24|Papua|Kab. Paniai|Paniai|24|1|18|5|121000|6525.3|19|23|221|
 04042021|04|04|2021|331|24|Papua|Kab. Paniai|Paniai|24|1|18|5|121000|6525.3|19|23|221|
@@ -6234,6 +6291,9 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 23062020|23|06|2020|331|24|Papua|Kab. Paniai|Paniai|||||121000|6525.3|19|23|221|
 20042020|20|04|2020|331|24|Papua|Kab. Paniai|Paniai|||||121000|6525.3|19|23|221|
 04042020|04|04|2020|331|24|Papua|Kab. Paniai|Paniai|||||121000|6525.3|19|23|221|
+09042021|09|04|2021|332|24|Papua|Kab. Pegunungan Bintang|Pegunungan Bintang|9||8|1|111000|15682|7|34|277|
+08042021|08|04|2021|332|24|Papua|Kab. Pegunungan Bintang|Pegunungan Bintang|9||8|1|111000|15682|7|34|277|
+07042021|07|04|2021|332|24|Papua|Kab. Pegunungan Bintang|Pegunungan Bintang|9||8|1|111000|15682|7|34|277|
 06042021|06|04|2021|332|24|Papua|Kab. Pegunungan Bintang|Pegunungan Bintang|9||8|1|111000|15682|7|34|277|
 05042021|05|04|2021|332|24|Papua|Kab. Pegunungan Bintang|Pegunungan Bintang|9||8|1|111000|15682|7|34|277|
 04042021|04|04|2021|332|24|Papua|Kab. Pegunungan Bintang|Pegunungan Bintang|9||8|1|111000|15682|7|34|277|
@@ -6519,6 +6579,9 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 23062020|23|06|2020|332|24|Papua|Kab. Pegunungan Bintang|Pegunungan Bintang|||||111000|15682|7|34|277|
 20042020|20|04|2020|332|24|Papua|Kab. Pegunungan Bintang|Pegunungan Bintang|||||111000|15682|7|34|277|
 04042020|04|04|2020|332|24|Papua|Kab. Pegunungan Bintang|Pegunungan Bintang|||||111000|15682|7|34|277|
+09042021|09|04|2021|333|24|Papua|Kab. Puncak|Puncak|||||164000|8055|20|25|206|
+08042021|08|04|2021|333|24|Papua|Kab. Puncak|Puncak|||||164000|8055|20|25|206|
+07042021|07|04|2021|333|24|Papua|Kab. Puncak|Puncak|||||164000|8055|20|25|206|
 06042021|06|04|2021|333|24|Papua|Kab. Puncak|Puncak|||||164000|8055|20|25|206|
 05042021|05|04|2021|333|24|Papua|Kab. Puncak|Puncak|||||164000|8055|20|25|206|
 04042021|04|04|2021|333|24|Papua|Kab. Puncak|Puncak|||||164000|8055|20|25|206|
@@ -6795,6 +6858,9 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 23062020|23|06|2020|333|24|Papua|Kab. Puncak|Puncak|||||164000|8055|20|25|206|
 20042020|20|04|2020|333|24|Papua|Kab. Puncak|Puncak|||||164000|8055|20|25|206|
 04042020|04|04|2020|333|24|Papua|Kab. Puncak|Puncak|||||164000|8055|20|25|206|
+09042021|09|04|2021|334|24|Papua|Kab. Puncak Jaya|Puncak Jaya|3||2|1|222000|4989.5|45|26|305|
+08042021|08|04|2021|334|24|Papua|Kab. Puncak Jaya|Puncak Jaya|3||2|1|222000|4989.5|45|26|305|
+07042021|07|04|2021|334|24|Papua|Kab. Puncak Jaya|Puncak Jaya|3||2|1|222000|4989.5|45|26|305|
 06042021|06|04|2021|334|24|Papua|Kab. Puncak Jaya|Puncak Jaya|3||2|1|222000|4989.5|45|26|305|
 05042021|05|04|2021|334|24|Papua|Kab. Puncak Jaya|Puncak Jaya|3||2|1|222000|4989.5|45|26|305|
 04042021|04|04|2021|334|24|Papua|Kab. Puncak Jaya|Puncak Jaya|3||2|1|222000|4989.5|45|26|305|
@@ -7086,6 +7152,9 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 22062020|22|06|2020|334|24|Papua|Kab. Puncak Jaya|Puncak Jaya|1||1||222000|4989.5|45|26|305|
 20042020|20|04|2020|334|24|Papua|Kab. Puncak Jaya|Puncak Jaya|||||222000|4989.5|45|26|305|
 04042020|04|04|2020|334|24|Papua|Kab. Puncak Jaya|Puncak Jaya|||||222000|4989.5|45|26|305|
+09042021|09|04|2021|335|24|Papua|Kab. Sarmi|Sarmi|37||24|13|38000|17742|2|10|94|15
+08042021|08|04|2021|335|24|Papua|Kab. Sarmi|Sarmi|37||24|13|38000|17742|2|10|94|15
+07042021|07|04|2021|335|24|Papua|Kab. Sarmi|Sarmi|37||24|13|38000|17742|2|10|94|15
 06042021|06|04|2021|335|24|Papua|Kab. Sarmi|Sarmi|37||24|13|38000|17742|2|10|94|15
 05042021|05|04|2021|335|24|Papua|Kab. Sarmi|Sarmi|37||24|13|38000|17742|2|10|94|15
 04042021|04|04|2021|335|24|Papua|Kab. Sarmi|Sarmi|37||24|13|38000|17742|2|10|94|15
@@ -7450,6 +7519,9 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 10042020|10|04|2020|335|24|Papua|Kab. Sarmi|Sarmi|1||1||38000|17742|2|10|94|15
 09042020|09|04|2020|335|24|Papua|Kab. Sarmi|Sarmi|1||1||38000|17742|2|10|94|15
 04042020|04|04|2020|335|24|Papua|Kab. Sarmi|Sarmi|||||38000|17742|2|10|94|15
+09042021|09|04|2021|336|24|Papua|Kab. Supiori|Supiori|92||59|33|22000|678.3|32|5|38|212
+08042021|08|04|2021|336|24|Papua|Kab. Supiori|Supiori|92||59|33|22000|678.3|32|5|38|212
+07042021|07|04|2021|336|24|Papua|Kab. Supiori|Supiori|92||59|33|22000|678.3|32|5|38|212
 06042021|06|04|2021|336|24|Papua|Kab. Supiori|Supiori|92||59|33|22000|678.3|32|5|38|212
 05042021|05|04|2021|336|24|Papua|Kab. Supiori|Supiori|92||59|33|22000|678.3|32|5|38|212
 04042021|04|04|2021|336|24|Papua|Kab. Supiori|Supiori|92||59|33|22000|678.3|32|5|38|212
@@ -7796,6 +7868,9 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 28042020|28|04|2020|336|24|Papua|Kab. Supiori|Supiori|2||1|1|22000|678.3|32|5|38|212
 20042020|20|04|2020|336|24|Papua|Kab. Supiori|Supiori|||||22000|678.3|32|5|38|212
 04042020|04|04|2020|336|24|Papua|Kab. Supiori|Supiori|||||22000|678.3|32|5|38|212
+09042021|09|04|2021|337|24|Papua|Kab. Tolikara|Tolikara|32||28|4|255000|5588.1|46|46|545|
+08042021|08|04|2021|337|24|Papua|Kab. Tolikara|Tolikara|32||28|4|255000|5588.1|46|46|545|
+07042021|07|04|2021|337|24|Papua|Kab. Tolikara|Tolikara|32||28|4|255000|5588.1|46|46|545|
 06042021|06|04|2021|337|24|Papua|Kab. Tolikara|Tolikara|32||28|4|255000|5588.1|46|46|545|
 05042021|05|04|2021|337|24|Papua|Kab. Tolikara|Tolikara|32||28|4|255000|5588.1|46|46|545|
 04042021|04|04|2021|337|24|Papua|Kab. Tolikara|Tolikara|32||28|4|255000|5588.1|46|46|545|
@@ -8083,6 +8158,9 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 23062020|23|06|2020|337|24|Papua|Kab. Tolikara|Tolikara|||||255000|5588.1|46|46|545|
 20042020|20|04|2020|337|24|Papua|Kab. Tolikara|Tolikara|||||255000|5588.1|46|46|545|
 04042020|04|04|2020|337|24|Papua|Kab. Tolikara|Tolikara|||||255000|5588.1|46|46|545|
+09042021|09|04|2021|338|24|Papua|Kab. Waropen|Waropen|1||1||34000|10977.1|3|11|100|1
+08042021|08|04|2021|338|24|Papua|Kab. Waropen|Waropen|1||1||34000|10977.1|3|11|100|1
+07042021|07|04|2021|338|24|Papua|Kab. Waropen|Waropen|1||1||34000|10977.1|3|11|100|1
 06042021|06|04|2021|338|24|Papua|Kab. Waropen|Waropen|1||1||34000|10977.1|3|11|100|1
 05042021|05|04|2021|338|24|Papua|Kab. Waropen|Waropen|1||1||34000|10977.1|3|11|100|1
 04042021|04|04|2021|338|24|Papua|Kab. Waropen|Waropen|1||1||34000|10977.1|3|11|100|1
@@ -8402,6 +8480,9 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 25052020|25|05|2020|338|24|Papua|Kab. Waropen|Waropen|1||1||34000|10977.1|3|11|100|1
 20042020|20|04|2020|338|24|Papua|Kab. Waropen|Waropen|||||34000|10977.1|3|11|100|1
 04042020|04|04|2020|338|24|Papua|Kab. Waropen|Waropen|||||34000|10977.1|3|11|100|1
+09042021|09|04|2021|339|24|Papua|Kab. Yahukimo|Yahukimo|||||361000|17152|21|51|511|
+08042021|08|04|2021|339|24|Papua|Kab. Yahukimo|Yahukimo|||||361000|17152|21|51|511|
+07042021|07|04|2021|339|24|Papua|Kab. Yahukimo|Yahukimo|||||361000|17152|21|51|511|
 06042021|06|04|2021|339|24|Papua|Kab. Yahukimo|Yahukimo|||||361000|17152|21|51|511|
 05042021|05|04|2021|339|24|Papua|Kab. Yahukimo|Yahukimo|||||361000|17152|21|51|511|
 04042021|04|04|2021|339|24|Papua|Kab. Yahukimo|Yahukimo|||||361000|17152|21|51|511|
@@ -8678,6 +8759,9 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 23062020|23|06|2020|339|24|Papua|Kab. Yahukimo|Yahukimo|||||361000|17152|21|51|511|
 20042020|20|04|2020|339|24|Papua|Kab. Yahukimo|Yahukimo|||||361000|17152|21|51|511|
 04042020|04|04|2020|339|24|Papua|Kab. Yahukimo|Yahukimo|||||361000|17152|21|51|511|
+09042021|09|04|2021|340|24|Papua|Kab. Yalimo|Yalimo|17||16|1|123000|1253|98|5|300|
+08042021|08|04|2021|340|24|Papua|Kab. Yalimo|Yalimo|17||16|1|123000|1253|98|5|300|
+07042021|07|04|2021|340|24|Papua|Kab. Yalimo|Yalimo|17||16|1|123000|1253|98|5|300|
 06042021|06|04|2021|340|24|Papua|Kab. Yalimo|Yalimo|17||16|1|123000|1253|98|5|300|
 05042021|05|04|2021|340|24|Papua|Kab. Yalimo|Yalimo|17||16|1|123000|1253|98|5|300|
 04042021|04|04|2021|340|24|Papua|Kab. Yalimo|Yalimo|17||16|1|123000|1253|98|5|300|
