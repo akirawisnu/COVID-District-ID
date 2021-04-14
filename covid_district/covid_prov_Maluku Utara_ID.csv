@@ -1,4 +1,6 @@
 date|day|month|year|id_district|id_province|province_name|district_name|city_name|confirmed_case|death_case|recovered_case|active_case|population|area_km2|pop_density|num_kecamatan|num_village|num_islands
+11042021|11|04|2021|249|21|Maluku Utara|Kab. Halmahera Barat|Halmahera Barat|136|12|115|9|137000|1704.2|80|8|169|139
+10042021|10|04|2021|249|21|Maluku Utara|Kab. Halmahera Barat|Halmahera Barat|136|12|115|9|137000|1704.2|80|8|169|139
 09042021|09|04|2021|249|21|Maluku Utara|Kab. Halmahera Barat|Halmahera Barat|136|12|115|9|137000|1704.2|80|8|169|139
 08042021|08|04|2021|249|21|Maluku Utara|Kab. Halmahera Barat|Halmahera Barat|136|12|115|9|137000|1704.2|80|8|169|139
 07042021|07|04|2021|249|21|Maluku Utara|Kab. Halmahera Barat|Halmahera Barat|136|12|115|9|137000|1704.2|80|8|169|139
@@ -368,6 +370,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 08042020|08|04|2020|249|21|Maluku Utara|Kab. Halmahera Barat|Halmahera Barat|||||137000|1704.2|80|8|169|139
 07042020|07|04|2020|249|21|Maluku Utara|Kab. Halmahera Barat|Halmahera Barat|||||137000|1704.2|80|8|169|139
 06042020|06|04|2020|249|21|Maluku Utara|Kab. Halmahera Barat|Halmahera Barat|||||137000|1704.2|80|8|169|139
+11042021|11|04|2021|250|21|Maluku Utara|Kab. Halmahera Selatan|Halmahera Selatan|630|10|365|255|255000|8148.9|31|30|249|355
+10042021|10|04|2021|250|21|Maluku Utara|Kab. Halmahera Selatan|Halmahera Selatan|630|10|365|255|255000|8148.9|31|30|249|355
 09042021|09|04|2021|250|21|Maluku Utara|Kab. Halmahera Selatan|Halmahera Selatan|630|10|365|255|255000|8148.9|31|30|249|355
 08042021|08|04|2021|250|21|Maluku Utara|Kab. Halmahera Selatan|Halmahera Selatan|630|10|365|255|255000|8148.9|31|30|249|355
 07042021|07|04|2021|250|21|Maluku Utara|Kab. Halmahera Selatan|Halmahera Selatan|630|10|365|255|255000|8148.9|31|30|249|355
@@ -737,6 +741,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 08042020|08|04|2020|250|21|Maluku Utara|Kab. Halmahera Selatan|Halmahera Selatan|||||255000|8148.9|31|30|249|355
 07042020|07|04|2020|250|21|Maluku Utara|Kab. Halmahera Selatan|Halmahera Selatan|||||255000|8148.9|31|30|249|355
 06042020|06|04|2020|250|21|Maluku Utara|Kab. Halmahera Selatan|Halmahera Selatan|||||255000|8148.9|31|30|249|355
+11042021|11|04|2021|251|21|Maluku Utara|Kab. Halmahera Tengah|Halmahera Tengah|28|2|25|1|52000|2653.8|20|10|61|43
+10042021|10|04|2021|251|21|Maluku Utara|Kab. Halmahera Tengah|Halmahera Tengah|28|2|25|1|52000|2653.8|20|10|61|43
 09042021|09|04|2021|251|21|Maluku Utara|Kab. Halmahera Tengah|Halmahera Tengah|28|2|25|1|52000|2653.8|20|10|61|43
 08042021|08|04|2021|251|21|Maluku Utara|Kab. Halmahera Tengah|Halmahera Tengah|28|2|25|1|52000|2653.8|20|10|61|43
 07042021|07|04|2021|251|21|Maluku Utara|Kab. Halmahera Tengah|Halmahera Tengah|28|2|25|1|52000|2653.8|20|10|61|43
@@ -1106,6 +1112,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 08042020|08|04|2020|251|21|Maluku Utara|Kab. Halmahera Tengah|Halmahera Tengah|||||52000|2653.8|20|10|61|43
 07042020|07|04|2020|251|21|Maluku Utara|Kab. Halmahera Tengah|Halmahera Tengah|||||52000|2653.8|20|10|61|43
 06042020|06|04|2020|251|21|Maluku Utara|Kab. Halmahera Tengah|Halmahera Tengah|||||52000|2653.8|20|10|61|43
+11042021|11|04|2021|252|21|Maluku Utara|Kab. Halmahera Timur|Halmahera Timur|200|9|186|5|94000|6571.4|14|10|102|41
+10042021|10|04|2021|252|21|Maluku Utara|Kab. Halmahera Timur|Halmahera Timur|200|9|186|5|94000|6571.4|14|10|102|41
 09042021|09|04|2021|252|21|Maluku Utara|Kab. Halmahera Timur|Halmahera Timur|200|9|186|5|94000|6571.4|14|10|102|41
 08042021|08|04|2021|252|21|Maluku Utara|Kab. Halmahera Timur|Halmahera Timur|200|9|186|5|94000|6571.4|14|10|102|41
 07042021|07|04|2021|252|21|Maluku Utara|Kab. Halmahera Timur|Halmahera Timur|200|9|186|5|94000|6571.4|14|10|102|41
@@ -1475,6 +1483,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 08042020|08|04|2020|252|21|Maluku Utara|Kab. Halmahera Timur|Halmahera Timur|||||94000|6571.4|14|10|102|41
 07042020|07|04|2020|252|21|Maluku Utara|Kab. Halmahera Timur|Halmahera Timur|||||94000|6571.4|14|10|102|41
 06042020|06|04|2020|252|21|Maluku Utara|Kab. Halmahera Timur|Halmahera Timur|||||94000|6571.4|14|10|102|41
+11042021|11|04|2021|253|21|Maluku Utara|Kab. Halmahera Utara|Halmahera Utara|782|24|552|206|201000|3896.9|51|17|196|83
+10042021|10|04|2021|253|21|Maluku Utara|Kab. Halmahera Utara|Halmahera Utara|782|24|552|206|201000|3896.9|51|17|196|83
 09042021|09|04|2021|253|21|Maluku Utara|Kab. Halmahera Utara|Halmahera Utara|782|24|552|206|201000|3896.9|51|17|196|83
 08042021|08|04|2021|253|21|Maluku Utara|Kab. Halmahera Utara|Halmahera Utara|782|24|552|206|201000|3896.9|51|17|196|83
 07042021|07|04|2021|253|21|Maluku Utara|Kab. Halmahera Utara|Halmahera Utara|782|24|552|206|201000|3896.9|51|17|196|83
@@ -1844,6 +1854,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 08042020|08|04|2020|253|21|Maluku Utara|Kab. Halmahera Utara|Halmahera Utara|||||201000|3896.9|51|17|196|83
 07042020|07|04|2020|253|21|Maluku Utara|Kab. Halmahera Utara|Halmahera Utara|||||201000|3896.9|51|17|196|83
 06042020|06|04|2020|253|21|Maluku Utara|Kab. Halmahera Utara|Halmahera Utara|||||201000|3896.9|51|17|196|83
+11042021|11|04|2021|254|21|Maluku Utara|Kab. Kepulauan Sula|Kepulauan Sula|137|8|122|7|114000|3304.3|35|12|78|32
+10042021|10|04|2021|254|21|Maluku Utara|Kab. Kepulauan Sula|Kepulauan Sula|137|8|122|7|114000|3304.3|35|12|78|32
 09042021|09|04|2021|254|21|Maluku Utara|Kab. Kepulauan Sula|Kepulauan Sula|137|8|121|8|114000|3304.3|35|12|78|32
 08042021|08|04|2021|254|21|Maluku Utara|Kab. Kepulauan Sula|Kepulauan Sula|137|8|121|8|114000|3304.3|35|12|78|32
 07042021|07|04|2021|254|21|Maluku Utara|Kab. Kepulauan Sula|Kepulauan Sula|137|8|121|8|114000|3304.3|35|12|78|32
@@ -2213,6 +2225,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 08042020|08|04|2020|254|21|Maluku Utara|Kab. Kepulauan Sula|Kepulauan Sula|||||114000|3304.3|35|12|78|32
 07042020|07|04|2020|254|21|Maluku Utara|Kab. Kepulauan Sula|Kepulauan Sula|||||114000|3304.3|35|12|78|32
 06042020|06|04|2020|254|21|Maluku Utara|Kab. Kepulauan Sula|Kepulauan Sula|||||114000|3304.3|35|12|78|32
+11042021|11|04|2021|255|21|Maluku Utara|Kab. Pulau Morotai|Pulau Morotai|521|1|516|4|69000|2476|28|5|88|31
+10042021|10|04|2021|255|21|Maluku Utara|Kab. Pulau Morotai|Pulau Morotai|521|1|516|4|69000|2476|28|5|88|31
 09042021|09|04|2021|255|21|Maluku Utara|Kab. Pulau Morotai|Pulau Morotai|521|1|516|4|69000|2476|28|5|88|31
 08042021|08|04|2021|255|21|Maluku Utara|Kab. Pulau Morotai|Pulau Morotai|521|1|516|4|69000|2476|28|5|88|31
 07042021|07|04|2021|255|21|Maluku Utara|Kab. Pulau Morotai|Pulau Morotai|521|1|516|4|69000|2476|28|5|88|31
@@ -2582,6 +2596,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 08042020|08|04|2020|255|21|Maluku Utara|Kab. Pulau Morotai|Pulau Morotai|||||69000|2476|28|5|88|31
 07042020|07|04|2020|255|21|Maluku Utara|Kab. Pulau Morotai|Pulau Morotai|||||69000|2476|28|5|88|31
 06042020|06|04|2020|255|21|Maluku Utara|Kab. Pulau Morotai|Pulau Morotai|||||69000|2476|28|5|88|31
+11042021|11|04|2021|256|21|Maluku Utara|Kota Ternate|Kota Ternate|1336|31|1272|33|223000|111.4|1998|7|77|10
+10042021|10|04|2021|256|21|Maluku Utara|Kota Ternate|Kota Ternate|1336|31|1272|33|223000|111.4|1998|7|77|10
 09042021|09|04|2021|256|21|Maluku Utara|Kota Ternate|Kota Ternate|1336|31|1272|33|223000|111.4|1998|7|77|10
 08042021|08|04|2021|256|21|Maluku Utara|Kota Ternate|Kota Ternate|1336|31|1272|33|223000|111.4|1998|7|77|10
 07042021|07|04|2021|256|21|Maluku Utara|Kota Ternate|Kota Ternate|1336|31|1272|33|223000|111.4|1998|7|77|10
@@ -2951,6 +2967,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 08042020|08|04|2020|256|21|Maluku Utara|Kota Ternate|Kota Ternate|1||1||223000|111.4|1998|7|77|10
 07042020|07|04|2020|256|21|Maluku Utara|Kota Ternate|Kota Ternate|1||1||223000|111.4|1998|7|77|10
 06042020|06|04|2020|256|21|Maluku Utara|Kota Ternate|Kota Ternate|1||1||223000|111.4|1998|7|77|10
+11042021|11|04|2021|257|21|Maluku Utara|Kota Tidore Kepulauan|Kota Tidore Kepulauan|534|25|503|6|115000|1645.7|70|8|89|11
+10042021|10|04|2021|257|21|Maluku Utara|Kota Tidore Kepulauan|Kota Tidore Kepulauan|534|25|503|6|115000|1645.7|70|8|89|11
 09042021|09|04|2021|257|21|Maluku Utara|Kota Tidore Kepulauan|Kota Tidore Kepulauan|534|25|503|6|115000|1645.7|70|8|89|11
 08042021|08|04|2021|257|21|Maluku Utara|Kota Tidore Kepulauan|Kota Tidore Kepulauan|534|25|503|6|115000|1645.7|70|8|89|11
 07042021|07|04|2021|257|21|Maluku Utara|Kota Tidore Kepulauan|Kota Tidore Kepulauan|534|25|503|6|115000|1645.7|70|8|89|11
@@ -3320,6 +3338,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 08042020|08|04|2020|257|21|Maluku Utara|Kota Tidore Kepulauan|Kota Tidore Kepulauan|||||115000|1645.7|70|8|89|11
 07042020|07|04|2020|257|21|Maluku Utara|Kota Tidore Kepulauan|Kota Tidore Kepulauan|||||115000|1645.7|70|8|89|11
 06042020|06|04|2020|257|21|Maluku Utara|Kota Tidore Kepulauan|Kota Tidore Kepulauan|||||115000|1645.7|70|8|89|11
+11042021|11|04|2021|503|21|Maluku Utara|Kab. Pulau Taliabu|Pulau Taliabu|6||6||58000|1469.9|39|8|71|54
+10042021|10|04|2021|503|21|Maluku Utara|Kab. Pulau Taliabu|Pulau Taliabu|6||6||58000|1469.9|39|8|71|54
 09042021|09|04|2021|503|21|Maluku Utara|Kab. Pulau Taliabu|Pulau Taliabu|6||6||58000|1469.9|39|8|71|54
 08042021|08|04|2021|503|21|Maluku Utara|Kab. Pulau Taliabu|Pulau Taliabu|6||6||58000|1469.9|39|8|71|54
 07042021|07|04|2021|503|21|Maluku Utara|Kab. Pulau Taliabu|Pulau Taliabu|6||6||58000|1469.9|39|8|71|54
