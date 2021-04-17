@@ -1,4 +1,7 @@
 date|day|month|year|id_district|id_province|province_name|district_name|city_name|confirmed_case|death_case|recovered_case|active_case|population|area_km2|pop_density|num_kecamatan|num_village|num_islands
+14042021|14|04|2021|392|29|Sulawesi Tengah|Kab. Banggai|Banggai|1241|42|1172|27|371000|9672.700000000001|38|23|337|41
+13042021|13|04|2021|392|29|Sulawesi Tengah|Kab. Banggai|Banggai|1239|42|1167|30|371000|9672.700000000001|38|23|337|41
+12042021|12|04|2021|392|29|Sulawesi Tengah|Kab. Banggai|Banggai|1236|42|1167|27|371000|9672.700000000001|38|23|337|41
 11042021|11|04|2021|392|29|Sulawesi Tengah|Kab. Banggai|Banggai|1233|42|1159|32|371000|9672.700000000001|38|23|337|41
 10042021|10|04|2021|392|29|Sulawesi Tengah|Kab. Banggai|Banggai|1232|42|1159|31|371000|9672.700000000001|38|23|337|41
 09042021|09|04|2021|392|29|Sulawesi Tengah|Kab. Banggai|Banggai|1232|42|1159|31|371000|9672.700000000001|38|23|337|41
@@ -381,6 +384,9 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 28032020|28|03|2020|392|29|Sulawesi Tengah|Kab. Banggai|Banggai|||||371000|9672.700000000001|38|23|337|41
 27032020|27|03|2020|392|29|Sulawesi Tengah|Kab. Banggai|Banggai|||||371000|9672.700000000001|38|23|337|41
 26032020|26|03|2020|392|29|Sulawesi Tengah|Kab. Banggai|Banggai|||||371000|9672.700000000001|38|23|337|41
+14042021|14|04|2021|393|29|Sulawesi Tengah|Kab. Banggai Kepulauan|Banggai Kepulauan|295|7|285|3|121000|2488.8|49|12|144|224
+13042021|13|04|2021|393|29|Sulawesi Tengah|Kab. Banggai Kepulauan|Banggai Kepulauan|295|7|285|3|121000|2488.8|49|12|144|224
+12042021|12|04|2021|393|29|Sulawesi Tengah|Kab. Banggai Kepulauan|Banggai Kepulauan|295|7|285|3|121000|2488.8|49|12|144|224
 11042021|11|04|2021|393|29|Sulawesi Tengah|Kab. Banggai Kepulauan|Banggai Kepulauan|295|7|285|3|121000|2488.8|49|12|144|224
 10042021|10|04|2021|393|29|Sulawesi Tengah|Kab. Banggai Kepulauan|Banggai Kepulauan|295|7|285|3|121000|2488.8|49|12|144|224
 09042021|09|04|2021|393|29|Sulawesi Tengah|Kab. Banggai Kepulauan|Banggai Kepulauan|295|7|285|3|121000|2488.8|49|12|144|224
@@ -763,6 +769,9 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 28032020|28|03|2020|393|29|Sulawesi Tengah|Kab. Banggai Kepulauan|Banggai Kepulauan|||||121000|2488.8|49|12|144|224
 27032020|27|03|2020|393|29|Sulawesi Tengah|Kab. Banggai Kepulauan|Banggai Kepulauan|||||121000|2488.8|49|12|144|224
 26032020|26|03|2020|393|29|Sulawesi Tengah|Kab. Banggai Kepulauan|Banggai Kepulauan|||||121000|2488.8|49|12|144|224
+14042021|14|04|2021|394|29|Sulawesi Tengah|Kab. Buol|Buol|375|4|231|140|137000|4043.6|34|11|115|13
+13042021|13|04|2021|394|29|Sulawesi Tengah|Kab. Buol|Buol|353|4|231|118|137000|4043.6|34|11|115|13
+12042021|12|04|2021|394|29|Sulawesi Tengah|Kab. Buol|Buol|335|4|227|104|137000|4043.6|34|11|115|13
 11042021|11|04|2021|394|29|Sulawesi Tengah|Kab. Buol|Buol|320|4|191|125|137000|4043.6|34|11|115|13
 10042021|10|04|2021|394|29|Sulawesi Tengah|Kab. Buol|Buol|319|4|172|143|137000|4043.6|34|11|115|13
 09042021|09|04|2021|394|29|Sulawesi Tengah|Kab. Buol|Buol|314|4|172|138|137000|4043.6|34|11|115|13
@@ -1145,6 +1154,9 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 28032020|28|03|2020|394|29|Sulawesi Tengah|Kab. Buol|Buol|||||137000|4043.6|34|11|115|13
 27032020|27|03|2020|394|29|Sulawesi Tengah|Kab. Buol|Buol|||||137000|4043.6|34|11|115|13
 26032020|26|03|2020|394|29|Sulawesi Tengah|Kab. Buol|Buol|||||137000|4043.6|34|11|115|13
+14042021|14|04|2021|395|29|Sulawesi Tengah|Kab. Donggala|Donggala|538|12|472|54|303000|4275.1|71|16|167|31
+13042021|13|04|2021|395|29|Sulawesi Tengah|Kab. Donggala|Donggala|535|12|472|51|303000|4275.1|71|16|167|31
+12042021|12|04|2021|395|29|Sulawesi Tengah|Kab. Donggala|Donggala|530|12|427|91|303000|4275.1|71|16|167|31
 11042021|11|04|2021|395|29|Sulawesi Tengah|Kab. Donggala|Donggala|529|12|407|110|303000|4275.1|71|16|167|31
 10042021|10|04|2021|395|29|Sulawesi Tengah|Kab. Donggala|Donggala|529|12|407|110|303000|4275.1|71|16|167|31
 09042021|09|04|2021|395|29|Sulawesi Tengah|Kab. Donggala|Donggala|529|12|407|110|303000|4275.1|71|16|167|31
@@ -1527,6 +1539,9 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 28032020|28|03|2020|395|29|Sulawesi Tengah|Kab. Donggala|Donggala|||||303000|4275.1|71|16|167|31
 27032020|27|03|2020|395|29|Sulawesi Tengah|Kab. Donggala|Donggala|||||303000|4275.1|71|16|167|31
 26032020|26|03|2020|395|29|Sulawesi Tengah|Kab. Donggala|Donggala|||||303000|4275.1|71|16|167|31
+14042021|14|04|2021|396|29|Sulawesi Tengah|Kab. Morowali|Morowali|1113|23|1059|31|134000|3037|44|9|133|117
+13042021|13|04|2021|396|29|Sulawesi Tengah|Kab. Morowali|Morowali|1113|23|1059|31|134000|3037|44|9|133|117
+12042021|12|04|2021|396|29|Sulawesi Tengah|Kab. Morowali|Morowali|1113|23|1059|31|134000|3037|44|9|133|117
 11042021|11|04|2021|396|29|Sulawesi Tengah|Kab. Morowali|Morowali|1113|23|1057|33|134000|3037|44|9|133|117
 10042021|10|04|2021|396|29|Sulawesi Tengah|Kab. Morowali|Morowali|1113|23|1057|33|134000|3037|44|9|133|117
 09042021|09|04|2021|396|29|Sulawesi Tengah|Kab. Morowali|Morowali|1113|23|1057|33|134000|3037|44|9|133|117
@@ -1909,6 +1924,9 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 28032020|28|03|2020|396|29|Sulawesi Tengah|Kab. Morowali|Morowali|||||134000|3037|44|9|133|117
 27032020|27|03|2020|396|29|Sulawesi Tengah|Kab. Morowali|Morowali|||||134000|3037|44|9|133|117
 26032020|26|03|2020|396|29|Sulawesi Tengah|Kab. Morowali|Morowali|||||134000|3037|44|9|133|117
+14042021|14|04|2021|397|29|Sulawesi Tengah|Kota Palu|Kota Palu|3106|90|2861|155|376000|395.1|951|8|46|
+13042021|13|04|2021|397|29|Sulawesi Tengah|Kota Palu|Kota Palu|3092|90|2861|141|376000|395.1|951|8|46|
+12042021|12|04|2021|397|29|Sulawesi Tengah|Kota Palu|Kota Palu|3088|90|2861|137|376000|395.1|951|8|46|
 11042021|11|04|2021|397|29|Sulawesi Tengah|Kota Palu|Kota Palu|3082|90|2858|134|376000|395.1|951|8|46|
 10042021|10|04|2021|397|29|Sulawesi Tengah|Kota Palu|Kota Palu|3081|89|2857|135|376000|395.1|951|8|46|
 09042021|09|04|2021|397|29|Sulawesi Tengah|Kota Palu|Kota Palu|3075|88|2844|143|376000|395.1|951|8|46|
@@ -2291,6 +2309,9 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 28032020|28|03|2020|397|29|Sulawesi Tengah|Kota Palu|Kota Palu|1||1||376000|395.1|951|8|46|
 27032020|27|03|2020|397|29|Sulawesi Tengah|Kota Palu|Kota Palu|1||1||376000|395.1|951|8|46|
 26032020|26|03|2020|397|29|Sulawesi Tengah|Kota Palu|Kota Palu|1||1||376000|395.1|951|8|46|
+14042021|14|04|2021|398|29|Sulawesi Tengah|Kab. Parigi Moutong|Parigi Moutong|953|15|830|108|459000|5089.9|90|23|283|21
+13042021|13|04|2021|398|29|Sulawesi Tengah|Kab. Parigi Moutong|Parigi Moutong|943|15|769|159|459000|5089.9|90|23|283|21
+12042021|12|04|2021|398|29|Sulawesi Tengah|Kab. Parigi Moutong|Parigi Moutong|935|14|769|152|459000|5089.9|90|23|283|21
 11042021|11|04|2021|398|29|Sulawesi Tengah|Kab. Parigi Moutong|Parigi Moutong|917|14|752|151|459000|5089.9|90|23|283|21
 10042021|10|04|2021|398|29|Sulawesi Tengah|Kab. Parigi Moutong|Parigi Moutong|917|14|736|167|459000|5089.9|90|23|283|21
 09042021|09|04|2021|398|29|Sulawesi Tengah|Kab. Parigi Moutong|Parigi Moutong|915|14|736|165|459000|5089.9|90|23|283|21
@@ -2673,6 +2694,9 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 28032020|28|03|2020|398|29|Sulawesi Tengah|Kab. Parigi Moutong|Parigi Moutong|||||459000|5089.9|90|23|283|21
 27032020|27|03|2020|398|29|Sulawesi Tengah|Kab. Parigi Moutong|Parigi Moutong|||||459000|5089.9|90|23|283|21
 26032020|26|03|2020|398|29|Sulawesi Tengah|Kab. Parigi Moutong|Parigi Moutong|||||459000|5089.9|90|23|283|21
+14042021|14|04|2021|399|29|Sulawesi Tengah|Kab. Poso|Poso|1659|46|1573|40|251000|7112.3|35|19|170|1
+13042021|13|04|2021|399|29|Sulawesi Tengah|Kab. Poso|Poso|1658|46|1567|45|251000|7112.3|35|19|170|1
+12042021|12|04|2021|399|29|Sulawesi Tengah|Kab. Poso|Poso|1655|46|1567|42|251000|7112.3|35|19|170|1
 11042021|11|04|2021|399|29|Sulawesi Tengah|Kab. Poso|Poso|1652|46|1565|41|251000|7112.3|35|19|170|1
 10042021|10|04|2021|399|29|Sulawesi Tengah|Kab. Poso|Poso|1650|46|1565|39|251000|7112.3|35|19|170|1
 09042021|09|04|2021|399|29|Sulawesi Tengah|Kab. Poso|Poso|1649|46|1565|38|251000|7112.3|35|19|170|1
@@ -3055,6 +3079,9 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 28032020|28|03|2020|399|29|Sulawesi Tengah|Kab. Poso|Poso|||||251000|7112.3|35|19|170|1
 27032020|27|03|2020|399|29|Sulawesi Tengah|Kab. Poso|Poso|||||251000|7112.3|35|19|170|1
 26032020|26|03|2020|399|29|Sulawesi Tengah|Kab. Poso|Poso|||||251000|7112.3|35|19|170|1
+14042021|14|04|2021|400|29|Sulawesi Tengah|Kab. Sigi|Sigi|650|16|610|24|255000|5196|49|15|176|1
+13042021|13|04|2021|400|29|Sulawesi Tengah|Kab. Sigi|Sigi|646|16|606|24|255000|5196|49|15|176|1
+12042021|12|04|2021|400|29|Sulawesi Tengah|Kab. Sigi|Sigi|638|16|592|30|255000|5196|49|15|176|1
 11042021|11|04|2021|400|29|Sulawesi Tengah|Kab. Sigi|Sigi|636|16|588|32|255000|5196|49|15|176|1
 10042021|10|04|2021|400|29|Sulawesi Tengah|Kab. Sigi|Sigi|636|16|585|35|255000|5196|49|15|176|1
 09042021|09|04|2021|400|29|Sulawesi Tengah|Kab. Sigi|Sigi|630|16|585|29|255000|5196|49|15|176|1
@@ -3437,6 +3464,9 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 28032020|28|03|2020|400|29|Sulawesi Tengah|Kab. Sigi|Sigi|||||255000|5196|49|15|176|1
 27032020|27|03|2020|400|29|Sulawesi Tengah|Kab. Sigi|Sigi|||||255000|5196|49|15|176|1
 26032020|26|03|2020|400|29|Sulawesi Tengah|Kab. Sigi|Sigi|||||255000|5196|49|15|176|1
+14042021|14|04|2021|401|29|Sulawesi Tengah|Kab. Tojo Una-Una|Tojo Una-Una|521|8|476|37|161000|5721.2|28|12|146|471
+13042021|13|04|2021|401|29|Sulawesi Tengah|Kab. Tojo Una-Una|Tojo Una-Una|520|8|476|36|161000|5721.2|28|12|146|471
+12042021|12|04|2021|401|29|Sulawesi Tengah|Kab. Tojo Una-Una|Tojo Una-Una|514|8|476|30|161000|5721.2|28|12|146|471
 11042021|11|04|2021|401|29|Sulawesi Tengah|Kab. Tojo Una-Una|Tojo Una-Una|514|8|476|30|161000|5721.2|28|12|146|471
 10042021|10|04|2021|401|29|Sulawesi Tengah|Kab. Tojo Una-Una|Tojo Una-Una|514|8|476|30|161000|5721.2|28|12|146|471
 09042021|09|04|2021|401|29|Sulawesi Tengah|Kab. Tojo Una-Una|Tojo Una-Una|514|8|466|40|161000|5721.2|28|12|146|471
@@ -3819,6 +3849,9 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 28032020|28|03|2020|401|29|Sulawesi Tengah|Kab. Tojo Una-Una|Tojo Una-Una|||||161000|5721.2|28|12|146|471
 27032020|27|03|2020|401|29|Sulawesi Tengah|Kab. Tojo Una-Una|Tojo Una-Una|||||161000|5721.2|28|12|146|471
 26032020|26|03|2020|401|29|Sulawesi Tengah|Kab. Tojo Una-Una|Tojo Una-Una|||||161000|5721.2|28|12|146|471
+14042021|14|04|2021|402|29|Sulawesi Tengah|Kab. Toli-Toli|Toli-Toli|498|31|458|9|219000|4079.8|54|10|109|47
+13042021|13|04|2021|402|29|Sulawesi Tengah|Kab. Toli-Toli|Toli-Toli|496|31|458|7|219000|4079.8|54|10|109|47
+12042021|12|04|2021|402|29|Sulawesi Tengah|Kab. Toli-Toli|Toli-Toli|496|31|458|7|219000|4079.8|54|10|109|47
 11042021|11|04|2021|402|29|Sulawesi Tengah|Kab. Toli-Toli|Toli-Toli|495|31|458|6|219000|4079.8|54|10|109|47
 10042021|10|04|2021|402|29|Sulawesi Tengah|Kab. Toli-Toli|Toli-Toli|495|31|458|6|219000|4079.8|54|10|109|47
 09042021|09|04|2021|402|29|Sulawesi Tengah|Kab. Toli-Toli|Toli-Toli|495|31|458|6|219000|4079.8|54|10|109|47
@@ -4201,6 +4234,9 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 28032020|28|03|2020|402|29|Sulawesi Tengah|Kab. Toli-Toli|Toli-Toli|||||219000|4079.8|54|10|109|47
 27032020|27|03|2020|402|29|Sulawesi Tengah|Kab. Toli-Toli|Toli-Toli|||||219000|4079.8|54|10|109|47
 26032020|26|03|2020|402|29|Sulawesi Tengah|Kab. Toli-Toli|Toli-Toli|||||219000|4079.8|54|10|109|47
+14042021|14|04|2021|506|29|Sulawesi Tengah|Kab. Banggai Laut|Banggai Laut|27|2|25||65000|725.7|90|7|66|142
+13042021|13|04|2021|506|29|Sulawesi Tengah|Kab. Banggai Laut|Banggai Laut|27|2|25||65000|725.7|90|7|66|142
+12042021|12|04|2021|506|29|Sulawesi Tengah|Kab. Banggai Laut|Banggai Laut|27|2|25||65000|725.7|90|7|66|142
 11042021|11|04|2021|506|29|Sulawesi Tengah|Kab. Banggai Laut|Banggai Laut|27|2|25||65000|725.7|90|7|66|142
 10042021|10|04|2021|506|29|Sulawesi Tengah|Kab. Banggai Laut|Banggai Laut|27|2|25||65000|725.7|90|7|66|142
 09042021|09|04|2021|506|29|Sulawesi Tengah|Kab. Banggai Laut|Banggai Laut|27|2|25||65000|725.7|90|7|66|142
@@ -4583,6 +4619,9 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 28032020|28|03|2020|506|29|Sulawesi Tengah|Kab. Banggai Laut|Banggai Laut|||||65000|725.7|90|7|66|142
 27032020|27|03|2020|506|29|Sulawesi Tengah|Kab. Banggai Laut|Banggai Laut|||||65000|725.7|90|7|66|142
 26032020|26|03|2020|506|29|Sulawesi Tengah|Kab. Banggai Laut|Banggai Laut|||||65000|725.7|90|7|66|142
+14042021|14|04|2021|507|29|Sulawesi Tengah|Kab. Morowali Utara|Morowali Utara|719|13|677|29|121000|10004.3|12|10|125|58
+13042021|13|04|2021|507|29|Sulawesi Tengah|Kab. Morowali Utara|Morowali Utara|717|13|677|27|121000|10004.3|12|10|125|58
+12042021|12|04|2021|507|29|Sulawesi Tengah|Kab. Morowali Utara|Morowali Utara|717|13|677|27|121000|10004.3|12|10|125|58
 11042021|11|04|2021|507|29|Sulawesi Tengah|Kab. Morowali Utara|Morowali Utara|714|13|676|25|121000|10004.3|12|10|125|58
 10042021|10|04|2021|507|29|Sulawesi Tengah|Kab. Morowali Utara|Morowali Utara|714|13|676|25|121000|10004.3|12|10|125|58
 09042021|09|04|2021|507|29|Sulawesi Tengah|Kab. Morowali Utara|Morowali Utara|714|13|676|25|121000|10004.3|12|10|125|58
