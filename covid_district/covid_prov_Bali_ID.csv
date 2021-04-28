@@ -1,4 +1,8 @@
 date|day|month|year|id_district|id_province|province_name|district_name|city_name|confirmed_case|death_case|recovered_case|active_case|population|area_km2|pop_density|num_kecamatan|num_village|num_islands
+26042021|26|04|2021|1|2|Bali|Kab. Badung|Badung|8351|224|7893|234|484000|418.6|1155|6|62|
+25042021|25|04|2021|1|2|Bali|Kab. Badung|Badung|8330|223|7868|239|484000|418.6|1155|6|62|
+24042021|24|04|2021|1|2|Bali|Kab. Badung|Badung|8322|223|7858|241|484000|418.6|1155|6|62|
+23042021|23|04|2021|1|2|Bali|Kab. Badung|Badung|8309|222|7852|235|484000|418.6|1155|6|62|
 22042021|22|04|2021|1|2|Bali|Kab. Badung|Badung|8292|221|7827|244|484000|418.6|1155|6|62|
 21042021|21|04|2021|1|2|Bali|Kab. Badung|Badung|8261|218|7791|252|484000|418.6|1155|6|62|
 20042021|20|04|2021|1|2|Bali|Kab. Badung|Badung|8222|216|7776|230|484000|418.6|1155|6|62|
@@ -364,6 +368,10 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 25042020|25|04|2020|1|2|Bali|Kab. Badung|Badung|12||6|6|484000|418.6|1155|6|62|
 24042020|24|04|2020|1|2|Bali|Kab. Badung|Badung|12||6|6|484000|418.6|1155|6|62|
 23042020|23|04|2020|1|2|Bali|Kab. Badung|Badung|12||5|7|484000|418.6|1155|6|62|
+26042021|26|04|2021|1021|2|Bali|"WNA |Bali)"|WNA (Bali)|122|5|106|11||||||
+25042021|25|04|2021|1021|2|Bali|"WNA |Bali)"|WNA (Bali)|122|5|106|11||||||
+24042021|24|04|2021|1021|2|Bali|"WNA |Bali)"|WNA (Bali)|122|5|106|11||||||
+23042021|23|04|2021|1021|2|Bali|"WNA |Bali)"|WNA (Bali)|120|5|106|9||||||
 22042021|22|04|2021|1021|2|Bali|"WNA |Bali)"|WNA (Bali)|115|5|105|5||||||
 21042021|21|04|2021|1021|2|Bali|"WNA |Bali)"|WNA (Bali)|114|5|100|9||||||
 20042021|20|04|2021|1021|2|Bali|"WNA |Bali)"|WNA (Bali)|113|5|95|13||||||
@@ -729,6 +737,10 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 25042020|25|04|2020|1021|2|Bali|"WNA |Bali)"|WNA (Bali)|8|2|5|1||||||
 24042020|24|04|2020|1021|2|Bali|"WNA |Bali)"|WNA (Bali)|8|2|5|1||||||
 23042020|23|04|2020|1021|2|Bali|"WNA |Bali)"|WNA (Bali)|8|2|5|1||||||
+26042021|26|04|2021|2|2|Bali|Kab. Bangli|Bangli|2261|92|2098|71|274000|490.7|557|4|72|
+25042021|25|04|2021|2|2|Bali|Kab. Bangli|Bangli|2260|91|2098|71|274000|490.7|557|4|72|
+24042021|24|04|2021|2|2|Bali|Kab. Bangli|Bangli|2250|90|2095|65|274000|490.7|557|4|72|
+23042021|23|04|2021|2|2|Bali|Kab. Bangli|Bangli|2249|90|2094|65|274000|490.7|557|4|72|
 22042021|22|04|2021|2|2|Bali|Kab. Bangli|Bangli|2233|90|2074|69|274000|490.7|557|4|72|
 21042021|21|04|2021|2|2|Bali|Kab. Bangli|Bangli|2228|90|2070|68|274000|490.7|557|4|72|
 20042021|20|04|2021|2|2|Bali|Kab. Bangli|Bangli|2222|90|2063|69|274000|490.7|557|4|72|
@@ -1094,6 +1106,10 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 25042020|25|04|2020|2|2|Bali|Kab. Bangli|Bangli|26||7|19|274000|490.7|557|4|72|
 24042020|24|04|2020|2|2|Bali|Kab. Bangli|Bangli|26||3|23|274000|490.7|557|4|72|
 23042020|23|04|2020|2|2|Bali|Kab. Bangli|Bangli|25||3|22|274000|490.7|557|4|72|
+26042021|26|04|2021|3|2|Bali|Kab. Buleleng|Buleleng|3497|139|3178|180|841000|1364.7|616|9|148|2
+25042021|25|04|2021|3|2|Bali|Kab. Buleleng|Buleleng|3477|139|3153|185|841000|1364.7|616|9|148|2
+24042021|24|04|2021|3|2|Bali|Kab. Buleleng|Buleleng|3469|139|3139|191|841000|1364.7|616|9|148|2
+23042021|23|04|2021|3|2|Bali|Kab. Buleleng|Buleleng|3447|139|3128|180|841000|1364.7|616|9|148|2
 22042021|22|04|2021|3|2|Bali|Kab. Buleleng|Buleleng|3429|136|3108|185|841000|1364.7|616|9|148|2
 21042021|21|04|2021|3|2|Bali|Kab. Buleleng|Buleleng|3397|134|3072|191|841000|1364.7|616|9|148|2
 20042021|20|04|2021|3|2|Bali|Kab. Buleleng|Buleleng|3368|133|3072|163|841000|1364.7|616|9|148|2
@@ -1459,6 +1475,10 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 25042020|25|04|2020|3|2|Bali|Kab. Buleleng|Buleleng|21||9|12|841000|1364.7|616|9|148|2
 24042020|24|04|2020|3|2|Bali|Kab. Buleleng|Buleleng|20||7|13|841000|1364.7|616|9|148|2
 23042020|23|04|2020|3|2|Bali|Kab. Buleleng|Buleleng|19||7|12|841000|1364.7|616|9|148|2
+26042021|26|04|2021|4|2|Bali|Kota Denpasar|Kota Denpasar|13958|308|13198|452|659000|127.8|5159|4|43|1
+25042021|25|04|2021|4|2|Bali|Kota Denpasar|Kota Denpasar|13924|307|13107|510|659000|127.8|5159|4|43|1
+24042021|24|04|2021|4|2|Bali|Kota Denpasar|Kota Denpasar|13903|306|13089|508|659000|127.8|5159|4|43|1
+23042021|23|04|2021|4|2|Bali|Kota Denpasar|Kota Denpasar|13851|306|13033|512|659000|127.8|5159|4|43|1
 22042021|22|04|2021|4|2|Bali|Kota Denpasar|Kota Denpasar|13821|305|12979|537|659000|127.8|5159|4|43|1
 21042021|21|04|2021|4|2|Bali|Kota Denpasar|Kota Denpasar|13768|303|12902|563|659000|127.8|5159|4|43|1
 20042021|20|04|2021|4|2|Bali|Kota Denpasar|Kota Denpasar|13698|300|12826|572|659000|127.8|5159|4|43|1
@@ -1824,6 +1844,10 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 25042020|25|04|2020|4|2|Bali|Kota Denpasar|Kota Denpasar|46|2|32|12|659000|127.8|5159|4|43|1
 24042020|24|04|2020|4|2|Bali|Kota Denpasar|Kota Denpasar|44|2|30|12|659000|127.8|5159|4|43|1
 23042020|23|04|2020|4|2|Bali|Kota Denpasar|Kota Denpasar|39|2|15|22|659000|127.8|5159|4|43|1
+26042021|26|04|2021|5|2|Bali|Kab. Gianyar|Gianyar|5011|129|4816|66|509000|368|1382|7|70|
+25042021|25|04|2021|5|2|Bali|Kab. Gianyar|Gianyar|4996|129|4789|78|509000|368|1382|7|70|
+24042021|24|04|2021|5|2|Bali|Kab. Gianyar|Gianyar|4984|129|4777|78|509000|368|1382|7|70|
+23042021|23|04|2021|5|2|Bali|Kab. Gianyar|Gianyar|4971|129|4767|75|509000|368|1382|7|70|
 22042021|22|04|2021|5|2|Bali|Kab. Gianyar|Gianyar|4961|129|4758|74|509000|368|1382|7|70|
 21042021|21|04|2021|5|2|Bali|Kab. Gianyar|Gianyar|4949|129|4745|75|509000|368|1382|7|70|
 20042021|20|04|2021|5|2|Bali|Kab. Gianyar|Gianyar|4939|129|4730|80|509000|368|1382|7|70|
@@ -2189,6 +2213,10 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 25042020|25|04|2020|5|2|Bali|Kab. Gianyar|Gianyar|19||4|15|509000|368|1382|7|70|
 24042020|24|04|2020|5|2|Bali|Kab. Gianyar|Gianyar|18||2|16|509000|368|1382|7|70|
 23042020|23|04|2020|5|2|Bali|Kab. Gianyar|Gianyar|17||2|15|509000|368|1382|7|70|
+26042021|26|04|2021|6|2|Bali|Kab. Jembrana|Jembrana|2265|77|2167|21|334000|841.8|396|5|51|2
+25042021|25|04|2021|6|2|Bali|Kab. Jembrana|Jembrana|2265|77|2165|23|334000|841.8|396|5|51|2
+24042021|24|04|2021|6|2|Bali|Kab. Jembrana|Jembrana|2265|77|2161|27|334000|841.8|396|5|51|2
+23042021|23|04|2021|6|2|Bali|Kab. Jembrana|Jembrana|2261|77|2158|26|334000|841.8|396|5|51|2
 22042021|22|04|2021|6|2|Bali|Kab. Jembrana|Jembrana|2256|77|2158|21|334000|841.8|396|5|51|2
 21042021|21|04|2021|6|2|Bali|Kab. Jembrana|Jembrana|2251|77|2154|20|334000|841.8|396|5|51|2
 20042021|20|04|2021|6|2|Bali|Kab. Jembrana|Jembrana|2247|77|2150|20|334000|841.8|396|5|51|2
@@ -2554,6 +2582,10 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 25042020|25|04|2020|6|2|Bali|Kab. Jembrana|Jembrana|11||5|6|334000|841.8|396|5|51|2
 24042020|24|04|2020|6|2|Bali|Kab. Jembrana|Jembrana|11||3|8|334000|841.8|396|5|51|2
 23042020|23|04|2020|6|2|Bali|Kab. Jembrana|Jembrana|11||3|8|334000|841.8|396|5|51|2
+26042021|26|04|2021|7|2|Bali|Kab. Karangasem|Karangasem|1816|94|1639|83|563000|839.5|671|8|78|6
+25042021|25|04|2021|7|2|Bali|Kab. Karangasem|Karangasem|1809|94|1639|76|563000|839.5|671|8|78|6
+24042021|24|04|2021|7|2|Bali|Kab. Karangasem|Karangasem|1809|93|1634|82|563000|839.5|671|8|78|6
+23042021|23|04|2021|7|2|Bali|Kab. Karangasem|Karangasem|1806|93|1633|80|563000|839.5|671|8|78|6
 22042021|22|04|2021|7|2|Bali|Kab. Karangasem|Karangasem|1791|91|1626|74|563000|839.5|671|8|78|6
 21042021|21|04|2021|7|2|Bali|Kab. Karangasem|Karangasem|1790|91|1626|73|563000|839.5|671|8|78|6
 20042021|20|04|2021|7|2|Bali|Kab. Karangasem|Karangasem|1780|90|1619|71|563000|839.5|671|8|78|6
@@ -2919,6 +2951,10 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 25042020|25|04|2020|7|2|Bali|Kab. Karangasem|Karangasem|15||9|6|563000|839.5|671|8|78|6
 24042020|24|04|2020|7|2|Bali|Kab. Karangasem|Karangasem|14||8|6|563000|839.5|671|8|78|6
 23042020|23|04|2020|7|2|Bali|Kab. Karangasem|Karangasem|14||4|10|563000|839.5|671|8|78|6
+26042021|26|04|2021|8|2|Bali|Kab. Klungkung|Klungkung|1705|65|1607|33|223000|315|707|4|59|20
+25042021|25|04|2021|8|2|Bali|Kab. Klungkung|Klungkung|1705|63|1605|37|223000|315|707|4|59|20
+24042021|24|04|2021|8|2|Bali|Kab. Klungkung|Klungkung|1703|62|1604|37|223000|315|707|4|59|20
+23042021|23|04|2021|8|2|Bali|Kab. Klungkung|Klungkung|1701|62|1604|35|223000|315|707|4|59|20
 22042021|22|04|2021|8|2|Bali|Kab. Klungkung|Klungkung|1698|60|1602|36|223000|315|707|4|59|20
 21042021|21|04|2021|8|2|Bali|Kab. Klungkung|Klungkung|1695|59|1598|38|223000|315|707|4|59|20
 20042021|20|04|2021|8|2|Bali|Kab. Klungkung|Klungkung|1689|58|1592|39|223000|315|707|4|59|20
@@ -3284,6 +3320,10 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 25042020|25|04|2020|8|2|Bali|Kab. Klungkung|Klungkung|12||8|4|223000|315|707|4|59|20
 24042020|24|04|2020|8|2|Bali|Kab. Klungkung|Klungkung|11||8|3|223000|315|707|4|59|20
 23042020|23|04|2020|8|2|Bali|Kab. Klungkung|Klungkung|11||5|6|223000|315|707|4|59|20
+26042021|26|04|2021|9|2|Bali|Kab. Tabanan|Tabanan|4481|163|4217|101|482000|1013.9|475|10|133|
+25042021|25|04|2021|9|2|Bali|Kab. Tabanan|Tabanan|4478|162|4214|102|482000|1013.9|475|10|133|
+24042021|24|04|2021|9|2|Bali|Kab. Tabanan|Tabanan|4473|161|4204|108|482000|1013.9|475|10|133|
+23042021|23|04|2021|9|2|Bali|Kab. Tabanan|Tabanan|4465|159|4188|118|482000|1013.9|475|10|133|
 22042021|22|04|2021|9|2|Bali|Kab. Tabanan|Tabanan|4451|158|4183|110|482000|1013.9|475|10|133|
 21042021|21|04|2021|9|2|Bali|Kab. Tabanan|Tabanan|4430|157|4170|103|482000|1013.9|475|10|133|
 20042021|20|04|2021|9|2|Bali|Kab. Tabanan|Tabanan|4415|157|4161|97|482000|1013.9|475|10|133|

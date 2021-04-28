@@ -1,4 +1,8 @@
 date|day|month|year|id_district|id_province|province_name|district_name|city_name|confirmed_case|death_case|recovered_case|active_case|population|area_km2|pop_density|num_kecamatan|num_village|num_islands
+26042021|26|04|2021|430|32|Sumatera Barat|Kab. Agam|Agam|2498|51|2224|223|542000|1804.3|300|16|82|2
+25042021|25|04|2021|430|32|Sumatera Barat|Kab. Agam|Agam|2486|50|2204|232|542000|1804.3|300|16|82|2
+24042021|24|04|2021|430|32|Sumatera Barat|Kab. Agam|Agam|2468|50|2203|215|542000|1804.3|300|16|82|2
+23042021|23|04|2021|430|32|Sumatera Barat|Kab. Agam|Agam|2455|50|2176|229|542000|1804.3|300|16|82|2
 22042021|22|04|2021|430|32|Sumatera Barat|Kab. Agam|Agam|2444|50|2164|230|542000|1804.3|300|16|82|2
 21042021|21|04|2021|430|32|Sumatera Barat|Kab. Agam|Agam|2411|50|2162|199|542000|1804.3|300|16|82|2
 20042021|20|04|2021|430|32|Sumatera Barat|Kab. Agam|Agam|2348|47|2156|145|542000|1804.3|300|16|82|2
@@ -386,6 +390,10 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|430|32|Sumatera Barat|Kab. Agam|Agam|||||542000|1804.3|300|16|82|2
 02042020|02|04|2020|430|32|Sumatera Barat|Kab. Agam|Agam|||||542000|1804.3|300|16|82|2
 01042020|01|04|2020|430|32|Sumatera Barat|Kab. Agam|Agam|||||542000|1804.3|300|16|82|2
+26042021|26|04|2021|431|32|Sumatera Barat|Kota Bukittinggi|Kota Bukittinggi|1352|19|1243|90|120000|25.2|4744|3|24|
+25042021|25|04|2021|431|32|Sumatera Barat|Kota Bukittinggi|Kota Bukittinggi|1336|19|1235|82|120000|25.2|4744|3|24|
+24042021|24|04|2021|431|32|Sumatera Barat|Kota Bukittinggi|Kota Bukittinggi|1331|19|1235|77|120000|25.2|4744|3|24|
+23042021|23|04|2021|431|32|Sumatera Barat|Kota Bukittinggi|Kota Bukittinggi|1326|19|1235|72|120000|25.2|4744|3|24|
 22042021|22|04|2021|431|32|Sumatera Barat|Kota Bukittinggi|Kota Bukittinggi|1323|19|1222|82|120000|25.2|4744|3|24|
 21042021|21|04|2021|431|32|Sumatera Barat|Kota Bukittinggi|Kota Bukittinggi|1305|19|1220|66|120000|25.2|4744|3|24|
 20042021|20|04|2021|431|32|Sumatera Barat|Kota Bukittinggi|Kota Bukittinggi|1297|19|1218|60|120000|25.2|4744|3|24|
@@ -773,6 +781,10 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|431|32|Sumatera Barat|Kota Bukittinggi|Kota Bukittinggi|3||1|2|120000|25.2|4744|3|24|
 02042020|02|04|2020|431|32|Sumatera Barat|Kota Bukittinggi|Kota Bukittinggi|3||1|2|120000|25.2|4744|3|24|
 01042020|01|04|2020|431|32|Sumatera Barat|Kota Bukittinggi|Kota Bukittinggi|||||120000|25.2|4744|3|24|
+26042021|26|04|2021|432|32|Sumatera Barat|Kab. Dharmasraya|Dharmasraya|733|11|642|80|212000|2961.1|72|11|52|
+25042021|25|04|2021|432|32|Sumatera Barat|Kab. Dharmasraya|Dharmasraya|727|11|630|86|212000|2961.1|72|11|52|
+24042021|24|04|2021|432|32|Sumatera Barat|Kab. Dharmasraya|Dharmasraya|723|11|629|83|212000|2961.1|72|11|52|
+23042021|23|04|2021|432|32|Sumatera Barat|Kab. Dharmasraya|Dharmasraya|709|11|616|82|212000|2961.1|72|11|52|
 22042021|22|04|2021|432|32|Sumatera Barat|Kab. Dharmasraya|Dharmasraya|677|11|613|53|212000|2961.1|72|11|52|
 21042021|21|04|2021|432|32|Sumatera Barat|Kab. Dharmasraya|Dharmasraya|676|11|611|54|212000|2961.1|72|11|52|
 20042021|20|04|2021|432|32|Sumatera Barat|Kab. Dharmasraya|Dharmasraya|676|11|610|55|212000|2961.1|72|11|52|
@@ -1160,6 +1172,10 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|432|32|Sumatera Barat|Kab. Dharmasraya|Dharmasraya|||||212000|2961.1|72|11|52|
 02042020|02|04|2020|432|32|Sumatera Barat|Kab. Dharmasraya|Dharmasraya|||||212000|2961.1|72|11|52|
 01042020|01|04|2020|432|32|Sumatera Barat|Kab. Dharmasraya|Dharmasraya|||||212000|2961.1|72|11|52|
+26042021|26|04|2021|433|32|Sumatera Barat|Kab. Kepulauan Mentawai|Kepulauan Mentawai|631|1|556|74|86000|6011.4|14|10|43|98
+25042021|25|04|2021|433|32|Sumatera Barat|Kab. Kepulauan Mentawai|Kepulauan Mentawai|623|1|556|66|86000|6011.4|14|10|43|98
+24042021|24|04|2021|433|32|Sumatera Barat|Kab. Kepulauan Mentawai|Kepulauan Mentawai|622|1|549|72|86000|6011.4|14|10|43|98
+23042021|23|04|2021|433|32|Sumatera Barat|Kab. Kepulauan Mentawai|Kepulauan Mentawai|610|1|549|60|86000|6011.4|14|10|43|98
 22042021|22|04|2021|433|32|Sumatera Barat|Kab. Kepulauan Mentawai|Kepulauan Mentawai|607|1|537|69|86000|6011.4|14|10|43|98
 21042021|21|04|2021|433|32|Sumatera Barat|Kab. Kepulauan Mentawai|Kepulauan Mentawai|600|1|537|62|86000|6011.4|14|10|43|98
 20042021|20|04|2021|433|32|Sumatera Barat|Kab. Kepulauan Mentawai|Kepulauan Mentawai|594|1|533|60|86000|6011.4|14|10|43|98
@@ -1547,6 +1563,10 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|433|32|Sumatera Barat|Kab. Kepulauan Mentawai|Kepulauan Mentawai|||||86000|6011.4|14|10|43|98
 02042020|02|04|2020|433|32|Sumatera Barat|Kab. Kepulauan Mentawai|Kepulauan Mentawai|||||86000|6011.4|14|10|43|98
 01042020|01|04|2020|433|32|Sumatera Barat|Kab. Kepulauan Mentawai|Kepulauan Mentawai|||||86000|6011.4|14|10|43|98
+26042021|26|04|2021|434|32|Sumatera Barat|Kab. Limapuluh Kota|Limapuluh Kota|995|23|803|169|386000|3571.1|108|13|79|
+25042021|25|04|2021|434|32|Sumatera Barat|Kab. Limapuluh Kota|Limapuluh Kota|984|23|803|158|386000|3571.1|108|13|79|
+24042021|24|04|2021|434|32|Sumatera Barat|Kab. Limapuluh Kota|Limapuluh Kota|944|23|803|118|386000|3571.1|108|13|79|
+23042021|23|04|2021|434|32|Sumatera Barat|Kab. Limapuluh Kota|Limapuluh Kota|932|22|803|107|386000|3571.1|108|13|79|
 22042021|22|04|2021|434|32|Sumatera Barat|Kab. Limapuluh Kota|Limapuluh Kota|915|22|769|124|386000|3571.1|108|13|79|
 21042021|21|04|2021|434|32|Sumatera Barat|Kab. Limapuluh Kota|Limapuluh Kota|900|22|756|122|386000|3571.1|108|13|79|
 20042021|20|04|2021|434|32|Sumatera Barat|Kab. Limapuluh Kota|Limapuluh Kota|880|22|755|103|386000|3571.1|108|13|79|
@@ -1934,6 +1954,10 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|434|32|Sumatera Barat|Kab. Limapuluh Kota|Limapuluh Kota|||||386000|3571.1|108|13|79|
 02042020|02|04|2020|434|32|Sumatera Barat|Kab. Limapuluh Kota|Limapuluh Kota|||||386000|3571.1|108|13|79|
 01042020|01|04|2020|434|32|Sumatera Barat|Kab. Limapuluh Kota|Limapuluh Kota|||||386000|3571.1|108|13|79|
+26042021|26|04|2021|435|32|Sumatera Barat|Kota Padang|Kota Padang|17387|321|16316|750|912000|693.7|1315|11|104|19
+25042021|25|04|2021|435|32|Sumatera Barat|Kota Padang|Kota Padang|17238|317|16131|790|912000|693.7|1315|11|104|19
+24042021|24|04|2021|435|32|Sumatera Barat|Kota Padang|Kota Padang|17150|317|16082|751|912000|693.7|1315|11|104|19
+23042021|23|04|2021|435|32|Sumatera Barat|Kota Padang|Kota Padang|17037|316|15908|813|912000|693.7|1315|11|104|19
 22042021|22|04|2021|435|32|Sumatera Barat|Kota Padang|Kota Padang|16951|316|15865|770|912000|693.7|1315|11|104|19
 21042021|21|04|2021|435|32|Sumatera Barat|Kota Padang|Kota Padang|16829|316|15812|701|912000|693.7|1315|11|104|19
 20042021|20|04|2021|435|32|Sumatera Barat|Kota Padang|Kota Padang|16560|313|15764|483|912000|693.7|1315|11|104|19
@@ -2321,6 +2345,10 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|435|32|Sumatera Barat|Kota Padang|Kota Padang|6||4|2|912000|693.7|1315|11|104|19
 02042020|02|04|2020|435|32|Sumatera Barat|Kota Padang|Kota Padang|6||4|2|912000|693.7|1315|11|104|19
 01042020|01|04|2020|435|32|Sumatera Barat|Kota Padang|Kota Padang|||||912000|693.7|1315|11|104|19
+26042021|26|04|2021|436|32|Sumatera Barat|Kota Padang Panjang|Kota Padang Panjang|969|21|903|45|55000|23|2383|2|16|
+25042021|25|04|2021|436|32|Sumatera Barat|Kota Padang Panjang|Kota Padang Panjang|965|21|903|41|55000|23|2383|2|16|
+24042021|24|04|2021|436|32|Sumatera Barat|Kota Padang Panjang|Kota Padang Panjang|955|20|903|32|55000|23|2383|2|16|
+23042021|23|04|2021|436|32|Sumatera Barat|Kota Padang Panjang|Kota Padang Panjang|947|20|902|25|55000|23|2383|2|16|
 22042021|22|04|2021|436|32|Sumatera Barat|Kota Padang Panjang|Kota Padang Panjang|942|20|902|20|55000|23|2383|2|16|
 21042021|21|04|2021|436|32|Sumatera Barat|Kota Padang Panjang|Kota Padang Panjang|936|20|899|17|55000|23|2383|2|16|
 20042021|20|04|2021|436|32|Sumatera Barat|Kota Padang Panjang|Kota Padang Panjang|931|20|899|12|55000|23|2383|2|16|
@@ -2708,6 +2736,10 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|436|32|Sumatera Barat|Kota Padang Panjang|Kota Padang Panjang|||||55000|23|2383|2|16|
 02042020|02|04|2020|436|32|Sumatera Barat|Kota Padang Panjang|Kota Padang Panjang|||||55000|23|2383|2|16|
 01042020|01|04|2020|436|32|Sumatera Barat|Kota Padang Panjang|Kota Padang Panjang|||||55000|23|2383|2|16|
+26042021|26|04|2021|437|32|Sumatera Barat|Kab. Padang Pariaman|Padang Pariaman|1382|47|1230|105|477000|1332.5|358|17|103|2
+25042021|25|04|2021|437|32|Sumatera Barat|Kab. Padang Pariaman|Padang Pariaman|1377|47|1229|101|477000|1332.5|358|17|103|2
+24042021|24|04|2021|437|32|Sumatera Barat|Kab. Padang Pariaman|Padang Pariaman|1374|47|1227|100|477000|1332.5|358|17|103|2
+23042021|23|04|2021|437|32|Sumatera Barat|Kab. Padang Pariaman|Padang Pariaman|1361|47|1224|90|477000|1332.5|358|17|103|2
 22042021|22|04|2021|437|32|Sumatera Barat|Kab. Padang Pariaman|Padang Pariaman|1358|47|1198|113|477000|1332.5|358|17|103|2
 21042021|21|04|2021|437|32|Sumatera Barat|Kab. Padang Pariaman|Padang Pariaman|1342|47|1197|98|477000|1332.5|358|17|103|2
 20042021|20|04|2021|437|32|Sumatera Barat|Kab. Padang Pariaman|Padang Pariaman|1332|47|1190|95|477000|1332.5|358|17|103|2
@@ -3095,6 +3127,10 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|437|32|Sumatera Barat|Kab. Padang Pariaman|Padang Pariaman|1||1||477000|1332.5|358|17|103|2
 02042020|02|04|2020|437|32|Sumatera Barat|Kab. Padang Pariaman|Padang Pariaman|1||1||477000|1332.5|358|17|103|2
 01042020|01|04|2020|437|32|Sumatera Barat|Kab. Padang Pariaman|Padang Pariaman|||||477000|1332.5|358|17|103|2
+26042021|26|04|2021|438|32|Sumatera Barat|Kota Pariaman|Kota Pariaman|659|16|607|36|92000|66.09999999999999|1389|4|71|4
+25042021|25|04|2021|438|32|Sumatera Barat|Kota Pariaman|Kota Pariaman|658|16|605|37|92000|66.09999999999999|1389|4|71|4
+24042021|24|04|2021|438|32|Sumatera Barat|Kota Pariaman|Kota Pariaman|658|16|605|37|92000|66.09999999999999|1389|4|71|4
+23042021|23|04|2021|438|32|Sumatera Barat|Kota Pariaman|Kota Pariaman|654|16|601|37|92000|66.09999999999999|1389|4|71|4
 22042021|22|04|2021|438|32|Sumatera Barat|Kota Pariaman|Kota Pariaman|643|16|599|28|92000|66.09999999999999|1389|4|71|4
 21042021|21|04|2021|438|32|Sumatera Barat|Kota Pariaman|Kota Pariaman|641|16|598|27|92000|66.09999999999999|1389|4|71|4
 20042021|20|04|2021|438|32|Sumatera Barat|Kota Pariaman|Kota Pariaman|632|16|595|21|92000|66.09999999999999|1389|4|71|4
@@ -3482,6 +3518,10 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|438|32|Sumatera Barat|Kota Pariaman|Kota Pariaman|||||92000|66.09999999999999|1389|4|71|4
 02042020|02|04|2020|438|32|Sumatera Barat|Kota Pariaman|Kota Pariaman|||||92000|66.09999999999999|1389|4|71|4
 01042020|01|04|2020|438|32|Sumatera Barat|Kota Pariaman|Kota Pariaman|||||92000|66.09999999999999|1389|4|71|4
+26042021|26|04|2021|439|32|Sumatera Barat|Kab. Pasaman|Pasaman|478|21|402|55|326000|3947.6|83|12|37|
+25042021|25|04|2021|439|32|Sumatera Barat|Kab. Pasaman|Pasaman|478|21|400|57|326000|3947.6|83|12|37|
+24042021|24|04|2021|439|32|Sumatera Barat|Kab. Pasaman|Pasaman|478|21|400|57|326000|3947.6|83|12|37|
+23042021|23|04|2021|439|32|Sumatera Barat|Kab. Pasaman|Pasaman|472|21|397|54|326000|3947.6|83|12|37|
 22042021|22|04|2021|439|32|Sumatera Barat|Kab. Pasaman|Pasaman|471|21|397|53|326000|3947.6|83|12|37|
 21042021|21|04|2021|439|32|Sumatera Barat|Kab. Pasaman|Pasaman|470|21|397|52|326000|3947.6|83|12|37|
 20042021|20|04|2021|439|32|Sumatera Barat|Kab. Pasaman|Pasaman|463|21|397|45|326000|3947.6|83|12|37|
@@ -3869,6 +3909,10 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|439|32|Sumatera Barat|Kab. Pasaman|Pasaman|||||326000|3947.6|83|12|37|
 02042020|02|04|2020|439|32|Sumatera Barat|Kab. Pasaman|Pasaman|||||326000|3947.6|83|12|37|
 01042020|01|04|2020|439|32|Sumatera Barat|Kab. Pasaman|Pasaman|||||326000|3947.6|83|12|37|
+26042021|26|04|2021|440|32|Sumatera Barat|Kab. Pasaman Barat|Pasaman Barat|714|42|646|26|443000|3887.8|114|11|19|12
+25042021|25|04|2021|440|32|Sumatera Barat|Kab. Pasaman Barat|Pasaman Barat|710|42|635|33|443000|3887.8|114|11|19|12
+24042021|24|04|2021|440|32|Sumatera Barat|Kab. Pasaman Barat|Pasaman Barat|710|42|635|33|443000|3887.8|114|11|19|12
+23042021|23|04|2021|440|32|Sumatera Barat|Kab. Pasaman Barat|Pasaman Barat|707|41|634|32|443000|3887.8|114|11|19|12
 22042021|22|04|2021|440|32|Sumatera Barat|Kab. Pasaman Barat|Pasaman Barat|707|41|633|33|443000|3887.8|114|11|19|12
 21042021|21|04|2021|440|32|Sumatera Barat|Kab. Pasaman Barat|Pasaman Barat|701|41|626|34|443000|3887.8|114|11|19|12
 20042021|20|04|2021|440|32|Sumatera Barat|Kab. Pasaman Barat|Pasaman Barat|692|40|604|48|443000|3887.8|114|11|19|12
@@ -4256,6 +4300,10 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|440|32|Sumatera Barat|Kab. Pasaman Barat|Pasaman Barat|||||443000|3887.8|114|11|19|12
 02042020|02|04|2020|440|32|Sumatera Barat|Kab. Pasaman Barat|Pasaman Barat|||||443000|3887.8|114|11|19|12
 01042020|01|04|2020|440|32|Sumatera Barat|Kab. Pasaman Barat|Pasaman Barat|||||443000|3887.8|114|11|19|12
+26042021|26|04|2021|441|32|Sumatera Barat|Kota Payakumbuh|Kota Payakumbuh|977|13|878|86|134000|85.2|1572|5|47|
+25042021|25|04|2021|441|32|Sumatera Barat|Kota Payakumbuh|Kota Payakumbuh|969|13|874|82|134000|85.2|1572|5|47|
+24042021|24|04|2021|441|32|Sumatera Barat|Kota Payakumbuh|Kota Payakumbuh|966|13|874|79|134000|85.2|1572|5|47|
+23042021|23|04|2021|441|32|Sumatera Barat|Kota Payakumbuh|Kota Payakumbuh|962|13|874|75|134000|85.2|1572|5|47|
 22042021|22|04|2021|441|32|Sumatera Barat|Kota Payakumbuh|Kota Payakumbuh|955|12|867|76|134000|85.2|1572|5|47|
 21042021|21|04|2021|441|32|Sumatera Barat|Kota Payakumbuh|Kota Payakumbuh|936|12|861|63|134000|85.2|1572|5|47|
 20042021|20|04|2021|441|32|Sumatera Barat|Kota Payakumbuh|Kota Payakumbuh|923|11|861|51|134000|85.2|1572|5|47|
@@ -4643,6 +4691,10 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|441|32|Sumatera Barat|Kota Payakumbuh|Kota Payakumbuh|||||134000|85.2|1572|5|47|
 02042020|02|04|2020|441|32|Sumatera Barat|Kota Payakumbuh|Kota Payakumbuh|||||134000|85.2|1572|5|47|
 01042020|01|04|2020|441|32|Sumatera Barat|Kota Payakumbuh|Kota Payakumbuh|||||134000|85.2|1572|5|47|
+26042021|26|04|2021|442|32|Sumatera Barat|Kab. Pesisir Selatan|Pesisir Selatan|1496|42|1355|99|535000|5749.9|93|15|182|48
+25042021|25|04|2021|442|32|Sumatera Barat|Kab. Pesisir Selatan|Pesisir Selatan|1487|42|1355|90|535000|5749.9|93|15|182|48
+24042021|24|04|2021|442|32|Sumatera Barat|Kab. Pesisir Selatan|Pesisir Selatan|1477|42|1353|82|535000|5749.9|93|15|182|48
+23042021|23|04|2021|442|32|Sumatera Barat|Kab. Pesisir Selatan|Pesisir Selatan|1473|42|1343|88|535000|5749.9|93|15|182|48
 22042021|22|04|2021|442|32|Sumatera Barat|Kab. Pesisir Selatan|Pesisir Selatan|1457|42|1339|76|535000|5749.9|93|15|182|48
 21042021|21|04|2021|442|32|Sumatera Barat|Kab. Pesisir Selatan|Pesisir Selatan|1454|42|1327|85|535000|5749.9|93|15|182|48
 20042021|20|04|2021|442|32|Sumatera Barat|Kab. Pesisir Selatan|Pesisir Selatan|1448|42|1327|79|535000|5749.9|93|15|182|48
@@ -5030,6 +5082,10 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|442|32|Sumatera Barat|Kab. Pesisir Selatan|Pesisir Selatan|2||1|1|535000|5749.9|93|15|182|48
 02042020|02|04|2020|442|32|Sumatera Barat|Kab. Pesisir Selatan|Pesisir Selatan|2||1|1|535000|5749.9|93|15|182|48
 01042020|01|04|2020|442|32|Sumatera Barat|Kab. Pesisir Selatan|Pesisir Selatan|||||535000|5749.9|93|15|182|48
+26042021|26|04|2021|443|32|Sumatera Barat|Kota Sawahlunto|Kota Sawahlunto|576|9|495|72|66000|231.9|286|4|37|
+25042021|25|04|2021|443|32|Sumatera Barat|Kota Sawahlunto|Kota Sawahlunto|568|9|492|67|66000|231.9|286|4|37|
+24042021|24|04|2021|443|32|Sumatera Barat|Kota Sawahlunto|Kota Sawahlunto|565|9|477|79|66000|231.9|286|4|37|
+23042021|23|04|2021|443|32|Sumatera Barat|Kota Sawahlunto|Kota Sawahlunto|545|9|476|60|66000|231.9|286|4|37|
 22042021|22|04|2021|443|32|Sumatera Barat|Kota Sawahlunto|Kota Sawahlunto|545|9|458|78|66000|231.9|286|4|37|
 21042021|21|04|2021|443|32|Sumatera Barat|Kota Sawahlunto|Kota Sawahlunto|544|9|458|77|66000|231.9|286|4|37|
 20042021|20|04|2021|443|32|Sumatera Barat|Kota Sawahlunto|Kota Sawahlunto|516|9|445|62|66000|231.9|286|4|37|
@@ -5417,6 +5473,10 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|443|32|Sumatera Barat|Kota Sawahlunto|Kota Sawahlunto|||||66000|231.9|286|4|37|
 02042020|02|04|2020|443|32|Sumatera Barat|Kota Sawahlunto|Kota Sawahlunto|||||66000|231.9|286|4|37|
 01042020|01|04|2020|443|32|Sumatera Barat|Kota Sawahlunto|Kota Sawahlunto|||||66000|231.9|286|4|37|
+26042021|26|04|2021|444|32|Sumatera Barat|Kab. Sijunjung|Sijunjung|1003|29|925|49|241000|3130.4|77|8|61|
+25042021|25|04|2021|444|32|Sumatera Barat|Kab. Sijunjung|Sijunjung|994|29|917|48|241000|3130.4|77|8|61|
+24042021|24|04|2021|444|32|Sumatera Barat|Kab. Sijunjung|Sijunjung|991|29|917|45|241000|3130.4|77|8|61|
+23042021|23|04|2021|444|32|Sumatera Barat|Kab. Sijunjung|Sijunjung|988|28|917|43|241000|3130.4|77|8|61|
 22042021|22|04|2021|444|32|Sumatera Barat|Kab. Sijunjung|Sijunjung|976|28|909|39|241000|3130.4|77|8|61|
 21042021|21|04|2021|444|32|Sumatera Barat|Kab. Sijunjung|Sijunjung|969|27|908|34|241000|3130.4|77|8|61|
 20042021|20|04|2021|444|32|Sumatera Barat|Kab. Sijunjung|Sijunjung|969|27|908|34|241000|3130.4|77|8|61|
@@ -5804,6 +5864,10 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|444|32|Sumatera Barat|Kab. Sijunjung|Sijunjung|||||241000|3130.4|77|8|61|
 02042020|02|04|2020|444|32|Sumatera Barat|Kab. Sijunjung|Sijunjung|||||241000|3130.4|77|8|61|
 01042020|01|04|2020|444|32|Sumatera Barat|Kab. Sijunjung|Sijunjung|||||241000|3130.4|77|8|61|
+26042021|26|04|2021|445|32|Sumatera Barat|Kab. Solok|Solok|1251|40|1082|129|388000|3738|104|14|74|
+25042021|25|04|2021|445|32|Sumatera Barat|Kab. Solok|Solok|1236|37|1064|135|388000|3738|104|14|74|
+24042021|24|04|2021|445|32|Sumatera Barat|Kab. Solok|Solok|1230|36|1062|132|388000|3738|104|14|74|
+23042021|23|04|2021|445|32|Sumatera Barat|Kab. Solok|Solok|1207|34|1055|118|388000|3738|104|14|74|
 22042021|22|04|2021|445|32|Sumatera Barat|Kab. Solok|Solok|1204|33|1038|133|388000|3738|104|14|74|
 21042021|21|04|2021|445|32|Sumatera Barat|Kab. Solok|Solok|1201|33|1038|130|388000|3738|104|14|74|
 20042021|20|04|2021|445|32|Sumatera Barat|Kab. Solok|Solok|1175|32|1018|125|388000|3738|104|14|74|
@@ -6191,6 +6255,10 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|445|32|Sumatera Barat|Kab. Solok|Solok|||||388000|3738|104|14|74|
 02042020|02|04|2020|445|32|Sumatera Barat|Kab. Solok|Solok|||||388000|3738|104|14|74|
 01042020|01|04|2020|445|32|Sumatera Barat|Kab. Solok|Solok|||||388000|3738|104|14|74|
+26042021|26|04|2021|446|32|Sumatera Barat|Kota Solok|Kota Solok|954|17|842|95|70000|71.3|988|2|13|
+25042021|25|04|2021|446|32|Sumatera Barat|Kota Solok|Kota Solok|941|17|841|83|70000|71.3|988|2|13|
+24042021|24|04|2021|446|32|Sumatera Barat|Kota Solok|Kota Solok|941|17|841|83|70000|71.3|988|2|13|
+23042021|23|04|2021|446|32|Sumatera Barat|Kota Solok|Kota Solok|921|17|828|76|70000|71.3|988|2|13|
 22042021|22|04|2021|446|32|Sumatera Barat|Kota Solok|Kota Solok|915|17|814|84|70000|71.3|988|2|13|
 21042021|21|04|2021|446|32|Sumatera Barat|Kota Solok|Kota Solok|912|17|812|83|70000|71.3|988|2|13|
 20042021|20|04|2021|446|32|Sumatera Barat|Kota Solok|Kota Solok|884|17|806|61|70000|71.3|988|2|13|
@@ -6578,6 +6646,10 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|446|32|Sumatera Barat|Kota Solok|Kota Solok|||||70000|71.3|988|2|13|
 02042020|02|04|2020|446|32|Sumatera Barat|Kota Solok|Kota Solok|||||70000|71.3|988|2|13|
 01042020|01|04|2020|446|32|Sumatera Barat|Kota Solok|Kota Solok|||||70000|71.3|988|2|13|
+26042021|26|04|2021|447|32|Sumatera Barat|Kab. Solok Selatan|Solok Selatan|794|12|649|133|183000|3346.2|55|7|39|
+25042021|25|04|2021|447|32|Sumatera Barat|Kab. Solok Selatan|Solok Selatan|789|11|629|149|183000|3346.2|55|7|39|
+24042021|24|04|2021|447|32|Sumatera Barat|Kab. Solok Selatan|Solok Selatan|750|11|629|110|183000|3346.2|55|7|39|
+23042021|23|04|2021|447|32|Sumatera Barat|Kab. Solok Selatan|Solok Selatan|743|11|627|105|183000|3346.2|55|7|39|
 22042021|22|04|2021|447|32|Sumatera Barat|Kab. Solok Selatan|Solok Selatan|740|10|617|113|183000|3346.2|55|7|39|
 21042021|21|04|2021|447|32|Sumatera Barat|Kab. Solok Selatan|Solok Selatan|723|10|612|101|183000|3346.2|55|7|39|
 20042021|20|04|2021|447|32|Sumatera Barat|Kab. Solok Selatan|Solok Selatan|695|9|611|75|183000|3346.2|55|7|39|
@@ -6965,6 +7037,10 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|447|32|Sumatera Barat|Kab. Solok Selatan|Solok Selatan|||||183000|3346.2|55|7|39|
 02042020|02|04|2020|447|32|Sumatera Barat|Kab. Solok Selatan|Solok Selatan|||||183000|3346.2|55|7|39|
 01042020|01|04|2020|447|32|Sumatera Barat|Kab. Solok Selatan|Solok Selatan|||||183000|3346.2|55|7|39|
+26042021|26|04|2021|448|32|Sumatera Barat|Kab. Tanah Datar|Tanah Datar|1419|48|1260|111|378000|1336.1|283|14|75|
+25042021|25|04|2021|448|32|Sumatera Barat|Kab. Tanah Datar|Tanah Datar|1397|47|1254|96|378000|1336.1|283|14|75|
+24042021|24|04|2021|448|32|Sumatera Barat|Kab. Tanah Datar|Tanah Datar|1396|47|1253|96|378000|1336.1|283|14|75|
+23042021|23|04|2021|448|32|Sumatera Barat|Kab. Tanah Datar|Tanah Datar|1385|47|1251|87|378000|1336.1|283|14|75|
 22042021|22|04|2021|448|32|Sumatera Barat|Kab. Tanah Datar|Tanah Datar|1372|47|1247|78|378000|1336.1|283|14|75|
 21042021|21|04|2021|448|32|Sumatera Barat|Kab. Tanah Datar|Tanah Datar|1366|47|1245|74|378000|1336.1|283|14|75|
 20042021|20|04|2021|448|32|Sumatera Barat|Kab. Tanah Datar|Tanah Datar|1353|46|1239|68|378000|1336.1|283|14|75|

@@ -1,4 +1,8 @@
 date|day|month|year|id_district|id_province|province_name|district_name|city_name|confirmed_case|death_case|recovered_case|active_case|population|area_km2|pop_density|num_kecamatan|num_village|num_islands
+26042021|26|04|2021|258|1|Aceh (NAD)|Kab. Aceh Barat|Aceh Barat|166|8|140|18|195000|2928|67|12|322|
+25042021|25|04|2021|258|1|Aceh (NAD)|Kab. Aceh Barat|Aceh Barat|165|7|140|18|195000|2928|67|12|322|
+24042021|24|04|2021|258|1|Aceh (NAD)|Kab. Aceh Barat|Aceh Barat|165|7|139|19|195000|2928|67|12|322|
+23042021|23|04|2021|258|1|Aceh (NAD)|Kab. Aceh Barat|Aceh Barat|164|7|139|18|195000|2928|67|12|322|
 22042021|22|04|2021|258|1|Aceh (NAD)|Kab. Aceh Barat|Aceh Barat|157|7|139|11|195000|2928|67|12|322|
 21042021|21|04|2021|258|1|Aceh (NAD)|Kab. Aceh Barat|Aceh Barat|156|7|138|11|195000|2928|67|12|322|
 20042021|20|04|2021|258|1|Aceh (NAD)|Kab. Aceh Barat|Aceh Barat|155|7|136|12|195000|2928|67|12|322|
@@ -303,6 +307,10 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 25062020|25|06|2020|258|1|Aceh (NAD)|Kab. Aceh Barat|Aceh Barat|1||1||195000|2928|67|12|322|
 24062020|24|06|2020|258|1|Aceh (NAD)|Kab. Aceh Barat|Aceh Barat|1||1||195000|2928|67|12|322|
 23062020|23|06|2020|258|1|Aceh (NAD)|Kab. Aceh Barat|Aceh Barat|||||195000|2928|67|12|322|
+26042021|26|04|2021|259|1|Aceh (NAD)|Kab. Aceh Barat Daya|Aceh Barat Daya|95|8|86|1|154000|1490.6|103|9|152|
+25042021|25|04|2021|259|1|Aceh (NAD)|Kab. Aceh Barat Daya|Aceh Barat Daya|95|8|86|1|154000|1490.6|103|9|152|
+24042021|24|04|2021|259|1|Aceh (NAD)|Kab. Aceh Barat Daya|Aceh Barat Daya|95|8|86|1|154000|1490.6|103|9|152|
+23042021|23|04|2021|259|1|Aceh (NAD)|Kab. Aceh Barat Daya|Aceh Barat Daya|95|8|86|1|154000|1490.6|103|9|152|
 22042021|22|04|2021|259|1|Aceh (NAD)|Kab. Aceh Barat Daya|Aceh Barat Daya|95|8|86|1|154000|1490.6|103|9|152|
 21042021|21|04|2021|259|1|Aceh (NAD)|Kab. Aceh Barat Daya|Aceh Barat Daya|95|8|86|1|154000|1490.6|103|9|152|
 20042021|20|04|2021|259|1|Aceh (NAD)|Kab. Aceh Barat Daya|Aceh Barat Daya|95|8|86|1|154000|1490.6|103|9|152|
@@ -607,6 +615,10 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 25062020|25|06|2020|259|1|Aceh (NAD)|Kab. Aceh Barat Daya|Aceh Barat Daya|1||1||154000|1490.6|103|9|152|
 24062020|24|06|2020|259|1|Aceh (NAD)|Kab. Aceh Barat Daya|Aceh Barat Daya|1||1||154000|1490.6|103|9|152|
 23062020|23|06|2020|259|1|Aceh (NAD)|Kab. Aceh Barat Daya|Aceh Barat Daya|1||1||154000|1490.6|103|9|152|
+26042021|26|04|2021|260|1|Aceh (NAD)|Kab. Aceh Besar|Aceh Besar|1780|60|1547|173|397000|2969|134|23|604|37
+25042021|25|04|2021|260|1|Aceh (NAD)|Kab. Aceh Besar|Aceh Besar|1764|60|1543|161|397000|2969|134|23|604|37
+24042021|24|04|2021|260|1|Aceh (NAD)|Kab. Aceh Besar|Aceh Besar|1762|60|1540|162|397000|2969|134|23|604|37
+23042021|23|04|2021|260|1|Aceh (NAD)|Kab. Aceh Besar|Aceh Besar|1754|60|1536|158|397000|2969|134|23|604|37
 22042021|22|04|2021|260|1|Aceh (NAD)|Kab. Aceh Besar|Aceh Besar|1738|60|1536|142|397000|2969|134|23|604|37
 21042021|21|04|2021|260|1|Aceh (NAD)|Kab. Aceh Besar|Aceh Besar|1724|60|1517|147|397000|2969|134|23|604|37
 20042021|20|04|2021|260|1|Aceh (NAD)|Kab. Aceh Besar|Aceh Besar|1718|60|1509|149|397000|2969|134|23|604|37
@@ -911,6 +923,10 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 25062020|25|06|2020|260|1|Aceh (NAD)|Kab. Aceh Besar|Aceh Besar|15||11|4|397000|2969|134|23|604|37
 24062020|24|06|2020|260|1|Aceh (NAD)|Kab. Aceh Besar|Aceh Besar|15||11|4|397000|2969|134|23|604|37
 23062020|23|06|2020|260|1|Aceh (NAD)|Kab. Aceh Besar|Aceh Besar|9||6|3|397000|2969|134|23|604|37
+26042021|26|04|2021|261|1|Aceh (NAD)|Kab. Aceh Jaya|Aceh Jaya|143|6|137||89000|3813|23|9|172|34
+25042021|25|04|2021|261|1|Aceh (NAD)|Kab. Aceh Jaya|Aceh Jaya|143|6|137||89000|3813|23|9|172|34
+24042021|24|04|2021|261|1|Aceh (NAD)|Kab. Aceh Jaya|Aceh Jaya|143|6|137||89000|3813|23|9|172|34
+23042021|23|04|2021|261|1|Aceh (NAD)|Kab. Aceh Jaya|Aceh Jaya|143|6|137||89000|3813|23|9|172|34
 22042021|22|04|2021|261|1|Aceh (NAD)|Kab. Aceh Jaya|Aceh Jaya|143|6|137||89000|3813|23|9|172|34
 21042021|21|04|2021|261|1|Aceh (NAD)|Kab. Aceh Jaya|Aceh Jaya|143|6|137||89000|3813|23|9|172|34
 20042021|20|04|2021|261|1|Aceh (NAD)|Kab. Aceh Jaya|Aceh Jaya|143|6|137||89000|3813|23|9|172|34
@@ -1215,6 +1231,10 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 25062020|25|06|2020|261|1|Aceh (NAD)|Kab. Aceh Jaya|Aceh Jaya|||||89000|3813|23|9|172|34
 24062020|24|06|2020|261|1|Aceh (NAD)|Kab. Aceh Jaya|Aceh Jaya|||||89000|3813|23|9|172|34
 23062020|23|06|2020|261|1|Aceh (NAD)|Kab. Aceh Jaya|Aceh Jaya|||||89000|3813|23|9|172|34
+26042021|26|04|2021|262|1|Aceh (NAD)|Kab. Aceh Selatan|Aceh Selatan|243|22|217|4|238000|3841.6|62|18|260|6
+25042021|25|04|2021|262|1|Aceh (NAD)|Kab. Aceh Selatan|Aceh Selatan|243|22|217|4|238000|3841.6|62|18|260|6
+24042021|24|04|2021|262|1|Aceh (NAD)|Kab. Aceh Selatan|Aceh Selatan|243|22|213|8|238000|3841.6|62|18|260|6
+23042021|23|04|2021|262|1|Aceh (NAD)|Kab. Aceh Selatan|Aceh Selatan|243|20|213|10|238000|3841.6|62|18|260|6
 22042021|22|04|2021|262|1|Aceh (NAD)|Kab. Aceh Selatan|Aceh Selatan|241|20|213|8|238000|3841.6|62|18|260|6
 21042021|21|04|2021|262|1|Aceh (NAD)|Kab. Aceh Selatan|Aceh Selatan|241|20|213|8|238000|3841.6|62|18|260|6
 20042021|20|04|2021|262|1|Aceh (NAD)|Kab. Aceh Selatan|Aceh Selatan|241|20|212|9|238000|3841.6|62|18|260|6
@@ -1519,6 +1539,10 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 25062020|25|06|2020|262|1|Aceh (NAD)|Kab. Aceh Selatan|Aceh Selatan|2||1|1|238000|3841.6|62|18|260|6
 24062020|24|06|2020|262|1|Aceh (NAD)|Kab. Aceh Selatan|Aceh Selatan|2||1|1|238000|3841.6|62|18|260|6
 23062020|23|06|2020|262|1|Aceh (NAD)|Kab. Aceh Selatan|Aceh Selatan|1||1||238000|3841.6|62|18|260|6
+26042021|26|04|2021|263|1|Aceh (NAD)|Kab. Aceh Singkil|Aceh Singkil|214|7|199|8|134000|2185|61|11|116|78
+25042021|25|04|2021|263|1|Aceh (NAD)|Kab. Aceh Singkil|Aceh Singkil|214|7|199|8|134000|2185|61|11|116|78
+24042021|24|04|2021|263|1|Aceh (NAD)|Kab. Aceh Singkil|Aceh Singkil|214|7|199|8|134000|2185|61|11|116|78
+23042021|23|04|2021|263|1|Aceh (NAD)|Kab. Aceh Singkil|Aceh Singkil|214|7|199|8|134000|2185|61|11|116|78
 22042021|22|04|2021|263|1|Aceh (NAD)|Kab. Aceh Singkil|Aceh Singkil|210|7|199|4|134000|2185|61|11|116|78
 21042021|21|04|2021|263|1|Aceh (NAD)|Kab. Aceh Singkil|Aceh Singkil|210|7|199|4|134000|2185|61|11|116|78
 20042021|20|04|2021|263|1|Aceh (NAD)|Kab. Aceh Singkil|Aceh Singkil|208|7|198|3|134000|2185|61|11|116|78
@@ -1823,6 +1847,10 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 25062020|25|06|2020|263|1|Aceh (NAD)|Kab. Aceh Singkil|Aceh Singkil|||||134000|2185|61|11|116|78
 24062020|24|06|2020|263|1|Aceh (NAD)|Kab. Aceh Singkil|Aceh Singkil|||||134000|2185|61|11|116|78
 23062020|23|06|2020|263|1|Aceh (NAD)|Kab. Aceh Singkil|Aceh Singkil|||||134000|2185|61|11|116|78
+26042021|26|04|2021|264|1|Aceh (NAD)|Kab. Aceh Tamiang|Aceh Tamiang|497|31|385|81|297000|1956.7|152|12|213|9
+25042021|25|04|2021|264|1|Aceh (NAD)|Kab. Aceh Tamiang|Aceh Tamiang|489|29|384|76|297000|1956.7|152|12|213|9
+24042021|24|04|2021|264|1|Aceh (NAD)|Kab. Aceh Tamiang|Aceh Tamiang|479|29|384|66|297000|1956.7|152|12|213|9
+23042021|23|04|2021|264|1|Aceh (NAD)|Kab. Aceh Tamiang|Aceh Tamiang|473|28|383|62|297000|1956.7|152|12|213|9
 22042021|22|04|2021|264|1|Aceh (NAD)|Kab. Aceh Tamiang|Aceh Tamiang|469|26|380|63|297000|1956.7|152|12|213|9
 21042021|21|04|2021|264|1|Aceh (NAD)|Kab. Aceh Tamiang|Aceh Tamiang|456|26|380|50|297000|1956.7|152|12|213|9
 20042021|20|04|2021|264|1|Aceh (NAD)|Kab. Aceh Tamiang|Aceh Tamiang|453|25|380|48|297000|1956.7|152|12|213|9
@@ -2127,6 +2155,10 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 25062020|25|06|2020|264|1|Aceh (NAD)|Kab. Aceh Tamiang|Aceh Tamiang|6||4|2|297000|1956.7|152|12|213|9
 24062020|24|06|2020|264|1|Aceh (NAD)|Kab. Aceh Tamiang|Aceh Tamiang|6||4|2|297000|1956.7|152|12|213|9
 23062020|23|06|2020|264|1|Aceh (NAD)|Kab. Aceh Tamiang|Aceh Tamiang|6||4|2|297000|1956.7|152|12|213|9
+26042021|26|04|2021|265|1|Aceh (NAD)|Kab. Aceh Tengah|Aceh Tengah|248|4|210|34|215000|4318.4|50|14|295|
+25042021|25|04|2021|265|1|Aceh (NAD)|Kab. Aceh Tengah|Aceh Tengah|242|4|210|28|215000|4318.4|50|14|295|
+24042021|24|04|2021|265|1|Aceh (NAD)|Kab. Aceh Tengah|Aceh Tengah|242|4|210|28|215000|4318.4|50|14|295|
+23042021|23|04|2021|265|1|Aceh (NAD)|Kab. Aceh Tengah|Aceh Tengah|241|4|210|27|215000|4318.4|50|14|295|
 22042021|22|04|2021|265|1|Aceh (NAD)|Kab. Aceh Tengah|Aceh Tengah|238|4|210|24|215000|4318.4|50|14|295|
 21042021|21|04|2021|265|1|Aceh (NAD)|Kab. Aceh Tengah|Aceh Tengah|238|4|210|24|215000|4318.4|50|14|295|
 20042021|20|04|2021|265|1|Aceh (NAD)|Kab. Aceh Tengah|Aceh Tengah|228|4|209|15|215000|4318.4|50|14|295|
@@ -2431,6 +2463,10 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 25062020|25|06|2020|265|1|Aceh (NAD)|Kab. Aceh Tengah|Aceh Tengah|||||215000|4318.4|50|14|295|
 24062020|24|06|2020|265|1|Aceh (NAD)|Kab. Aceh Tengah|Aceh Tengah|||||215000|4318.4|50|14|295|
 23062020|23|06|2020|265|1|Aceh (NAD)|Kab. Aceh Tengah|Aceh Tengah|||||215000|4318.4|50|14|295|
+26042021|26|04|2021|266|1|Aceh (NAD)|Kab. Aceh Tenggara|Aceh Tenggara|124|3|113|8|229000|4231.4|54|16|385|
+25042021|25|04|2021|266|1|Aceh (NAD)|Kab. Aceh Tenggara|Aceh Tenggara|124|3|113|8|229000|4231.4|54|16|385|
+24042021|24|04|2021|266|1|Aceh (NAD)|Kab. Aceh Tenggara|Aceh Tenggara|124|3|113|8|229000|4231.4|54|16|385|
+23042021|23|04|2021|266|1|Aceh (NAD)|Kab. Aceh Tenggara|Aceh Tenggara|124|3|112|9|229000|4231.4|54|16|385|
 22042021|22|04|2021|266|1|Aceh (NAD)|Kab. Aceh Tenggara|Aceh Tenggara|123|3|112|8|229000|4231.4|54|16|385|
 21042021|21|04|2021|266|1|Aceh (NAD)|Kab. Aceh Tenggara|Aceh Tenggara|121|3|109|9|229000|4231.4|54|16|385|
 20042021|20|04|2021|266|1|Aceh (NAD)|Kab. Aceh Tenggara|Aceh Tenggara|121|3|109|9|229000|4231.4|54|16|385|
@@ -2735,6 +2771,10 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 25062020|25|06|2020|266|1|Aceh (NAD)|Kab. Aceh Tenggara|Aceh Tenggara|||||229000|4231.4|54|16|385|
 24062020|24|06|2020|266|1|Aceh (NAD)|Kab. Aceh Tenggara|Aceh Tenggara|||||229000|4231.4|54|16|385|
 23062020|23|06|2020|266|1|Aceh (NAD)|Kab. Aceh Tenggara|Aceh Tenggara|||||229000|4231.4|54|16|385|
+26042021|26|04|2021|267|1|Aceh (NAD)|Kab. Aceh Timur|Aceh Timur|122|4|109|9|436000|6286|69|24|513|7
+25042021|25|04|2021|267|1|Aceh (NAD)|Kab. Aceh Timur|Aceh Timur|122|4|109|9|436000|6286|69|24|513|7
+24042021|24|04|2021|267|1|Aceh (NAD)|Kab. Aceh Timur|Aceh Timur|122|4|107|11|436000|6286|69|24|513|7
+23042021|23|04|2021|267|1|Aceh (NAD)|Kab. Aceh Timur|Aceh Timur|121|4|107|10|436000|6286|69|24|513|7
 22042021|22|04|2021|267|1|Aceh (NAD)|Kab. Aceh Timur|Aceh Timur|121|4|107|10|436000|6286|69|24|513|7
 21042021|21|04|2021|267|1|Aceh (NAD)|Kab. Aceh Timur|Aceh Timur|121|4|107|10|436000|6286|69|24|513|7
 20042021|20|04|2021|267|1|Aceh (NAD)|Kab. Aceh Timur|Aceh Timur|119|4|107|8|436000|6286|69|24|513|7
@@ -3039,6 +3079,10 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 25062020|25|06|2020|267|1|Aceh (NAD)|Kab. Aceh Timur|Aceh Timur|||||436000|6286|69|24|513|7
 24062020|24|06|2020|267|1|Aceh (NAD)|Kab. Aceh Timur|Aceh Timur|||||436000|6286|69|24|513|7
 23062020|23|06|2020|267|1|Aceh (NAD)|Kab. Aceh Timur|Aceh Timur|||||436000|6286|69|24|513|7
+26042021|26|04|2021|268|1|Aceh (NAD)|Kab. Aceh Utara|Aceh Utara|226|16|191|19|595000|3236.9|184|27|852|
+25042021|25|04|2021|268|1|Aceh (NAD)|Kab. Aceh Utara|Aceh Utara|226|16|189|21|595000|3236.9|184|27|852|
+24042021|24|04|2021|268|1|Aceh (NAD)|Kab. Aceh Utara|Aceh Utara|226|15|188|23|595000|3236.9|184|27|852|
+23042021|23|04|2021|268|1|Aceh (NAD)|Kab. Aceh Utara|Aceh Utara|226|15|188|23|595000|3236.9|184|27|852|
 22042021|22|04|2021|268|1|Aceh (NAD)|Kab. Aceh Utara|Aceh Utara|225|15|188|22|595000|3236.9|184|27|852|
 21042021|21|04|2021|268|1|Aceh (NAD)|Kab. Aceh Utara|Aceh Utara|222|15|188|19|595000|3236.9|184|27|852|
 20042021|20|04|2021|268|1|Aceh (NAD)|Kab. Aceh Utara|Aceh Utara|222|15|188|19|595000|3236.9|184|27|852|
@@ -3343,6 +3387,10 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 25062020|25|06|2020|268|1|Aceh (NAD)|Kab. Aceh Utara|Aceh Utara|9||5|4|595000|3236.9|184|27|852|
 24062020|24|06|2020|268|1|Aceh (NAD)|Kab. Aceh Utara|Aceh Utara|9||5|4|595000|3236.9|184|27|852|
 23062020|23|06|2020|268|1|Aceh (NAD)|Kab. Aceh Utara|Aceh Utara|9||5|4|595000|3236.9|184|27|852|
+26042021|26|04|2021|269|1|Aceh (NAD)|Kota Banda Aceh|Kota Banda Aceh|3162|80|2822|260|247000|61.4|4018|9|90|
+25042021|25|04|2021|269|1|Aceh (NAD)|Kota Banda Aceh|Kota Banda Aceh|3137|80|2813|244|247000|61.4|4018|9|90|
+24042021|24|04|2021|269|1|Aceh (NAD)|Kota Banda Aceh|Kota Banda Aceh|3135|80|2785|270|247000|61.4|4018|9|90|
+23042021|23|04|2021|269|1|Aceh (NAD)|Kota Banda Aceh|Kota Banda Aceh|3126|79|2725|322|247000|61.4|4018|9|90|
 22042021|22|04|2021|269|1|Aceh (NAD)|Kota Banda Aceh|Kota Banda Aceh|3099|79|2724|296|247000|61.4|4018|9|90|
 21042021|21|04|2021|269|1|Aceh (NAD)|Kota Banda Aceh|Kota Banda Aceh|3071|78|2663|330|247000|61.4|4018|9|90|
 20042021|20|04|2021|269|1|Aceh (NAD)|Kota Banda Aceh|Kota Banda Aceh|3055|78|2584|393|247000|61.4|4018|9|90|
@@ -3647,6 +3695,10 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 25062020|25|06|2020|269|1|Aceh (NAD)|Kota Banda Aceh|Kota Banda Aceh|13||8|5|247000|61.4|4018|9|90|
 24062020|24|06|2020|269|1|Aceh (NAD)|Kota Banda Aceh|Kota Banda Aceh|13||8|5|247000|61.4|4018|9|90|
 23062020|23|06|2020|269|1|Aceh (NAD)|Kota Banda Aceh|Kota Banda Aceh|8||5|3|247000|61.4|4018|9|90|
+26042021|26|04|2021|270|1|Aceh (NAD)|Kab. Bener Meriah|Bener Meriah|171|6|157|8|160000|1454.1|110|10|232|
+25042021|25|04|2021|270|1|Aceh (NAD)|Kab. Bener Meriah|Bener Meriah|169|6|157|6|160000|1454.1|110|10|232|
+24042021|24|04|2021|270|1|Aceh (NAD)|Kab. Bener Meriah|Bener Meriah|169|6|157|6|160000|1454.1|110|10|232|
+23042021|23|04|2021|270|1|Aceh (NAD)|Kab. Bener Meriah|Bener Meriah|169|6|156|7|160000|1454.1|110|10|232|
 22042021|22|04|2021|270|1|Aceh (NAD)|Kab. Bener Meriah|Bener Meriah|165|6|156|3|160000|1454.1|110|10|232|
 21042021|21|04|2021|270|1|Aceh (NAD)|Kab. Bener Meriah|Bener Meriah|165|6|152|7|160000|1454.1|110|10|232|
 20042021|20|04|2021|270|1|Aceh (NAD)|Kab. Bener Meriah|Bener Meriah|165|6|152|7|160000|1454.1|110|10|232|
@@ -3951,6 +4003,10 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 25062020|25|06|2020|270|1|Aceh (NAD)|Kab. Bener Meriah|Bener Meriah|2||1|1|160000|1454.1|110|10|232|
 24062020|24|06|2020|270|1|Aceh (NAD)|Kab. Bener Meriah|Bener Meriah|2||1|1|160000|1454.1|110|10|232|
 23062020|23|06|2020|270|1|Aceh (NAD)|Kab. Bener Meriah|Bener Meriah|2||1|1|160000|1454.1|110|10|232|
+26042021|26|04|2021|271|1|Aceh (NAD)|Kab. Bireuen|Bireuen|525|20|477|28|447000|1901.2|235|17|609|1
+25042021|25|04|2021|271|1|Aceh (NAD)|Kab. Bireuen|Bireuen|524|20|477|27|447000|1901.2|235|17|609|1
+24042021|24|04|2021|271|1|Aceh (NAD)|Kab. Bireuen|Bireuen|523|20|477|26|447000|1901.2|235|17|609|1
+23042021|23|04|2021|271|1|Aceh (NAD)|Kab. Bireuen|Bireuen|519|20|477|22|447000|1901.2|235|17|609|1
 22042021|22|04|2021|271|1|Aceh (NAD)|Kab. Bireuen|Bireuen|515|20|477|18|447000|1901.2|235|17|609|1
 21042021|21|04|2021|271|1|Aceh (NAD)|Kab. Bireuen|Bireuen|513|20|476|17|447000|1901.2|235|17|609|1
 20042021|20|04|2021|271|1|Aceh (NAD)|Kab. Bireuen|Bireuen|513|19|471|23|447000|1901.2|235|17|609|1
@@ -4255,6 +4311,10 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 25062020|25|06|2020|271|1|Aceh (NAD)|Kab. Bireuen|Bireuen|||||447000|1901.2|235|17|609|1
 24062020|24|06|2020|271|1|Aceh (NAD)|Kab. Bireuen|Bireuen|||||447000|1901.2|235|17|609|1
 23062020|23|06|2020|271|1|Aceh (NAD)|Kab. Bireuen|Bireuen|||||447000|1901.2|235|17|609|1
+26042021|26|04|2021|272|1|Aceh (NAD)|Kab. Gayo Lues|Gayo Lues|276|5|225|46|98000|5719.6|17|11|136|
+25042021|25|04|2021|272|1|Aceh (NAD)|Kab. Gayo Lues|Gayo Lues|276|5|224|47|98000|5719.6|17|11|136|
+24042021|24|04|2021|272|1|Aceh (NAD)|Kab. Gayo Lues|Gayo Lues|276|5|224|47|98000|5719.6|17|11|136|
+23042021|23|04|2021|272|1|Aceh (NAD)|Kab. Gayo Lues|Gayo Lues|275|5|218|52|98000|5719.6|17|11|136|
 22042021|22|04|2021|272|1|Aceh (NAD)|Kab. Gayo Lues|Gayo Lues|269|5|218|46|98000|5719.6|17|11|136|
 21042021|21|04|2021|272|1|Aceh (NAD)|Kab. Gayo Lues|Gayo Lues|256|5|217|34|98000|5719.6|17|11|136|
 20042021|20|04|2021|272|1|Aceh (NAD)|Kab. Gayo Lues|Gayo Lues|255|5|217|33|98000|5719.6|17|11|136|
@@ -4559,6 +4619,10 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 25062020|25|06|2020|272|1|Aceh (NAD)|Kab. Gayo Lues|Gayo Lues|2||1|1|98000|5719.6|17|11|136|
 24062020|24|06|2020|272|1|Aceh (NAD)|Kab. Gayo Lues|Gayo Lues|2||1|1|98000|5719.6|17|11|136|
 23062020|23|06|2020|272|1|Aceh (NAD)|Kab. Gayo Lues|Gayo Lues|2||1|1|98000|5719.6|17|11|136|
+26042021|26|04|2021|273|1|Aceh (NAD)|Kota Langsa|Kota Langsa|383|15|329|39|188000|262.4|718|5|66|4
+25042021|25|04|2021|273|1|Aceh (NAD)|Kota Langsa|Kota Langsa|383|15|329|39|188000|262.4|718|5|66|4
+24042021|24|04|2021|273|1|Aceh (NAD)|Kota Langsa|Kota Langsa|383|15|329|39|188000|262.4|718|5|66|4
+23042021|23|04|2021|273|1|Aceh (NAD)|Kota Langsa|Kota Langsa|375|15|329|31|188000|262.4|718|5|66|4
 22042021|22|04|2021|273|1|Aceh (NAD)|Kota Langsa|Kota Langsa|375|15|329|31|188000|262.4|718|5|66|4
 21042021|21|04|2021|273|1|Aceh (NAD)|Kota Langsa|Kota Langsa|375|14|328|33|188000|262.4|718|5|66|4
 20042021|20|04|2021|273|1|Aceh (NAD)|Kota Langsa|Kota Langsa|366|14|319|33|188000|262.4|718|5|66|4
@@ -4863,6 +4927,10 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 25062020|25|06|2020|273|1|Aceh (NAD)|Kota Langsa|Kota Langsa|1||1||188000|262.4|718|5|66|4
 24062020|24|06|2020|273|1|Aceh (NAD)|Kota Langsa|Kota Langsa|1||1||188000|262.4|718|5|66|4
 23062020|23|06|2020|273|1|Aceh (NAD)|Kota Langsa|Kota Langsa|||||188000|262.4|718|5|66|4
+26042021|26|04|2021|274|1|Aceh (NAD)|Kota Lhokseumawe|Kota Lhokseumawe|476|20|442|14|197000|181.1|1087|4|68|
+25042021|25|04|2021|274|1|Aceh (NAD)|Kota Lhokseumawe|Kota Lhokseumawe|475|20|438|17|197000|181.1|1087|4|68|
+24042021|24|04|2021|274|1|Aceh (NAD)|Kota Lhokseumawe|Kota Lhokseumawe|475|19|435|21|197000|181.1|1087|4|68|
+23042021|23|04|2021|274|1|Aceh (NAD)|Kota Lhokseumawe|Kota Lhokseumawe|473|18|434|21|197000|181.1|1087|4|68|
 22042021|22|04|2021|274|1|Aceh (NAD)|Kota Lhokseumawe|Kota Lhokseumawe|470|18|434|18|197000|181.1|1087|4|68|
 21042021|21|04|2021|274|1|Aceh (NAD)|Kota Lhokseumawe|Kota Lhokseumawe|469|18|427|24|197000|181.1|1087|4|68|
 20042021|20|04|2021|274|1|Aceh (NAD)|Kota Lhokseumawe|Kota Lhokseumawe|469|18|424|27|197000|181.1|1087|4|68|
@@ -5167,6 +5235,10 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 25062020|25|06|2020|274|1|Aceh (NAD)|Kota Lhokseumawe|Kota Lhokseumawe|7|1|4|2|197000|181.1|1087|4|68|
 24062020|24|06|2020|274|1|Aceh (NAD)|Kota Lhokseumawe|Kota Lhokseumawe|7|1|4|2|197000|181.1|1087|4|68|
 23062020|23|06|2020|274|1|Aceh (NAD)|Kota Lhokseumawe|Kota Lhokseumawe|7|1|4|2|197000|181.1|1087|4|68|
+26042021|26|04|2021|275|1|Aceh (NAD)|Kab. Nagan Raya|Nagan Raya|163|16|142|5|173000|3363.7|51|10|222|1
+25042021|25|04|2021|275|1|Aceh (NAD)|Kab. Nagan Raya|Nagan Raya|162|16|142|4|173000|3363.7|51|10|222|1
+24042021|24|04|2021|275|1|Aceh (NAD)|Kab. Nagan Raya|Nagan Raya|162|16|142|4|173000|3363.7|51|10|222|1
+23042021|23|04|2021|275|1|Aceh (NAD)|Kab. Nagan Raya|Nagan Raya|162|16|142|4|173000|3363.7|51|10|222|1
 22042021|22|04|2021|275|1|Aceh (NAD)|Kab. Nagan Raya|Nagan Raya|162|16|142|4|173000|3363.7|51|10|222|1
 21042021|21|04|2021|275|1|Aceh (NAD)|Kab. Nagan Raya|Nagan Raya|162|16|142|4|173000|3363.7|51|10|222|1
 20042021|20|04|2021|275|1|Aceh (NAD)|Kab. Nagan Raya|Nagan Raya|162|16|142|4|173000|3363.7|51|10|222|1
@@ -5471,6 +5543,10 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 25062020|25|06|2020|275|1|Aceh (NAD)|Kab. Nagan Raya|Nagan Raya|||||173000|3363.7|51|10|222|1
 24062020|24|06|2020|275|1|Aceh (NAD)|Kab. Nagan Raya|Nagan Raya|||||173000|3363.7|51|10|222|1
 23062020|23|06|2020|275|1|Aceh (NAD)|Kab. Nagan Raya|Nagan Raya|||||173000|3363.7|51|10|222|1
+26042021|26|04|2021|276|1|Aceh (NAD)|Kab. Pidie|Pidie|537|54|417|66|452000|3087|146|23|730|1
+25042021|25|04|2021|276|1|Aceh (NAD)|Kab. Pidie|Pidie|532|54|413|65|452000|3087|146|23|730|1
+24042021|24|04|2021|276|1|Aceh (NAD)|Kab. Pidie|Pidie|527|54|413|60|452000|3087|146|23|730|1
+23042021|23|04|2021|276|1|Aceh (NAD)|Kab. Pidie|Pidie|523|54|413|56|452000|3087|146|23|730|1
 22042021|22|04|2021|276|1|Aceh (NAD)|Kab. Pidie|Pidie|520|54|408|58|452000|3087|146|23|730|1
 21042021|21|04|2021|276|1|Aceh (NAD)|Kab. Pidie|Pidie|511|54|408|49|452000|3087|146|23|730|1
 20042021|20|04|2021|276|1|Aceh (NAD)|Kab. Pidie|Pidie|504|54|405|45|452000|3087|146|23|730|1
@@ -5775,6 +5851,10 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 25062020|25|06|2020|276|1|Aceh (NAD)|Kab. Pidie|Pidie|1||1||452000|3087|146|23|730|1
 24062020|24|06|2020|276|1|Aceh (NAD)|Kab. Pidie|Pidie|1||1||452000|3087|146|23|730|1
 23062020|23|06|2020|276|1|Aceh (NAD)|Kab. Pidie|Pidie|1||1||452000|3087|146|23|730|1
+26042021|26|04|2021|277|1|Aceh (NAD)|Kab. Pidie Jaya|Pidie Jaya|239|17|217|5|163000|1073.6|152|8|222|
+25042021|25|04|2021|277|1|Aceh (NAD)|Kab. Pidie Jaya|Pidie Jaya|239|17|217|5|163000|1073.6|152|8|222|
+24042021|24|04|2021|277|1|Aceh (NAD)|Kab. Pidie Jaya|Pidie Jaya|237|17|217|3|163000|1073.6|152|8|222|
+23042021|23|04|2021|277|1|Aceh (NAD)|Kab. Pidie Jaya|Pidie Jaya|236|17|217|2|163000|1073.6|152|8|222|
 22042021|22|04|2021|277|1|Aceh (NAD)|Kab. Pidie Jaya|Pidie Jaya|236|17|217|2|163000|1073.6|152|8|222|
 21042021|21|04|2021|277|1|Aceh (NAD)|Kab. Pidie Jaya|Pidie Jaya|236|17|217|2|163000|1073.6|152|8|222|
 20042021|20|04|2021|277|1|Aceh (NAD)|Kab. Pidie Jaya|Pidie Jaya|235|17|217|1|163000|1073.6|152|8|222|
@@ -6079,6 +6159,10 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 25062020|25|06|2020|277|1|Aceh (NAD)|Kab. Pidie Jaya|Pidie Jaya|||||163000|1073.6|152|8|222|
 24062020|24|06|2020|277|1|Aceh (NAD)|Kab. Pidie Jaya|Pidie Jaya|||||163000|1073.6|152|8|222|
 23062020|23|06|2020|277|1|Aceh (NAD)|Kab. Pidie Jaya|Pidie Jaya|||||163000|1073.6|152|8|222|
+26042021|26|04|2021|278|1|Aceh (NAD)|Kota Sabang|Kota Sabang|98|10|85|3|41000|153|270|2|18|10
+25042021|25|04|2021|278|1|Aceh (NAD)|Kota Sabang|Kota Sabang|97|10|85|2|41000|153|270|2|18|10
+24042021|24|04|2021|278|1|Aceh (NAD)|Kota Sabang|Kota Sabang|97|10|85|2|41000|153|270|2|18|10
+23042021|23|04|2021|278|1|Aceh (NAD)|Kota Sabang|Kota Sabang|97|10|85|2|41000|153|270|2|18|10
 22042021|22|04|2021|278|1|Aceh (NAD)|Kota Sabang|Kota Sabang|97|10|85|2|41000|153|270|2|18|10
 21042021|21|04|2021|278|1|Aceh (NAD)|Kota Sabang|Kota Sabang|97|10|85|2|41000|153|270|2|18|10
 20042021|20|04|2021|278|1|Aceh (NAD)|Kota Sabang|Kota Sabang|97|10|84|3|41000|153|270|2|18|10
@@ -6383,6 +6467,10 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 25062020|25|06|2020|278|1|Aceh (NAD)|Kota Sabang|Kota Sabang|||||41000|153|270|2|18|10
 24062020|24|06|2020|278|1|Aceh (NAD)|Kota Sabang|Kota Sabang|||||41000|153|270|2|18|10
 23062020|23|06|2020|278|1|Aceh (NAD)|Kota Sabang|Kota Sabang|||||41000|153|270|2|18|10
+26042021|26|04|2021|279|1|Aceh (NAD)|Kab. Simeulue|Simeulue|111|7|102|2|92000|2051.5|45|10|138|62
+25042021|25|04|2021|279|1|Aceh (NAD)|Kab. Simeulue|Simeulue|111|7|102|2|92000|2051.5|45|10|138|62
+24042021|24|04|2021|279|1|Aceh (NAD)|Kab. Simeulue|Simeulue|111|7|102|2|92000|2051.5|45|10|138|62
+23042021|23|04|2021|279|1|Aceh (NAD)|Kab. Simeulue|Simeulue|111|7|102|2|92000|2051.5|45|10|138|62
 22042021|22|04|2021|279|1|Aceh (NAD)|Kab. Simeulue|Simeulue|111|7|102|2|92000|2051.5|45|10|138|62
 21042021|21|04|2021|279|1|Aceh (NAD)|Kab. Simeulue|Simeulue|111|7|102|2|92000|2051.5|45|10|138|62
 20042021|20|04|2021|279|1|Aceh (NAD)|Kab. Simeulue|Simeulue|110|7|102|1|92000|2051.5|45|10|138|62
@@ -6687,6 +6775,10 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 25062020|25|06|2020|279|1|Aceh (NAD)|Kab. Simeulue|Simeulue|2||1|1|92000|2051.5|45|10|138|62
 24062020|24|06|2020|279|1|Aceh (NAD)|Kab. Simeulue|Simeulue|2||1|1|92000|2051.5|45|10|138|62
 23062020|23|06|2020|279|1|Aceh (NAD)|Kab. Simeulue|Simeulue|2||1|1|92000|2051.5|45|10|138|62
+26042021|26|04|2021|280|1|Aceh (NAD)|Kota Subulussalam|Kota Subulussalam|86|7|78|1|84000|1391|60|5|82|8
+25042021|25|04|2021|280|1|Aceh (NAD)|Kota Subulussalam|Kota Subulussalam|86|7|78|1|84000|1391|60|5|82|8
+24042021|24|04|2021|280|1|Aceh (NAD)|Kota Subulussalam|Kota Subulussalam|86|7|78|1|84000|1391|60|5|82|8
+23042021|23|04|2021|280|1|Aceh (NAD)|Kota Subulussalam|Kota Subulussalam|86|7|78|1|84000|1391|60|5|82|8
 22042021|22|04|2021|280|1|Aceh (NAD)|Kota Subulussalam|Kota Subulussalam|86|7|78|1|84000|1391|60|5|82|8
 21042021|21|04|2021|280|1|Aceh (NAD)|Kota Subulussalam|Kota Subulussalam|86|7|78|1|84000|1391|60|5|82|8
 20042021|20|04|2021|280|1|Aceh (NAD)|Kota Subulussalam|Kota Subulussalam|86|7|78|1|84000|1391|60|5|82|8
