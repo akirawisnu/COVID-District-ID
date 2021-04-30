@@ -1,4 +1,5 @@
 date|day|month|year|id_district|id_province|province_name|district_name|city_name|confirmed_case|death_case|recovered_case|active_case|population|area_km2|pop_density|num_kecamatan|num_village|num_islands
+27042021|27|04|2021|341|25|Papua Barat|Kab. Fakfak|Fakfak|101|10|90|1|87000|14320|6|17|149|515
 26042021|26|04|2021|341|25|Papua Barat|Kab. Fakfak|Fakfak|100|10|90||87000|14320|6|17|149|515
 25042021|25|04|2021|341|25|Papua Barat|Kab. Fakfak|Fakfak|100|10|90||87000|14320|6|17|149|515
 24042021|24|04|2021|341|25|Papua Barat|Kab. Fakfak|Fakfak|100|10|89|1|87000|14320|6|17|149|515
@@ -390,6 +391,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|341|25|Papua Barat|Kab. Fakfak|Fakfak|||||87000|14320|6|17|149|515
 02042020|02|04|2020|341|25|Papua Barat|Kab. Fakfak|Fakfak|||||87000|14320|6|17|149|515
 01042020|01|04|2020|341|25|Papua Barat|Kab. Fakfak|Fakfak|||||87000|14320|6|17|149|515
+27042021|27|04|2021|342|25|Papua Barat|Kab. Kaimana|Kaimana|112|2|110||63000|16241.8|4|7|86|502
 26042021|26|04|2021|342|25|Papua Barat|Kab. Kaimana|Kaimana|112|2|110||63000|16241.8|4|7|86|502
 25042021|25|04|2021|342|25|Papua Barat|Kab. Kaimana|Kaimana|112|2|110||63000|16241.8|4|7|86|502
 24042021|24|04|2021|342|25|Papua Barat|Kab. Kaimana|Kaimana|112|2|110||63000|16241.8|4|7|86|502
@@ -781,6 +783,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|342|25|Papua Barat|Kab. Kaimana|Kaimana|||||63000|16241.8|4|7|86|502
 02042020|02|04|2020|342|25|Papua Barat|Kab. Kaimana|Kaimana|||||63000|16241.8|4|7|86|502
 01042020|01|04|2020|342|25|Papua Barat|Kab. Kaimana|Kaimana|||||63000|16241.8|4|7|86|502
+27042021|27|04|2021|343|25|Papua Barat|Kab. Manokwari|Manokwari|3309|40|3168|101|192000|3186.3|60|9|173|7
 26042021|26|04|2021|343|25|Papua Barat|Kab. Manokwari|Manokwari|3308|40|3157|111|192000|3186.3|60|9|173|7
 25042021|25|04|2021|343|25|Papua Barat|Kab. Manokwari|Manokwari|3301|40|3145|116|192000|3186.3|60|9|173|7
 24042021|24|04|2021|343|25|Papua Barat|Kab. Manokwari|Manokwari|3292|40|3119|133|192000|3186.3|60|9|173|7
@@ -1171,6 +1174,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|343|25|Papua Barat|Kab. Manokwari|Manokwari||1|||192000|3186.3|60|9|173|7
 02042020|02|04|2020|343|25|Papua Barat|Kab. Manokwari|Manokwari|||||192000|3186.3|60|9|173|7
 01042020|01|04|2020|343|25|Papua Barat|Kab. Manokwari|Manokwari|||||192000|3186.3|60|9|173|7
+27042021|27|04|2021|344|25|Papua Barat|Kab. Maybrat|Maybrat|11|2|9||43000|5461.7|8|24|260|
 26042021|26|04|2021|344|25|Papua Barat|Kab. Maybrat|Maybrat|11|2|9||43000|5461.7|8|24|260|
 25042021|25|04|2021|344|25|Papua Barat|Kab. Maybrat|Maybrat|11|2|9||43000|5461.7|8|24|260|
 24042021|24|04|2021|344|25|Papua Barat|Kab. Maybrat|Maybrat|11|2|9||43000|5461.7|8|24|260|
@@ -1562,6 +1566,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|344|25|Papua Barat|Kab. Maybrat|Maybrat|||||43000|5461.7|8|24|260|
 02042020|02|04|2020|344|25|Papua Barat|Kab. Maybrat|Maybrat|||||43000|5461.7|8|24|260|
 01042020|01|04|2020|344|25|Papua Barat|Kab. Maybrat|Maybrat|||||43000|5461.7|8|24|260|
+28042021|28|04|2021|345|25|Papua Barat|Kab. Raja Ampat|Raja Ampat|338||332|6|65000|8034.4|8|24|121|2179
+27042021|27|04|2021|345|25|Papua Barat|Kab. Raja Ampat|Raja Ampat|336||325|11|65000|8034.4|8|24|121|2179
 26042021|26|04|2021|345|25|Papua Barat|Kab. Raja Ampat|Raja Ampat|336||325|11|65000|8034.4|8|24|121|2179
 25042021|25|04|2021|345|25|Papua Barat|Kab. Raja Ampat|Raja Ampat|335||323|12|65000|8034.4|8|24|121|2179
 24042021|24|04|2021|345|25|Papua Barat|Kab. Raja Ampat|Raja Ampat|332||323|9|65000|8034.4|8|24|121|2179
@@ -1953,6 +1959,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|345|25|Papua Barat|Kab. Raja Ampat|Raja Ampat|||||65000|8034.4|8|24|121|2179
 02042020|02|04|2020|345|25|Papua Barat|Kab. Raja Ampat|Raja Ampat|||||65000|8034.4|8|24|121|2179
 01042020|01|04|2020|345|25|Papua Barat|Kab. Raja Ampat|Raja Ampat|||||65000|8034.4|8|24|121|2179
+28042021|28|04|2021|346|25|Papua Barat|Kab. Sorong|Sorong|505|10|473|22|123000|6544.2|19|30|252|108
+27042021|27|04|2021|346|25|Papua Barat|Kab. Sorong|Sorong|501|10|473|18|123000|6544.2|19|30|252|108
 26042021|26|04|2021|346|25|Papua Barat|Kab. Sorong|Sorong|487|10|470|7|123000|6544.2|19|30|252|108
 25042021|25|04|2021|346|25|Papua Barat|Kab. Sorong|Sorong|487|10|470|7|123000|6544.2|19|30|252|108
 24042021|24|04|2021|346|25|Papua Barat|Kab. Sorong|Sorong|481|8|460|13|123000|6544.2|19|30|252|108
@@ -2344,6 +2352,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|346|25|Papua Barat|Kab. Sorong|Sorong|||||123000|6544.2|19|30|252|108
 02042020|02|04|2020|346|25|Papua Barat|Kab. Sorong|Sorong|||||123000|6544.2|19|30|252|108
 01042020|01|04|2020|346|25|Papua Barat|Kab. Sorong|Sorong|||||123000|6544.2|19|30|252|108
+28042021|28|04|2021|347|25|Papua Barat|Kota Sorong|Kota Sorong|3124|55|2896|173|285000|656.6|433|10|41|25
+27042021|27|04|2021|347|25|Papua Barat|Kota Sorong|Kota Sorong|3121|52|2890|179|285000|656.6|433|10|41|25
 26042021|26|04|2021|347|25|Papua Barat|Kota Sorong|Kota Sorong|3101|52|2882|167|285000|656.6|433|10|41|25
 25042021|25|04|2021|347|25|Papua Barat|Kota Sorong|Kota Sorong|3101|52|2882|167|285000|656.6|433|10|41|25
 24042021|24|04|2021|347|25|Papua Barat|Kota Sorong|Kota Sorong|3101|52|2880|169|285000|656.6|433|10|41|25
@@ -2735,6 +2745,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|347|25|Papua Barat|Kota Sorong|Kota Sorong|2|2|||285000|656.6|433|10|41|25
 02042020|02|04|2020|347|25|Papua Barat|Kota Sorong|Kota Sorong|2|2|||285000|656.6|433|10|41|25
 01042020|01|04|2020|347|25|Papua Barat|Kota Sorong|Kota Sorong|2|2|||285000|656.6|433|10|41|25
+28042021|28|04|2021|348|25|Papua Barat|Kab. Sorong Selatan|Sorong Selatan|173|9|156|8|60000|6594.3|9|15|123|
+27042021|27|04|2021|348|25|Papua Barat|Kab. Sorong Selatan|Sorong Selatan|172|9|156|7|60000|6594.3|9|15|123|
 26042021|26|04|2021|348|25|Papua Barat|Kab. Sorong Selatan|Sorong Selatan|170|9|156|5|60000|6594.3|9|15|123|
 25042021|25|04|2021|348|25|Papua Barat|Kab. Sorong Selatan|Sorong Selatan|170|9|155|6|60000|6594.3|9|15|123|
 24042021|24|04|2021|348|25|Papua Barat|Kab. Sorong Selatan|Sorong Selatan|170|9|155|6|60000|6594.3|9|15|123|
@@ -3126,6 +3138,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|348|25|Papua Barat|Kab. Sorong Selatan|Sorong Selatan|||||60000|6594.3|9|15|123|
 02042020|02|04|2020|348|25|Papua Barat|Kab. Sorong Selatan|Sorong Selatan|||||60000|6594.3|9|15|123|
 01042020|01|04|2020|348|25|Papua Barat|Kab. Sorong Selatan|Sorong Selatan|||||60000|6594.3|9|15|123|
+28042021|28|04|2021|349|25|Papua Barat|Kab. Tambrauw|Tambrauw|13|1|12||30000|11529.2|3|29|216|2
+27042021|27|04|2021|349|25|Papua Barat|Kab. Tambrauw|Tambrauw|13|1|12||30000|11529.2|3|29|216|2
 26042021|26|04|2021|349|25|Papua Barat|Kab. Tambrauw|Tambrauw|13|1|12||30000|11529.2|3|29|216|2
 25042021|25|04|2021|349|25|Papua Barat|Kab. Tambrauw|Tambrauw|13|1|12||30000|11529.2|3|29|216|2
 24042021|24|04|2021|349|25|Papua Barat|Kab. Tambrauw|Tambrauw|13|1|12||30000|11529.2|3|29|216|2
@@ -3517,6 +3531,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|349|25|Papua Barat|Kab. Tambrauw|Tambrauw|||||30000|11529.2|3|29|216|2
 02042020|02|04|2020|349|25|Papua Barat|Kab. Tambrauw|Tambrauw|||||30000|11529.2|3|29|216|2
 01042020|01|04|2020|349|25|Papua Barat|Kab. Tambrauw|Tambrauw|||||30000|11529.2|3|29|216|2
+28042021|28|04|2021|350|25|Papua Barat|Kab. Teluk Bintuni|Teluk Bintuni|839|13|810|16|79000|20840.8|4|24|117|15
+27042021|27|04|2021|350|25|Papua Barat|Kab. Teluk Bintuni|Teluk Bintuni|839|13|810|16|79000|20840.8|4|24|117|15
 26042021|26|04|2021|350|25|Papua Barat|Kab. Teluk Bintuni|Teluk Bintuni|839|12|810|17|79000|20840.8|4|24|117|15
 25042021|25|04|2021|350|25|Papua Barat|Kab. Teluk Bintuni|Teluk Bintuni|839|12|810|17|79000|20840.8|4|24|117|15
 24042021|24|04|2021|350|25|Papua Barat|Kab. Teluk Bintuni|Teluk Bintuni|835|12|807|16|79000|20840.8|4|24|117|15
@@ -3908,6 +3924,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|350|25|Papua Barat|Kab. Teluk Bintuni|Teluk Bintuni|||||79000|20840.8|4|24|117|15
 02042020|02|04|2020|350|25|Papua Barat|Kab. Teluk Bintuni|Teluk Bintuni|||||79000|20840.8|4|24|117|15
 01042020|01|04|2020|350|25|Papua Barat|Kab. Teluk Bintuni|Teluk Bintuni|||||79000|20840.8|4|24|117|15
+28042021|28|04|2021|351|25|Papua Barat|Kab. Teluk Wondama|Teluk Wondama|272|5|247|20|43000|3959.5|11|13|76|324
+27042021|27|04|2021|351|25|Papua Barat|Kab. Teluk Wondama|Teluk Wondama|272|5|247|20|43000|3959.5|11|13|76|324
 26042021|26|04|2021|351|25|Papua Barat|Kab. Teluk Wondama|Teluk Wondama|272|5|247|20|43000|3959.5|11|13|76|324
 25042021|25|04|2021|351|25|Papua Barat|Kab. Teluk Wondama|Teluk Wondama|269|5|247|17|43000|3959.5|11|13|76|324
 24042021|24|04|2021|351|25|Papua Barat|Kab. Teluk Wondama|Teluk Wondama|268|5|247|16|43000|3959.5|11|13|76|324
@@ -4299,6 +4317,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|351|25|Papua Barat|Kab. Teluk Wondama|Teluk Wondama|||||43000|3959.5|11|13|76|324
 02042020|02|04|2020|351|25|Papua Barat|Kab. Teluk Wondama|Teluk Wondama|||||43000|3959.5|11|13|76|324
 01042020|01|04|2020|351|25|Papua Barat|Kab. Teluk Wondama|Teluk Wondama|||||43000|3959.5|11|13|76|324
+28042021|28|04|2021|500|25|Papua Barat|Kab. Manokwari Selatan|Manokwari Selatan|89|2|77|10|35000|2812.4|12|6|57|
+27042021|27|04|2021|500|25|Papua Barat|Kab. Manokwari Selatan|Manokwari Selatan|89|2|77|10|35000|2812.4|12|6|57|
 26042021|26|04|2021|500|25|Papua Barat|Kab. Manokwari Selatan|Manokwari Selatan|89|2|77|10|35000|2812.4|12|6|57|
 25042021|25|04|2021|500|25|Papua Barat|Kab. Manokwari Selatan|Manokwari Selatan|89|2|77|10|35000|2812.4|12|6|57|
 24042021|24|04|2021|500|25|Papua Barat|Kab. Manokwari Selatan|Manokwari Selatan|89|2|77|10|35000|2812.4|12|6|57|
@@ -4690,6 +4710,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|500|25|Papua Barat|Kab. Manokwari Selatan|Manokwari Selatan|||||35000|2812.4|12|6|57|
 02042020|02|04|2020|500|25|Papua Barat|Kab. Manokwari Selatan|Manokwari Selatan|||||35000|2812.4|12|6|57|
 01042020|01|04|2020|500|25|Papua Barat|Kab. Manokwari Selatan|Manokwari Selatan|||||35000|2812.4|12|6|57|
+28042021|28|04|2021|501|25|Papua Barat|Kab. Pegunungan Arfak|Pegunungan Arfak|3||3||38000|2773.7|14|10|166|
+27042021|27|04|2021|501|25|Papua Barat|Kab. Pegunungan Arfak|Pegunungan Arfak|3||3||38000|2773.7|14|10|166|
 26042021|26|04|2021|501|25|Papua Barat|Kab. Pegunungan Arfak|Pegunungan Arfak|3||3||38000|2773.7|14|10|166|
 25042021|25|04|2021|501|25|Papua Barat|Kab. Pegunungan Arfak|Pegunungan Arfak|3||3||38000|2773.7|14|10|166|
 24042021|24|04|2021|501|25|Papua Barat|Kab. Pegunungan Arfak|Pegunungan Arfak|3||3||38000|2773.7|14|10|166|

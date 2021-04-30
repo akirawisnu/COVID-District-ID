@@ -1,4 +1,5 @@
 date|day|month|year|id_district|id_province|province_name|district_name|city_name|confirmed_case|death_case|recovered_case|active_case|population|area_km2|pop_density|num_kecamatan|num_village|num_islands
+27042021|27|04|2021|206|16|Kalimantan Utara|Kab. Bulungan|Bulungan|2875|59|2754|62|134000|13925.7|10|10|81|110
 26042021|26|04|2021|206|16|Kalimantan Utara|Kab. Bulungan|Bulungan|2864|59|2747|58|134000|13925.7|10|10|81|110
 25042021|25|04|2021|206|16|Kalimantan Utara|Kab. Bulungan|Bulungan|2856|59|2747|50|134000|13925.7|10|10|81|110
 24042021|24|04|2021|206|16|Kalimantan Utara|Kab. Bulungan|Bulungan|2855|59|2738|58|134000|13925.7|10|10|81|110
@@ -394,6 +395,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 30032020|30|03|2020|206|16|Kalimantan Utara|Kab. Bulungan|Bulungan|1||1||134000|13925.7|10|10|81|110
 29032020|29|03|2020|206|16|Kalimantan Utara|Kab. Bulungan|Bulungan|1||1||134000|13925.7|10|10|81|110
 28032020|28|03|2020|206|16|Kalimantan Utara|Kab. Bulungan|Bulungan|1||1||134000|13925.7|10|10|81|110
+27042021|27|04|2021|210|16|Kalimantan Utara|Kab. Malinau|Malinau|981||960|21|79000|42620.7|2|15|109|
 26042021|26|04|2021|210|16|Kalimantan Utara|Kab. Malinau|Malinau|981||942|39|79000|42620.7|2|15|109|
 25042021|25|04|2021|210|16|Kalimantan Utara|Kab. Malinau|Malinau|980||942|38|79000|42620.7|2|15|109|
 24042021|24|04|2021|210|16|Kalimantan Utara|Kab. Malinau|Malinau|967||942|25|79000|42620.7|2|15|109|
@@ -789,6 +791,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 30032020|30|03|2020|210|16|Kalimantan Utara|Kab. Malinau|Malinau|||||79000|42620.7|2|15|109|
 29032020|29|03|2020|210|16|Kalimantan Utara|Kab. Malinau|Malinau|||||79000|42620.7|2|15|109|
 28032020|28|03|2020|210|16|Kalimantan Utara|Kab. Malinau|Malinau|||||79000|42620.7|2|15|109|
+27042021|27|04|2021|211|16|Kalimantan Utara|Kab. Nunukan|Nunukan|1375||1264|111|180000|13841.9|13|19|240|15
 26042021|26|04|2021|211|16|Kalimantan Utara|Kab. Nunukan|Nunukan|1364||1254|110|180000|13841.9|13|19|240|15
 25042021|25|04|2021|211|16|Kalimantan Utara|Kab. Nunukan|Nunukan|1360||1238|122|180000|13841.9|13|19|240|15
 24042021|24|04|2021|211|16|Kalimantan Utara|Kab. Nunukan|Nunukan|1352||1237|115|180000|13841.9|13|19|240|15
@@ -1184,6 +1187,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 30032020|30|03|2020|211|16|Kalimantan Utara|Kab. Nunukan|Nunukan|||||180000|13841.9|13|19|240|15
 29032020|29|03|2020|211|16|Kalimantan Utara|Kab. Nunukan|Nunukan|||||180000|13841.9|13|19|240|15
 28032020|28|03|2020|211|16|Kalimantan Utara|Kab. Nunukan|Nunukan|||||180000|13841.9|13|19|240|15
+27042021|27|04|2021|215|16|Kalimantan Utara|Kab. Tana Tidung|Tana Tidung|431||427|4|24000|4828.6|5|5|32|39
 26042021|26|04|2021|215|16|Kalimantan Utara|Kab. Tana Tidung|Tana Tidung|431||427|4|24000|4828.6|5|5|32|39
 25042021|25|04|2021|215|16|Kalimantan Utara|Kab. Tana Tidung|Tana Tidung|431||427|4|24000|4828.6|5|5|32|39
 24042021|24|04|2021|215|16|Kalimantan Utara|Kab. Tana Tidung|Tana Tidung|431||427|4|24000|4828.6|5|5|32|39
@@ -1579,6 +1583,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 30032020|30|03|2020|215|16|Kalimantan Utara|Kab. Tana Tidung|Tana Tidung|||||24000|4828.6|5|5|32|39
 29032020|29|03|2020|215|16|Kalimantan Utara|Kab. Tana Tidung|Tana Tidung|||||24000|4828.6|5|5|32|39
 28032020|28|03|2020|215|16|Kalimantan Utara|Kab. Tana Tidung|Tana Tidung|||||24000|4828.6|5|5|32|39
+27042021|27|04|2021|216|16|Kalimantan Utara|Kota Tarakan|Kota Tarakan|6041|1|5879|161|229000|250.8|913|4|20|2
 26042021|26|04|2021|216|16|Kalimantan Utara|Kota Tarakan|Kota Tarakan|6039|1|5871|167|229000|250.8|913|4|20|2
 25042021|25|04|2021|216|16|Kalimantan Utara|Kota Tarakan|Kota Tarakan|6038|1|5871|166|229000|250.8|913|4|20|2
 24042021|24|04|2021|216|16|Kalimantan Utara|Kota Tarakan|Kota Tarakan|6035|1|5862|172|229000|250.8|913|4|20|2
