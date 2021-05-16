@@ -1,4 +1,20 @@
 date|day|month|year|id_district|id_province|province_name|district_name|city_name|confirmed_case|death_case|recovered_case|active_case|population|area_km2|pop_density|num_kecamatan|num_village|num_islands
+13052021|13|05|2021|1221|22|Nusa Tenggara Barat (NTB)|"WNA |NTB)"|WNA (NTB)|9||7|2||||||
+12052021|12|05|2021|1221|22|Nusa Tenggara Barat (NTB)|"WNA |NTB)"|WNA (NTB)|9||7|2||||||
+11052021|11|05|2021|1221|22|Nusa Tenggara Barat (NTB)|"WNA |NTB)"|WNA (NTB)|9||7|2||||||
+10052021|10|05|2021|1221|22|Nusa Tenggara Barat (NTB)|"WNA |NTB)"|WNA (NTB)|9||7|2||||||
+09052021|09|05|2021|1221|22|Nusa Tenggara Barat (NTB)|"WNA |NTB)"|WNA (NTB)|9||7|2||||||
+08052021|08|05|2021|1221|22|Nusa Tenggara Barat (NTB)|"WNA |NTB)"|WNA (NTB)|9||7|2||||||
+07052021|07|05|2021|1221|22|Nusa Tenggara Barat (NTB)|"WNA |NTB)"|WNA (NTB)|9||7|2||||||
+06052021|06|05|2021|1221|22|Nusa Tenggara Barat (NTB)|"WNA |NTB)"|WNA (NTB)|9||7|2||||||
+05052021|05|05|2021|1221|22|Nusa Tenggara Barat (NTB)|"WNA |NTB)"|WNA (NTB)|9||7|2||||||
+04052021|04|05|2021|1221|22|Nusa Tenggara Barat (NTB)|"WNA |NTB)"|WNA (NTB)|9||7|2||||||
+03052021|03|05|2021|1221|22|Nusa Tenggara Barat (NTB)|"WNA |NTB)"|WNA (NTB)|9||7|2||||||
+02052021|02|05|2021|1221|22|Nusa Tenggara Barat (NTB)|"WNA |NTB)"|WNA (NTB)|8||7|1||||||
+01052021|01|05|2021|1221|22|Nusa Tenggara Barat (NTB)|"WNA |NTB)"|WNA (NTB)|8||7|1||||||
+30042021|30|04|2021|1221|22|Nusa Tenggara Barat (NTB)|"WNA |NTB)"|WNA (NTB)|8||7|1||||||
+29042021|29|04|2021|1221|22|Nusa Tenggara Barat (NTB)|"WNA |NTB)"|WNA (NTB)|8||7|1||||||
+28042021|28|04|2021|1221|22|Nusa Tenggara Barat (NTB)|"WNA |NTB)"|WNA (NTB)|8||7|1||||||
 27042021|27|04|2021|1221|22|Nusa Tenggara Barat (NTB)|"WNA |NTB)"|WNA (NTB)|8||7|1||||||
 26042021|26|04|2021|1221|22|Nusa Tenggara Barat (NTB)|"WNA |NTB)"|WNA (NTB)|8||7|1||||||
 25042021|25|04|2021|1221|22|Nusa Tenggara Barat (NTB)|"WNA |NTB)"|WNA (NTB)|8||7|1||||||
@@ -401,13 +417,22 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 24032020|24|03|2020|1221|22|Nusa Tenggara Barat (NTB)|"WNA |NTB)"|WNA (NTB)||||||||||
 23032020|23|03|2020|1221|22|Nusa Tenggara Barat (NTB)|"WNA |NTB)"|WNA (NTB)||||||||||
 22032020|22|03|2020|1221|22|Nusa Tenggara Barat (NTB)|"WNA |NTB)"|WNA (NTB)||||||||||
-21032020|21|03|2020|1221|22|Nusa Tenggara Barat (NTB)|"WNA |NTB)"|WNA (NTB)||||||||||
-20032020|20|03|2020|1221|22|Nusa Tenggara Barat (NTB)|"WNA |NTB)"|WNA (NTB)||||||||||
-19032020|19|03|2020|1221|22|Nusa Tenggara Barat (NTB)|"WNA |NTB)"|WNA (NTB)||||||||||
-18032020|18|03|2020|1221|22|Nusa Tenggara Barat (NTB)|"WNA |NTB)"|WNA (NTB)||||||||||
-17032020|17|03|2020|1221|22|Nusa Tenggara Barat (NTB)|"WNA |NTB)"|WNA (NTB)||||||||||
-16032020|16|03|2020|1221|22|Nusa Tenggara Barat (NTB)|"WNA |NTB)"|WNA (NTB)||||||||||
-15032020|15|03|2020|1221|22|Nusa Tenggara Barat (NTB)|"WNA |NTB)"|WNA (NTB)||||||||||
+13052021|13|05|2021|281|22|Nusa Tenggara Barat (NTB)|Kab. Bima|Bima|564|25|528|11|542000|3405.6|159|18|191|83
+12052021|12|05|2021|281|22|Nusa Tenggara Barat (NTB)|Kab. Bima|Bima|564|23|527|14|542000|3405.6|159|18|191|83
+11052021|11|05|2021|281|22|Nusa Tenggara Barat (NTB)|Kab. Bima|Bima|564|23|527|14|542000|3405.6|159|18|191|83
+10052021|10|05|2021|281|22|Nusa Tenggara Barat (NTB)|Kab. Bima|Bima|564|23|527|14|542000|3405.6|159|18|191|83
+09052021|09|05|2021|281|22|Nusa Tenggara Barat (NTB)|Kab. Bima|Bima|563|23|527|13|542000|3405.6|159|18|191|83
+08052021|08|05|2021|281|22|Nusa Tenggara Barat (NTB)|Kab. Bima|Bima|563|23|527|13|542000|3405.6|159|18|191|83
+07052021|07|05|2021|281|22|Nusa Tenggara Barat (NTB)|Kab. Bima|Bima|561|23|527|11|542000|3405.6|159|18|191|83
+06052021|06|05|2021|281|22|Nusa Tenggara Barat (NTB)|Kab. Bima|Bima|561|23|527|11|542000|3405.6|159|18|191|83
+05052021|05|05|2021|281|22|Nusa Tenggara Barat (NTB)|Kab. Bima|Bima|561|23|527|11|542000|3405.6|159|18|191|83
+04052021|04|05|2021|281|22|Nusa Tenggara Barat (NTB)|Kab. Bima|Bima|559|23|526|10|542000|3405.6|159|18|191|83
+03052021|03|05|2021|281|22|Nusa Tenggara Barat (NTB)|Kab. Bima|Bima|559|23|526|10|542000|3405.6|159|18|191|83
+02052021|02|05|2021|281|22|Nusa Tenggara Barat (NTB)|Kab. Bima|Bima|559|23|525|11|542000|3405.6|159|18|191|83
+01052021|01|05|2021|281|22|Nusa Tenggara Barat (NTB)|Kab. Bima|Bima|556|23|525|8|542000|3405.6|159|18|191|83
+30042021|30|04|2021|281|22|Nusa Tenggara Barat (NTB)|Kab. Bima|Bima|554|23|523|8|542000|3405.6|159|18|191|83
+29042021|29|04|2021|281|22|Nusa Tenggara Barat (NTB)|Kab. Bima|Bima|554|23|523|8|542000|3405.6|159|18|191|83
+28042021|28|04|2021|281|22|Nusa Tenggara Barat (NTB)|Kab. Bima|Bima|552|23|521|8|542000|3405.6|159|18|191|83
 27042021|27|04|2021|281|22|Nusa Tenggara Barat (NTB)|Kab. Bima|Bima|544|23|507|14|542000|3405.6|159|18|191|83
 26042021|26|04|2021|281|22|Nusa Tenggara Barat (NTB)|Kab. Bima|Bima|544|23|507|14|542000|3405.6|159|18|191|83
 25042021|25|04|2021|281|22|Nusa Tenggara Barat (NTB)|Kab. Bima|Bima|544|23|507|14|542000|3405.6|159|18|191|83
@@ -810,13 +835,22 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 24032020|24|03|2020|281|22|Nusa Tenggara Barat (NTB)|Kab. Bima|Bima|||||542000|3405.6|159|18|191|83
 23032020|23|03|2020|281|22|Nusa Tenggara Barat (NTB)|Kab. Bima|Bima|||||542000|3405.6|159|18|191|83
 22032020|22|03|2020|281|22|Nusa Tenggara Barat (NTB)|Kab. Bima|Bima|||||542000|3405.6|159|18|191|83
-21032020|21|03|2020|281|22|Nusa Tenggara Barat (NTB)|Kab. Bima|Bima|||||542000|3405.6|159|18|191|83
-20032020|20|03|2020|281|22|Nusa Tenggara Barat (NTB)|Kab. Bima|Bima|||||542000|3405.6|159|18|191|83
-19032020|19|03|2020|281|22|Nusa Tenggara Barat (NTB)|Kab. Bima|Bima|||||542000|3405.6|159|18|191|83
-18032020|18|03|2020|281|22|Nusa Tenggara Barat (NTB)|Kab. Bima|Bima|||||542000|3405.6|159|18|191|83
-17032020|17|03|2020|281|22|Nusa Tenggara Barat (NTB)|Kab. Bima|Bima|||||542000|3405.6|159|18|191|83
-16032020|16|03|2020|281|22|Nusa Tenggara Barat (NTB)|Kab. Bima|Bima|||||542000|3405.6|159|18|191|83
-15032020|15|03|2020|281|22|Nusa Tenggara Barat (NTB)|Kab. Bima|Bima|||||542000|3405.6|159|18|191|83
+13052021|13|05|2021|282|22|Nusa Tenggara Barat (NTB)|Kota Bima|Kota Bima|1086|40|1021|25|146000|222.3|656|5|38|
+12052021|12|05|2021|282|22|Nusa Tenggara Barat (NTB)|Kota Bima|Kota Bima|1086|40|1021|25|146000|222.3|656|5|38|
+11052021|11|05|2021|282|22|Nusa Tenggara Barat (NTB)|Kota Bima|Kota Bima|1086|40|1021|25|146000|222.3|656|5|38|
+10052021|10|05|2021|282|22|Nusa Tenggara Barat (NTB)|Kota Bima|Kota Bima|1085|40|1012|33|146000|222.3|656|5|38|
+09052021|09|05|2021|282|22|Nusa Tenggara Barat (NTB)|Kota Bima|Kota Bima|1082|39|1007|36|146000|222.3|656|5|38|
+08052021|08|05|2021|282|22|Nusa Tenggara Barat (NTB)|Kota Bima|Kota Bima|1082|39|1007|36|146000|222.3|656|5|38|
+07052021|07|05|2021|282|22|Nusa Tenggara Barat (NTB)|Kota Bima|Kota Bima|1082|39|1007|36|146000|222.3|656|5|38|
+06052021|06|05|2021|282|22|Nusa Tenggara Barat (NTB)|Kota Bima|Kota Bima|1082|39|1007|36|146000|222.3|656|5|38|
+05052021|05|05|2021|282|22|Nusa Tenggara Barat (NTB)|Kota Bima|Kota Bima|1082|39|1003|40|146000|222.3|656|5|38|
+04052021|04|05|2021|282|22|Nusa Tenggara Barat (NTB)|Kota Bima|Kota Bima|1080|39|1003|38|146000|222.3|656|5|38|
+03052021|03|05|2021|282|22|Nusa Tenggara Barat (NTB)|Kota Bima|Kota Bima|1080|39|1001|40|146000|222.3|656|5|38|
+02052021|02|05|2021|282|22|Nusa Tenggara Barat (NTB)|Kota Bima|Kota Bima|1080|39|1000|41|146000|222.3|656|5|38|
+01052021|01|05|2021|282|22|Nusa Tenggara Barat (NTB)|Kota Bima|Kota Bima|1075|39|1000|36|146000|222.3|656|5|38|
+30042021|30|04|2021|282|22|Nusa Tenggara Barat (NTB)|Kota Bima|Kota Bima|1071|39|991|41|146000|222.3|656|5|38|
+29042021|29|04|2021|282|22|Nusa Tenggara Barat (NTB)|Kota Bima|Kota Bima|1071|39|991|41|146000|222.3|656|5|38|
+28042021|28|04|2021|282|22|Nusa Tenggara Barat (NTB)|Kota Bima|Kota Bima|1069|39|990|40|146000|222.3|656|5|38|
 27042021|27|04|2021|282|22|Nusa Tenggara Barat (NTB)|Kota Bima|Kota Bima|1063|39|987|37|146000|222.3|656|5|38|
 26042021|26|04|2021|282|22|Nusa Tenggara Barat (NTB)|Kota Bima|Kota Bima|1063|39|987|37|146000|222.3|656|5|38|
 25042021|25|04|2021|282|22|Nusa Tenggara Barat (NTB)|Kota Bima|Kota Bima|1063|39|987|37|146000|222.3|656|5|38|
@@ -1219,13 +1253,22 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 24032020|24|03|2020|282|22|Nusa Tenggara Barat (NTB)|Kota Bima|Kota Bima|||||146000|222.3|656|5|38|
 23032020|23|03|2020|282|22|Nusa Tenggara Barat (NTB)|Kota Bima|Kota Bima|||||146000|222.3|656|5|38|
 22032020|22|03|2020|282|22|Nusa Tenggara Barat (NTB)|Kota Bima|Kota Bima|||||146000|222.3|656|5|38|
-21032020|21|03|2020|282|22|Nusa Tenggara Barat (NTB)|Kota Bima|Kota Bima|||||146000|222.3|656|5|38|
-20032020|20|03|2020|282|22|Nusa Tenggara Barat (NTB)|Kota Bima|Kota Bima|||||146000|222.3|656|5|38|
-19032020|19|03|2020|282|22|Nusa Tenggara Barat (NTB)|Kota Bima|Kota Bima|||||146000|222.3|656|5|38|
-18032020|18|03|2020|282|22|Nusa Tenggara Barat (NTB)|Kota Bima|Kota Bima|||||146000|222.3|656|5|38|
-17032020|17|03|2020|282|22|Nusa Tenggara Barat (NTB)|Kota Bima|Kota Bima|||||146000|222.3|656|5|38|
-16032020|16|03|2020|282|22|Nusa Tenggara Barat (NTB)|Kota Bima|Kota Bima|||||146000|222.3|656|5|38|
-15032020|15|03|2020|282|22|Nusa Tenggara Barat (NTB)|Kota Bima|Kota Bima|||||146000|222.3|656|5|38|
+13052021|13|05|2021|283|22|Nusa Tenggara Barat (NTB)|Kab. Dompu|Dompu|822|28|761|33|222000|2391.5|93|8|81|23
+12052021|12|05|2021|283|22|Nusa Tenggara Barat (NTB)|Kab. Dompu|Dompu|822|28|761|33|222000|2391.5|93|8|81|23
+11052021|11|05|2021|283|22|Nusa Tenggara Barat (NTB)|Kab. Dompu|Dompu|822|28|761|33|222000|2391.5|93|8|81|23
+10052021|10|05|2021|283|22|Nusa Tenggara Barat (NTB)|Kab. Dompu|Dompu|817|28|760|29|222000|2391.5|93|8|81|23
+09052021|09|05|2021|283|22|Nusa Tenggara Barat (NTB)|Kab. Dompu|Dompu|813|28|754|31|222000|2391.5|93|8|81|23
+08052021|08|05|2021|283|22|Nusa Tenggara Barat (NTB)|Kab. Dompu|Dompu|813|28|754|31|222000|2391.5|93|8|81|23
+07052021|07|05|2021|283|22|Nusa Tenggara Barat (NTB)|Kab. Dompu|Dompu|813|28|748|37|222000|2391.5|93|8|81|23
+06052021|06|05|2021|283|22|Nusa Tenggara Barat (NTB)|Kab. Dompu|Dompu|806|28|745|33|222000|2391.5|93|8|81|23
+05052021|05|05|2021|283|22|Nusa Tenggara Barat (NTB)|Kab. Dompu|Dompu|806|28|742|36|222000|2391.5|93|8|81|23
+04052021|04|05|2021|283|22|Nusa Tenggara Barat (NTB)|Kab. Dompu|Dompu|806|28|736|42|222000|2391.5|93|8|81|23
+03052021|03|05|2021|283|22|Nusa Tenggara Barat (NTB)|Kab. Dompu|Dompu|806|28|732|46|222000|2391.5|93|8|81|23
+02052021|02|05|2021|283|22|Nusa Tenggara Barat (NTB)|Kab. Dompu|Dompu|795|28|727|40|222000|2391.5|93|8|81|23
+01052021|01|05|2021|283|22|Nusa Tenggara Barat (NTB)|Kab. Dompu|Dompu|795|28|727|40|222000|2391.5|93|8|81|23
+30042021|30|04|2021|283|22|Nusa Tenggara Barat (NTB)|Kab. Dompu|Dompu|795|28|719|48|222000|2391.5|93|8|81|23
+29042021|29|04|2021|283|22|Nusa Tenggara Barat (NTB)|Kab. Dompu|Dompu|791|28|719|44|222000|2391.5|93|8|81|23
+28042021|28|04|2021|283|22|Nusa Tenggara Barat (NTB)|Kab. Dompu|Dompu|791|28|719|44|222000|2391.5|93|8|81|23
 27042021|27|04|2021|283|22|Nusa Tenggara Barat (NTB)|Kab. Dompu|Dompu|785|28|715|42|222000|2391.5|93|8|81|23
 26042021|26|04|2021|283|22|Nusa Tenggara Barat (NTB)|Kab. Dompu|Dompu|785|28|715|42|222000|2391.5|93|8|81|23
 25042021|25|04|2021|283|22|Nusa Tenggara Barat (NTB)|Kab. Dompu|Dompu|785|28|715|42|222000|2391.5|93|8|81|23
@@ -1628,13 +1671,22 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 24032020|24|03|2020|283|22|Nusa Tenggara Barat (NTB)|Kab. Dompu|Dompu|||||222000|2391.5|93|8|81|23
 23032020|23|03|2020|283|22|Nusa Tenggara Barat (NTB)|Kab. Dompu|Dompu|||||222000|2391.5|93|8|81|23
 22032020|22|03|2020|283|22|Nusa Tenggara Barat (NTB)|Kab. Dompu|Dompu|||||222000|2391.5|93|8|81|23
-21032020|21|03|2020|283|22|Nusa Tenggara Barat (NTB)|Kab. Dompu|Dompu|||||222000|2391.5|93|8|81|23
-20032020|20|03|2020|283|22|Nusa Tenggara Barat (NTB)|Kab. Dompu|Dompu|||||222000|2391.5|93|8|81|23
-19032020|19|03|2020|283|22|Nusa Tenggara Barat (NTB)|Kab. Dompu|Dompu|||||222000|2391.5|93|8|81|23
-18032020|18|03|2020|283|22|Nusa Tenggara Barat (NTB)|Kab. Dompu|Dompu|||||222000|2391.5|93|8|81|23
-17032020|17|03|2020|283|22|Nusa Tenggara Barat (NTB)|Kab. Dompu|Dompu|||||222000|2391.5|93|8|81|23
-16032020|16|03|2020|283|22|Nusa Tenggara Barat (NTB)|Kab. Dompu|Dompu|||||222000|2391.5|93|8|81|23
-15032020|15|03|2020|283|22|Nusa Tenggara Barat (NTB)|Kab. Dompu|Dompu|||||222000|2391.5|93|8|81|23
+13052021|13|05|2021|284|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Barat|Lombok Barat|1494|96|1318|80|737000|896.6|822|10|122|75
+12052021|12|05|2021|284|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Barat|Lombok Barat|1493|95|1318|80|737000|896.6|822|10|122|75
+11052021|11|05|2021|284|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Barat|Lombok Barat|1493|95|1318|80|737000|896.6|822|10|122|75
+10052021|10|05|2021|284|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Barat|Lombok Barat|1490|93|1316|81|737000|896.6|822|10|122|75
+09052021|09|05|2021|284|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Barat|Lombok Barat|1489|91|1315|83|737000|896.6|822|10|122|75
+08052021|08|05|2021|284|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Barat|Lombok Barat|1481|91|1314|76|737000|896.6|822|10|122|75
+07052021|07|05|2021|284|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Barat|Lombok Barat|1479|91|1312|76|737000|896.6|822|10|122|75
+06052021|06|05|2021|284|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Barat|Lombok Barat|1470|90|1310|70|737000|896.6|822|10|122|75
+05052021|05|05|2021|284|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Barat|Lombok Barat|1467|89|1302|76|737000|896.6|822|10|122|75
+04052021|04|05|2021|284|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Barat|Lombok Barat|1458|88|1302|68|737000|896.6|822|10|122|75
+03052021|03|05|2021|284|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Barat|Lombok Barat|1457|88|1302|67|737000|896.6|822|10|122|75
+02052021|02|05|2021|284|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Barat|Lombok Barat|1452|87|1294|71|737000|896.6|822|10|122|75
+01052021|01|05|2021|284|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Barat|Lombok Barat|1448|87|1292|69|737000|896.6|822|10|122|75
+30042021|30|04|2021|284|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Barat|Lombok Barat|1443|85|1268|90|737000|896.6|822|10|122|75
+29042021|29|04|2021|284|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Barat|Lombok Barat|1435|85|1268|82|737000|896.6|822|10|122|75
+28042021|28|04|2021|284|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Barat|Lombok Barat|1430|84|1264|82|737000|896.6|822|10|122|75
 27042021|27|04|2021|284|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Barat|Lombok Barat|1409|82|1251|76|737000|896.6|822|10|122|75
 26042021|26|04|2021|284|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Barat|Lombok Barat|1409|82|1251|76|737000|896.6|822|10|122|75
 25042021|25|04|2021|284|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Barat|Lombok Barat|1409|82|1251|76|737000|896.6|822|10|122|75
@@ -2037,13 +2089,22 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 24032020|24|03|2020|284|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Barat|Lombok Barat|||||737000|896.6|822|10|122|75
 23032020|23|03|2020|284|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Barat|Lombok Barat|||||737000|896.6|822|10|122|75
 22032020|22|03|2020|284|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Barat|Lombok Barat|||||737000|896.6|822|10|122|75
-21032020|21|03|2020|284|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Barat|Lombok Barat|||||737000|896.6|822|10|122|75
-20032020|20|03|2020|284|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Barat|Lombok Barat|||||737000|896.6|822|10|122|75
-19032020|19|03|2020|284|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Barat|Lombok Barat|||||737000|896.6|822|10|122|75
-18032020|18|03|2020|284|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Barat|Lombok Barat|||||737000|896.6|822|10|122|75
-17032020|17|03|2020|284|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Barat|Lombok Barat|||||737000|896.6|822|10|122|75
-16032020|16|03|2020|284|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Barat|Lombok Barat|||||737000|896.6|822|10|122|75
-15032020|15|03|2020|284|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Barat|Lombok Barat|||||737000|896.6|822|10|122|75
+13052021|13|05|2021|285|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Tengah|Lombok Tengah|871|67|708|96|1100000|1095|976|12|139|36
+12052021|12|05|2021|285|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Tengah|Lombok Tengah|871|65|708|98|1100000|1095|976|12|139|36
+11052021|11|05|2021|285|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Tengah|Lombok Tengah|871|65|708|98|1100000|1095|976|12|139|36
+10052021|10|05|2021|285|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Tengah|Lombok Tengah|871|63|708|100|1100000|1095|976|12|139|36
+09052021|09|05|2021|285|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Tengah|Lombok Tengah|869|59|708|102|1100000|1095|976|12|139|36
+08052021|08|05|2021|285|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Tengah|Lombok Tengah|867|55|708|104|1100000|1095|976|12|139|36
+07052021|07|05|2021|285|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Tengah|Lombok Tengah|867|51|708|108|1100000|1095|976|12|139|36
+06052021|06|05|2021|285|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Tengah|Lombok Tengah|854|49|708|97|1100000|1095|976|12|139|36
+05052021|05|05|2021|285|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Tengah|Lombok Tengah|853|47|708|98|1100000|1095|976|12|139|36
+04052021|04|05|2021|285|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Tengah|Lombok Tengah|852|43|708|101|1100000|1095|976|12|139|36
+03052021|03|05|2021|285|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Tengah|Lombok Tengah|842|43|676|123|1100000|1095|976|12|139|36
+02052021|02|05|2021|285|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Tengah|Lombok Tengah|842|43|676|123|1100000|1095|976|12|139|36
+01052021|01|05|2021|285|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Tengah|Lombok Tengah|828|43|676|109|1100000|1095|976|12|139|36
+30042021|30|04|2021|285|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Tengah|Lombok Tengah|776|43|676|57|1100000|1095|976|12|139|36
+29042021|29|04|2021|285|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Tengah|Lombok Tengah|772|43|676|53|1100000|1095|976|12|139|36
+28042021|28|04|2021|285|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Tengah|Lombok Tengah|753|43|670|40|1100000|1095|976|12|139|36
 27042021|27|04|2021|285|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Tengah|Lombok Tengah|746|43|583|120|1100000|1095|976|12|139|36
 26042021|26|04|2021|285|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Tengah|Lombok Tengah|746|43|583|120|1100000|1095|976|12|139|36
 25042021|25|04|2021|285|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Tengah|Lombok Tengah|746|43|583|120|1100000|1095|976|12|139|36
@@ -2446,13 +2507,22 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 24032020|24|03|2020|285|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Tengah|Lombok Tengah|||||1100000|1095|976|12|139|36
 23032020|23|03|2020|285|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Tengah|Lombok Tengah|||||1100000|1095|976|12|139|36
 22032020|22|03|2020|285|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Tengah|Lombok Tengah|||||1100000|1095|976|12|139|36
-21032020|21|03|2020|285|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Tengah|Lombok Tengah|||||1100000|1095|976|12|139|36
-20032020|20|03|2020|285|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Tengah|Lombok Tengah|||||1100000|1095|976|12|139|36
-19032020|19|03|2020|285|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Tengah|Lombok Tengah|||||1100000|1095|976|12|139|36
-18032020|18|03|2020|285|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Tengah|Lombok Tengah|||||1100000|1095|976|12|139|36
-17032020|17|03|2020|285|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Tengah|Lombok Tengah|||||1100000|1095|976|12|139|36
-16032020|16|03|2020|285|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Tengah|Lombok Tengah|||||1100000|1095|976|12|139|36
-15032020|15|03|2020|285|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Tengah|Lombok Tengah|||||1100000|1095|976|12|139|36
+13052021|13|05|2021|286|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Timur|Lombok Timur|1473|48|1391|34|1300000|1230.8|1082|20|254|70
+12052021|12|05|2021|286|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Timur|Lombok Timur|1473|48|1391|34|1300000|1230.8|1082|20|254|70
+11052021|11|05|2021|286|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Timur|Lombok Timur|1473|48|1391|34|1300000|1230.8|1082|20|254|70
+10052021|10|05|2021|286|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Timur|Lombok Timur|1464|48|1385|31|1300000|1230.8|1082|20|254|70
+09052021|09|05|2021|286|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Timur|Lombok Timur|1460|48|1382|30|1300000|1230.8|1082|20|254|70
+08052021|08|05|2021|286|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Timur|Lombok Timur|1455|48|1380|27|1300000|1230.8|1082|20|254|70
+07052021|07|05|2021|286|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Timur|Lombok Timur|1449|47|1374|28|1300000|1230.8|1082|20|254|70
+06052021|06|05|2021|286|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Timur|Lombok Timur|1446|46|1371|29|1300000|1230.8|1082|20|254|70
+05052021|05|05|2021|286|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Timur|Lombok Timur|1433|46|1361|26|1300000|1230.8|1082|20|254|70
+04052021|04|05|2021|286|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Timur|Lombok Timur|1422|46|1354|22|1300000|1230.8|1082|20|254|70
+03052021|03|05|2021|286|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Timur|Lombok Timur|1417|46|1351|20|1300000|1230.8|1082|20|254|70
+02052021|02|05|2021|286|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Timur|Lombok Timur|1417|46|1349|22|1300000|1230.8|1082|20|254|70
+01052021|01|05|2021|286|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Timur|Lombok Timur|1415|46|1349|20|1300000|1230.8|1082|20|254|70
+30042021|30|04|2021|286|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Timur|Lombok Timur|1409|46|1347|16|1300000|1230.8|1082|20|254|70
+29042021|29|04|2021|286|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Timur|Lombok Timur|1409|46|1347|16|1300000|1230.8|1082|20|254|70
+28042021|28|04|2021|286|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Timur|Lombok Timur|1407|45|1345|17|1300000|1230.8|1082|20|254|70
 27042021|27|04|2021|286|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Timur|Lombok Timur|1388|44|1327|17|1300000|1230.8|1082|20|254|70
 26042021|26|04|2021|286|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Timur|Lombok Timur|1388|44|1327|17|1300000|1230.8|1082|20|254|70
 25042021|25|04|2021|286|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Timur|Lombok Timur|1388|44|1327|17|1300000|1230.8|1082|20|254|70
@@ -2855,13 +2925,22 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 24032020|24|03|2020|286|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Timur|Lombok Timur|1||1||1300000|1230.8|1082|20|254|70
 23032020|23|03|2020|286|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Timur|Lombok Timur|||||1300000|1230.8|1082|20|254|70
 22032020|22|03|2020|286|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Timur|Lombok Timur|||||1300000|1230.8|1082|20|254|70
-21032020|21|03|2020|286|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Timur|Lombok Timur|||||1300000|1230.8|1082|20|254|70
-20032020|20|03|2020|286|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Timur|Lombok Timur|||||1300000|1230.8|1082|20|254|70
-19032020|19|03|2020|286|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Timur|Lombok Timur|||||1300000|1230.8|1082|20|254|70
-18032020|18|03|2020|286|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Timur|Lombok Timur|||||1300000|1230.8|1082|20|254|70
-17032020|17|03|2020|286|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Timur|Lombok Timur|||||1300000|1230.8|1082|20|254|70
-16032020|16|03|2020|286|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Timur|Lombok Timur|||||1300000|1230.8|1082|20|254|70
-15032020|15|03|2020|286|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Timur|Lombok Timur|||||1300000|1230.8|1082|20|254|70
+13052021|13|05|2021|287|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Utara|Lombok Utara|273|15|228|30|241000|776.3|311|5|33|5
+12052021|12|05|2021|287|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Utara|Lombok Utara|268|15|226|27|241000|776.3|311|5|33|5
+11052021|11|05|2021|287|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Utara|Lombok Utara|268|15|226|27|241000|776.3|311|5|33|5
+10052021|10|05|2021|287|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Utara|Lombok Utara|268|15|226|27|241000|776.3|311|5|33|5
+09052021|09|05|2021|287|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Utara|Lombok Utara|259|15|220|24|241000|776.3|311|5|33|5
+08052021|08|05|2021|287|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Utara|Lombok Utara|258|15|220|23|241000|776.3|311|5|33|5
+07052021|07|05|2021|287|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Utara|Lombok Utara|258|15|218|25|241000|776.3|311|5|33|5
+06052021|06|05|2021|287|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Utara|Lombok Utara|255|15|218|22|241000|776.3|311|5|33|5
+05052021|05|05|2021|287|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Utara|Lombok Utara|255|15|218|22|241000|776.3|311|5|33|5
+04052021|04|05|2021|287|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Utara|Lombok Utara|254|15|218|21|241000|776.3|311|5|33|5
+03052021|03|05|2021|287|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Utara|Lombok Utara|253|15|218|20|241000|776.3|311|5|33|5
+02052021|02|05|2021|287|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Utara|Lombok Utara|253|15|218|20|241000|776.3|311|5|33|5
+01052021|01|05|2021|287|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Utara|Lombok Utara|251|15|218|18|241000|776.3|311|5|33|5
+30042021|30|04|2021|287|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Utara|Lombok Utara|251|15|216|20|241000|776.3|311|5|33|5
+29042021|29|04|2021|287|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Utara|Lombok Utara|250|15|216|19|241000|776.3|311|5|33|5
+28042021|28|04|2021|287|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Utara|Lombok Utara|245|15|216|14|241000|776.3|311|5|33|5
 27042021|27|04|2021|287|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Utara|Lombok Utara|240|15|214|11|241000|776.3|311|5|33|5
 26042021|26|04|2021|287|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Utara|Lombok Utara|240|15|214|11|241000|776.3|311|5|33|5
 25042021|25|04|2021|287|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Utara|Lombok Utara|240|15|214|11|241000|776.3|311|5|33|5
@@ -3264,13 +3343,22 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 24032020|24|03|2020|287|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Utara|Lombok Utara|||||241000|776.3|311|5|33|5
 23032020|23|03|2020|287|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Utara|Lombok Utara|||||241000|776.3|311|5|33|5
 22032020|22|03|2020|287|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Utara|Lombok Utara|||||241000|776.3|311|5|33|5
-21032020|21|03|2020|287|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Utara|Lombok Utara|||||241000|776.3|311|5|33|5
-20032020|20|03|2020|287|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Utara|Lombok Utara|||||241000|776.3|311|5|33|5
-19032020|19|03|2020|287|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Utara|Lombok Utara|||||241000|776.3|311|5|33|5
-18032020|18|03|2020|287|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Utara|Lombok Utara|||||241000|776.3|311|5|33|5
-17032020|17|03|2020|287|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Utara|Lombok Utara|||||241000|776.3|311|5|33|5
-16032020|16|03|2020|287|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Utara|Lombok Utara|||||241000|776.3|311|5|33|5
-15032020|15|03|2020|287|22|Nusa Tenggara Barat (NTB)|Kab. Lombok Utara|Lombok Utara|||||241000|776.3|311|5|33|5
+13052021|13|05|2021|288|22|Nusa Tenggara Barat (NTB)|Kota Mataram|Kota Mataram|3565|162|3041|362|433000|61.3|7065|6|50|
+12052021|12|05|2021|288|22|Nusa Tenggara Barat (NTB)|Kota Mataram|Kota Mataram|3565|162|3041|362|433000|61.3|7065|6|50|
+11052021|11|05|2021|288|22|Nusa Tenggara Barat (NTB)|Kota Mataram|Kota Mataram|3565|162|3041|362|433000|61.3|7065|6|50|
+10052021|10|05|2021|288|22|Nusa Tenggara Barat (NTB)|Kota Mataram|Kota Mataram|3546|162|3039|345|433000|61.3|7065|6|50|
+09052021|09|05|2021|288|22|Nusa Tenggara Barat (NTB)|Kota Mataram|Kota Mataram|3530|162|3039|329|433000|61.3|7065|6|50|
+08052021|08|05|2021|288|22|Nusa Tenggara Barat (NTB)|Kota Mataram|Kota Mataram|3510|161|3037|312|433000|61.3|7065|6|50|
+07052021|07|05|2021|288|22|Nusa Tenggara Barat (NTB)|Kota Mataram|Kota Mataram|3508|161|2991|356|433000|61.3|7065|6|50|
+06052021|06|05|2021|288|22|Nusa Tenggara Barat (NTB)|Kota Mataram|Kota Mataram|3488|160|2880|448|433000|61.3|7065|6|50|
+05052021|05|05|2021|288|22|Nusa Tenggara Barat (NTB)|Kota Mataram|Kota Mataram|3477|158|2852|467|433000|61.3|7065|6|50|
+04052021|04|05|2021|288|22|Nusa Tenggara Barat (NTB)|Kota Mataram|Kota Mataram|3467|158|2852|457|433000|61.3|7065|6|50|
+03052021|03|05|2021|288|22|Nusa Tenggara Barat (NTB)|Kota Mataram|Kota Mataram|3448|158|2851|439|433000|61.3|7065|6|50|
+02052021|02|05|2021|288|22|Nusa Tenggara Barat (NTB)|Kota Mataram|Kota Mataram|3435|156|2849|430|433000|61.3|7065|6|50|
+01052021|01|05|2021|288|22|Nusa Tenggara Barat (NTB)|Kota Mataram|Kota Mataram|3414|156|2846|412|433000|61.3|7065|6|50|
+30042021|30|04|2021|288|22|Nusa Tenggara Barat (NTB)|Kota Mataram|Kota Mataram|3399|155|2846|398|433000|61.3|7065|6|50|
+29042021|29|04|2021|288|22|Nusa Tenggara Barat (NTB)|Kota Mataram|Kota Mataram|3381|155|2846|380|433000|61.3|7065|6|50|
+28042021|28|04|2021|288|22|Nusa Tenggara Barat (NTB)|Kota Mataram|Kota Mataram|3381|155|2846|380|433000|61.3|7065|6|50|
 27042021|27|04|2021|288|22|Nusa Tenggara Barat (NTB)|Kota Mataram|Kota Mataram|3344|155|2826|363|433000|61.3|7065|6|50|
 26042021|26|04|2021|288|22|Nusa Tenggara Barat (NTB)|Kota Mataram|Kota Mataram|3344|155|2826|363|433000|61.3|7065|6|50|
 25042021|25|04|2021|288|22|Nusa Tenggara Barat (NTB)|Kota Mataram|Kota Mataram|3344|155|2826|363|433000|61.3|7065|6|50|
@@ -3673,13 +3761,22 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 24032020|24|03|2020|288|22|Nusa Tenggara Barat (NTB)|Kota Mataram|Kota Mataram|||||433000|61.3|7065|6|50|
 23032020|23|03|2020|288|22|Nusa Tenggara Barat (NTB)|Kota Mataram|Kota Mataram|||||433000|61.3|7065|6|50|
 22032020|22|03|2020|288|22|Nusa Tenggara Barat (NTB)|Kota Mataram|Kota Mataram|||||433000|61.3|7065|6|50|
-21032020|21|03|2020|288|22|Nusa Tenggara Barat (NTB)|Kota Mataram|Kota Mataram|||||433000|61.3|7065|6|50|
-20032020|20|03|2020|288|22|Nusa Tenggara Barat (NTB)|Kota Mataram|Kota Mataram|||||433000|61.3|7065|6|50|
-19032020|19|03|2020|288|22|Nusa Tenggara Barat (NTB)|Kota Mataram|Kota Mataram|||||433000|61.3|7065|6|50|
-18032020|18|03|2020|288|22|Nusa Tenggara Barat (NTB)|Kota Mataram|Kota Mataram|||||433000|61.3|7065|6|50|
-17032020|17|03|2020|288|22|Nusa Tenggara Barat (NTB)|Kota Mataram|Kota Mataram|||||433000|61.3|7065|6|50|
-16032020|16|03|2020|288|22|Nusa Tenggara Barat (NTB)|Kota Mataram|Kota Mataram|||||433000|61.3|7065|6|50|
-15032020|15|03|2020|288|22|Nusa Tenggara Barat (NTB)|Kota Mataram|Kota Mataram|||||433000|61.3|7065|6|50|
+13052021|13|05|2021|289|22|Nusa Tenggara Barat (NTB)|Kab. Sumbawa|Sumbawa|1419|90|1300|29|526000|6644|79|24|165|64
+12052021|12|05|2021|289|22|Nusa Tenggara Barat (NTB)|Kab. Sumbawa|Sumbawa|1411|89|1298|24|526000|6644|79|24|165|64
+11052021|11|05|2021|289|22|Nusa Tenggara Barat (NTB)|Kab. Sumbawa|Sumbawa|1411|89|1298|24|526000|6644|79|24|165|64
+10052021|10|05|2021|289|22|Nusa Tenggara Barat (NTB)|Kab. Sumbawa|Sumbawa|1408|89|1290|29|526000|6644|79|24|165|64
+09052021|09|05|2021|289|22|Nusa Tenggara Barat (NTB)|Kab. Sumbawa|Sumbawa|1404|86|1279|39|526000|6644|79|24|165|64
+08052021|08|05|2021|289|22|Nusa Tenggara Barat (NTB)|Kab. Sumbawa|Sumbawa|1399|86|1274|39|526000|6644|79|24|165|64
+07052021|07|05|2021|289|22|Nusa Tenggara Barat (NTB)|Kab. Sumbawa|Sumbawa|1399|86|1272|41|526000|6644|79|24|165|64
+06052021|06|05|2021|289|22|Nusa Tenggara Barat (NTB)|Kab. Sumbawa|Sumbawa|1392|85|1269|38|526000|6644|79|24|165|64
+05052021|05|05|2021|289|22|Nusa Tenggara Barat (NTB)|Kab. Sumbawa|Sumbawa|1391|85|1258|48|526000|6644|79|24|165|64
+04052021|04|05|2021|289|22|Nusa Tenggara Barat (NTB)|Kab. Sumbawa|Sumbawa|1391|85|1249|57|526000|6644|79|24|165|64
+03052021|03|05|2021|289|22|Nusa Tenggara Barat (NTB)|Kab. Sumbawa|Sumbawa|1391|85|1247|59|526000|6644|79|24|165|64
+02052021|02|05|2021|289|22|Nusa Tenggara Barat (NTB)|Kab. Sumbawa|Sumbawa|1385|85|1245|55|526000|6644|79|24|165|64
+01052021|01|05|2021|289|22|Nusa Tenggara Barat (NTB)|Kab. Sumbawa|Sumbawa|1384|84|1233|67|526000|6644|79|24|165|64
+30042021|30|04|2021|289|22|Nusa Tenggara Barat (NTB)|Kab. Sumbawa|Sumbawa|1376|83|1233|60|526000|6644|79|24|165|64
+29042021|29|04|2021|289|22|Nusa Tenggara Barat (NTB)|Kab. Sumbawa|Sumbawa|1369|83|1233|53|526000|6644|79|24|165|64
+28042021|28|04|2021|289|22|Nusa Tenggara Barat (NTB)|Kab. Sumbawa|Sumbawa|1367|83|1231|53|526000|6644|79|24|165|64
 27042021|27|04|2021|289|22|Nusa Tenggara Barat (NTB)|Kab. Sumbawa|Sumbawa|1344|82|1216|46|526000|6644|79|24|165|64
 26042021|26|04|2021|289|22|Nusa Tenggara Barat (NTB)|Kab. Sumbawa|Sumbawa|1344|82|1216|46|526000|6644|79|24|165|64
 25042021|25|04|2021|289|22|Nusa Tenggara Barat (NTB)|Kab. Sumbawa|Sumbawa|1344|82|1216|46|526000|6644|79|24|165|64
@@ -4082,13 +4179,22 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 24032020|24|03|2020|289|22|Nusa Tenggara Barat (NTB)|Kab. Sumbawa|Sumbawa|||||526000|6644|79|24|165|64
 23032020|23|03|2020|289|22|Nusa Tenggara Barat (NTB)|Kab. Sumbawa|Sumbawa|||||526000|6644|79|24|165|64
 22032020|22|03|2020|289|22|Nusa Tenggara Barat (NTB)|Kab. Sumbawa|Sumbawa|||||526000|6644|79|24|165|64
-21032020|21|03|2020|289|22|Nusa Tenggara Barat (NTB)|Kab. Sumbawa|Sumbawa|||||526000|6644|79|24|165|64
-20032020|20|03|2020|289|22|Nusa Tenggara Barat (NTB)|Kab. Sumbawa|Sumbawa|||||526000|6644|79|24|165|64
-19032020|19|03|2020|289|22|Nusa Tenggara Barat (NTB)|Kab. Sumbawa|Sumbawa|||||526000|6644|79|24|165|64
-18032020|18|03|2020|289|22|Nusa Tenggara Barat (NTB)|Kab. Sumbawa|Sumbawa|||||526000|6644|79|24|165|64
-17032020|17|03|2020|289|22|Nusa Tenggara Barat (NTB)|Kab. Sumbawa|Sumbawa|||||526000|6644|79|24|165|64
-16032020|16|03|2020|289|22|Nusa Tenggara Barat (NTB)|Kab. Sumbawa|Sumbawa|||||526000|6644|79|24|165|64
-15032020|15|03|2020|289|22|Nusa Tenggara Barat (NTB)|Kab. Sumbawa|Sumbawa|||||526000|6644|79|24|165|64
+13052021|13|05|2021|290|22|Nusa Tenggara Barat (NTB)|Kab. Sumbawa Barat|Sumbawa Barat|580|14|544|22|139000|1849|75|8|64|15
+12052021|12|05|2021|290|22|Nusa Tenggara Barat (NTB)|Kab. Sumbawa Barat|Sumbawa Barat|580|14|536|30|139000|1849|75|8|64|15
+11052021|11|05|2021|290|22|Nusa Tenggara Barat (NTB)|Kab. Sumbawa Barat|Sumbawa Barat|580|14|536|30|139000|1849|75|8|64|15
+10052021|10|05|2021|290|22|Nusa Tenggara Barat (NTB)|Kab. Sumbawa Barat|Sumbawa Barat|577|14|536|27|139000|1849|75|8|64|15
+09052021|09|05|2021|290|22|Nusa Tenggara Barat (NTB)|Kab. Sumbawa Barat|Sumbawa Barat|575|14|532|29|139000|1849|75|8|64|15
+08052021|08|05|2021|290|22|Nusa Tenggara Barat (NTB)|Kab. Sumbawa Barat|Sumbawa Barat|575|13|532|30|139000|1849|75|8|64|15
+07052021|07|05|2021|290|22|Nusa Tenggara Barat (NTB)|Kab. Sumbawa Barat|Sumbawa Barat|575|13|532|30|139000|1849|75|8|64|15
+06052021|06|05|2021|290|22|Nusa Tenggara Barat (NTB)|Kab. Sumbawa Barat|Sumbawa Barat|567|13|525|29|139000|1849|75|8|64|15
+05052021|05|05|2021|290|22|Nusa Tenggara Barat (NTB)|Kab. Sumbawa Barat|Sumbawa Barat|562|13|521|28|139000|1849|75|8|64|15
+04052021|04|05|2021|290|22|Nusa Tenggara Barat (NTB)|Kab. Sumbawa Barat|Sumbawa Barat|557|13|515|29|139000|1849|75|8|64|15
+03052021|03|05|2021|290|22|Nusa Tenggara Barat (NTB)|Kab. Sumbawa Barat|Sumbawa Barat|557|13|514|30|139000|1849|75|8|64|15
+02052021|02|05|2021|290|22|Nusa Tenggara Barat (NTB)|Kab. Sumbawa Barat|Sumbawa Barat|551|13|513|25|139000|1849|75|8|64|15
+01052021|01|05|2021|290|22|Nusa Tenggara Barat (NTB)|Kab. Sumbawa Barat|Sumbawa Barat|549|13|512|24|139000|1849|75|8|64|15
+30042021|30|04|2021|290|22|Nusa Tenggara Barat (NTB)|Kab. Sumbawa Barat|Sumbawa Barat|547|12|505|30|139000|1849|75|8|64|15
+29042021|29|04|2021|290|22|Nusa Tenggara Barat (NTB)|Kab. Sumbawa Barat|Sumbawa Barat|544|12|505|27|139000|1849|75|8|64|15
+28042021|28|04|2021|290|22|Nusa Tenggara Barat (NTB)|Kab. Sumbawa Barat|Sumbawa Barat|540|12|505|23|139000|1849|75|8|64|15
 27042021|27|04|2021|290|22|Nusa Tenggara Barat (NTB)|Kab. Sumbawa Barat|Sumbawa Barat|523|10|494|19|139000|1849|75|8|64|15
 26042021|26|04|2021|290|22|Nusa Tenggara Barat (NTB)|Kab. Sumbawa Barat|Sumbawa Barat|523|10|494|19|139000|1849|75|8|64|15
 25042021|25|04|2021|290|22|Nusa Tenggara Barat (NTB)|Kab. Sumbawa Barat|Sumbawa Barat|523|10|494|19|139000|1849|75|8|64|15
@@ -4491,10 +4597,3 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 24032020|24|03|2020|290|22|Nusa Tenggara Barat (NTB)|Kab. Sumbawa Barat|Sumbawa Barat|||||139000|1849|75|8|64|15
 23032020|23|03|2020|290|22|Nusa Tenggara Barat (NTB)|Kab. Sumbawa Barat|Sumbawa Barat|||||139000|1849|75|8|64|15
 22032020|22|03|2020|290|22|Nusa Tenggara Barat (NTB)|Kab. Sumbawa Barat|Sumbawa Barat|||||139000|1849|75|8|64|15
-21032020|21|03|2020|290|22|Nusa Tenggara Barat (NTB)|Kab. Sumbawa Barat|Sumbawa Barat|||||139000|1849|75|8|64|15
-20032020|20|03|2020|290|22|Nusa Tenggara Barat (NTB)|Kab. Sumbawa Barat|Sumbawa Barat|||||139000|1849|75|8|64|15
-19032020|19|03|2020|290|22|Nusa Tenggara Barat (NTB)|Kab. Sumbawa Barat|Sumbawa Barat|||||139000|1849|75|8|64|15
-18032020|18|03|2020|290|22|Nusa Tenggara Barat (NTB)|Kab. Sumbawa Barat|Sumbawa Barat|||||139000|1849|75|8|64|15
-17032020|17|03|2020|290|22|Nusa Tenggara Barat (NTB)|Kab. Sumbawa Barat|Sumbawa Barat|||||139000|1849|75|8|64|15
-16032020|16|03|2020|290|22|Nusa Tenggara Barat (NTB)|Kab. Sumbawa Barat|Sumbawa Barat|||||139000|1849|75|8|64|15
-15032020|15|03|2020|290|22|Nusa Tenggara Barat (NTB)|Kab. Sumbawa Barat|Sumbawa Barat|||||139000|1849|75|8|64|15
