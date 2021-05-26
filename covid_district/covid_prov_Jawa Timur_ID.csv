@@ -1,4 +1,5 @@
 date|day|month|year|id_district|id_province|province_name|district_name|city_name|confirmed_case|death_case|recovered_case|active_case|population|area_km2|pop_density|num_kecamatan|num_village|num_islands
+23052021|23|05|2021|124|11|Jawa Timur|Kab. Bangkalan|Bangkalan|1697|170|1510|17|1100000|1001.4|1099|18|281|
 22052021|22|05|2021|124|11|Jawa Timur|Kab. Bangkalan|Bangkalan|1696|170|1510|16|1100000|1001.4|1099|18|281|
 21052021|21|05|2021|124|11|Jawa Timur|Kab. Bangkalan|Bangkalan|1691|170|1510|11|1100000|1001.4|1099|18|281|
 20052021|20|05|2021|124|11|Jawa Timur|Kab. Bangkalan|Bangkalan|1691|170|1510|11|1100000|1001.4|1099|18|281|
@@ -416,7 +417,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|124|11|Jawa Timur|Kab. Bangkalan|Bangkalan|||||1100000|1001.4|1099|18|281|
 02042020|02|04|2020|124|11|Jawa Timur|Kab. Bangkalan|Bangkalan|||||1100000|1001.4|1099|18|281|
 01042020|01|04|2020|124|11|Jawa Timur|Kab. Bangkalan|Bangkalan|||||1100000|1001.4|1099|18|281|
-31032020|31|03|2020|124|11|Jawa Timur|Kab. Bangkalan|Bangkalan|||||1100000|1001.4|1099|18|281|
+23052021|23|05|2021|125|11|Jawa Timur|Kab. Banyuwangi|Banyuwangi|6405|659|5656|90|1700000|5782.4|302|25|217|15
 22052021|22|05|2021|125|11|Jawa Timur|Kab. Banyuwangi|Banyuwangi|6394|659|5650|85|1700000|5782.4|302|25|217|15
 21052021|21|05|2021|125|11|Jawa Timur|Kab. Banyuwangi|Banyuwangi|6390|658|5642|90|1700000|5782.4|302|25|217|15
 20052021|20|05|2021|125|11|Jawa Timur|Kab. Banyuwangi|Banyuwangi|6375|656|5634|85|1700000|5782.4|302|25|217|15
@@ -834,7 +835,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|125|11|Jawa Timur|Kab. Banyuwangi|Banyuwangi|1||1||1700000|5782.4|302|25|217|15
 02042020|02|04|2020|125|11|Jawa Timur|Kab. Banyuwangi|Banyuwangi|1||1||1700000|5782.4|302|25|217|15
 01042020|01|04|2020|125|11|Jawa Timur|Kab. Banyuwangi|Banyuwangi|1||1||1700000|5782.4|302|25|217|15
-31032020|31|03|2020|125|11|Jawa Timur|Kab. Banyuwangi|Banyuwangi|1||1||1700000|5782.4|302|25|217|15
+23052021|23|05|2021|126|11|Jawa Timur|Kota Batu|Kota Batu|1482|133|1335|14|210000|136.7|1534|3|24|
 22052021|22|05|2021|126|11|Jawa Timur|Kota Batu|Kota Batu|1480|133|1333|14|210000|136.7|1534|3|24|
 21052021|21|05|2021|126|11|Jawa Timur|Kota Batu|Kota Batu|1474|133|1322|19|210000|136.7|1534|3|24|
 20052021|20|05|2021|126|11|Jawa Timur|Kota Batu|Kota Batu|1473|133|1321|19|210000|136.7|1534|3|24|
@@ -1252,7 +1253,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|126|11|Jawa Timur|Kota Batu|Kota Batu|1|||1|210000|136.7|1534|3|24|
 02042020|02|04|2020|126|11|Jawa Timur|Kota Batu|Kota Batu|1|||1|210000|136.7|1534|3|24|
 01042020|01|04|2020|126|11|Jawa Timur|Kota Batu|Kota Batu|1|||1|210000|136.7|1534|3|24|
-31032020|31|03|2020|126|11|Jawa Timur|Kota Batu|Kota Batu|1|||1|210000|136.7|1534|3|24|
+23052021|23|05|2021|127|11|Jawa Timur|Kab. Blitar|Blitar|5612|619|4908|85|1300000|1336.5|942|22|248|28
 22052021|22|05|2021|127|11|Jawa Timur|Kab. Blitar|Blitar|5599|616|4897|86|1300000|1336.5|942|22|248|28
 21052021|21|05|2021|127|11|Jawa Timur|Kab. Blitar|Blitar|5589|613|4887|89|1300000|1336.5|942|22|248|28
 20052021|20|05|2021|127|11|Jawa Timur|Kab. Blitar|Blitar|5581|611|4882|88|1300000|1336.5|942|22|248|28
@@ -1670,7 +1671,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|127|11|Jawa Timur|Kab. Blitar|Blitar|1||1||1300000|1336.5|942|22|248|28
 02042020|02|04|2020|127|11|Jawa Timur|Kab. Blitar|Blitar|1||1||1300000|1336.5|942|22|248|28
 01042020|01|04|2020|127|11|Jawa Timur|Kab. Blitar|Blitar|1||1||1300000|1336.5|942|22|248|28
-31032020|31|03|2020|127|11|Jawa Timur|Kab. Blitar|Blitar|1||1||1300000|1336.5|942|22|248|28
+23052021|23|05|2021|128|11|Jawa Timur|Kota Blitar|Kota Blitar|2613|115|2492|6|159000|32.6|4887|3|21|
 22052021|22|05|2021|128|11|Jawa Timur|Kota Blitar|Kota Blitar|2610|115|2485|10|159000|32.6|4887|3|21|
 21052021|21|05|2021|128|11|Jawa Timur|Kota Blitar|Kota Blitar|2605|115|2481|9|159000|32.6|4887|3|21|
 20052021|20|05|2021|128|11|Jawa Timur|Kota Blitar|Kota Blitar|2603|115|2476|12|159000|32.6|4887|3|21|
@@ -2088,7 +2089,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|128|11|Jawa Timur|Kota Blitar|Kota Blitar|1|||1|159000|32.6|4887|3|21|
 02042020|02|04|2020|128|11|Jawa Timur|Kota Blitar|Kota Blitar|1|||1|159000|32.6|4887|3|21|
 01042020|01|04|2020|128|11|Jawa Timur|Kota Blitar|Kota Blitar|1|||1|159000|32.6|4887|3|21|
-31032020|31|03|2020|128|11|Jawa Timur|Kota Blitar|Kota Blitar|1|||1|159000|32.6|4887|3|21|
+23052021|23|05|2021|129|11|Jawa Timur|Kab. Bojonegoro|Bojonegoro|2584|137|2434|13|1400000|2198.8|617|28|430|
 22052021|22|05|2021|129|11|Jawa Timur|Kab. Bojonegoro|Bojonegoro|2582|137|2432|13|1400000|2198.8|617|28|430|
 21052021|21|05|2021|129|11|Jawa Timur|Kab. Bojonegoro|Bojonegoro|2579|137|2429|13|1400000|2198.8|617|28|430|
 20052021|20|05|2021|129|11|Jawa Timur|Kab. Bojonegoro|Bojonegoro|2574|136|2424|14|1400000|2198.8|617|28|430|
@@ -2506,7 +2507,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|129|11|Jawa Timur|Kab. Bojonegoro|Bojonegoro|||||1400000|2198.8|617|28|430|
 02042020|02|04|2020|129|11|Jawa Timur|Kab. Bojonegoro|Bojonegoro|||||1400000|2198.8|617|28|430|
 01042020|01|04|2020|129|11|Jawa Timur|Kab. Bojonegoro|Bojonegoro|||||1400000|2198.8|617|28|430|
-31032020|31|03|2020|129|11|Jawa Timur|Kab. Bojonegoro|Bojonegoro|||||1400000|2198.8|617|28|430|
+23052021|23|05|2021|130|11|Jawa Timur|Kab. Bondowoso|Bondowoso|2273|151|2108|14|807000|1526|529|23|219|
 22052021|22|05|2021|130|11|Jawa Timur|Kab. Bondowoso|Bondowoso|2273|151|2108|14|807000|1526|529|23|219|
 21052021|21|05|2021|130|11|Jawa Timur|Kab. Bondowoso|Bondowoso|2272|151|2107|14|807000|1526|529|23|219|
 20052021|20|05|2021|130|11|Jawa Timur|Kab. Bondowoso|Bondowoso|2267|151|2107|9|807000|1526|529|23|219|
@@ -2924,7 +2925,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|130|11|Jawa Timur|Kab. Bondowoso|Bondowoso|||||807000|1526|529|23|219|
 02042020|02|04|2020|130|11|Jawa Timur|Kab. Bondowoso|Bondowoso|||||807000|1526|529|23|219|
 01042020|01|04|2020|130|11|Jawa Timur|Kab. Bondowoso|Bondowoso|||||807000|1526|529|23|219|
-31032020|31|03|2020|130|11|Jawa Timur|Kab. Bondowoso|Bondowoso|||||807000|1526|529|23|219|
+23052021|23|05|2021|131|11|Jawa Timur|Kab. Gresik|Gresik|5620|354|5218|48|1300000|1191.3|1085|18|356|12
 22052021|22|05|2021|131|11|Jawa Timur|Kab. Gresik|Gresik|5617|354|5215|48|1300000|1191.3|1085|18|356|12
 21052021|21|05|2021|131|11|Jawa Timur|Kab. Gresik|Gresik|5613|354|5210|49|1300000|1191.3|1085|18|356|12
 20052021|20|05|2021|131|11|Jawa Timur|Kab. Gresik|Gresik|5609|354|5206|49|1300000|1191.3|1085|18|356|12
@@ -3342,7 +3343,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|131|11|Jawa Timur|Kab. Gresik|Gresik|4|1|2|1|1300000|1191.3|1085|18|356|12
 02042020|02|04|2020|131|11|Jawa Timur|Kab. Gresik|Gresik|3|1|1|1|1300000|1191.3|1085|18|356|12
 01042020|01|04|2020|131|11|Jawa Timur|Kab. Gresik|Gresik|3|1|1|1|1300000|1191.3|1085|18|356|12
-31032020|31|03|2020|131|11|Jawa Timur|Kab. Gresik|Gresik|3|1|1|1|1300000|1191.3|1085|18|356|12
+23052021|23|05|2021|132|11|Jawa Timur|Kab. Jember|Jember|7002|477|6510|15|2700000|3092.3|876|31|248|50
 22052021|22|05|2021|132|11|Jawa Timur|Kab. Jember|Jember|7001|477|6508|16|2700000|3092.3|876|31|248|50
 21052021|21|05|2021|132|11|Jawa Timur|Kab. Jember|Jember|6999|477|6507|15|2700000|3092.3|876|31|248|50
 20052021|20|05|2021|132|11|Jawa Timur|Kab. Jember|Jember|6995|477|6503|15|2700000|3092.3|876|31|248|50
@@ -3760,7 +3761,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|132|11|Jawa Timur|Kab. Jember|Jember|2||1|1|2700000|3092.3|876|31|248|50
 02042020|02|04|2020|132|11|Jawa Timur|Kab. Jember|Jember|2||1|1|2700000|3092.3|876|31|248|50
 01042020|01|04|2020|132|11|Jawa Timur|Kab. Jember|Jember|2||1|1|2700000|3092.3|876|31|248|50
-31032020|31|03|2020|132|11|Jawa Timur|Kab. Jember|Jember|2||1|1|2700000|3092.3|876|31|248|50
+23052021|23|05|2021|133|11|Jawa Timur|Kab. Jombang|Jombang|4774|516|4227|31|1300000|1115.1|1200|21|306|
 22052021|22|05|2021|133|11|Jawa Timur|Kab. Jombang|Jombang|4771|516|4226|29|1300000|1115.1|1200|21|306|
 21052021|21|05|2021|133|11|Jawa Timur|Kab. Jombang|Jombang|4768|516|4221|31|1300000|1115.1|1200|21|306|
 20052021|20|05|2021|133|11|Jawa Timur|Kab. Jombang|Jombang|4764|516|4220|28|1300000|1115.1|1200|21|306|
@@ -4178,7 +4179,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|133|11|Jawa Timur|Kab. Jombang|Jombang|1||1||1300000|1115.1|1200|21|306|
 02042020|02|04|2020|133|11|Jawa Timur|Kab. Jombang|Jombang|1||1||1300000|1115.1|1200|21|306|
 01042020|01|04|2020|133|11|Jawa Timur|Kab. Jombang|Jombang|1||1||1300000|1115.1|1200|21|306|
-31032020|31|03|2020|133|11|Jawa Timur|Kab. Jombang|Jombang|1||1||1300000|1115.1|1200|21|306|
+23052021|23|05|2021|134|11|Jawa Timur|Kab. Kediri|Kediri|4798|467|4280|51|1600000|1386.1|1171|26|344|
 22052021|22|05|2021|134|11|Jawa Timur|Kab. Kediri|Kediri|4796|467|4279|50|1600000|1386.1|1171|26|344|
 21052021|21|05|2021|134|11|Jawa Timur|Kab. Kediri|Kediri|4785|466|4275|44|1600000|1386.1|1171|26|344|
 20052021|20|05|2021|134|11|Jawa Timur|Kab. Kediri|Kediri|4780|465|4270|45|1600000|1386.1|1171|26|344|
@@ -4596,7 +4597,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|134|11|Jawa Timur|Kab. Kediri|Kediri|4|1|2|1|1600000|1386.1|1171|26|344|
 02042020|02|04|2020|134|11|Jawa Timur|Kab. Kediri|Kediri|2|1|1||1600000|1386.1|1171|26|344|
 01042020|01|04|2020|134|11|Jawa Timur|Kab. Kediri|Kediri|2|1|1||1600000|1386.1|1171|26|344|
-31032020|31|03|2020|134|11|Jawa Timur|Kab. Kediri|Kediri|2|1|1||1600000|1386.1|1171|26|344|
+23052021|23|05|2021|135|11|Jawa Timur|Kota Kediri|Kota Kediri|1401|144|1252|5|297000|63.4|4682|3|46|
 22052021|22|05|2021|135|11|Jawa Timur|Kota Kediri|Kota Kediri|1401|144|1252|5|297000|63.4|4682|3|46|
 21052021|21|05|2021|135|11|Jawa Timur|Kota Kediri|Kota Kediri|1399|144|1252|3|297000|63.4|4682|3|46|
 20052021|20|05|2021|135|11|Jawa Timur|Kota Kediri|Kota Kediri|1398|143|1248|7|297000|63.4|4682|3|46|
@@ -5014,7 +5015,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|135|11|Jawa Timur|Kota Kediri|Kota Kediri|1||1||297000|63.4|4682|3|46|
 02042020|02|04|2020|135|11|Jawa Timur|Kota Kediri|Kota Kediri|1||1||297000|63.4|4682|3|46|
 01042020|01|04|2020|135|11|Jawa Timur|Kota Kediri|Kota Kediri|1||1||297000|63.4|4682|3|46|
-31032020|31|03|2020|135|11|Jawa Timur|Kota Kediri|Kota Kediri|1||1||297000|63.4|4682|3|46|
+23052021|23|05|2021|136|11|Jawa Timur|Kab. Lamongan|Lamongan|2806|170|2624|12|1400000|1782.1|787|27|474|
 22052021|22|05|2021|136|11|Jawa Timur|Kab. Lamongan|Lamongan|2804|170|2617|17|1400000|1782.1|787|27|474|
 21052021|21|05|2021|136|11|Jawa Timur|Kab. Lamongan|Lamongan|2803|170|2613|20|1400000|1782.1|787|27|474|
 20052021|20|05|2021|136|11|Jawa Timur|Kab. Lamongan|Lamongan|2800|170|2610|20|1400000|1782.1|787|27|474|
@@ -5432,7 +5433,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 02042020|02|04|2020|136|11|Jawa Timur|Kab. Lamongan|Lamongan|||||1400000|1782.1|787|27|474|
 01042020|01|04|2020|136|11|Jawa Timur|Kab. Lamongan|Lamongan|||||1400000|1782.1|787|27|474|
 31032020|31|03|2020|136|11|Jawa Timur|Kab. Lamongan|Lamongan|||||1400000|1782.1|787|27|474|
-30032020|30|03|2020|136|11|Jawa Timur|Kab. Lamongan|Lamongan|||||1400000|1782.1|787|27|474|
+23052021|23|05|2021|137|11|Jawa Timur|Kab. Lumajang|Lumajang|3041|267|2773|1|1100000|1790.9|639|21|205|
 22052021|22|05|2021|137|11|Jawa Timur|Kab. Lumajang|Lumajang|3041|267|2773|1|1100000|1790.9|639|21|205|
 21052021|21|05|2021|137|11|Jawa Timur|Kab. Lumajang|Lumajang|3041|267|2773|1|1100000|1790.9|639|21|205|
 20052021|20|05|2021|137|11|Jawa Timur|Kab. Lumajang|Lumajang|3040|267|2772|1|1100000|1790.9|639|21|205|
@@ -5850,7 +5851,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|137|11|Jawa Timur|Kab. Lumajang|Lumajang|3||1|2|1100000|1790.9|639|21|205|
 02042020|02|04|2020|137|11|Jawa Timur|Kab. Lumajang|Lumajang|3||1|2|1100000|1790.9|639|21|205|
 01042020|01|04|2020|137|11|Jawa Timur|Kab. Lumajang|Lumajang|3||1|2|1100000|1790.9|639|21|205|
-31032020|31|03|2020|137|11|Jawa Timur|Kab. Lumajang|Lumajang|3||1|2|1100000|1790.9|639|21|205|
+23052021|23|05|2021|138|11|Jawa Timur|Kab. Madiun|Madiun|3475|216|3106|153|752000|1037.6|724|15|206|
 22052021|22|05|2021|138|11|Jawa Timur|Kab. Madiun|Madiun|3455|216|3087|152|752000|1037.6|724|15|206|
 21052021|21|05|2021|138|11|Jawa Timur|Kab. Madiun|Madiun|3434|216|3057|161|752000|1037.6|724|15|206|
 20052021|20|05|2021|138|11|Jawa Timur|Kab. Madiun|Madiun|3411|216|3048|147|752000|1037.6|724|15|206|
@@ -6268,7 +6269,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|138|11|Jawa Timur|Kab. Madiun|Madiun|1|||1|752000|1037.6|724|15|206|
 02042020|02|04|2020|138|11|Jawa Timur|Kab. Madiun|Madiun|1|||1|752000|1037.6|724|15|206|
 01042020|01|04|2020|138|11|Jawa Timur|Kab. Madiun|Madiun|1|||1|752000|1037.6|724|15|206|
-31032020|31|03|2020|138|11|Jawa Timur|Kab. Madiun|Madiun|1|||1|752000|1037.6|724|15|206|
+23052021|23|05|2021|139|11|Jawa Timur|Kota Madiun|Kota Madiun|2541|173|2262|106|211000|33.9|6223|3|27|
 22052021|22|05|2021|139|11|Jawa Timur|Kota Madiun|Kota Madiun|2523|172|2245|106|211000|33.9|6223|3|27|
 21052021|21|05|2021|139|11|Jawa Timur|Kota Madiun|Kota Madiun|2508|170|2242|96|211000|33.9|6223|3|27|
 20052021|20|05|2021|139|11|Jawa Timur|Kota Madiun|Kota Madiun|2489|170|2239|80|211000|33.9|6223|3|27|
@@ -6686,7 +6687,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|139|11|Jawa Timur|Kota Madiun|Kota Madiun|||||211000|33.9|6223|3|27|
 02042020|02|04|2020|139|11|Jawa Timur|Kota Madiun|Kota Madiun|||||211000|33.9|6223|3|27|
 01042020|01|04|2020|139|11|Jawa Timur|Kota Madiun|Kota Madiun|||||211000|33.9|6223|3|27|
-31032020|31|03|2020|139|11|Jawa Timur|Kota Madiun|Kota Madiun|||||211000|33.9|6223|3|27|
+23052021|23|05|2021|140|11|Jawa Timur|Kab. Magetan|Magetan|3637|295|3252|90|709000|688.8|1030|18|235|
 22052021|22|05|2021|140|11|Jawa Timur|Kab. Magetan|Magetan|3625|294|3239|92|709000|688.8|1030|18|235|
 21052021|21|05|2021|140|11|Jawa Timur|Kab. Magetan|Magetan|3614|294|3225|95|709000|688.8|1030|18|235|
 20052021|20|05|2021|140|11|Jawa Timur|Kab. Magetan|Magetan|3601|293|3209|99|709000|688.8|1030|18|235|
@@ -7104,7 +7105,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|140|11|Jawa Timur|Kab. Magetan|Magetan|9|1|8||709000|688.8|1030|18|235|
 02042020|02|04|2020|140|11|Jawa Timur|Kab. Magetan|Magetan|9|1|6|2|709000|688.8|1030|18|235|
 01042020|01|04|2020|140|11|Jawa Timur|Kab. Magetan|Magetan|9|1|6|2|709000|688.8|1030|18|235|
-31032020|31|03|2020|140|11|Jawa Timur|Kab. Magetan|Magetan|9|1|6|2|709000|688.8|1030|18|235|
+23052021|23|05|2021|141|11|Jawa Timur|Kab. Malang|Malang|3265|209|3042|14|2500000|3530.7|721|33|390|94
 22052021|22|05|2021|141|11|Jawa Timur|Kab. Malang|Malang|3258|208|3032|18|2500000|3530.7|721|33|390|94
 21052021|21|05|2021|141|11|Jawa Timur|Kab. Malang|Malang|3247|207|3025|15|2500000|3530.7|721|33|390|94
 20052021|20|05|2021|141|11|Jawa Timur|Kab. Malang|Malang|3238|206|3015|17|2500000|3530.7|721|33|390|94
@@ -7522,7 +7523,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|141|11|Jawa Timur|Kab. Malang|Malang|5|1|3|1|2500000|3530.7|721|33|390|94
 02042020|02|04|2020|141|11|Jawa Timur|Kab. Malang|Malang|5|1|3|1|2500000|3530.7|721|33|390|94
 01042020|01|04|2020|141|11|Jawa Timur|Kab. Malang|Malang|5|1|3|1|2500000|3530.7|721|33|390|94
-31032020|31|03|2020|141|11|Jawa Timur|Kab. Malang|Malang|5|1|3|1|2500000|3530.7|721|33|390|94
+23052021|23|05|2021|142|11|Jawa Timur|Kota Malang|Kota Malang|6615|605|5992|18|862000|145.3|5931|5|57|
 22052021|22|05|2021|142|11|Jawa Timur|Kota Malang|Kota Malang|6606|603|5979|24|862000|145.3|5931|5|57|
 21052021|21|05|2021|142|11|Jawa Timur|Kota Malang|Kota Malang|6596|602|5968|26|862000|145.3|5931|5|57|
 20052021|20|05|2021|142|11|Jawa Timur|Kota Malang|Kota Malang|6588|601|5960|27|862000|145.3|5931|5|57|
@@ -7940,7 +7941,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|142|11|Jawa Timur|Kota Malang|Kota Malang|5||3|2|862000|145.3|5931|5|57|
 02042020|02|04|2020|142|11|Jawa Timur|Kota Malang|Kota Malang|5||3|2|862000|145.3|5931|5|57|
 01042020|01|04|2020|142|11|Jawa Timur|Kota Malang|Kota Malang|5||3|2|862000|145.3|5931|5|57|
-31032020|31|03|2020|142|11|Jawa Timur|Kota Malang|Kota Malang|4||3|1|862000|145.3|5931|5|57|
+23052021|23|05|2021|143|11|Jawa Timur|Kab. Mojokerto|Mojokerto|2433|69|2313|51|1100000|717.8|1588|18|304|
 22052021|22|05|2021|143|11|Jawa Timur|Kab. Mojokerto|Mojokerto|2431|69|2311|51|1100000|717.8|1588|18|304|
 21052021|21|05|2021|143|11|Jawa Timur|Kab. Mojokerto|Mojokerto|2430|69|2307|54|1100000|717.8|1588|18|304|
 20052021|20|05|2021|143|11|Jawa Timur|Kab. Mojokerto|Mojokerto|2424|69|2301|54|1100000|717.8|1588|18|304|
@@ -8358,7 +8359,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|143|11|Jawa Timur|Kab. Mojokerto|Mojokerto|||||1100000|717.8|1588|18|304|
 02042020|02|04|2020|143|11|Jawa Timur|Kab. Mojokerto|Mojokerto|||||1100000|717.8|1588|18|304|
 01042020|01|04|2020|143|11|Jawa Timur|Kab. Mojokerto|Mojokerto|||||1100000|717.8|1588|18|304|
-31032020|31|03|2020|143|11|Jawa Timur|Kab. Mojokerto|Mojokerto|||||1100000|717.8|1588|18|304|
+23052021|23|05|2021|144|11|Jawa Timur|Kota Mojokerto|Kota Mojokerto|2638|184|2438|16|141000|16.5|8562|3|18|
 22052021|22|05|2021|144|11|Jawa Timur|Kota Mojokerto|Kota Mojokerto|2632|184|2437|11|141000|16.5|8562|3|18|
 21052021|21|05|2021|144|11|Jawa Timur|Kota Mojokerto|Kota Mojokerto|2629|184|2432|13|141000|16.5|8562|3|18|
 20052021|20|05|2021|144|11|Jawa Timur|Kota Mojokerto|Kota Mojokerto|2629|184|2432|13|141000|16.5|8562|3|18|
@@ -8776,7 +8777,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|144|11|Jawa Timur|Kota Mojokerto|Kota Mojokerto|||||141000|16.5|8562|3|18|
 02042020|02|04|2020|144|11|Jawa Timur|Kota Mojokerto|Kota Mojokerto|||||141000|16.5|8562|3|18|
 01042020|01|04|2020|144|11|Jawa Timur|Kota Mojokerto|Kota Mojokerto|||||141000|16.5|8562|3|18|
-31032020|31|03|2020|144|11|Jawa Timur|Kota Mojokerto|Kota Mojokerto|||||141000|16.5|8562|3|18|
+23052021|23|05|2021|145|11|Jawa Timur|Kab. Nganjuk|Nganjuk|3863|352|3415|96|1100000|1224.3|925|20|284|
 22052021|22|05|2021|145|11|Jawa Timur|Kab. Nganjuk|Nganjuk|3861|352|3415|94|1100000|1224.3|925|20|284|
 21052021|21|05|2021|145|11|Jawa Timur|Kab. Nganjuk|Nganjuk|3854|352|3414|88|1100000|1224.3|925|20|284|
 20052021|20|05|2021|145|11|Jawa Timur|Kab. Nganjuk|Nganjuk|3849|351|3410|88|1100000|1224.3|925|20|284|
@@ -9194,7 +9195,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|145|11|Jawa Timur|Kab. Nganjuk|Nganjuk|4||3|1|1100000|1224.3|925|20|284|
 02042020|02|04|2020|145|11|Jawa Timur|Kab. Nganjuk|Nganjuk|4||3|1|1100000|1224.3|925|20|284|
 01042020|01|04|2020|145|11|Jawa Timur|Kab. Nganjuk|Nganjuk|4||3|1|1100000|1224.3|925|20|284|
-31032020|31|03|2020|145|11|Jawa Timur|Kab. Nganjuk|Nganjuk|||||1100000|1224.3|925|20|284|
+23052021|23|05|2021|146|11|Jawa Timur|Kab. Ngawi|Ngawi|2207|206|1935|66|929000|1296|717|19|217|
 22052021|22|05|2021|146|11|Jawa Timur|Kab. Ngawi|Ngawi|2202|204|1933|65|929000|1296|717|19|217|
 21052021|21|05|2021|146|11|Jawa Timur|Kab. Ngawi|Ngawi|2197|204|1924|69|929000|1296|717|19|217|
 20052021|20|05|2021|146|11|Jawa Timur|Kab. Ngawi|Ngawi|2182|204|1906|72|929000|1296|717|19|217|
@@ -9612,7 +9613,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 02042020|02|04|2020|146|11|Jawa Timur|Kab. Ngawi|Ngawi|||||929000|1296|717|19|217|
 01042020|01|04|2020|146|11|Jawa Timur|Kab. Ngawi|Ngawi|||||929000|1296|717|19|217|
 31032020|31|03|2020|146|11|Jawa Timur|Kab. Ngawi|Ngawi|||||929000|1296|717|19|217|
-30032020|30|03|2020|146|11|Jawa Timur|Kab. Ngawi|Ngawi|||||929000|1296|717|19|217|
+23052021|23|05|2021|147|11|Jawa Timur|Kab. Pacitan|Pacitan|2981|70|2860|51|601000|1389.9|433|12|171|31
 22052021|22|05|2021|147|11|Jawa Timur|Kab. Pacitan|Pacitan|2974|69|2852|53|601000|1389.9|433|12|171|31
 21052021|21|05|2021|147|11|Jawa Timur|Kab. Pacitan|Pacitan|2967|69|2844|54|601000|1389.9|433|12|171|31
 20052021|20|05|2021|147|11|Jawa Timur|Kab. Pacitan|Pacitan|2958|69|2835|54|601000|1389.9|433|12|171|31
@@ -10030,7 +10031,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|147|11|Jawa Timur|Kab. Pacitan|Pacitan|||||601000|1389.9|433|12|171|31
 02042020|02|04|2020|147|11|Jawa Timur|Kab. Pacitan|Pacitan|||||601000|1389.9|433|12|171|31
 01042020|01|04|2020|147|11|Jawa Timur|Kab. Pacitan|Pacitan|||||601000|1389.9|433|12|171|31
-31032020|31|03|2020|147|11|Jawa Timur|Kab. Pacitan|Pacitan|||||601000|1389.9|433|12|171|31
+23052021|23|05|2021|148|11|Jawa Timur|Kab. Pamekasan|Pamekasan|1168|90|1074|4|838000|792.2|1057|13|189|
 22052021|22|05|2021|148|11|Jawa Timur|Kab. Pamekasan|Pamekasan|1168|90|1074|4|838000|792.2|1057|13|189|
 21052021|21|05|2021|148|11|Jawa Timur|Kab. Pamekasan|Pamekasan|1167|90|1073|4|838000|792.2|1057|13|189|
 20052021|20|05|2021|148|11|Jawa Timur|Kab. Pamekasan|Pamekasan|1167|90|1071|6|838000|792.2|1057|13|189|
@@ -10448,7 +10449,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|148|11|Jawa Timur|Kab. Pamekasan|Pamekasan|1|1|||838000|792.2|1057|13|189|
 02042020|02|04|2020|148|11|Jawa Timur|Kab. Pamekasan|Pamekasan|1|1|||838000|792.2|1057|13|189|
 01042020|01|04|2020|148|11|Jawa Timur|Kab. Pamekasan|Pamekasan|1|1|||838000|792.2|1057|13|189|
-31032020|31|03|2020|148|11|Jawa Timur|Kab. Pamekasan|Pamekasan|1|1|||838000|792.2|1057|13|189|
+23052021|23|05|2021|149|11|Jawa Timur|Kab. Pasuruan|Pasuruan|3619|304|3289|26|1600000|1474|1102|24|365|
 22052021|22|05|2021|149|11|Jawa Timur|Kab. Pasuruan|Pasuruan|3614|304|3287|23|1600000|1474|1102|24|365|
 21052021|21|05|2021|149|11|Jawa Timur|Kab. Pasuruan|Pasuruan|3606|304|3284|18|1600000|1474|1102|24|365|
 20052021|20|05|2021|149|11|Jawa Timur|Kab. Pasuruan|Pasuruan|3602|304|3281|17|1600000|1474|1102|24|365|
@@ -10866,7 +10867,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|149|11|Jawa Timur|Kab. Pasuruan|Pasuruan|||||1600000|1474|1102|24|365|
 02042020|02|04|2020|149|11|Jawa Timur|Kab. Pasuruan|Pasuruan|||||1600000|1474|1102|24|365|
 01042020|01|04|2020|149|11|Jawa Timur|Kab. Pasuruan|Pasuruan|||||1600000|1474|1102|24|365|
-31032020|31|03|2020|149|11|Jawa Timur|Kab. Pasuruan|Pasuruan|||||1600000|1474|1102|24|365|
+23052021|23|05|2021|150|11|Jawa Timur|Kota Pasuruan|Kota Pasuruan|1623|173|1448|2|216000|35.3|6117|4|34|
 22052021|22|05|2021|150|11|Jawa Timur|Kota Pasuruan|Kota Pasuruan|1622|173|1448|1|216000|35.3|6117|4|34|
 21052021|21|05|2021|150|11|Jawa Timur|Kota Pasuruan|Kota Pasuruan|1622|173|1448|1|216000|35.3|6117|4|34|
 20052021|20|05|2021|150|11|Jawa Timur|Kota Pasuruan|Kota Pasuruan|1622|173|1448|1|216000|35.3|6117|4|34|
@@ -11284,7 +11285,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|150|11|Jawa Timur|Kota Pasuruan|Kota Pasuruan|||||216000|35.3|6117|4|34|
 02042020|02|04|2020|150|11|Jawa Timur|Kota Pasuruan|Kota Pasuruan|||||216000|35.3|6117|4|34|
 01042020|01|04|2020|150|11|Jawa Timur|Kota Pasuruan|Kota Pasuruan|||||216000|35.3|6117|4|34|
-31032020|31|03|2020|150|11|Jawa Timur|Kota Pasuruan|Kota Pasuruan|||||216000|35.3|6117|4|34|
+23052021|23|05|2021|151|11|Jawa Timur|Kab. Ponorogo|Ponorogo|3941|367|3488|86|980000|1305.7|751|21|307|
 22052021|22|05|2021|151|11|Jawa Timur|Kab. Ponorogo|Ponorogo|3915|363|3472|80|980000|1305.7|751|21|307|
 21052021|21|05|2021|151|11|Jawa Timur|Kab. Ponorogo|Ponorogo|3897|360|3457|80|980000|1305.7|751|21|307|
 20052021|20|05|2021|151|11|Jawa Timur|Kab. Ponorogo|Ponorogo|3881|357|3443|81|980000|1305.7|751|21|307|
@@ -11702,7 +11703,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|151|11|Jawa Timur|Kab. Ponorogo|Ponorogo|||||980000|1305.7|751|21|307|
 02042020|02|04|2020|151|11|Jawa Timur|Kab. Ponorogo|Ponorogo|||||980000|1305.7|751|21|307|
 01042020|01|04|2020|151|11|Jawa Timur|Kab. Ponorogo|Ponorogo|||||980000|1305.7|751|21|307|
-31032020|31|03|2020|151|11|Jawa Timur|Kab. Ponorogo|Ponorogo|||||980000|1305.7|751|21|307|
+23052021|23|05|2021|152|11|Jawa Timur|Kab. Probolinggo|Probolinggo|3208|191|3010|7|1100000|1696.2|672|24|330|1
 22052021|22|05|2021|152|11|Jawa Timur|Kab. Probolinggo|Probolinggo|3206|191|3010|5|1100000|1696.2|672|24|330|1
 21052021|21|05|2021|152|11|Jawa Timur|Kab. Probolinggo|Probolinggo|3205|191|3010|4|1100000|1696.2|672|24|330|1
 20052021|20|05|2021|152|11|Jawa Timur|Kab. Probolinggo|Probolinggo|3205|191|3008|6|1100000|1696.2|672|24|330|1
@@ -12120,7 +12121,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|152|11|Jawa Timur|Kab. Probolinggo|Probolinggo|||||1100000|1696.2|672|24|330|1
 02042020|02|04|2020|152|11|Jawa Timur|Kab. Probolinggo|Probolinggo|||||1100000|1696.2|672|24|330|1
 01042020|01|04|2020|152|11|Jawa Timur|Kab. Probolinggo|Probolinggo|||||1100000|1696.2|672|24|330|1
-31032020|31|03|2020|152|11|Jawa Timur|Kab. Probolinggo|Probolinggo|||||1100000|1696.2|672|24|330|1
+23052021|23|05|2021|153|11|Jawa Timur|Kota Probolinggo|Kota Probolinggo|2166|153|2010|3|240000|56.7|4235|5|29|
 22052021|22|05|2021|153|11|Jawa Timur|Kota Probolinggo|Kota Probolinggo|2166|153|2009|4|240000|56.7|4235|5|29|
 21052021|21|05|2021|153|11|Jawa Timur|Kota Probolinggo|Kota Probolinggo|2166|153|2009|4|240000|56.7|4235|5|29|
 20052021|20|05|2021|153|11|Jawa Timur|Kota Probolinggo|Kota Probolinggo|2166|153|2008|5|240000|56.7|4235|5|29|
@@ -12538,7 +12539,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|153|11|Jawa Timur|Kota Probolinggo|Kota Probolinggo|||||240000|56.7|4235|5|29|
 02042020|02|04|2020|153|11|Jawa Timur|Kota Probolinggo|Kota Probolinggo|||||240000|56.7|4235|5|29|
 01042020|01|04|2020|153|11|Jawa Timur|Kota Probolinggo|Kota Probolinggo|||||240000|56.7|4235|5|29|
-31032020|31|03|2020|153|11|Jawa Timur|Kota Probolinggo|Kota Probolinggo|||||240000|56.7|4235|5|29|
+23052021|23|05|2021|154|11|Jawa Timur|Kab. Sampang|Sampang|911|43|865|3|872000|1233.1|707|14|186|2
 22052021|22|05|2021|154|11|Jawa Timur|Kab. Sampang|Sampang|911|43|865|3|872000|1233.1|707|14|186|2
 21052021|21|05|2021|154|11|Jawa Timur|Kab. Sampang|Sampang|911|43|865|3|872000|1233.1|707|14|186|2
 20052021|20|05|2021|154|11|Jawa Timur|Kab. Sampang|Sampang|911|43|864|4|872000|1233.1|707|14|186|2
@@ -12956,7 +12957,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|154|11|Jawa Timur|Kab. Sampang|Sampang|||||872000|1233.1|707|14|186|2
 02042020|02|04|2020|154|11|Jawa Timur|Kab. Sampang|Sampang|||||872000|1233.1|707|14|186|2
 01042020|01|04|2020|154|11|Jawa Timur|Kab. Sampang|Sampang|||||872000|1233.1|707|14|186|2
-31032020|31|03|2020|154|11|Jawa Timur|Kab. Sampang|Sampang|||||872000|1233.1|707|14|186|2
+23052021|23|05|2021|155|11|Jawa Timur|Kab. Sidoarjo|Sidoarjo|11407|628|10737|42|1900000|634.4|2973|18|353|4
 22052021|22|05|2021|155|11|Jawa Timur|Kab. Sidoarjo|Sidoarjo|11400|628|10729|43|1900000|634.4|2973|18|353|4
 21052021|21|05|2021|155|11|Jawa Timur|Kab. Sidoarjo|Sidoarjo|11391|628|10722|41|1900000|634.4|2973|18|353|4
 20052021|20|05|2021|155|11|Jawa Timur|Kab. Sidoarjo|Sidoarjo|11384|628|10716|40|1900000|634.4|2973|18|353|4
@@ -13374,7 +13375,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|155|11|Jawa Timur|Kab. Sidoarjo|Sidoarjo|14|2|7|5|1900000|634.4|2973|18|353|4
 02042020|02|04|2020|155|11|Jawa Timur|Kab. Sidoarjo|Sidoarjo|11|2|7|2|1900000|634.4|2973|18|353|4
 01042020|01|04|2020|155|11|Jawa Timur|Kab. Sidoarjo|Sidoarjo|11|1|7|3|1900000|634.4|2973|18|353|4
-31032020|31|03|2020|155|11|Jawa Timur|Kab. Sidoarjo|Sidoarjo|10|1|6|3|1900000|634.4|2973|18|353|4
+23052021|23|05|2021|156|11|Jawa Timur|Kab. Situbondo|Situbondo|2545|199|2325|21|703000|1669.9|421|17|136|5
 22052021|22|05|2021|156|11|Jawa Timur|Kab. Situbondo|Situbondo|2538|199|2324|15|703000|1669.9|421|17|136|5
 21052021|21|05|2021|156|11|Jawa Timur|Kab. Situbondo|Situbondo|2538|199|2321|18|703000|1669.9|421|17|136|5
 20052021|20|05|2021|156|11|Jawa Timur|Kab. Situbondo|Situbondo|2528|199|2320|9|703000|1669.9|421|17|136|5
@@ -13792,7 +13793,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|156|11|Jawa Timur|Kab. Situbondo|Situbondo|6||4|2|703000|1669.9|421|17|136|5
 02042020|02|04|2020|156|11|Jawa Timur|Kab. Situbondo|Situbondo|6||4|2|703000|1669.9|421|17|136|5
 01042020|01|04|2020|156|11|Jawa Timur|Kab. Situbondo|Situbondo|6||4|2|703000|1669.9|421|17|136|5
-31032020|31|03|2020|156|11|Jawa Timur|Kab. Situbondo|Situbondo|5||3|2|703000|1669.9|421|17|136|5
+23052021|23|05|2021|157|11|Jawa Timur|Kab. Sumenep|Sumenep|1738|108|1622|8|1200000|1998.5|582|27|334|121
 22052021|22|05|2021|157|11|Jawa Timur|Kab. Sumenep|Sumenep|1730|108|1614|8|1200000|1998.5|582|27|334|121
 21052021|21|05|2021|157|11|Jawa Timur|Kab. Sumenep|Sumenep|1722|108|1614||1200000|1998.5|582|27|334|121
 20052021|20|05|2021|157|11|Jawa Timur|Kab. Sumenep|Sumenep|1722|108|1614||1200000|1998.5|582|27|334|121
@@ -14210,7 +14211,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|157|11|Jawa Timur|Kab. Sumenep|Sumenep|||||1200000|1998.5|582|27|334|121
 02042020|02|04|2020|157|11|Jawa Timur|Kab. Sumenep|Sumenep|||||1200000|1998.5|582|27|334|121
 01042020|01|04|2020|157|11|Jawa Timur|Kab. Sumenep|Sumenep|||||1200000|1998.5|582|27|334|121
-31032020|31|03|2020|157|11|Jawa Timur|Kab. Sumenep|Sumenep|||||1200000|1998.5|582|27|334|121
+23052021|23|05|2021|158|11|Jawa Timur|Kota Surabaya|Kota Surabaya|23900|1370|22421|109|2900000|350.5|8329|31|154|
 22052021|22|05|2021|158|11|Jawa Timur|Kota Surabaya|Kota Surabaya|23880|1369|22404|107|2900000|350.5|8329|31|154|
 21052021|21|05|2021|158|11|Jawa Timur|Kota Surabaya|Kota Surabaya|23861|1369|22388|104|2900000|350.5|8329|31|154|
 20052021|20|05|2021|158|11|Jawa Timur|Kota Surabaya|Kota Surabaya|23844|1369|22373|102|2900000|350.5|8329|31|154|
@@ -14628,7 +14629,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|158|11|Jawa Timur|Kota Surabaya|Kota Surabaya|77|4|21|52|2900000|350.5|8329|31|154|
 02042020|02|04|2020|158|11|Jawa Timur|Kota Surabaya|Kota Surabaya|44|4|21|19|2900000|350.5|8329|31|154|
 01042020|01|04|2020|158|11|Jawa Timur|Kota Surabaya|Kota Surabaya|44|3|21|20|2900000|350.5|8329|31|154|
-31032020|31|03|2020|158|11|Jawa Timur|Kota Surabaya|Kota Surabaya|41|2|21|18|2900000|350.5|8329|31|154|
+23052021|23|05|2021|159|11|Jawa Timur|Kab. Trenggalek|Trenggalek|4015|364|3584|67|760000|1147.2|663|14|157|57
 22052021|22|05|2021|159|11|Jawa Timur|Kab. Trenggalek|Trenggalek|4004|363|3579|62|760000|1147.2|663|14|157|57
 21052021|21|05|2021|159|11|Jawa Timur|Kab. Trenggalek|Trenggalek|3990|360|3571|59|760000|1147.2|663|14|157|57
 20052021|20|05|2021|159|11|Jawa Timur|Kab. Trenggalek|Trenggalek|3982|359|3567|56|760000|1147.2|663|14|157|57
@@ -15046,7 +15047,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|159|11|Jawa Timur|Kab. Trenggalek|Trenggalek|||||760000|1147.2|663|14|157|57
 02042020|02|04|2020|159|11|Jawa Timur|Kab. Trenggalek|Trenggalek|||||760000|1147.2|663|14|157|57
 01042020|01|04|2020|159|11|Jawa Timur|Kab. Trenggalek|Trenggalek|||||760000|1147.2|663|14|157|57
-31032020|31|03|2020|159|11|Jawa Timur|Kab. Trenggalek|Trenggalek|||||760000|1147.2|663|14|157|57
+23052021|23|05|2021|160|11|Jawa Timur|Kab. Tuban|Tuban|3679|403|3233|43|1200000|1834.2|670|20|328|
 22052021|22|05|2021|160|11|Jawa Timur|Kab. Tuban|Tuban|3674|403|3230|41|1200000|1834.2|670|20|328|
 21052021|21|05|2021|160|11|Jawa Timur|Kab. Tuban|Tuban|3672|403|3228|41|1200000|1834.2|670|20|328|
 20052021|20|05|2021|160|11|Jawa Timur|Kab. Tuban|Tuban|3664|401|3227|36|1200000|1834.2|670|20|328|
@@ -15464,7 +15465,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|160|11|Jawa Timur|Kab. Tuban|Tuban|||||1200000|1834.2|670|20|328|
 02042020|02|04|2020|160|11|Jawa Timur|Kab. Tuban|Tuban|||||1200000|1834.2|670|20|328|
 01042020|01|04|2020|160|11|Jawa Timur|Kab. Tuban|Tuban|||||1200000|1834.2|670|20|328|
-31032020|31|03|2020|160|11|Jawa Timur|Kab. Tuban|Tuban|||||1200000|1834.2|670|20|328|
+23052021|23|05|2021|161|11|Jawa Timur|Kab. Tulungagung|Tulungagung|3193|65|3030|98|1100000|1055.7|1074|19|271|19
 22052021|22|05|2021|161|11|Jawa Timur|Kab. Tulungagung|Tulungagung|3188|65|3018|105|1100000|1055.7|1074|19|271|19
 21052021|21|05|2021|161|11|Jawa Timur|Kab. Tulungagung|Tulungagung|3183|65|3012|106|1100000|1055.7|1074|19|271|19
 20052021|20|05|2021|161|11|Jawa Timur|Kab. Tulungagung|Tulungagung|3174|65|3004|105|1100000|1055.7|1074|19|271|19
@@ -15882,4 +15883,3 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|161|11|Jawa Timur|Kab. Tulungagung|Tulungagung|1||1||1100000|1055.7|1074|19|271|19
 02042020|02|04|2020|161|11|Jawa Timur|Kab. Tulungagung|Tulungagung|1||1||1100000|1055.7|1074|19|271|19
 01042020|01|04|2020|161|11|Jawa Timur|Kab. Tulungagung|Tulungagung|1||1||1100000|1055.7|1074|19|271|19
-31032020|31|03|2020|161|11|Jawa Timur|Kab. Tulungagung|Tulungagung|1||1||1100000|1055.7|1074|19|271|19

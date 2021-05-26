@@ -1,4 +1,5 @@
 date|day|month|year|id_district|id_province|province_name|district_name|city_name|confirmed_case|death_case|recovered_case|active_case|population|area_km2|pop_density|num_kecamatan|num_village|num_islands
+23052021|23|05|2021|449|33|Sumatera Selatan|Kab. Banyuasin|Banyuasin|1156|66|1037|53|830000|11833|70|19|304|20
 22052021|22|05|2021|449|33|Sumatera Selatan|Kab. Banyuasin|Banyuasin|1153|66|1022|65|830000|11833|70|19|304|20
 21052021|21|05|2021|449|33|Sumatera Selatan|Kab. Banyuasin|Banyuasin|1145|66|1020|59|830000|11833|70|19|304|20
 20052021|20|05|2021|449|33|Sumatera Selatan|Kab. Banyuasin|Banyuasin|1133|66|1006|61|830000|11833|70|19|304|20
@@ -416,7 +417,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|449|33|Sumatera Selatan|Kab. Banyuasin|Banyuasin|||||830000|11833|70|19|304|20
 02042020|02|04|2020|449|33|Sumatera Selatan|Kab. Banyuasin|Banyuasin|||||830000|11833|70|19|304|20
 01042020|01|04|2020|449|33|Sumatera Selatan|Kab. Banyuasin|Banyuasin|||||830000|11833|70|19|304|20
-31032020|31|03|2020|449|33|Sumatera Selatan|Kab. Banyuasin|Banyuasin|||||830000|11833|70|19|304|20
+23052021|23|05|2021|450|33|Sumatera Selatan|Kab. Empat Lawang|Empat Lawang|112|10|99|3|338000|2256.4|150|10|156|
 22052021|22|05|2021|450|33|Sumatera Selatan|Kab. Empat Lawang|Empat Lawang|112|10|99|3|338000|2256.4|150|10|156|
 21052021|21|05|2021|450|33|Sumatera Selatan|Kab. Empat Lawang|Empat Lawang|112|10|99|3|338000|2256.4|150|10|156|
 20052021|20|05|2021|450|33|Sumatera Selatan|Kab. Empat Lawang|Empat Lawang|109|10|99||338000|2256.4|150|10|156|
@@ -834,7 +835,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|450|33|Sumatera Selatan|Kab. Empat Lawang|Empat Lawang|||||338000|2256.4|150|10|156|
 02042020|02|04|2020|450|33|Sumatera Selatan|Kab. Empat Lawang|Empat Lawang|||||338000|2256.4|150|10|156|
 01042020|01|04|2020|450|33|Sumatera Selatan|Kab. Empat Lawang|Empat Lawang|||||338000|2256.4|150|10|156|
-31032020|31|03|2020|450|33|Sumatera Selatan|Kab. Empat Lawang|Empat Lawang|||||338000|2256.4|150|10|156|
+23052021|23|05|2021|451|33|Sumatera Selatan|Kab. Lahat|Lahat|804|52|720|32|441000|5311.7|83|24|378|
 22052021|22|05|2021|451|33|Sumatera Selatan|Kab. Lahat|Lahat|792|52|720|20|441000|5311.7|83|24|378|
 21052021|21|05|2021|451|33|Sumatera Selatan|Kab. Lahat|Lahat|785|51|720|14|441000|5311.7|83|24|378|
 20052021|20|05|2021|451|33|Sumatera Selatan|Kab. Lahat|Lahat|780|50|720|10|441000|5311.7|83|24|378|
@@ -1252,7 +1253,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|451|33|Sumatera Selatan|Kab. Lahat|Lahat|||||441000|5311.7|83|24|378|
 02042020|02|04|2020|451|33|Sumatera Selatan|Kab. Lahat|Lahat|||||441000|5311.7|83|24|378|
 01042020|01|04|2020|451|33|Sumatera Selatan|Kab. Lahat|Lahat|||||441000|5311.7|83|24|378|
-31032020|31|03|2020|451|33|Sumatera Selatan|Kab. Lahat|Lahat|||||441000|5311.7|83|24|378|
+23052021|23|05|2021|452|33|Sumatera Selatan|Kota Lubuk Linggau|Kota Lubuk Linggau|1442|48|1355|39|224000|401.5|558|8|72|
 22052021|22|05|2021|452|33|Sumatera Selatan|Kota Lubuk Linggau|Kota Lubuk Linggau|1431|48|1340|43|224000|401.5|558|8|72|
 21052021|21|05|2021|452|33|Sumatera Selatan|Kota Lubuk Linggau|Kota Lubuk Linggau|1427|48|1335|44|224000|401.5|558|8|72|
 20052021|20|05|2021|452|33|Sumatera Selatan|Kota Lubuk Linggau|Kota Lubuk Linggau|1426|48|1335|43|224000|401.5|558|8|72|
@@ -1670,7 +1671,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|452|33|Sumatera Selatan|Kota Lubuk Linggau|Kota Lubuk Linggau|||||224000|401.5|558|8|72|
 02042020|02|04|2020|452|33|Sumatera Selatan|Kota Lubuk Linggau|Kota Lubuk Linggau|||||224000|401.5|558|8|72|
 01042020|01|04|2020|452|33|Sumatera Selatan|Kota Lubuk Linggau|Kota Lubuk Linggau|||||224000|401.5|558|8|72|
-31032020|31|03|2020|452|33|Sumatera Selatan|Kota Lubuk Linggau|Kota Lubuk Linggau|||||224000|401.5|558|8|72|
+23052021|23|05|2021|453|33|Sumatera Selatan|Kab. Muara Enim|Muara Enim|1678|94|1472|112|586000|7383.9|79|20|255|
 22052021|22|05|2021|453|33|Sumatera Selatan|Kab. Muara Enim|Muara Enim|1677|92|1472|113|586000|7383.9|79|20|255|
 21052021|21|05|2021|453|33|Sumatera Selatan|Kab. Muara Enim|Muara Enim|1663|92|1468|103|586000|7383.9|79|20|255|
 20052021|20|05|2021|453|33|Sumatera Selatan|Kab. Muara Enim|Muara Enim|1663|92|1468|103|586000|7383.9|79|20|255|
@@ -2088,7 +2089,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|453|33|Sumatera Selatan|Kab. Muara Enim|Muara Enim|||||586000|7383.9|79|20|255|
 02042020|02|04|2020|453|33|Sumatera Selatan|Kab. Muara Enim|Muara Enim|||||586000|7383.9|79|20|255|
 01042020|01|04|2020|453|33|Sumatera Selatan|Kab. Muara Enim|Muara Enim|||||586000|7383.9|79|20|255|
-31032020|31|03|2020|453|33|Sumatera Selatan|Kab. Muara Enim|Muara Enim|||||586000|7383.9|79|20|255|
+23052021|23|05|2021|454|33|Sumatera Selatan|Kab. Musi Banyuasin|Musi Banyuasin|1448|66|1316|66|628000|14266.3|44|14|240|
 22052021|22|05|2021|454|33|Sumatera Selatan|Kab. Musi Banyuasin|Musi Banyuasin|1448|66|1313|69|628000|14266.3|44|14|240|
 21052021|21|05|2021|454|33|Sumatera Selatan|Kab. Musi Banyuasin|Musi Banyuasin|1436|66|1301|69|628000|14266.3|44|14|240|
 20052021|20|05|2021|454|33|Sumatera Selatan|Kab. Musi Banyuasin|Musi Banyuasin|1420|66|1301|53|628000|14266.3|44|14|240|
@@ -2506,7 +2507,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|454|33|Sumatera Selatan|Kab. Musi Banyuasin|Musi Banyuasin|||||628000|14266.3|44|14|240|
 02042020|02|04|2020|454|33|Sumatera Selatan|Kab. Musi Banyuasin|Musi Banyuasin|||||628000|14266.3|44|14|240|
 01042020|01|04|2020|454|33|Sumatera Selatan|Kab. Musi Banyuasin|Musi Banyuasin|||||628000|14266.3|44|14|240|
-31032020|31|03|2020|454|33|Sumatera Selatan|Kab. Musi Banyuasin|Musi Banyuasin|||||628000|14266.3|44|14|240|
+23052021|23|05|2021|455|33|Sumatera Selatan|Kab. Musi Rawas|Musi Rawas|624|29|573|22|422000|6350.1|66|14|199|
 22052021|22|05|2021|455|33|Sumatera Selatan|Kab. Musi Rawas|Musi Rawas|617|29|557|31|422000|6350.1|66|14|199|
 21052021|21|05|2021|455|33|Sumatera Selatan|Kab. Musi Rawas|Musi Rawas|611|29|552|30|422000|6350.1|66|14|199|
 20052021|20|05|2021|455|33|Sumatera Selatan|Kab. Musi Rawas|Musi Rawas|611|29|552|30|422000|6350.1|66|14|199|
@@ -2924,7 +2925,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|455|33|Sumatera Selatan|Kab. Musi Rawas|Musi Rawas|||||422000|6350.1|66|14|199|
 02042020|02|04|2020|455|33|Sumatera Selatan|Kab. Musi Rawas|Musi Rawas|||||422000|6350.1|66|14|199|
 01042020|01|04|2020|455|33|Sumatera Selatan|Kab. Musi Rawas|Musi Rawas|||||422000|6350.1|66|14|199|
-31032020|31|03|2020|455|33|Sumatera Selatan|Kab. Musi Rawas|Musi Rawas|||||422000|6350.1|66|14|199|
+23052021|23|05|2021|456|33|Sumatera Selatan|Kab. Ogan Ilir|Ogan Ilir|306|24|268|14|424000|2666.1|159|16|241|
 22052021|22|05|2021|456|33|Sumatera Selatan|Kab. Ogan Ilir|Ogan Ilir|302|24|262|16|424000|2666.1|159|16|241|
 21052021|21|05|2021|456|33|Sumatera Selatan|Kab. Ogan Ilir|Ogan Ilir|302|24|262|16|424000|2666.1|159|16|241|
 20052021|20|05|2021|456|33|Sumatera Selatan|Kab. Ogan Ilir|Ogan Ilir|302|24|262|16|424000|2666.1|159|16|241|
@@ -3342,7 +3343,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|456|33|Sumatera Selatan|Kab. Ogan Ilir|Ogan Ilir|||||424000|2666.1|159|16|241|
 02042020|02|04|2020|456|33|Sumatera Selatan|Kab. Ogan Ilir|Ogan Ilir|||||424000|2666.1|159|16|241|
 01042020|01|04|2020|456|33|Sumatera Selatan|Kab. Ogan Ilir|Ogan Ilir|||||424000|2666.1|159|16|241|
-31032020|31|03|2020|456|33|Sumatera Selatan|Kab. Ogan Ilir|Ogan Ilir|||||424000|2666.1|159|16|241|
+23052021|23|05|2021|457|33|Sumatera Selatan|Kab. Ogan Komering Ilir|Ogan Komering Ilir|181|20|160|1|745000|18359|41|18|327|1
 22052021|22|05|2021|457|33|Sumatera Selatan|Kab. Ogan Komering Ilir|Ogan Komering Ilir|181|20|160|1|745000|18359|41|18|327|1
 21052021|21|05|2021|457|33|Sumatera Selatan|Kab. Ogan Komering Ilir|Ogan Komering Ilir|181|20|160|1|745000|18359|41|18|327|1
 20052021|20|05|2021|457|33|Sumatera Selatan|Kab. Ogan Komering Ilir|Ogan Komering Ilir|181|20|160|1|745000|18359|41|18|327|1
@@ -3760,7 +3761,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|457|33|Sumatera Selatan|Kab. Ogan Komering Ilir|Ogan Komering Ilir|2||2||745000|18359|41|18|327|1
 02042020|02|04|2020|457|33|Sumatera Selatan|Kab. Ogan Komering Ilir|Ogan Komering Ilir|2||2||745000|18359|41|18|327|1
 01042020|01|04|2020|457|33|Sumatera Selatan|Kab. Ogan Komering Ilir|Ogan Komering Ilir|1||1||745000|18359|41|18|327|1
-31032020|31|03|2020|457|33|Sumatera Selatan|Kab. Ogan Komering Ilir|Ogan Komering Ilir|1||1||745000|18359|41|18|327|1
+23052021|23|05|2021|458|33|Sumatera Selatan|Kab. Ogan Komering Ulu|Ogan Komering Ulu|380|40|327|13|369000|4797.1|77|13|157|
 22052021|22|05|2021|458|33|Sumatera Selatan|Kab. Ogan Komering Ulu|Ogan Komering Ulu|379|40|326|13|369000|4797.1|77|13|157|
 21052021|21|05|2021|458|33|Sumatera Selatan|Kab. Ogan Komering Ulu|Ogan Komering Ulu|379|40|326|13|369000|4797.1|77|13|157|
 20052021|20|05|2021|458|33|Sumatera Selatan|Kab. Ogan Komering Ulu|Ogan Komering Ulu|379|40|322|17|369000|4797.1|77|13|157|
@@ -4178,7 +4179,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|458|33|Sumatera Selatan|Kab. Ogan Komering Ulu|Ogan Komering Ulu|1||1||369000|4797.1|77|13|157|
 02042020|02|04|2020|458|33|Sumatera Selatan|Kab. Ogan Komering Ulu|Ogan Komering Ulu|1||1||369000|4797.1|77|13|157|
 01042020|01|04|2020|458|33|Sumatera Selatan|Kab. Ogan Komering Ulu|Ogan Komering Ulu|1||1||369000|4797.1|77|13|157|
-31032020|31|03|2020|458|33|Sumatera Selatan|Kab. Ogan Komering Ulu|Ogan Komering Ulu|1||1||369000|4797.1|77|13|157|
+23052021|23|05|2021|459|33|Sumatera Selatan|Kab. Ogan Komering Ulu Selatan|Ogan Komering Ulu Selatan|162|16|101|45|424000|5493.9|77|19|259|
 22052021|22|05|2021|459|33|Sumatera Selatan|Kab. Ogan Komering Ulu Selatan|Ogan Komering Ulu Selatan|157|16|100|41|424000|5493.9|77|19|259|
 21052021|21|05|2021|459|33|Sumatera Selatan|Kab. Ogan Komering Ulu Selatan|Ogan Komering Ulu Selatan|157|16|100|41|424000|5493.9|77|19|259|
 20052021|20|05|2021|459|33|Sumatera Selatan|Kab. Ogan Komering Ulu Selatan|Ogan Komering Ulu Selatan|157|14|98|45|424000|5493.9|77|19|259|
@@ -4596,7 +4597,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|459|33|Sumatera Selatan|Kab. Ogan Komering Ulu Selatan|Ogan Komering Ulu Selatan|||||424000|5493.9|77|19|259|
 02042020|02|04|2020|459|33|Sumatera Selatan|Kab. Ogan Komering Ulu Selatan|Ogan Komering Ulu Selatan|||||424000|5493.9|77|19|259|
 01042020|01|04|2020|459|33|Sumatera Selatan|Kab. Ogan Komering Ulu Selatan|Ogan Komering Ulu Selatan|||||424000|5493.9|77|19|259|
-31032020|31|03|2020|459|33|Sumatera Selatan|Kab. Ogan Komering Ulu Selatan|Ogan Komering Ulu Selatan|||||424000|5493.9|77|19|259|
+23052021|23|05|2021|460|33|Sumatera Selatan|Kab. Ogan Komering Ulu Timur|Ogan Komering Ulu Timur|874|52|811|11|654000|3370|194|20|312|
 22052021|22|05|2021|460|33|Sumatera Selatan|Kab. Ogan Komering Ulu Timur|Ogan Komering Ulu Timur|868|50|810|8|654000|3370|194|20|312|
 21052021|21|05|2021|460|33|Sumatera Selatan|Kab. Ogan Komering Ulu Timur|Ogan Komering Ulu Timur|863|49|810|4|654000|3370|194|20|312|
 20052021|20|05|2021|460|33|Sumatera Selatan|Kab. Ogan Komering Ulu Timur|Ogan Komering Ulu Timur|862|48|809|5|654000|3370|194|20|312|
@@ -5014,7 +5015,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|460|33|Sumatera Selatan|Kab. Ogan Komering Ulu Timur|Ogan Komering Ulu Timur|||||654000|3370|194|20|312|
 02042020|02|04|2020|460|33|Sumatera Selatan|Kab. Ogan Komering Ulu Timur|Ogan Komering Ulu Timur|||||654000|3370|194|20|312|
 01042020|01|04|2020|460|33|Sumatera Selatan|Kab. Ogan Komering Ulu Timur|Ogan Komering Ulu Timur|||||654000|3370|194|20|312|
-31032020|31|03|2020|460|33|Sumatera Selatan|Kab. Ogan Komering Ulu Timur|Ogan Komering Ulu Timur|||||654000|3370|194|20|312|
+23052021|23|05|2021|461|33|Sumatera Selatan|Kota Pagar Alam|Kota Pagar Alam|194|10|180|4|144000|633.7|228|5|35|
 22052021|22|05|2021|461|33|Sumatera Selatan|Kota Pagar Alam|Kota Pagar Alam|194|10|180|4|144000|633.7|228|5|35|
 21052021|21|05|2021|461|33|Sumatera Selatan|Kota Pagar Alam|Kota Pagar Alam|194|10|180|4|144000|633.7|228|5|35|
 20052021|20|05|2021|461|33|Sumatera Selatan|Kota Pagar Alam|Kota Pagar Alam|194|10|180|4|144000|633.7|228|5|35|
@@ -5432,7 +5433,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|461|33|Sumatera Selatan|Kota Pagar Alam|Kota Pagar Alam|||||144000|633.7|228|5|35|
 02042020|02|04|2020|461|33|Sumatera Selatan|Kota Pagar Alam|Kota Pagar Alam|||||144000|633.7|228|5|35|
 01042020|01|04|2020|461|33|Sumatera Selatan|Kota Pagar Alam|Kota Pagar Alam|||||144000|633.7|228|5|35|
-31032020|31|03|2020|461|33|Sumatera Selatan|Kota Pagar Alam|Kota Pagar Alam|||||144000|633.7|228|5|35|
+23052021|23|05|2021|462|33|Sumatera Selatan|Kota Palembang|Kota Palembang|11985|537|10770|678|1600000|369.2|4388|18|107|2
 22052021|22|05|2021|462|33|Sumatera Selatan|Kota Palembang|Kota Palembang|11854|533|10729|592|1600000|369.2|4388|18|107|2
 21052021|21|05|2021|462|33|Sumatera Selatan|Kota Palembang|Kota Palembang|11710|529|10651|530|1600000|369.2|4388|18|107|2
 20052021|20|05|2021|462|33|Sumatera Selatan|Kota Palembang|Kota Palembang|11633|527|10617|489|1600000|369.2|4388|18|107|2
@@ -5850,7 +5851,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|462|33|Sumatera Selatan|Kota Palembang|Kota Palembang|4||1|3|1600000|369.2|4388|18|107|2
 02042020|02|04|2020|462|33|Sumatera Selatan|Kota Palembang|Kota Palembang|3||1|2|1600000|369.2|4388|18|107|2
 01042020|01|04|2020|462|33|Sumatera Selatan|Kota Palembang|Kota Palembang|2||1|1|1600000|369.2|4388|18|107|2
-31032020|31|03|2020|462|33|Sumatera Selatan|Kota Palembang|Kota Palembang|2||1|1|1600000|369.2|4388|18|107|2
+23052021|23|05|2021|463|33|Sumatera Selatan|Kota Prabumulih|Kota Prabumulih|1028|57|947|24|197000|251.9|782|6|37|
 22052021|22|05|2021|463|33|Sumatera Selatan|Kota Prabumulih|Kota Prabumulih|1023|56|946|21|197000|251.9|782|6|37|
 21052021|21|05|2021|463|33|Sumatera Selatan|Kota Prabumulih|Kota Prabumulih|1019|56|941|22|197000|251.9|782|6|37|
 20052021|20|05|2021|463|33|Sumatera Selatan|Kota Prabumulih|Kota Prabumulih|1014|55|933|26|197000|251.9|782|6|37|
@@ -6268,7 +6269,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|463|33|Sumatera Selatan|Kota Prabumulih|Kota Prabumulih|4||1|3|197000|251.9|782|6|37|
 02042020|02|04|2020|463|33|Sumatera Selatan|Kota Prabumulih|Kota Prabumulih|4||1|3|197000|251.9|782|6|37|
 01042020|01|04|2020|463|33|Sumatera Selatan|Kota Prabumulih|Kota Prabumulih|1||1||197000|251.9|782|6|37|
-31032020|31|03|2020|463|33|Sumatera Selatan|Kota Prabumulih|Kota Prabumulih|1||1||197000|251.9|782|6|37|
+23052021|23|05|2021|513|33|Sumatera Selatan|Kab. Musi Rawas Utara|Musi Rawas Utara|274|17|253|4|195000|6008.6|32|7|89|
 22052021|22|05|2021|513|33|Sumatera Selatan|Kab. Musi Rawas Utara|Musi Rawas Utara|274|17|253|4|195000|6008.6|32|7|89|
 21052021|21|05|2021|513|33|Sumatera Selatan|Kab. Musi Rawas Utara|Musi Rawas Utara|274|17|253|4|195000|6008.6|32|7|89|
 20052021|20|05|2021|513|33|Sumatera Selatan|Kab. Musi Rawas Utara|Musi Rawas Utara|274|17|253|4|195000|6008.6|32|7|89|
@@ -6686,7 +6687,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|513|33|Sumatera Selatan|Kab. Musi Rawas Utara|Musi Rawas Utara|||||195000|6008.6|32|7|89|
 02042020|02|04|2020|513|33|Sumatera Selatan|Kab. Musi Rawas Utara|Musi Rawas Utara|||||195000|6008.6|32|7|89|
 01042020|01|04|2020|513|33|Sumatera Selatan|Kab. Musi Rawas Utara|Musi Rawas Utara|||||195000|6008.6|32|7|89|
-31032020|31|03|2020|513|33|Sumatera Selatan|Kab. Musi Rawas Utara|Musi Rawas Utara|||||195000|6008.6|32|7|89|
+23052021|23|05|2021|514|33|Sumatera Selatan|Kab. Penukal Abab Lematang Ilir|Penukal Abab Lematang Ilir|490|35|450|5|176000|1840|96|5|71|
 22052021|22|05|2021|514|33|Sumatera Selatan|Kab. Penukal Abab Lematang Ilir|Penukal Abab Lematang Ilir|482|33|449||176000|1840|96|5|71|
 21052021|21|05|2021|514|33|Sumatera Selatan|Kab. Penukal Abab Lematang Ilir|Penukal Abab Lematang Ilir|482|33|449||176000|1840|96|5|71|
 20052021|20|05|2021|514|33|Sumatera Selatan|Kab. Penukal Abab Lematang Ilir|Penukal Abab Lematang Ilir|482|33|449||176000|1840|96|5|71|
@@ -7104,4 +7105,3 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|514|33|Sumatera Selatan|Kab. Penukal Abab Lematang Ilir|Penukal Abab Lematang Ilir|||||176000|1840|96|5|71|
 02042020|02|04|2020|514|33|Sumatera Selatan|Kab. Penukal Abab Lematang Ilir|Penukal Abab Lematang Ilir|||||176000|1840|96|5|71|
 01042020|01|04|2020|514|33|Sumatera Selatan|Kab. Penukal Abab Lematang Ilir|Penukal Abab Lematang Ilir|||||176000|1840|96|5|71|
-31032020|31|03|2020|514|33|Sumatera Selatan|Kab. Penukal Abab Lematang Ilir|Penukal Abab Lematang Ilir|||||176000|1840|96|5|71|

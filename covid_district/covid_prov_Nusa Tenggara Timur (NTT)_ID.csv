@@ -1,4 +1,5 @@
 date|day|month|year|id_district|id_province|province_name|district_name|city_name|confirmed_case|death_case|recovered_case|active_case|population|area_km2|pop_density|num_kecamatan|num_village|num_islands
+23052021|23|05|2021|291|23|Nusa Tenggara Timur (NTT)|Kab. Alor|Alor|117||116|1|217000|2864.6|76|17|175|17
 22052021|22|05|2021|291|23|Nusa Tenggara Timur (NTT)|Kab. Alor|Alor|116||116||217000|2864.6|76|17|175|17
 21052021|21|05|2021|291|23|Nusa Tenggara Timur (NTT)|Kab. Alor|Alor|116||116||217000|2864.6|76|17|175|17
 20052021|20|05|2021|291|23|Nusa Tenggara Timur (NTT)|Kab. Alor|Alor|116||116||217000|2864.6|76|17|175|17
@@ -416,7 +417,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|291|23|Nusa Tenggara Timur (NTT)|Kab. Alor|Alor|||||217000|2864.6|76|17|175|17
 02042020|02|04|2020|291|23|Nusa Tenggara Timur (NTT)|Kab. Alor|Alor|||||217000|2864.6|76|17|175|17
 01042020|01|04|2020|291|23|Nusa Tenggara Timur (NTT)|Kab. Alor|Alor|||||217000|2864.6|76|17|175|17
-31032020|31|03|2020|291|23|Nusa Tenggara Timur (NTT)|Kab. Alor|Alor|||||217000|2864.6|76|17|175|17
+23052021|23|05|2021|292|23|Nusa Tenggara Timur (NTT)|Kab. Belu|Belu|250|||250|228000|1285|177|12|81|
 22052021|22|05|2021|292|23|Nusa Tenggara Timur (NTT)|Kab. Belu|Belu|250|||250|228000|1285|177|12|81|
 21052021|21|05|2021|292|23|Nusa Tenggara Timur (NTT)|Kab. Belu|Belu|250|||250|228000|1285|177|12|81|
 20052021|20|05|2021|292|23|Nusa Tenggara Timur (NTT)|Kab. Belu|Belu|250|||250|228000|1285|177|12|81|
@@ -834,7 +835,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|292|23|Nusa Tenggara Timur (NTT)|Kab. Belu|Belu|||||228000|1285|177|12|81|
 02042020|02|04|2020|292|23|Nusa Tenggara Timur (NTT)|Kab. Belu|Belu|||||228000|1285|177|12|81|
 01042020|01|04|2020|292|23|Nusa Tenggara Timur (NTT)|Kab. Belu|Belu|||||228000|1285|177|12|81|
-31032020|31|03|2020|292|23|Nusa Tenggara Timur (NTT)|Kab. Belu|Belu|||||228000|1285|177|12|81|
+23052021|23|05|2021|293|23|Nusa Tenggara Timur (NTT)|Kab. Ende|Ende|897||850|47|279000|2046.5|136|21|278|7
 22052021|22|05|2021|293|23|Nusa Tenggara Timur (NTT)|Kab. Ende|Ende|894||850|44|279000|2046.5|136|21|278|7
 21052021|21|05|2021|293|23|Nusa Tenggara Timur (NTT)|Kab. Ende|Ende|874||850|24|279000|2046.5|136|21|278|7
 20052021|20|05|2021|293|23|Nusa Tenggara Timur (NTT)|Kab. Ende|Ende|868||850|18|279000|2046.5|136|21|278|7
@@ -1252,7 +1253,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|293|23|Nusa Tenggara Timur (NTT)|Kab. Ende|Ende|||||279000|2046.5|136|21|278|7
 02042020|02|04|2020|293|23|Nusa Tenggara Timur (NTT)|Kab. Ende|Ende|||||279000|2046.5|136|21|278|7
 01042020|01|04|2020|293|23|Nusa Tenggara Timur (NTT)|Kab. Ende|Ende|||||279000|2046.5|136|21|278|7
-31032020|31|03|2020|293|23|Nusa Tenggara Timur (NTT)|Kab. Ende|Ende|||||279000|2046.5|136|21|278|7
+23052021|23|05|2021|294|23|Nusa Tenggara Timur (NTT)|Kab. Flores Timur|Flores Timur|403||393|10|289000|1813.2|160|19|250|20
 22052021|22|05|2021|294|23|Nusa Tenggara Timur (NTT)|Kab. Flores Timur|Flores Timur|403||393|10|289000|1813.2|160|19|250|20
 21052021|21|05|2021|294|23|Nusa Tenggara Timur (NTT)|Kab. Flores Timur|Flores Timur|400||393|7|289000|1813.2|160|19|250|20
 20052021|20|05|2021|294|23|Nusa Tenggara Timur (NTT)|Kab. Flores Timur|Flores Timur|398||393|5|289000|1813.2|160|19|250|20
@@ -1670,7 +1671,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|294|23|Nusa Tenggara Timur (NTT)|Kab. Flores Timur|Flores Timur|||||289000|1813.2|160|19|250|20
 02042020|02|04|2020|294|23|Nusa Tenggara Timur (NTT)|Kab. Flores Timur|Flores Timur|||||289000|1813.2|160|19|250|20
 01042020|01|04|2020|294|23|Nusa Tenggara Timur (NTT)|Kab. Flores Timur|Flores Timur|||||289000|1813.2|160|19|250|20
-31032020|31|03|2020|294|23|Nusa Tenggara Timur (NTT)|Kab. Flores Timur|Flores Timur|||||289000|1813.2|160|19|250|20
+23052021|23|05|2021|295|23|Nusa Tenggara Timur (NTT)|Kab. Kupang|Kupang|699||664|35|415000|5434.8|76|24|177|23
 22052021|22|05|2021|295|23|Nusa Tenggara Timur (NTT)|Kab. Kupang|Kupang|699||664|35|415000|5434.8|76|24|177|23
 21052021|21|05|2021|295|23|Nusa Tenggara Timur (NTT)|Kab. Kupang|Kupang|696||664|32|415000|5434.8|76|24|177|23
 20052021|20|05|2021|295|23|Nusa Tenggara Timur (NTT)|Kab. Kupang|Kupang|696||664|32|415000|5434.8|76|24|177|23
@@ -2088,7 +2089,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|295|23|Nusa Tenggara Timur (NTT)|Kab. Kupang|Kupang|||||415000|5434.8|76|24|177|23
 02042020|02|04|2020|295|23|Nusa Tenggara Timur (NTT)|Kab. Kupang|Kupang|||||415000|5434.8|76|24|177|23
 01042020|01|04|2020|295|23|Nusa Tenggara Timur (NTT)|Kab. Kupang|Kupang|||||415000|5434.8|76|24|177|23
-31032020|31|03|2020|295|23|Nusa Tenggara Timur (NTT)|Kab. Kupang|Kupang|||||415000|5434.8|76|24|177|23
+23052021|23|05|2021|296|23|Nusa Tenggara Timur (NTT)|Kota Kupang|Kota Kupang|6897||6852|45|452000|26.2|17273|6|51|3
 22052021|22|05|2021|296|23|Nusa Tenggara Timur (NTT)|Kota Kupang|Kota Kupang|6897||6852|45|452000|26.2|17273|6|51|3
 21052021|21|05|2021|296|23|Nusa Tenggara Timur (NTT)|Kota Kupang|Kota Kupang|6878||6852|26|452000|26.2|17273|6|51|3
 20052021|20|05|2021|296|23|Nusa Tenggara Timur (NTT)|Kota Kupang|Kota Kupang|6870||6852|18|452000|26.2|17273|6|51|3
@@ -2506,7 +2507,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|296|23|Nusa Tenggara Timur (NTT)|Kota Kupang|Kota Kupang|||||452000|26.2|17273|6|51|3
 02042020|02|04|2020|296|23|Nusa Tenggara Timur (NTT)|Kota Kupang|Kota Kupang|||||452000|26.2|17273|6|51|3
 01042020|01|04|2020|296|23|Nusa Tenggara Timur (NTT)|Kota Kupang|Kota Kupang|||||452000|26.2|17273|6|51|3
-31032020|31|03|2020|296|23|Nusa Tenggara Timur (NTT)|Kota Kupang|Kota Kupang|||||452000|26.2|17273|6|51|3
+23052021|23|05|2021|297|23|Nusa Tenggara Timur (NTT)|Kab. Lembata|Lembata|292||274|18|138000|1266|109|9|151|4
 22052021|22|05|2021|297|23|Nusa Tenggara Timur (NTT)|Kab. Lembata|Lembata|292||274|18|138000|1266|109|9|151|4
 21052021|21|05|2021|297|23|Nusa Tenggara Timur (NTT)|Kab. Lembata|Lembata|290||274|16|138000|1266|109|9|151|4
 20052021|20|05|2021|297|23|Nusa Tenggara Timur (NTT)|Kab. Lembata|Lembata|290||274|16|138000|1266|109|9|151|4
@@ -2924,7 +2925,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|297|23|Nusa Tenggara Timur (NTT)|Kab. Lembata|Lembata|||||138000|1266|109|9|151|4
 02042020|02|04|2020|297|23|Nusa Tenggara Timur (NTT)|Kab. Lembata|Lembata|||||138000|1266|109|9|151|4
 01042020|01|04|2020|297|23|Nusa Tenggara Timur (NTT)|Kab. Lembata|Lembata|||||138000|1266|109|9|151|4
-31032020|31|03|2020|297|23|Nusa Tenggara Timur (NTT)|Kab. Lembata|Lembata|||||138000|1266|109|9|151|4
+23052021|23|05|2021|298|23|Nusa Tenggara Timur (NTT)|Kab. Manggarai|Manggarai|341||321|20|328000|2096.4|157|12|171|1
 22052021|22|05|2021|298|23|Nusa Tenggara Timur (NTT)|Kab. Manggarai|Manggarai|341||321|20|328000|2096.4|157|12|171|1
 21052021|21|05|2021|298|23|Nusa Tenggara Timur (NTT)|Kab. Manggarai|Manggarai|341||321|20|328000|2096.4|157|12|171|1
 20052021|20|05|2021|298|23|Nusa Tenggara Timur (NTT)|Kab. Manggarai|Manggarai|340||321|19|328000|2096.4|157|12|171|1
@@ -3342,7 +3343,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|298|23|Nusa Tenggara Timur (NTT)|Kab. Manggarai|Manggarai|||||328000|2096.4|157|12|171|1
 02042020|02|04|2020|298|23|Nusa Tenggara Timur (NTT)|Kab. Manggarai|Manggarai|||||328000|2096.4|157|12|171|1
 01042020|01|04|2020|298|23|Nusa Tenggara Timur (NTT)|Kab. Manggarai|Manggarai|||||328000|2096.4|157|12|171|1
-31032020|31|03|2020|298|23|Nusa Tenggara Timur (NTT)|Kab. Manggarai|Manggarai|||||328000|2096.4|157|12|171|1
+23052021|23|05|2021|299|23|Nusa Tenggara Timur (NTT)|Kab. Manggarai Barat|Manggarai Barat|554||553|1|265000|2397|110|12|169|155
 22052021|22|05|2021|299|23|Nusa Tenggara Timur (NTT)|Kab. Manggarai Barat|Manggarai Barat|554||553|1|265000|2397|110|12|169|155
 21052021|21|05|2021|299|23|Nusa Tenggara Timur (NTT)|Kab. Manggarai Barat|Manggarai Barat|554||553|1|265000|2397|110|12|169|155
 20052021|20|05|2021|299|23|Nusa Tenggara Timur (NTT)|Kab. Manggarai Barat|Manggarai Barat|554||553|1|265000|2397|110|12|169|155
@@ -3760,7 +3761,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|299|23|Nusa Tenggara Timur (NTT)|Kab. Manggarai Barat|Manggarai Barat|||||265000|2397|110|12|169|155
 02042020|02|04|2020|299|23|Nusa Tenggara Timur (NTT)|Kab. Manggarai Barat|Manggarai Barat|||||265000|2397|110|12|169|155
 01042020|01|04|2020|299|23|Nusa Tenggara Timur (NTT)|Kab. Manggarai Barat|Manggarai Barat|||||265000|2397|110|12|169|155
-31032020|31|03|2020|299|23|Nusa Tenggara Timur (NTT)|Kab. Manggarai Barat|Manggarai Barat|||||265000|2397|110|12|169|155
+23052021|23|05|2021|300|23|Nusa Tenggara Timur (NTT)|Kab. Manggarai Timur|Manggarai Timur|122|||122|271000|2642.9|103|9|176|
 22052021|22|05|2021|300|23|Nusa Tenggara Timur (NTT)|Kab. Manggarai Timur|Manggarai Timur|122|||122|271000|2642.9|103|9|176|
 21052021|21|05|2021|300|23|Nusa Tenggara Timur (NTT)|Kab. Manggarai Timur|Manggarai Timur|122|||122|271000|2642.9|103|9|176|
 20052021|20|05|2021|300|23|Nusa Tenggara Timur (NTT)|Kab. Manggarai Timur|Manggarai Timur|122|||122|271000|2642.9|103|9|176|
@@ -4178,7 +4179,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|300|23|Nusa Tenggara Timur (NTT)|Kab. Manggarai Timur|Manggarai Timur|||||271000|2642.9|103|9|176|
 02042020|02|04|2020|300|23|Nusa Tenggara Timur (NTT)|Kab. Manggarai Timur|Manggarai Timur|||||271000|2642.9|103|9|176|
 01042020|01|04|2020|300|23|Nusa Tenggara Timur (NTT)|Kab. Manggarai Timur|Manggarai Timur|||||271000|2642.9|103|9|176|
-31032020|31|03|2020|300|23|Nusa Tenggara Timur (NTT)|Kab. Manggarai Timur|Manggarai Timur|||||271000|2642.9|103|9|176|
+23052021|23|05|2021|301|23|Nusa Tenggara Timur (NTT)|Kab. Nagekeo|Nagekeo|194||194||165000|1417|117|7|113|3
 22052021|22|05|2021|301|23|Nusa Tenggara Timur (NTT)|Kab. Nagekeo|Nagekeo|194||194||165000|1417|117|7|113|3
 21052021|21|05|2021|301|23|Nusa Tenggara Timur (NTT)|Kab. Nagekeo|Nagekeo|194||194||165000|1417|117|7|113|3
 20052021|20|05|2021|301|23|Nusa Tenggara Timur (NTT)|Kab. Nagekeo|Nagekeo|194||194||165000|1417|117|7|113|3
@@ -4596,7 +4597,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|301|23|Nusa Tenggara Timur (NTT)|Kab. Nagekeo|Nagekeo|||||165000|1417|117|7|113|3
 02042020|02|04|2020|301|23|Nusa Tenggara Timur (NTT)|Kab. Nagekeo|Nagekeo|||||165000|1417|117|7|113|3
 01042020|01|04|2020|301|23|Nusa Tenggara Timur (NTT)|Kab. Nagekeo|Nagekeo|||||165000|1417|117|7|113|3
-31032020|31|03|2020|301|23|Nusa Tenggara Timur (NTT)|Kab. Nagekeo|Nagekeo|||||165000|1417|117|7|113|3
+23052021|23|05|2021|302|23|Nusa Tenggara Timur (NTT)|Kab. Ngada|Ngada|436|||436|170000|1645.9|103|12|151|27
 22052021|22|05|2021|302|23|Nusa Tenggara Timur (NTT)|Kab. Ngada|Ngada|436|||436|170000|1645.9|103|12|151|27
 21052021|21|05|2021|302|23|Nusa Tenggara Timur (NTT)|Kab. Ngada|Ngada|436|||436|170000|1645.9|103|12|151|27
 20052021|20|05|2021|302|23|Nusa Tenggara Timur (NTT)|Kab. Ngada|Ngada|436|||436|170000|1645.9|103|12|151|27
@@ -5014,7 +5015,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|302|23|Nusa Tenggara Timur (NTT)|Kab. Ngada|Ngada|||||170000|1645.9|103|12|151|27
 02042020|02|04|2020|302|23|Nusa Tenggara Timur (NTT)|Kab. Ngada|Ngada|||||170000|1645.9|103|12|151|27
 01042020|01|04|2020|302|23|Nusa Tenggara Timur (NTT)|Kab. Ngada|Ngada|||||170000|1645.9|103|12|151|27
-31032020|31|03|2020|302|23|Nusa Tenggara Timur (NTT)|Kab. Ngada|Ngada|||||170000|1645.9|103|12|151|27
+23052021|23|05|2021|303|23|Nusa Tenggara Timur (NTT)|Kab. Rote Ndao|Rote Ndao|423||393|30|148000|1280|116|10|119|129
 22052021|22|05|2021|303|23|Nusa Tenggara Timur (NTT)|Kab. Rote Ndao|Rote Ndao|423||393|30|148000|1280|116|10|119|129
 21052021|21|05|2021|303|23|Nusa Tenggara Timur (NTT)|Kab. Rote Ndao|Rote Ndao|423||393|30|148000|1280|116|10|119|129
 20052021|20|05|2021|303|23|Nusa Tenggara Timur (NTT)|Kab. Rote Ndao|Rote Ndao|417||393|24|148000|1280|116|10|119|129
@@ -5432,7 +5433,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|303|23|Nusa Tenggara Timur (NTT)|Kab. Rote Ndao|Rote Ndao|||||148000|1280|116|10|119|129
 02042020|02|04|2020|303|23|Nusa Tenggara Timur (NTT)|Kab. Rote Ndao|Rote Ndao|||||148000|1280|116|10|119|129
 01042020|01|04|2020|303|23|Nusa Tenggara Timur (NTT)|Kab. Rote Ndao|Rote Ndao|||||148000|1280|116|10|119|129
-31032020|31|03|2020|303|23|Nusa Tenggara Timur (NTT)|Kab. Rote Ndao|Rote Ndao|||||148000|1280|116|10|119|129
+23052021|23|05|2021|304|23|Nusa Tenggara Timur (NTT)|Kab. Sabu Raijua|Sabu Raijua|312||312||96000|460.5|208|6|63|6
 22052021|22|05|2021|304|23|Nusa Tenggara Timur (NTT)|Kab. Sabu Raijua|Sabu Raijua|312||312||96000|460.5|208|6|63|6
 21052021|21|05|2021|304|23|Nusa Tenggara Timur (NTT)|Kab. Sabu Raijua|Sabu Raijua|312||312||96000|460.5|208|6|63|6
 20052021|20|05|2021|304|23|Nusa Tenggara Timur (NTT)|Kab. Sabu Raijua|Sabu Raijua|312||312||96000|460.5|208|6|63|6
@@ -5850,7 +5851,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|304|23|Nusa Tenggara Timur (NTT)|Kab. Sabu Raijua|Sabu Raijua|||||96000|460.5|208|6|63|6
 02042020|02|04|2020|304|23|Nusa Tenggara Timur (NTT)|Kab. Sabu Raijua|Sabu Raijua|||||96000|460.5|208|6|63|6
 01042020|01|04|2020|304|23|Nusa Tenggara Timur (NTT)|Kab. Sabu Raijua|Sabu Raijua|||||96000|460.5|208|6|63|6
-31032020|31|03|2020|304|23|Nusa Tenggara Timur (NTT)|Kab. Sabu Raijua|Sabu Raijua|||||96000|460.5|208|6|63|6
+23052021|23|05|2021|305|23|Nusa Tenggara Timur (NTT)|Kab. Sikka|Sikka|510||510||325000|1731.9|188|21|160|22
 22052021|22|05|2021|305|23|Nusa Tenggara Timur (NTT)|Kab. Sikka|Sikka|510||510||325000|1731.9|188|21|160|22
 21052021|21|05|2021|305|23|Nusa Tenggara Timur (NTT)|Kab. Sikka|Sikka|510||510||325000|1731.9|188|21|160|22
 20052021|20|05|2021|305|23|Nusa Tenggara Timur (NTT)|Kab. Sikka|Sikka|510||510||325000|1731.9|188|21|160|22
@@ -6268,7 +6269,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|305|23|Nusa Tenggara Timur (NTT)|Kab. Sikka|Sikka|||||325000|1731.9|188|21|160|22
 02042020|02|04|2020|305|23|Nusa Tenggara Timur (NTT)|Kab. Sikka|Sikka|||||325000|1731.9|188|21|160|22
 01042020|01|04|2020|305|23|Nusa Tenggara Timur (NTT)|Kab. Sikka|Sikka|||||325000|1731.9|188|21|160|22
-31032020|31|03|2020|305|23|Nusa Tenggara Timur (NTT)|Kab. Sikka|Sikka|||||325000|1731.9|188|21|160|22
+23052021|23|05|2021|306|23|Nusa Tenggara Timur (NTT)|Kab. Sumba Barat|Sumba Barat|538||468|70|150000|2183.2|69|6|74|27
 22052021|22|05|2021|306|23|Nusa Tenggara Timur (NTT)|Kab. Sumba Barat|Sumba Barat|538||468|70|150000|2183.2|69|6|74|27
 21052021|21|05|2021|306|23|Nusa Tenggara Timur (NTT)|Kab. Sumba Barat|Sumba Barat|538||468|70|150000|2183.2|69|6|74|27
 20052021|20|05|2021|306|23|Nusa Tenggara Timur (NTT)|Kab. Sumba Barat|Sumba Barat|538||468|70|150000|2183.2|69|6|74|27
@@ -6686,7 +6687,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|306|23|Nusa Tenggara Timur (NTT)|Kab. Sumba Barat|Sumba Barat|||||150000|2183.2|69|6|74|27
 02042020|02|04|2020|306|23|Nusa Tenggara Timur (NTT)|Kab. Sumba Barat|Sumba Barat|||||150000|2183.2|69|6|74|27
 01042020|01|04|2020|306|23|Nusa Tenggara Timur (NTT)|Kab. Sumba Barat|Sumba Barat|||||150000|2183.2|69|6|74|27
-31032020|31|03|2020|306|23|Nusa Tenggara Timur (NTT)|Kab. Sumba Barat|Sumba Barat|||||150000|2183.2|69|6|74|27
+23052021|23|05|2021|307|23|Nusa Tenggara Timur (NTT)|Kab. Sumba Barat Daya|Sumba Barat Daya|654||564|90|317000|1480.5|214|11|175|
 22052021|22|05|2021|307|23|Nusa Tenggara Timur (NTT)|Kab. Sumba Barat Daya|Sumba Barat Daya|654||564|90|317000|1480.5|214|11|175|
 21052021|21|05|2021|307|23|Nusa Tenggara Timur (NTT)|Kab. Sumba Barat Daya|Sumba Barat Daya|654||564|90|317000|1480.5|214|11|175|
 20052021|20|05|2021|307|23|Nusa Tenggara Timur (NTT)|Kab. Sumba Barat Daya|Sumba Barat Daya|654||564|90|317000|1480.5|214|11|175|
@@ -7104,7 +7105,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|307|23|Nusa Tenggara Timur (NTT)|Kab. Sumba Barat Daya|Sumba Barat Daya|||||317000|1480.5|214|11|175|
 02042020|02|04|2020|307|23|Nusa Tenggara Timur (NTT)|Kab. Sumba Barat Daya|Sumba Barat Daya|||||317000|1480.5|214|11|175|
 01042020|01|04|2020|307|23|Nusa Tenggara Timur (NTT)|Kab. Sumba Barat Daya|Sumba Barat Daya|||||317000|1480.5|214|11|175|
-31032020|31|03|2020|307|23|Nusa Tenggara Timur (NTT)|Kab. Sumba Barat Daya|Sumba Barat Daya|||||317000|1480.5|214|11|175|
+23052021|23|05|2021|308|23|Nusa Tenggara Timur (NTT)|Kab. Sumba Tengah|Sumba Tengah|390|||390|87000|1868.7|47|5|65|8
 22052021|22|05|2021|308|23|Nusa Tenggara Timur (NTT)|Kab. Sumba Tengah|Sumba Tengah|390|||390|87000|1868.7|47|5|65|8
 21052021|21|05|2021|308|23|Nusa Tenggara Timur (NTT)|Kab. Sumba Tengah|Sumba Tengah|390|||390|87000|1868.7|47|5|65|8
 20052021|20|05|2021|308|23|Nusa Tenggara Timur (NTT)|Kab. Sumba Tengah|Sumba Tengah|390|||390|87000|1868.7|47|5|65|8
@@ -7522,7 +7523,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|308|23|Nusa Tenggara Timur (NTT)|Kab. Sumba Tengah|Sumba Tengah|||||87000|1868.7|47|5|65|8
 02042020|02|04|2020|308|23|Nusa Tenggara Timur (NTT)|Kab. Sumba Tengah|Sumba Tengah|||||87000|1868.7|47|5|65|8
 01042020|01|04|2020|308|23|Nusa Tenggara Timur (NTT)|Kab. Sumba Tengah|Sumba Tengah|||||87000|1868.7|47|5|65|8
-31032020|31|03|2020|308|23|Nusa Tenggara Timur (NTT)|Kab. Sumba Tengah|Sumba Tengah|||||87000|1868.7|47|5|65|8
+23052021|23|05|2021|309|23|Nusa Tenggara Timur (NTT)|Kab. Sumba Timur|Sumba Timur|1387||1305|82|245000|7000.5|35|22|156|30
 22052021|22|05|2021|309|23|Nusa Tenggara Timur (NTT)|Kab. Sumba Timur|Sumba Timur|1385||1305|80|245000|7000.5|35|22|156|30
 21052021|21|05|2021|309|23|Nusa Tenggara Timur (NTT)|Kab. Sumba Timur|Sumba Timur|1377||1305|72|245000|7000.5|35|22|156|30
 20052021|20|05|2021|309|23|Nusa Tenggara Timur (NTT)|Kab. Sumba Timur|Sumba Timur|1369||1305|64|245000|7000.5|35|22|156|30
@@ -7940,7 +7941,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|309|23|Nusa Tenggara Timur (NTT)|Kab. Sumba Timur|Sumba Timur|||||245000|7000.5|35|22|156|30
 02042020|02|04|2020|309|23|Nusa Tenggara Timur (NTT)|Kab. Sumba Timur|Sumba Timur|||||245000|7000.5|35|22|156|30
 01042020|01|04|2020|309|23|Nusa Tenggara Timur (NTT)|Kab. Sumba Timur|Sumba Timur|||||245000|7000.5|35|22|156|30
-31032020|31|03|2020|309|23|Nusa Tenggara Timur (NTT)|Kab. Sumba Timur|Sumba Timur|||||245000|7000.5|35|22|156|30
+23052021|23|05|2021|310|23|Nusa Tenggara Timur (NTT)|Kab. Timor Tengah Selatan|Timor Tengah Selatan|629||627|2|479000|3947|121|32|278|
 22052021|22|05|2021|310|23|Nusa Tenggara Timur (NTT)|Kab. Timor Tengah Selatan|Timor Tengah Selatan|629||627|2|479000|3947|121|32|278|
 21052021|21|05|2021|310|23|Nusa Tenggara Timur (NTT)|Kab. Timor Tengah Selatan|Timor Tengah Selatan|629||627|2|479000|3947|121|32|278|
 20052021|20|05|2021|310|23|Nusa Tenggara Timur (NTT)|Kab. Timor Tengah Selatan|Timor Tengah Selatan|629||627|2|479000|3947|121|32|278|
@@ -8358,7 +8359,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|310|23|Nusa Tenggara Timur (NTT)|Kab. Timor Tengah Selatan|Timor Tengah Selatan|||||479000|3947|121|32|278|
 02042020|02|04|2020|310|23|Nusa Tenggara Timur (NTT)|Kab. Timor Tengah Selatan|Timor Tengah Selatan|||||479000|3947|121|32|278|
 01042020|01|04|2020|310|23|Nusa Tenggara Timur (NTT)|Kab. Timor Tengah Selatan|Timor Tengah Selatan|||||479000|3947|121|32|278|
-31032020|31|03|2020|310|23|Nusa Tenggara Timur (NTT)|Kab. Timor Tengah Selatan|Timor Tengah Selatan|||||479000|3947|121|32|278|
+23052021|23|05|2021|311|23|Nusa Tenggara Timur (NTT)|Kab. Timor Tengah Utara|Timor Tengah Utara|163||163||272000|2669.7|102|24|193|
 22052021|22|05|2021|311|23|Nusa Tenggara Timur (NTT)|Kab. Timor Tengah Utara|Timor Tengah Utara|163||163||272000|2669.7|102|24|193|
 21052021|21|05|2021|311|23|Nusa Tenggara Timur (NTT)|Kab. Timor Tengah Utara|Timor Tengah Utara|163||163||272000|2669.7|102|24|193|
 20052021|20|05|2021|311|23|Nusa Tenggara Timur (NTT)|Kab. Timor Tengah Utara|Timor Tengah Utara|163||163||272000|2669.7|102|24|193|
@@ -8776,7 +8777,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|311|23|Nusa Tenggara Timur (NTT)|Kab. Timor Tengah Utara|Timor Tengah Utara|||||272000|2669.7|102|24|193|
 02042020|02|04|2020|311|23|Nusa Tenggara Timur (NTT)|Kab. Timor Tengah Utara|Timor Tengah Utara|||||272000|2669.7|102|24|193|
 01042020|01|04|2020|311|23|Nusa Tenggara Timur (NTT)|Kab. Timor Tengah Utara|Timor Tengah Utara|||||272000|2669.7|102|24|193|
-31032020|31|03|2020|311|23|Nusa Tenggara Timur (NTT)|Kab. Timor Tengah Utara|Timor Tengah Utara|||||272000|2669.7|102|24|193|
+23052021|23|05|2021|504|23|Nusa Tenggara Timur (NTT)|Kab. Malaka|Malaka|85||80|5|197000|1160.6|170|12|127|
 22052021|22|05|2021|504|23|Nusa Tenggara Timur (NTT)|Kab. Malaka|Malaka|85||80|5|197000|1160.6|170|12|127|
 21052021|21|05|2021|504|23|Nusa Tenggara Timur (NTT)|Kab. Malaka|Malaka|85||80|5|197000|1160.6|170|12|127|
 20052021|20|05|2021|504|23|Nusa Tenggara Timur (NTT)|Kab. Malaka|Malaka|85||80|5|197000|1160.6|170|12|127|
@@ -9194,4 +9195,3 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|504|23|Nusa Tenggara Timur (NTT)|Kab. Malaka|Malaka|||||197000|1160.6|170|12|127|
 02042020|02|04|2020|504|23|Nusa Tenggara Timur (NTT)|Kab. Malaka|Malaka|||||197000|1160.6|170|12|127|
 01042020|01|04|2020|504|23|Nusa Tenggara Timur (NTT)|Kab. Malaka|Malaka|||||197000|1160.6|170|12|127|
-31032020|31|03|2020|504|23|Nusa Tenggara Timur (NTT)|Kab. Malaka|Malaka|||||197000|1160.6|170|12|127|
