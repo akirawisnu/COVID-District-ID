@@ -1,4 +1,14 @@
 date|day|month|year|id_district|id_province|province_name|district_name|city_name|confirmed_case|death_case|recovered_case|active_case|population|area_km2|pop_density|num_kecamatan|num_village|num_islands
+02062021|02|06|2021|176|13|Kalimantan Selatan|Kab. Balangan|Balangan|1665|38|1610|17|129000|1878.3|69|8|157|
+01062021|01|06|2021|176|13|Kalimantan Selatan|Kab. Balangan|Balangan|1665|38|1610|17|129000|1878.3|69|8|157|
+31052021|31|05|2021|176|13|Kalimantan Selatan|Kab. Balangan|Balangan|1661|37|1604|20|129000|1878.3|69|8|157|
+30052021|30|05|2021|176|13|Kalimantan Selatan|Kab. Balangan|Balangan|1661|37|1604|20|129000|1878.3|69|8|157|
+29052021|29|05|2021|176|13|Kalimantan Selatan|Kab. Balangan|Balangan|1661|37|1604|20|129000|1878.3|69|8|157|
+28052021|28|05|2021|176|13|Kalimantan Selatan|Kab. Balangan|Balangan|1657|37|1604|16|129000|1878.3|69|8|157|
+27052021|27|05|2021|176|13|Kalimantan Selatan|Kab. Balangan|Balangan|1657|37|1604|16|129000|1878.3|69|8|157|
+26052021|26|05|2021|176|13|Kalimantan Selatan|Kab. Balangan|Balangan|1657|37|1604|16|129000|1878.3|69|8|157|
+25052021|25|05|2021|176|13|Kalimantan Selatan|Kab. Balangan|Balangan|1654|36|1601|17|129000|1878.3|69|8|157|
+24052021|24|05|2021|176|13|Kalimantan Selatan|Kab. Balangan|Balangan|1654|36|1601|17|129000|1878.3|69|8|157|
 23052021|23|05|2021|176|13|Kalimantan Selatan|Kab. Balangan|Balangan|1654|36|1601|17|129000|1878.3|69|8|157|
 22052021|22|05|2021|176|13|Kalimantan Selatan|Kab. Balangan|Balangan|1651|36|1595|20|129000|1878.3|69|8|157|
 21052021|21|05|2021|176|13|Kalimantan Selatan|Kab. Balangan|Balangan|1651|36|1595|20|129000|1878.3|69|8|157|
@@ -417,6 +427,25 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|176|13|Kalimantan Selatan|Kab. Balangan|Balangan|||||129000|1878.3|69|8|157|
 02042020|02|04|2020|176|13|Kalimantan Selatan|Kab. Balangan|Balangan|||||129000|1878.3|69|8|157|
 01042020|01|04|2020|176|13|Kalimantan Selatan|Kab. Balangan|Balangan|||||129000|1878.3|69|8|157|
+31032020|31|03|2020|176|13|Kalimantan Selatan|Kab. Balangan|Balangan|||||129000|1878.3|69|8|157|
+30032020|30|03|2020|176|13|Kalimantan Selatan|Kab. Balangan|Balangan|||||129000|1878.3|69|8|157|
+29032020|29|03|2020|176|13|Kalimantan Selatan|Kab. Balangan|Balangan|||||129000|1878.3|69|8|157|
+28032020|28|03|2020|176|13|Kalimantan Selatan|Kab. Balangan|Balangan|||||129000|1878.3|69|8|157|
+27032020|27|03|2020|176|13|Kalimantan Selatan|Kab. Balangan|Balangan|||||129000|1878.3|69|8|157|
+26032020|26|03|2020|176|13|Kalimantan Selatan|Kab. Balangan|Balangan|||||129000|1878.3|69|8|157|
+25032020|25|03|2020|176|13|Kalimantan Selatan|Kab. Balangan|Balangan|||||129000|1878.3|69|8|157|
+24032020|24|03|2020|176|13|Kalimantan Selatan|Kab. Balangan|Balangan|||||129000|1878.3|69|8|157|
+23032020|23|03|2020|176|13|Kalimantan Selatan|Kab. Balangan|Balangan|||||129000|1878.3|69|8|157|
+02062021|02|06|2021|177|13|Kalimantan Selatan|Kab. Banjar|Banjar|2846|91|2569|186|560000|4668|120|20|290|3
+01062021|01|06|2021|177|13|Kalimantan Selatan|Kab. Banjar|Banjar|2846|91|2569|186|560000|4668|120|20|290|3
+31052021|31|05|2021|177|13|Kalimantan Selatan|Kab. Banjar|Banjar|2846|91|2569|186|560000|4668|120|20|290|3
+30052021|30|05|2021|177|13|Kalimantan Selatan|Kab. Banjar|Banjar|2844|91|2569|184|560000|4668|120|20|290|3
+29052021|29|05|2021|177|13|Kalimantan Selatan|Kab. Banjar|Banjar|2819|91|2566|162|560000|4668|120|20|290|3
+28052021|28|05|2021|177|13|Kalimantan Selatan|Kab. Banjar|Banjar|2764|91|2566|107|560000|4668|120|20|290|3
+27052021|27|05|2021|177|13|Kalimantan Selatan|Kab. Banjar|Banjar|2764|91|2563|110|560000|4668|120|20|290|3
+26052021|26|05|2021|177|13|Kalimantan Selatan|Kab. Banjar|Banjar|2764|91|2562|111|560000|4668|120|20|290|3
+25052021|25|05|2021|177|13|Kalimantan Selatan|Kab. Banjar|Banjar|2758|91|2562|105|560000|4668|120|20|290|3
+24052021|24|05|2021|177|13|Kalimantan Selatan|Kab. Banjar|Banjar|2758|91|2542|125|560000|4668|120|20|290|3
 23052021|23|05|2021|177|13|Kalimantan Selatan|Kab. Banjar|Banjar|2748|91|2365|292|560000|4668|120|20|290|3
 22052021|22|05|2021|177|13|Kalimantan Selatan|Kab. Banjar|Banjar|2728|91|2360|277|560000|4668|120|20|290|3
 21052021|21|05|2021|177|13|Kalimantan Selatan|Kab. Banjar|Banjar|2728|91|2360|277|560000|4668|120|20|290|3
@@ -835,6 +864,25 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|177|13|Kalimantan Selatan|Kab. Banjar|Banjar|3||2|1|560000|4668|120|20|290|3
 02042020|02|04|2020|177|13|Kalimantan Selatan|Kab. Banjar|Banjar|3||2|1|560000|4668|120|20|290|3
 01042020|01|04|2020|177|13|Kalimantan Selatan|Kab. Banjar|Banjar|3||2|1|560000|4668|120|20|290|3
+31032020|31|03|2020|177|13|Kalimantan Selatan|Kab. Banjar|Banjar|3||2|1|560000|4668|120|20|290|3
+30032020|30|03|2020|177|13|Kalimantan Selatan|Kab. Banjar|Banjar|2||1|1|560000|4668|120|20|290|3
+29032020|29|03|2020|177|13|Kalimantan Selatan|Kab. Banjar|Banjar|||||560000|4668|120|20|290|3
+28032020|28|03|2020|177|13|Kalimantan Selatan|Kab. Banjar|Banjar|||||560000|4668|120|20|290|3
+27032020|27|03|2020|177|13|Kalimantan Selatan|Kab. Banjar|Banjar|||||560000|4668|120|20|290|3
+26032020|26|03|2020|177|13|Kalimantan Selatan|Kab. Banjar|Banjar|||||560000|4668|120|20|290|3
+25032020|25|03|2020|177|13|Kalimantan Selatan|Kab. Banjar|Banjar|||||560000|4668|120|20|290|3
+24032020|24|03|2020|177|13|Kalimantan Selatan|Kab. Banjar|Banjar|||||560000|4668|120|20|290|3
+23032020|23|03|2020|177|13|Kalimantan Selatan|Kab. Banjar|Banjar|||||560000|4668|120|20|290|3
+02062021|02|06|2021|178|13|Kalimantan Selatan|Kota Banjarbaru|Kota Banjarbaru|5074|166|4710|198|229000|371|617|5|20|
+01062021|01|06|2021|178|13|Kalimantan Selatan|Kota Banjarbaru|Kota Banjarbaru|5072|165|4703|204|229000|371|617|5|20|
+31052021|31|05|2021|178|13|Kalimantan Selatan|Kota Banjarbaru|Kota Banjarbaru|5072|165|4703|204|229000|371|617|5|20|
+30052021|30|05|2021|178|13|Kalimantan Selatan|Kota Banjarbaru|Kota Banjarbaru|5071|164|4683|224|229000|371|617|5|20|
+29052021|29|05|2021|178|13|Kalimantan Selatan|Kota Banjarbaru|Kota Banjarbaru|5042|163|4675|204|229000|371|617|5|20|
+28052021|28|05|2021|178|13|Kalimantan Selatan|Kota Banjarbaru|Kota Banjarbaru|5017|163|4675|179|229000|371|617|5|20|
+27052021|27|05|2021|178|13|Kalimantan Selatan|Kota Banjarbaru|Kota Banjarbaru|4995|161|4673|161|229000|371|617|5|20|
+26052021|26|05|2021|178|13|Kalimantan Selatan|Kota Banjarbaru|Kota Banjarbaru|4964|160|4673|131|229000|371|617|5|20|
+25052021|25|05|2021|178|13|Kalimantan Selatan|Kota Banjarbaru|Kota Banjarbaru|4958|159|4665|134|229000|371|617|5|20|
+24052021|24|05|2021|178|13|Kalimantan Selatan|Kota Banjarbaru|Kota Banjarbaru|4952|158|4656|138|229000|371|617|5|20|
 23052021|23|05|2021|178|13|Kalimantan Selatan|Kota Banjarbaru|Kota Banjarbaru|4949|158|4656|135|229000|371|617|5|20|
 22052021|22|05|2021|178|13|Kalimantan Selatan|Kota Banjarbaru|Kota Banjarbaru|4917|155|4649|113|229000|371|617|5|20|
 21052021|21|05|2021|178|13|Kalimantan Selatan|Kota Banjarbaru|Kota Banjarbaru|4917|155|4649|113|229000|371|617|5|20|
@@ -1253,6 +1301,25 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|178|13|Kalimantan Selatan|Kota Banjarbaru|Kota Banjarbaru|||||229000|371|617|5|20|
 02042020|02|04|2020|178|13|Kalimantan Selatan|Kota Banjarbaru|Kota Banjarbaru|||||229000|371|617|5|20|
 01042020|01|04|2020|178|13|Kalimantan Selatan|Kota Banjarbaru|Kota Banjarbaru|||||229000|371|617|5|20|
+31032020|31|03|2020|178|13|Kalimantan Selatan|Kota Banjarbaru|Kota Banjarbaru|||||229000|371|617|5|20|
+30032020|30|03|2020|178|13|Kalimantan Selatan|Kota Banjarbaru|Kota Banjarbaru|||||229000|371|617|5|20|
+29032020|29|03|2020|178|13|Kalimantan Selatan|Kota Banjarbaru|Kota Banjarbaru|||||229000|371|617|5|20|
+28032020|28|03|2020|178|13|Kalimantan Selatan|Kota Banjarbaru|Kota Banjarbaru|||||229000|371|617|5|20|
+27032020|27|03|2020|178|13|Kalimantan Selatan|Kota Banjarbaru|Kota Banjarbaru|||||229000|371|617|5|20|
+26032020|26|03|2020|178|13|Kalimantan Selatan|Kota Banjarbaru|Kota Banjarbaru|||||229000|371|617|5|20|
+25032020|25|03|2020|178|13|Kalimantan Selatan|Kota Banjarbaru|Kota Banjarbaru|||||229000|371|617|5|20|
+24032020|24|03|2020|178|13|Kalimantan Selatan|Kota Banjarbaru|Kota Banjarbaru|||||229000|371|617|5|20|
+23032020|23|03|2020|178|13|Kalimantan Selatan|Kota Banjarbaru|Kota Banjarbaru|||||229000|371|617|5|20|
+02062021|02|06|2021|179|13|Kalimantan Selatan|Kota Banjarmasin|Kota Banjarmasin|9189|207|8838|144|668000|72|9277|5|52|1
+01062021|01|06|2021|179|13|Kalimantan Selatan|Kota Banjarmasin|Kota Banjarmasin|9189|207|8838|144|668000|72|9277|5|52|1
+31052021|31|05|2021|179|13|Kalimantan Selatan|Kota Banjarmasin|Kota Banjarmasin|9179|207|8838|134|668000|72|9277|5|52|1
+30052021|30|05|2021|179|13|Kalimantan Selatan|Kota Banjarmasin|Kota Banjarmasin|9175|207|8803|165|668000|72|9277|5|52|1
+29052021|29|05|2021|179|13|Kalimantan Selatan|Kota Banjarmasin|Kota Banjarmasin|9175|207|8803|165|668000|72|9277|5|52|1
+28052021|28|05|2021|179|13|Kalimantan Selatan|Kota Banjarmasin|Kota Banjarmasin|9167|206|8778|183|668000|72|9277|5|52|1
+27052021|27|05|2021|179|13|Kalimantan Selatan|Kota Banjarmasin|Kota Banjarmasin|9159|206|8778|175|668000|72|9277|5|52|1
+26052021|26|05|2021|179|13|Kalimantan Selatan|Kota Banjarmasin|Kota Banjarmasin|9158|206|8758|194|668000|72|9277|5|52|1
+25052021|25|05|2021|179|13|Kalimantan Selatan|Kota Banjarmasin|Kota Banjarmasin|9131|206|8758|167|668000|72|9277|5|52|1
+24052021|24|05|2021|179|13|Kalimantan Selatan|Kota Banjarmasin|Kota Banjarmasin|9119|206|8758|155|668000|72|9277|5|52|1
 23052021|23|05|2021|179|13|Kalimantan Selatan|Kota Banjarmasin|Kota Banjarmasin|9108|206|8758|144|668000|72|9277|5|52|1
 22052021|22|05|2021|179|13|Kalimantan Selatan|Kota Banjarmasin|Kota Banjarmasin|9090|206|8718|166|668000|72|9277|5|52|1
 21052021|21|05|2021|179|13|Kalimantan Selatan|Kota Banjarmasin|Kota Banjarmasin|9090|206|8718|166|668000|72|9277|5|52|1
@@ -1671,6 +1738,25 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|179|13|Kalimantan Selatan|Kota Banjarmasin|Kota Banjarmasin|4||2|2|668000|72|9277|5|52|1
 02042020|02|04|2020|179|13|Kalimantan Selatan|Kota Banjarmasin|Kota Banjarmasin|4||2|2|668000|72|9277|5|52|1
 01042020|01|04|2020|179|13|Kalimantan Selatan|Kota Banjarmasin|Kota Banjarmasin|4||2|2|668000|72|9277|5|52|1
+31032020|31|03|2020|179|13|Kalimantan Selatan|Kota Banjarmasin|Kota Banjarmasin|2||2||668000|72|9277|5|52|1
+30032020|30|03|2020|179|13|Kalimantan Selatan|Kota Banjarmasin|Kota Banjarmasin|2||2||668000|72|9277|5|52|1
+29032020|29|03|2020|179|13|Kalimantan Selatan|Kota Banjarmasin|Kota Banjarmasin|1||1||668000|72|9277|5|52|1
+28032020|28|03|2020|179|13|Kalimantan Selatan|Kota Banjarmasin|Kota Banjarmasin|1||1||668000|72|9277|5|52|1
+27032020|27|03|2020|179|13|Kalimantan Selatan|Kota Banjarmasin|Kota Banjarmasin|1||1||668000|72|9277|5|52|1
+26032020|26|03|2020|179|13|Kalimantan Selatan|Kota Banjarmasin|Kota Banjarmasin|1||1||668000|72|9277|5|52|1
+25032020|25|03|2020|179|13|Kalimantan Selatan|Kota Banjarmasin|Kota Banjarmasin|1||1||668000|72|9277|5|52|1
+24032020|24|03|2020|179|13|Kalimantan Selatan|Kota Banjarmasin|Kota Banjarmasin|1||1||668000|72|9277|5|52|1
+23032020|23|03|2020|179|13|Kalimantan Selatan|Kota Banjarmasin|Kota Banjarmasin|1||1||668000|72|9277|5|52|1
+02062021|02|06|2021|180|13|Kalimantan Selatan|Kab. Barito Kuala|Barito Kuala|2025|30|1955|40|320000|2996.5|107|17|201|7
+01062021|01|06|2021|180|13|Kalimantan Selatan|Kab. Barito Kuala|Barito Kuala|2024|29|1954|41|320000|2996.5|107|17|201|7
+31052021|31|05|2021|180|13|Kalimantan Selatan|Kab. Barito Kuala|Barito Kuala|2023|29|1953|41|320000|2996.5|107|17|201|7
+30052021|30|05|2021|180|13|Kalimantan Selatan|Kab. Barito Kuala|Barito Kuala|2023|29|1951|43|320000|2996.5|107|17|201|7
+29052021|29|05|2021|180|13|Kalimantan Selatan|Kab. Barito Kuala|Barito Kuala|2023|29|1951|43|320000|2996.5|107|17|201|7
+28052021|28|05|2021|180|13|Kalimantan Selatan|Kab. Barito Kuala|Barito Kuala|2020|28|1951|41|320000|2996.5|107|17|201|7
+27052021|27|05|2021|180|13|Kalimantan Selatan|Kab. Barito Kuala|Barito Kuala|2015|28|1948|39|320000|2996.5|107|17|201|7
+26052021|26|05|2021|180|13|Kalimantan Selatan|Kab. Barito Kuala|Barito Kuala|2014|28|1947|39|320000|2996.5|107|17|201|7
+25052021|25|05|2021|180|13|Kalimantan Selatan|Kab. Barito Kuala|Barito Kuala|2002|28|1947|27|320000|2996.5|107|17|201|7
+24052021|24|05|2021|180|13|Kalimantan Selatan|Kab. Barito Kuala|Barito Kuala|2002|28|1943|31|320000|2996.5|107|17|201|7
 23052021|23|05|2021|180|13|Kalimantan Selatan|Kab. Barito Kuala|Barito Kuala|2002|28|1941|33|320000|2996.5|107|17|201|7
 22052021|22|05|2021|180|13|Kalimantan Selatan|Kab. Barito Kuala|Barito Kuala|1999|28|1932|39|320000|2996.5|107|17|201|7
 21052021|21|05|2021|180|13|Kalimantan Selatan|Kab. Barito Kuala|Barito Kuala|1999|28|1932|39|320000|2996.5|107|17|201|7
@@ -2089,6 +2175,25 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|180|13|Kalimantan Selatan|Kab. Barito Kuala|Barito Kuala|||||320000|2996.5|107|17|201|7
 02042020|02|04|2020|180|13|Kalimantan Selatan|Kab. Barito Kuala|Barito Kuala|||||320000|2996.5|107|17|201|7
 01042020|01|04|2020|180|13|Kalimantan Selatan|Kab. Barito Kuala|Barito Kuala|||||320000|2996.5|107|17|201|7
+31032020|31|03|2020|180|13|Kalimantan Selatan|Kab. Barito Kuala|Barito Kuala|||||320000|2996.5|107|17|201|7
+30032020|30|03|2020|180|13|Kalimantan Selatan|Kab. Barito Kuala|Barito Kuala|||||320000|2996.5|107|17|201|7
+29032020|29|03|2020|180|13|Kalimantan Selatan|Kab. Barito Kuala|Barito Kuala|||||320000|2996.5|107|17|201|7
+28032020|28|03|2020|180|13|Kalimantan Selatan|Kab. Barito Kuala|Barito Kuala|||||320000|2996.5|107|17|201|7
+27032020|27|03|2020|180|13|Kalimantan Selatan|Kab. Barito Kuala|Barito Kuala|||||320000|2996.5|107|17|201|7
+26032020|26|03|2020|180|13|Kalimantan Selatan|Kab. Barito Kuala|Barito Kuala|||||320000|2996.5|107|17|201|7
+25032020|25|03|2020|180|13|Kalimantan Selatan|Kab. Barito Kuala|Barito Kuala|||||320000|2996.5|107|17|201|7
+24032020|24|03|2020|180|13|Kalimantan Selatan|Kab. Barito Kuala|Barito Kuala|||||320000|2996.5|107|17|201|7
+23032020|23|03|2020|180|13|Kalimantan Selatan|Kab. Barito Kuala|Barito Kuala|||||320000|2996.5|107|17|201|7
+02062021|02|06|2021|181|13|Kalimantan Selatan|Kab. Hulu Sungai Selatan|Hulu Sungai Selatan|1219|45|1156|18|228000|1804.9|127|11|148|
+01062021|01|06|2021|181|13|Kalimantan Selatan|Kab. Hulu Sungai Selatan|Hulu Sungai Selatan|1212|45|1156|11|228000|1804.9|127|11|148|
+31052021|31|05|2021|181|13|Kalimantan Selatan|Kab. Hulu Sungai Selatan|Hulu Sungai Selatan|1207|45|1155|7|228000|1804.9|127|11|148|
+30052021|30|05|2021|181|13|Kalimantan Selatan|Kab. Hulu Sungai Selatan|Hulu Sungai Selatan|1207|45|1155|7|228000|1804.9|127|11|148|
+29052021|29|05|2021|181|13|Kalimantan Selatan|Kab. Hulu Sungai Selatan|Hulu Sungai Selatan|1206|45|1155|6|228000|1804.9|127|11|148|
+28052021|28|05|2021|181|13|Kalimantan Selatan|Kab. Hulu Sungai Selatan|Hulu Sungai Selatan|1206|45|1154|7|228000|1804.9|127|11|148|
+27052021|27|05|2021|181|13|Kalimantan Selatan|Kab. Hulu Sungai Selatan|Hulu Sungai Selatan|1202|45|1150|7|228000|1804.9|127|11|148|
+26052021|26|05|2021|181|13|Kalimantan Selatan|Kab. Hulu Sungai Selatan|Hulu Sungai Selatan|1201|45|1149|7|228000|1804.9|127|11|148|
+25052021|25|05|2021|181|13|Kalimantan Selatan|Kab. Hulu Sungai Selatan|Hulu Sungai Selatan|1200|45|1149|6|228000|1804.9|127|11|148|
+24052021|24|05|2021|181|13|Kalimantan Selatan|Kab. Hulu Sungai Selatan|Hulu Sungai Selatan|1200|45|1149|6|228000|1804.9|127|11|148|
 23052021|23|05|2021|181|13|Kalimantan Selatan|Kab. Hulu Sungai Selatan|Hulu Sungai Selatan|1200|45|1148|7|228000|1804.9|127|11|148|
 22052021|22|05|2021|181|13|Kalimantan Selatan|Kab. Hulu Sungai Selatan|Hulu Sungai Selatan|1200|45|1148|7|228000|1804.9|127|11|148|
 21052021|21|05|2021|181|13|Kalimantan Selatan|Kab. Hulu Sungai Selatan|Hulu Sungai Selatan|1200|45|1148|7|228000|1804.9|127|11|148|
@@ -2507,6 +2612,25 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|181|13|Kalimantan Selatan|Kab. Hulu Sungai Selatan|Hulu Sungai Selatan|||||228000|1804.9|127|11|148|
 02042020|02|04|2020|181|13|Kalimantan Selatan|Kab. Hulu Sungai Selatan|Hulu Sungai Selatan|||||228000|1804.9|127|11|148|
 01042020|01|04|2020|181|13|Kalimantan Selatan|Kab. Hulu Sungai Selatan|Hulu Sungai Selatan|||||228000|1804.9|127|11|148|
+31032020|31|03|2020|181|13|Kalimantan Selatan|Kab. Hulu Sungai Selatan|Hulu Sungai Selatan|||||228000|1804.9|127|11|148|
+30032020|30|03|2020|181|13|Kalimantan Selatan|Kab. Hulu Sungai Selatan|Hulu Sungai Selatan|||||228000|1804.9|127|11|148|
+29032020|29|03|2020|181|13|Kalimantan Selatan|Kab. Hulu Sungai Selatan|Hulu Sungai Selatan|||||228000|1804.9|127|11|148|
+28032020|28|03|2020|181|13|Kalimantan Selatan|Kab. Hulu Sungai Selatan|Hulu Sungai Selatan|||||228000|1804.9|127|11|148|
+27032020|27|03|2020|181|13|Kalimantan Selatan|Kab. Hulu Sungai Selatan|Hulu Sungai Selatan|||||228000|1804.9|127|11|148|
+26032020|26|03|2020|181|13|Kalimantan Selatan|Kab. Hulu Sungai Selatan|Hulu Sungai Selatan|||||228000|1804.9|127|11|148|
+25032020|25|03|2020|181|13|Kalimantan Selatan|Kab. Hulu Sungai Selatan|Hulu Sungai Selatan|||||228000|1804.9|127|11|148|
+24032020|24|03|2020|181|13|Kalimantan Selatan|Kab. Hulu Sungai Selatan|Hulu Sungai Selatan|||||228000|1804.9|127|11|148|
+23032020|23|03|2020|181|13|Kalimantan Selatan|Kab. Hulu Sungai Selatan|Hulu Sungai Selatan|||||228000|1804.9|127|11|148|
+02062021|02|06|2021|182|13|Kalimantan Selatan|Kab. Hulu Sungai Tengah|Hulu Sungai Tengah|1169|89|1028|52|259000|1472|176|11|169|
+01062021|01|06|2021|182|13|Kalimantan Selatan|Kab. Hulu Sungai Tengah|Hulu Sungai Tengah|1169|89|1025|55|259000|1472|176|11|169|
+31052021|31|05|2021|182|13|Kalimantan Selatan|Kab. Hulu Sungai Tengah|Hulu Sungai Tengah|1166|89|1021|56|259000|1472|176|11|169|
+30052021|30|05|2021|182|13|Kalimantan Selatan|Kab. Hulu Sungai Tengah|Hulu Sungai Tengah|1166|89|1020|57|259000|1472|176|11|169|
+29052021|29|05|2021|182|13|Kalimantan Selatan|Kab. Hulu Sungai Tengah|Hulu Sungai Tengah|1158|89|1016|53|259000|1472|176|11|169|
+28052021|28|05|2021|182|13|Kalimantan Selatan|Kab. Hulu Sungai Tengah|Hulu Sungai Tengah|1152|88|1014|50|259000|1472|176|11|169|
+27052021|27|05|2021|182|13|Kalimantan Selatan|Kab. Hulu Sungai Tengah|Hulu Sungai Tengah|1150|88|1012|50|259000|1472|176|11|169|
+26052021|26|05|2021|182|13|Kalimantan Selatan|Kab. Hulu Sungai Tengah|Hulu Sungai Tengah|1149|88|1012|49|259000|1472|176|11|169|
+25052021|25|05|2021|182|13|Kalimantan Selatan|Kab. Hulu Sungai Tengah|Hulu Sungai Tengah|1135|88|1010|37|259000|1472|176|11|169|
+24052021|24|05|2021|182|13|Kalimantan Selatan|Kab. Hulu Sungai Tengah|Hulu Sungai Tengah|1129|88|1008|33|259000|1472|176|11|169|
 23052021|23|05|2021|182|13|Kalimantan Selatan|Kab. Hulu Sungai Tengah|Hulu Sungai Tengah|1125|87|1005|33|259000|1472|176|11|169|
 22052021|22|05|2021|182|13|Kalimantan Selatan|Kab. Hulu Sungai Tengah|Hulu Sungai Tengah|1123|87|1005|31|259000|1472|176|11|169|
 21052021|21|05|2021|182|13|Kalimantan Selatan|Kab. Hulu Sungai Tengah|Hulu Sungai Tengah|1123|87|1005|31|259000|1472|176|11|169|
@@ -2925,6 +3049,25 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|182|13|Kalimantan Selatan|Kab. Hulu Sungai Tengah|Hulu Sungai Tengah|||||259000|1472|176|11|169|
 02042020|02|04|2020|182|13|Kalimantan Selatan|Kab. Hulu Sungai Tengah|Hulu Sungai Tengah|||||259000|1472|176|11|169|
 01042020|01|04|2020|182|13|Kalimantan Selatan|Kab. Hulu Sungai Tengah|Hulu Sungai Tengah|||||259000|1472|176|11|169|
+31032020|31|03|2020|182|13|Kalimantan Selatan|Kab. Hulu Sungai Tengah|Hulu Sungai Tengah|||||259000|1472|176|11|169|
+30032020|30|03|2020|182|13|Kalimantan Selatan|Kab. Hulu Sungai Tengah|Hulu Sungai Tengah|||||259000|1472|176|11|169|
+29032020|29|03|2020|182|13|Kalimantan Selatan|Kab. Hulu Sungai Tengah|Hulu Sungai Tengah|||||259000|1472|176|11|169|
+28032020|28|03|2020|182|13|Kalimantan Selatan|Kab. Hulu Sungai Tengah|Hulu Sungai Tengah|||||259000|1472|176|11|169|
+27032020|27|03|2020|182|13|Kalimantan Selatan|Kab. Hulu Sungai Tengah|Hulu Sungai Tengah|||||259000|1472|176|11|169|
+26032020|26|03|2020|182|13|Kalimantan Selatan|Kab. Hulu Sungai Tengah|Hulu Sungai Tengah|||||259000|1472|176|11|169|
+25032020|25|03|2020|182|13|Kalimantan Selatan|Kab. Hulu Sungai Tengah|Hulu Sungai Tengah|||||259000|1472|176|11|169|
+24032020|24|03|2020|182|13|Kalimantan Selatan|Kab. Hulu Sungai Tengah|Hulu Sungai Tengah|||||259000|1472|176|11|169|
+23032020|23|03|2020|182|13|Kalimantan Selatan|Kab. Hulu Sungai Tengah|Hulu Sungai Tengah|||||259000|1472|176|11|169|
+02062021|02|06|2021|183|13|Kalimantan Selatan|Kab. Hulu Sungai Utara|Hulu Sungai Utara|1540|53|1452|35|229000|892.7|256|10|219|
+01062021|01|06|2021|183|13|Kalimantan Selatan|Kab. Hulu Sungai Utara|Hulu Sungai Utara|1540|53|1445|42|229000|892.7|256|10|219|
+31052021|31|05|2021|183|13|Kalimantan Selatan|Kab. Hulu Sungai Utara|Hulu Sungai Utara|1540|53|1439|48|229000|892.7|256|10|219|
+30052021|30|05|2021|183|13|Kalimantan Selatan|Kab. Hulu Sungai Utara|Hulu Sungai Utara|1533|53|1439|41|229000|892.7|256|10|219|
+29052021|29|05|2021|183|13|Kalimantan Selatan|Kab. Hulu Sungai Utara|Hulu Sungai Utara|1533|53|1439|41|229000|892.7|256|10|219|
+28052021|28|05|2021|183|13|Kalimantan Selatan|Kab. Hulu Sungai Utara|Hulu Sungai Utara|1531|53|1434|44|229000|892.7|256|10|219|
+27052021|27|05|2021|183|13|Kalimantan Selatan|Kab. Hulu Sungai Utara|Hulu Sungai Utara|1528|53|1429|46|229000|892.7|256|10|219|
+26052021|26|05|2021|183|13|Kalimantan Selatan|Kab. Hulu Sungai Utara|Hulu Sungai Utara|1518|53|1427|38|229000|892.7|256|10|219|
+25052021|25|05|2021|183|13|Kalimantan Selatan|Kab. Hulu Sungai Utara|Hulu Sungai Utara|1518|53|1419|46|229000|892.7|256|10|219|
+24052021|24|05|2021|183|13|Kalimantan Selatan|Kab. Hulu Sungai Utara|Hulu Sungai Utara|1518|53|1419|46|229000|892.7|256|10|219|
 23052021|23|05|2021|183|13|Kalimantan Selatan|Kab. Hulu Sungai Utara|Hulu Sungai Utara|1517|53|1415|49|229000|892.7|256|10|219|
 22052021|22|05|2021|183|13|Kalimantan Selatan|Kab. Hulu Sungai Utara|Hulu Sungai Utara|1514|53|1414|47|229000|892.7|256|10|219|
 21052021|21|05|2021|183|13|Kalimantan Selatan|Kab. Hulu Sungai Utara|Hulu Sungai Utara|1514|53|1414|47|229000|892.7|256|10|219|
@@ -3343,6 +3486,25 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|183|13|Kalimantan Selatan|Kab. Hulu Sungai Utara|Hulu Sungai Utara|||||229000|892.7|256|10|219|
 02042020|02|04|2020|183|13|Kalimantan Selatan|Kab. Hulu Sungai Utara|Hulu Sungai Utara|||||229000|892.7|256|10|219|
 01042020|01|04|2020|183|13|Kalimantan Selatan|Kab. Hulu Sungai Utara|Hulu Sungai Utara|||||229000|892.7|256|10|219|
+31032020|31|03|2020|183|13|Kalimantan Selatan|Kab. Hulu Sungai Utara|Hulu Sungai Utara|||||229000|892.7|256|10|219|
+30032020|30|03|2020|183|13|Kalimantan Selatan|Kab. Hulu Sungai Utara|Hulu Sungai Utara|||||229000|892.7|256|10|219|
+29032020|29|03|2020|183|13|Kalimantan Selatan|Kab. Hulu Sungai Utara|Hulu Sungai Utara|||||229000|892.7|256|10|219|
+28032020|28|03|2020|183|13|Kalimantan Selatan|Kab. Hulu Sungai Utara|Hulu Sungai Utara|||||229000|892.7|256|10|219|
+27032020|27|03|2020|183|13|Kalimantan Selatan|Kab. Hulu Sungai Utara|Hulu Sungai Utara|||||229000|892.7|256|10|219|
+26032020|26|03|2020|183|13|Kalimantan Selatan|Kab. Hulu Sungai Utara|Hulu Sungai Utara|||||229000|892.7|256|10|219|
+25032020|25|03|2020|183|13|Kalimantan Selatan|Kab. Hulu Sungai Utara|Hulu Sungai Utara|||||229000|892.7|256|10|219|
+24032020|24|03|2020|183|13|Kalimantan Selatan|Kab. Hulu Sungai Utara|Hulu Sungai Utara|||||229000|892.7|256|10|219|
+23032020|23|03|2020|183|13|Kalimantan Selatan|Kab. Hulu Sungai Utara|Hulu Sungai Utara|||||229000|892.7|256|10|219|
+02062021|02|06|2021|184|13|Kalimantan Selatan|Kab. Kotabaru|Kotabaru|1711|67|1628|16|329000|9482.700000000001|35|21|202|109
+01062021|01|06|2021|184|13|Kalimantan Selatan|Kab. Kotabaru|Kotabaru|1711|67|1624|20|329000|9482.700000000001|35|21|202|109
+31052021|31|05|2021|184|13|Kalimantan Selatan|Kab. Kotabaru|Kotabaru|1711|67|1619|25|329000|9482.700000000001|35|21|202|109
+30052021|30|05|2021|184|13|Kalimantan Selatan|Kab. Kotabaru|Kotabaru|1711|67|1619|25|329000|9482.700000000001|35|21|202|109
+29052021|29|05|2021|184|13|Kalimantan Selatan|Kab. Kotabaru|Kotabaru|1711|67|1612|32|329000|9482.700000000001|35|21|202|109
+28052021|28|05|2021|184|13|Kalimantan Selatan|Kab. Kotabaru|Kotabaru|1711|67|1611|33|329000|9482.700000000001|35|21|202|109
+27052021|27|05|2021|184|13|Kalimantan Selatan|Kab. Kotabaru|Kotabaru|1711|67|1611|33|329000|9482.700000000001|35|21|202|109
+26052021|26|05|2021|184|13|Kalimantan Selatan|Kab. Kotabaru|Kotabaru|1711|66|1609|36|329000|9482.700000000001|35|21|202|109
+25052021|25|05|2021|184|13|Kalimantan Selatan|Kab. Kotabaru|Kotabaru|1704|66|1609|29|329000|9482.700000000001|35|21|202|109
+24052021|24|05|2021|184|13|Kalimantan Selatan|Kab. Kotabaru|Kotabaru|1697|66|1607|24|329000|9482.700000000001|35|21|202|109
 23052021|23|05|2021|184|13|Kalimantan Selatan|Kab. Kotabaru|Kotabaru|1697|66|1607|24|329000|9482.700000000001|35|21|202|109
 22052021|22|05|2021|184|13|Kalimantan Selatan|Kab. Kotabaru|Kotabaru|1693|66|1605|22|329000|9482.700000000001|35|21|202|109
 21052021|21|05|2021|184|13|Kalimantan Selatan|Kab. Kotabaru|Kotabaru|1693|66|1605|22|329000|9482.700000000001|35|21|202|109
@@ -3761,6 +3923,25 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|184|13|Kalimantan Selatan|Kab. Kotabaru|Kotabaru|||||329000|9482.700000000001|35|21|202|109
 02042020|02|04|2020|184|13|Kalimantan Selatan|Kab. Kotabaru|Kotabaru|||||329000|9482.700000000001|35|21|202|109
 01042020|01|04|2020|184|13|Kalimantan Selatan|Kab. Kotabaru|Kotabaru|||||329000|9482.700000000001|35|21|202|109
+31032020|31|03|2020|184|13|Kalimantan Selatan|Kab. Kotabaru|Kotabaru|||||329000|9482.700000000001|35|21|202|109
+30032020|30|03|2020|184|13|Kalimantan Selatan|Kab. Kotabaru|Kotabaru|||||329000|9482.700000000001|35|21|202|109
+29032020|29|03|2020|184|13|Kalimantan Selatan|Kab. Kotabaru|Kotabaru|||||329000|9482.700000000001|35|21|202|109
+28032020|28|03|2020|184|13|Kalimantan Selatan|Kab. Kotabaru|Kotabaru|||||329000|9482.700000000001|35|21|202|109
+27032020|27|03|2020|184|13|Kalimantan Selatan|Kab. Kotabaru|Kotabaru|||||329000|9482.700000000001|35|21|202|109
+26032020|26|03|2020|184|13|Kalimantan Selatan|Kab. Kotabaru|Kotabaru|||||329000|9482.700000000001|35|21|202|109
+25032020|25|03|2020|184|13|Kalimantan Selatan|Kab. Kotabaru|Kotabaru|||||329000|9482.700000000001|35|21|202|109
+24032020|24|03|2020|184|13|Kalimantan Selatan|Kab. Kotabaru|Kotabaru|||||329000|9482.700000000001|35|21|202|109
+23032020|23|03|2020|184|13|Kalimantan Selatan|Kab. Kotabaru|Kotabaru|||||329000|9482.700000000001|35|21|202|109
+02062021|02|06|2021|185|13|Kalimantan Selatan|Kab. Tabalong|Tabalong|722|12|700|10|246000|3767|65|12|131|
+01062021|01|06|2021|185|13|Kalimantan Selatan|Kab. Tabalong|Tabalong|722|12|700|10|246000|3767|65|12|131|
+31052021|31|05|2021|185|13|Kalimantan Selatan|Kab. Tabalong|Tabalong|722|12|700|10|246000|3767|65|12|131|
+30052021|30|05|2021|185|13|Kalimantan Selatan|Kab. Tabalong|Tabalong|722|12|700|10|246000|3767|65|12|131|
+29052021|29|05|2021|185|13|Kalimantan Selatan|Kab. Tabalong|Tabalong|722|12|700|10|246000|3767|65|12|131|
+28052021|28|05|2021|185|13|Kalimantan Selatan|Kab. Tabalong|Tabalong|722|12|700|10|246000|3767|65|12|131|
+27052021|27|05|2021|185|13|Kalimantan Selatan|Kab. Tabalong|Tabalong|722|12|700|10|246000|3767|65|12|131|
+26052021|26|05|2021|185|13|Kalimantan Selatan|Kab. Tabalong|Tabalong|712|12|689|11|246000|3767|65|12|131|
+25052021|25|05|2021|185|13|Kalimantan Selatan|Kab. Tabalong|Tabalong|712|12|689|11|246000|3767|65|12|131|
+24052021|24|05|2021|185|13|Kalimantan Selatan|Kab. Tabalong|Tabalong|712|12|689|11|246000|3767|65|12|131|
 23052021|23|05|2021|185|13|Kalimantan Selatan|Kab. Tabalong|Tabalong|712|12|689|11|246000|3767|65|12|131|
 22052021|22|05|2021|185|13|Kalimantan Selatan|Kab. Tabalong|Tabalong|712|12|689|11|246000|3767|65|12|131|
 21052021|21|05|2021|185|13|Kalimantan Selatan|Kab. Tabalong|Tabalong|712|12|689|11|246000|3767|65|12|131|
@@ -4179,6 +4360,25 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|185|13|Kalimantan Selatan|Kab. Tabalong|Tabalong|1||1||246000|3767|65|12|131|
 02042020|02|04|2020|185|13|Kalimantan Selatan|Kab. Tabalong|Tabalong|1||1||246000|3767|65|12|131|
 01042020|01|04|2020|185|13|Kalimantan Selatan|Kab. Tabalong|Tabalong|1||1||246000|3767|65|12|131|
+31032020|31|03|2020|185|13|Kalimantan Selatan|Kab. Tabalong|Tabalong|1||1||246000|3767|65|12|131|
+30032020|30|03|2020|185|13|Kalimantan Selatan|Kab. Tabalong|Tabalong|||||246000|3767|65|12|131|
+29032020|29|03|2020|185|13|Kalimantan Selatan|Kab. Tabalong|Tabalong|||||246000|3767|65|12|131|
+28032020|28|03|2020|185|13|Kalimantan Selatan|Kab. Tabalong|Tabalong|||||246000|3767|65|12|131|
+27032020|27|03|2020|185|13|Kalimantan Selatan|Kab. Tabalong|Tabalong|||||246000|3767|65|12|131|
+26032020|26|03|2020|185|13|Kalimantan Selatan|Kab. Tabalong|Tabalong|||||246000|3767|65|12|131|
+25032020|25|03|2020|185|13|Kalimantan Selatan|Kab. Tabalong|Tabalong|||||246000|3767|65|12|131|
+24032020|24|03|2020|185|13|Kalimantan Selatan|Kab. Tabalong|Tabalong|||||246000|3767|65|12|131|
+23032020|23|03|2020|185|13|Kalimantan Selatan|Kab. Tabalong|Tabalong|||||246000|3767|65|12|131|
+02062021|02|06|2021|186|13|Kalimantan Selatan|Kab. Tanah Bumbu|Tanah Bumbu|2833|83|2706|44|320000|5007|64|10|149|6
+01062021|01|06|2021|186|13|Kalimantan Selatan|Kab. Tanah Bumbu|Tanah Bumbu|2833|83|2697|53|320000|5007|64|10|149|6
+31052021|31|05|2021|186|13|Kalimantan Selatan|Kab. Tanah Bumbu|Tanah Bumbu|2823|83|2692|48|320000|5007|64|10|149|6
+30052021|30|05|2021|186|13|Kalimantan Selatan|Kab. Tanah Bumbu|Tanah Bumbu|2822|83|2686|53|320000|5007|64|10|149|6
+29052021|29|05|2021|186|13|Kalimantan Selatan|Kab. Tanah Bumbu|Tanah Bumbu|2822|83|2677|62|320000|5007|64|10|149|6
+28052021|28|05|2021|186|13|Kalimantan Selatan|Kab. Tanah Bumbu|Tanah Bumbu|2821|83|2676|62|320000|5007|64|10|149|6
+27052021|27|05|2021|186|13|Kalimantan Selatan|Kab. Tanah Bumbu|Tanah Bumbu|2816|83|2662|71|320000|5007|64|10|149|6
+26052021|26|05|2021|186|13|Kalimantan Selatan|Kab. Tanah Bumbu|Tanah Bumbu|2815|83|2662|70|320000|5007|64|10|149|6
+25052021|25|05|2021|186|13|Kalimantan Selatan|Kab. Tanah Bumbu|Tanah Bumbu|2811|83|2662|66|320000|5007|64|10|149|6
+24052021|24|05|2021|186|13|Kalimantan Selatan|Kab. Tanah Bumbu|Tanah Bumbu|2804|82|2661|61|320000|5007|64|10|149|6
 23052021|23|05|2021|186|13|Kalimantan Selatan|Kab. Tanah Bumbu|Tanah Bumbu|2804|82|2661|61|320000|5007|64|10|149|6
 22052021|22|05|2021|186|13|Kalimantan Selatan|Kab. Tanah Bumbu|Tanah Bumbu|2785|82|2655|48|320000|5007|64|10|149|6
 21052021|21|05|2021|186|13|Kalimantan Selatan|Kab. Tanah Bumbu|Tanah Bumbu|2785|82|2655|48|320000|5007|64|10|149|6
@@ -4597,6 +4797,25 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|186|13|Kalimantan Selatan|Kab. Tanah Bumbu|Tanah Bumbu|||||320000|5007|64|10|149|6
 02042020|02|04|2020|186|13|Kalimantan Selatan|Kab. Tanah Bumbu|Tanah Bumbu|||||320000|5007|64|10|149|6
 01042020|01|04|2020|186|13|Kalimantan Selatan|Kab. Tanah Bumbu|Tanah Bumbu|||||320000|5007|64|10|149|6
+31032020|31|03|2020|186|13|Kalimantan Selatan|Kab. Tanah Bumbu|Tanah Bumbu|||||320000|5007|64|10|149|6
+30032020|30|03|2020|186|13|Kalimantan Selatan|Kab. Tanah Bumbu|Tanah Bumbu|||||320000|5007|64|10|149|6
+29032020|29|03|2020|186|13|Kalimantan Selatan|Kab. Tanah Bumbu|Tanah Bumbu|||||320000|5007|64|10|149|6
+28032020|28|03|2020|186|13|Kalimantan Selatan|Kab. Tanah Bumbu|Tanah Bumbu|||||320000|5007|64|10|149|6
+27032020|27|03|2020|186|13|Kalimantan Selatan|Kab. Tanah Bumbu|Tanah Bumbu|||||320000|5007|64|10|149|6
+26032020|26|03|2020|186|13|Kalimantan Selatan|Kab. Tanah Bumbu|Tanah Bumbu|||||320000|5007|64|10|149|6
+25032020|25|03|2020|186|13|Kalimantan Selatan|Kab. Tanah Bumbu|Tanah Bumbu|||||320000|5007|64|10|149|6
+24032020|24|03|2020|186|13|Kalimantan Selatan|Kab. Tanah Bumbu|Tanah Bumbu|||||320000|5007|64|10|149|6
+23032020|23|03|2020|186|13|Kalimantan Selatan|Kab. Tanah Bumbu|Tanah Bumbu|||||320000|5007|64|10|149|6
+02062021|02|06|2021|187|13|Kalimantan Selatan|Kab. Tanah Laut|Tanah Laut|3661|96|3515|50|356000|3631.4|98|11|135|14
+01062021|01|06|2021|187|13|Kalimantan Selatan|Kab. Tanah Laut|Tanah Laut|3661|95|3514|52|356000|3631.4|98|11|135|14
+31052021|31|05|2021|187|13|Kalimantan Selatan|Kab. Tanah Laut|Tanah Laut|3656|95|3502|59|356000|3631.4|98|11|135|14
+30052021|30|05|2021|187|13|Kalimantan Selatan|Kab. Tanah Laut|Tanah Laut|3656|95|3502|59|356000|3631.4|98|11|135|14
+29052021|29|05|2021|187|13|Kalimantan Selatan|Kab. Tanah Laut|Tanah Laut|3646|95|3490|61|356000|3631.4|98|11|135|14
+28052021|28|05|2021|187|13|Kalimantan Selatan|Kab. Tanah Laut|Tanah Laut|3644|95|3483|66|356000|3631.4|98|11|135|14
+27052021|27|05|2021|187|13|Kalimantan Selatan|Kab. Tanah Laut|Tanah Laut|3632|95|3478|59|356000|3631.4|98|11|135|14
+26052021|26|05|2021|187|13|Kalimantan Selatan|Kab. Tanah Laut|Tanah Laut|3632|95|3478|59|356000|3631.4|98|11|135|14
+25052021|25|05|2021|187|13|Kalimantan Selatan|Kab. Tanah Laut|Tanah Laut|3630|95|3474|61|356000|3631.4|98|11|135|14
+24052021|24|05|2021|187|13|Kalimantan Selatan|Kab. Tanah Laut|Tanah Laut|3627|95|3450|82|356000|3631.4|98|11|135|14
 23052021|23|05|2021|187|13|Kalimantan Selatan|Kab. Tanah Laut|Tanah Laut|3627|95|3450|82|356000|3631.4|98|11|135|14
 22052021|22|05|2021|187|13|Kalimantan Selatan|Kab. Tanah Laut|Tanah Laut|3612|95|3438|79|356000|3631.4|98|11|135|14
 21052021|21|05|2021|187|13|Kalimantan Selatan|Kab. Tanah Laut|Tanah Laut|3612|95|3438|79|356000|3631.4|98|11|135|14
@@ -5015,6 +5234,25 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|187|13|Kalimantan Selatan|Kab. Tanah Laut|Tanah Laut|||||356000|3631.4|98|11|135|14
 02042020|02|04|2020|187|13|Kalimantan Selatan|Kab. Tanah Laut|Tanah Laut|||||356000|3631.4|98|11|135|14
 01042020|01|04|2020|187|13|Kalimantan Selatan|Kab. Tanah Laut|Tanah Laut|||||356000|3631.4|98|11|135|14
+31032020|31|03|2020|187|13|Kalimantan Selatan|Kab. Tanah Laut|Tanah Laut|||||356000|3631.4|98|11|135|14
+30032020|30|03|2020|187|13|Kalimantan Selatan|Kab. Tanah Laut|Tanah Laut|||||356000|3631.4|98|11|135|14
+29032020|29|03|2020|187|13|Kalimantan Selatan|Kab. Tanah Laut|Tanah Laut|||||356000|3631.4|98|11|135|14
+28032020|28|03|2020|187|13|Kalimantan Selatan|Kab. Tanah Laut|Tanah Laut|||||356000|3631.4|98|11|135|14
+27032020|27|03|2020|187|13|Kalimantan Selatan|Kab. Tanah Laut|Tanah Laut|||||356000|3631.4|98|11|135|14
+26032020|26|03|2020|187|13|Kalimantan Selatan|Kab. Tanah Laut|Tanah Laut|||||356000|3631.4|98|11|135|14
+25032020|25|03|2020|187|13|Kalimantan Selatan|Kab. Tanah Laut|Tanah Laut|||||356000|3631.4|98|11|135|14
+24032020|24|03|2020|187|13|Kalimantan Selatan|Kab. Tanah Laut|Tanah Laut|||||356000|3631.4|98|11|135|14
+23032020|23|03|2020|187|13|Kalimantan Selatan|Kab. Tanah Laut|Tanah Laut|||||356000|3631.4|98|11|135|14
+02062021|02|06|2021|188|13|Kalimantan Selatan|Kab. Tapin|Tapin|1160|43|1093|24|185000|2700.8|68|12|135|
+01062021|01|06|2021|188|13|Kalimantan Selatan|Kab. Tapin|Tapin|1158|43|1093|22|185000|2700.8|68|12|135|
+31052021|31|05|2021|188|13|Kalimantan Selatan|Kab. Tapin|Tapin|1153|42|1092|19|185000|2700.8|68|12|135|
+30052021|30|05|2021|188|13|Kalimantan Selatan|Kab. Tapin|Tapin|1153|42|1091|20|185000|2700.8|68|12|135|
+29052021|29|05|2021|188|13|Kalimantan Selatan|Kab. Tapin|Tapin|1152|42|1089|21|185000|2700.8|68|12|135|
+28052021|28|05|2021|188|13|Kalimantan Selatan|Kab. Tapin|Tapin|1148|42|1089|17|185000|2700.8|68|12|135|
+27052021|27|05|2021|188|13|Kalimantan Selatan|Kab. Tapin|Tapin|1141|42|1088|11|185000|2700.8|68|12|135|
+26052021|26|05|2021|188|13|Kalimantan Selatan|Kab. Tapin|Tapin|1141|42|1079|20|185000|2700.8|68|12|135|
+25052021|25|05|2021|188|13|Kalimantan Selatan|Kab. Tapin|Tapin|1141|42|1079|20|185000|2700.8|68|12|135|
+24052021|24|05|2021|188|13|Kalimantan Selatan|Kab. Tapin|Tapin|1139|42|1076|21|185000|2700.8|68|12|135|
 23052021|23|05|2021|188|13|Kalimantan Selatan|Kab. Tapin|Tapin|1139|42|1073|24|185000|2700.8|68|12|135|
 22052021|22|05|2021|188|13|Kalimantan Selatan|Kab. Tapin|Tapin|1137|42|1073|22|185000|2700.8|68|12|135|
 21052021|21|05|2021|188|13|Kalimantan Selatan|Kab. Tapin|Tapin|1137|42|1073|22|185000|2700.8|68|12|135|
@@ -5433,3 +5671,12 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|188|13|Kalimantan Selatan|Kab. Tapin|Tapin|||||185000|2700.8|68|12|135|
 02042020|02|04|2020|188|13|Kalimantan Selatan|Kab. Tapin|Tapin|||||185000|2700.8|68|12|135|
 01042020|01|04|2020|188|13|Kalimantan Selatan|Kab. Tapin|Tapin|||||185000|2700.8|68|12|135|
+31032020|31|03|2020|188|13|Kalimantan Selatan|Kab. Tapin|Tapin|||||185000|2700.8|68|12|135|
+30032020|30|03|2020|188|13|Kalimantan Selatan|Kab. Tapin|Tapin|||||185000|2700.8|68|12|135|
+29032020|29|03|2020|188|13|Kalimantan Selatan|Kab. Tapin|Tapin|||||185000|2700.8|68|12|135|
+28032020|28|03|2020|188|13|Kalimantan Selatan|Kab. Tapin|Tapin|||||185000|2700.8|68|12|135|
+27032020|27|03|2020|188|13|Kalimantan Selatan|Kab. Tapin|Tapin|||||185000|2700.8|68|12|135|
+26032020|26|03|2020|188|13|Kalimantan Selatan|Kab. Tapin|Tapin|||||185000|2700.8|68|12|135|
+25032020|25|03|2020|188|13|Kalimantan Selatan|Kab. Tapin|Tapin|||||185000|2700.8|68|12|135|
+24032020|24|03|2020|188|13|Kalimantan Selatan|Kab. Tapin|Tapin|||||185000|2700.8|68|12|135|
+23032020|23|03|2020|188|13|Kalimantan Selatan|Kab. Tapin|Tapin|||||185000|2700.8|68|12|135|
