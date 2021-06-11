@@ -1,4 +1,5 @@
 date|day|month|year|id_district|id_province|province_name|district_name|city_name|confirmed_case|death_case|recovered_case|active_case|population|area_km2|pop_density|num_kecamatan|num_village|num_islands
+08062021|08|06|2021|10|17|Kepulauan Bangka Belitung|Kab. Bangka|Bangka|4197|70|3804|323|323000|2950.7|109|8|81|48
 07062021|07|06|2021|10|17|Kepulauan Bangka Belitung|Kab. Bangka|Bangka|4197|70|3804|323|323000|2950.7|109|8|81|48
 06062021|06|06|2021|10|17|Kepulauan Bangka Belitung|Kab. Bangka|Bangka|4125|69|3660|396|323000|2950.7|109|8|81|48
 05062021|05|06|2021|10|17|Kepulauan Bangka Belitung|Kab. Bangka|Bangka|4125|69|3660|396|323000|2950.7|109|8|81|48
@@ -432,6 +433,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|10|17|Kepulauan Bangka Belitung|Kab. Bangka|Bangka|||||323000|2950.7|109|8|81|48
 02042020|02|04|2020|10|17|Kepulauan Bangka Belitung|Kab. Bangka|Bangka|||||323000|2950.7|109|8|81|48
 01042020|01|04|2020|10|17|Kepulauan Bangka Belitung|Kab. Bangka|Bangka|||||323000|2950.7|109|8|81|48
+08062021|08|06|2021|11|17|Kepulauan Bangka Belitung|Kab. Bangka Barat|Bangka Barat|2323|26|2067|230|196000|2820.6|69|6|64|89
 07062021|07|06|2021|11|17|Kepulauan Bangka Belitung|Kab. Bangka Barat|Bangka Barat|2323|26|2067|230|196000|2820.6|69|6|64|89
 06062021|06|06|2021|11|17|Kepulauan Bangka Belitung|Kab. Bangka Barat|Bangka Barat|2263|22|1943|298|196000|2820.6|69|6|64|89
 05062021|05|06|2021|11|17|Kepulauan Bangka Belitung|Kab. Bangka Barat|Bangka Barat|2263|22|1943|298|196000|2820.6|69|6|64|89
@@ -865,6 +867,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|11|17|Kepulauan Bangka Belitung|Kab. Bangka Barat|Bangka Barat|||||196000|2820.6|69|6|64|89
 02042020|02|04|2020|11|17|Kepulauan Bangka Belitung|Kab. Bangka Barat|Bangka Barat|||||196000|2820.6|69|6|64|89
 01042020|01|04|2020|11|17|Kepulauan Bangka Belitung|Kab. Bangka Barat|Bangka Barat|||||196000|2820.6|69|6|64|89
+08062021|08|06|2021|12|17|Kepulauan Bangka Belitung|Kab. Bangka Selatan|Bangka Selatan|1076|25|916|135|174000|3607.1|48|8|53|59
 07062021|07|06|2021|12|17|Kepulauan Bangka Belitung|Kab. Bangka Selatan|Bangka Selatan|1076|25|916|135|174000|3607.1|48|8|53|59
 06062021|06|06|2021|12|17|Kepulauan Bangka Belitung|Kab. Bangka Selatan|Bangka Selatan|1060|24|911|125|174000|3607.1|48|8|53|59
 05062021|05|06|2021|12|17|Kepulauan Bangka Belitung|Kab. Bangka Selatan|Bangka Selatan|1060|24|911|125|174000|3607.1|48|8|53|59
@@ -1298,6 +1301,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|12|17|Kepulauan Bangka Belitung|Kab. Bangka Selatan|Bangka Selatan|1||1||174000|3607.1|48|8|53|59
 02042020|02|04|2020|12|17|Kepulauan Bangka Belitung|Kab. Bangka Selatan|Bangka Selatan|1||1||174000|3607.1|48|8|53|59
 01042020|01|04|2020|12|17|Kepulauan Bangka Belitung|Kab. Bangka Selatan|Bangka Selatan|1||1||174000|3607.1|48|8|53|59
+08062021|08|06|2021|13|17|Kepulauan Bangka Belitung|Kab. Bangka Tengah|Bangka Tengah|2439|32|2192|215|181000|2155.8|84|6|63|20
 07062021|07|06|2021|13|17|Kepulauan Bangka Belitung|Kab. Bangka Tengah|Bangka Tengah|2439|32|2192|215|181000|2155.8|84|6|63|20
 06062021|06|06|2021|13|17|Kepulauan Bangka Belitung|Kab. Bangka Tengah|Bangka Tengah|2389|31|2113|245|181000|2155.8|84|6|63|20
 05062021|05|06|2021|13|17|Kepulauan Bangka Belitung|Kab. Bangka Tengah|Bangka Tengah|2389|31|2113|245|181000|2155.8|84|6|63|20
@@ -1731,6 +1735,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|13|17|Kepulauan Bangka Belitung|Kab. Bangka Tengah|Bangka Tengah|||||181000|2155.8|84|6|63|20
 02042020|02|04|2020|13|17|Kepulauan Bangka Belitung|Kab. Bangka Tengah|Bangka Tengah|||||181000|2155.8|84|6|63|20
 01042020|01|04|2020|13|17|Kepulauan Bangka Belitung|Kab. Bangka Tengah|Bangka Tengah|||||181000|2155.8|84|6|63|20
+08062021|08|06|2021|14|17|Kepulauan Bangka Belitung|Kab. Belitung|Belitung|2482|51|2379|52|165000|2293.6|72|5|49|108
 07062021|07|06|2021|14|17|Kepulauan Bangka Belitung|Kab. Belitung|Belitung|2482|51|2379|52|165000|2293.6|72|5|49|108
 06062021|06|06|2021|14|17|Kepulauan Bangka Belitung|Kab. Belitung|Belitung|2462|51|2379|32|165000|2293.6|72|5|49|108
 05062021|05|06|2021|14|17|Kepulauan Bangka Belitung|Kab. Belitung|Belitung|2462|51|2379|32|165000|2293.6|72|5|49|108
@@ -2164,6 +2169,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|14|17|Kepulauan Bangka Belitung|Kab. Belitung|Belitung|1||1||165000|2293.6|72|5|49|108
 02042020|02|04|2020|14|17|Kepulauan Bangka Belitung|Kab. Belitung|Belitung|1||1||165000|2293.6|72|5|49|108
 01042020|01|04|2020|14|17|Kepulauan Bangka Belitung|Kab. Belitung|Belitung|1||1||165000|2293.6|72|5|49|108
+08062021|08|06|2021|15|17|Kepulauan Bangka Belitung|Kab. Belitung Timur|Belitung Timur|1245|12|1142|91|124000|2506.9|49|7|39|141
 07062021|07|06|2021|15|17|Kepulauan Bangka Belitung|Kab. Belitung Timur|Belitung Timur|1245|12|1142|91|124000|2506.9|49|7|39|141
 06062021|06|06|2021|15|17|Kepulauan Bangka Belitung|Kab. Belitung Timur|Belitung Timur|1227|12|1101|114|124000|2506.9|49|7|39|141
 05062021|05|06|2021|15|17|Kepulauan Bangka Belitung|Kab. Belitung Timur|Belitung Timur|1227|12|1101|114|124000|2506.9|49|7|39|141
@@ -2597,6 +2603,7 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|15|17|Kepulauan Bangka Belitung|Kab. Belitung Timur|Belitung Timur|||||124000|2506.9|49|7|39|141
 02042020|02|04|2020|15|17|Kepulauan Bangka Belitung|Kab. Belitung Timur|Belitung Timur|||||124000|2506.9|49|7|39|141
 01042020|01|04|2020|15|17|Kepulauan Bangka Belitung|Kab. Belitung Timur|Belitung Timur|||||124000|2506.9|49|7|39|141
+08062021|08|06|2021|16|17|Kepulauan Bangka Belitung|Kota Pangkal Pinang|Kota Pangkal Pinang|5432|71|5049|312|214000|89.40000000000001|2395|7|42|
 07062021|07|06|2021|16|17|Kepulauan Bangka Belitung|Kota Pangkal Pinang|Kota Pangkal Pinang|5432|71|5049|312|214000|89.40000000000001|2395|7|42|
 06062021|06|06|2021|16|17|Kepulauan Bangka Belitung|Kota Pangkal Pinang|Kota Pangkal Pinang|5399|68|4920|411|214000|89.40000000000001|2395|7|42|
 05062021|05|06|2021|16|17|Kepulauan Bangka Belitung|Kota Pangkal Pinang|Kota Pangkal Pinang|5399|68|4920|411|214000|89.40000000000001|2395|7|42|
