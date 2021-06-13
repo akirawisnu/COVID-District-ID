@@ -1,4 +1,6 @@
 date|day|month|year|id_district|id_province|province_name|district_name|city_name|confirmed_case|death_case|recovered_case|active_case|population|area_km2|pop_density|num_kecamatan|num_village|num_islands
+10062021|10|06|2021|498|9|Jawa Barat|Kab. Pangandaran|Pangandaran|2616|2|2497|117|420000|1010|416|10|93|
+09062021|09|06|2021|498|9|Jawa Barat|Kab. Pangandaran|Pangandaran|2607|2|2497|108|420000|1010|416|10|93|
 08062021|08|06|2021|498|9|Jawa Barat|Kab. Pangandaran|Pangandaran|2589|2|2497|90|420000|1010|416|10|93|
 07062021|07|06|2021|498|9|Jawa Barat|Kab. Pangandaran|Pangandaran|2586|2|2480|104|420000|1010|416|10|93|
 06062021|06|06|2021|498|9|Jawa Barat|Kab. Pangandaran|Pangandaran|2572|2|2476|94|420000|1010|416|10|93|
@@ -445,8 +447,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 22032020|22|03|2020|498|9|Jawa Barat|Kab. Pangandaran|Pangandaran|||||420000|1010|416|10|93|
 21032020|21|03|2020|498|9|Jawa Barat|Kab. Pangandaran|Pangandaran|||||420000|1010|416|10|93|
 20032020|20|03|2020|498|9|Jawa Barat|Kab. Pangandaran|Pangandaran|||||420000|1010|416|10|93|
-19032020|19|03|2020|498|9|Jawa Barat|Kab. Pangandaran|Pangandaran|||||420000|1010|416|10|93|
-18032020|18|03|2020|498|9|Jawa Barat|Kab. Pangandaran|Pangandaran|||||420000|1010|416|10|93|
+10062021|10|06|2021|63|9|Jawa Barat|Kab. Bandung|Bandung|15603|43|14192|1368|3600000|1768|2057|31|280|
+09062021|09|06|2021|63|9|Jawa Barat|Kab. Bandung|Bandung|15322|43|14084|1195|3600000|1768|2057|31|280|
 08062021|08|06|2021|63|9|Jawa Barat|Kab. Bandung|Bandung|15265|43|13991|1231|3600000|1768|2057|31|280|
 07062021|07|06|2021|63|9|Jawa Barat|Kab. Bandung|Bandung|15115|43|13968|1104|3600000|1768|2057|31|280|
 06062021|06|06|2021|63|9|Jawa Barat|Kab. Bandung|Bandung|14950|43|13911|996|3600000|1768|2057|31|280|
@@ -893,8 +895,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 22032020|22|03|2020|63|9|Jawa Barat|Kab. Bandung|Bandung|3|2|1||3600000|1768|2057|31|280|
 21032020|21|03|2020|63|9|Jawa Barat|Kab. Bandung|Bandung|3|2|1||3600000|1768|2057|31|280|
 20032020|20|03|2020|63|9|Jawa Barat|Kab. Bandung|Bandung|3|2|1||3600000|1768|2057|31|280|
-19032020|19|03|2020|63|9|Jawa Barat|Kab. Bandung|Bandung|3|1|1|1|3600000|1768|2057|31|280|
-18032020|18|03|2020|63|9|Jawa Barat|Kab. Bandung|Bandung|2||1|1|3600000|1768|2057|31|280|
+10062021|10|06|2021|64|9|Jawa Barat|Kota Bandung|Kota Bandung|20666|89|19316|1261|2500000|167.7|14806|30|151|
+09062021|09|06|2021|64|9|Jawa Barat|Kota Bandung|Kota Bandung|20524|89|19278|1157|2500000|167.7|14806|30|151|
 08062021|08|06|2021|64|9|Jawa Barat|Kota Bandung|Kota Bandung|20413|89|19216|1108|2500000|167.7|14806|30|151|
 07062021|07|06|2021|64|9|Jawa Barat|Kota Bandung|Kota Bandung|20325|89|19057|1179|2500000|167.7|14806|30|151|
 06062021|06|06|2021|64|9|Jawa Barat|Kota Bandung|Kota Bandung|20268|89|19045|1134|2500000|167.7|14806|30|151|
@@ -1341,8 +1343,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 22032020|22|03|2020|64|9|Jawa Barat|Kota Bandung|Kota Bandung|8|2|2|4|2500000|167.7|14806|30|151|
 21032020|21|03|2020|64|9|Jawa Barat|Kota Bandung|Kota Bandung|8||2|6|2500000|167.7|14806|30|151|
 20032020|20|03|2020|64|9|Jawa Barat|Kota Bandung|Kota Bandung|5||2|3|2500000|167.7|14806|30|151|
-19032020|19|03|2020|64|9|Jawa Barat|Kota Bandung|Kota Bandung|4||2|2|2500000|167.7|14806|30|151|
-18032020|18|03|2020|64|9|Jawa Barat|Kota Bandung|Kota Bandung|2||1|1|2500000|167.7|14806|30|151|
+10062021|10|06|2021|65|9|Jawa Barat|Kab. Bandung Barat|Bandung Barat|8140|37|7323|780|1700000|1305.8|1278|16|165|
+09062021|09|06|2021|65|9|Jawa Barat|Kab. Bandung Barat|Bandung Barat|8048|37|7246|765|1700000|1305.8|1278|16|165|
 08062021|08|06|2021|65|9|Jawa Barat|Kab. Bandung Barat|Bandung Barat|7976|37|7181|758|1700000|1305.8|1278|16|165|
 07062021|07|06|2021|65|9|Jawa Barat|Kab. Bandung Barat|Bandung Barat|7834|37|7139|658|1700000|1305.8|1278|16|165|
 06062021|06|06|2021|65|9|Jawa Barat|Kab. Bandung Barat|Bandung Barat|7827|37|7112|678|1700000|1305.8|1278|16|165|
@@ -1789,8 +1791,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 22032020|22|03|2020|65|9|Jawa Barat|Kab. Bandung Barat|Bandung Barat|1|||1|1700000|1305.8|1278|16|165|
 21032020|21|03|2020|65|9|Jawa Barat|Kab. Bandung Barat|Bandung Barat|1|||1|1700000|1305.8|1278|16|165|
 20032020|20|03|2020|65|9|Jawa Barat|Kab. Bandung Barat|Bandung Barat|1|||1|1700000|1305.8|1278|16|165|
-19032020|19|03|2020|65|9|Jawa Barat|Kab. Bandung Barat|Bandung Barat|||||1700000|1305.8|1278|16|165|
-18032020|18|03|2020|65|9|Jawa Barat|Kab. Bandung Barat|Bandung Barat|||||1700000|1305.8|1278|16|165|
+10062021|10|06|2021|66|9|Jawa Barat|Kota Banjar|Kota Banjar|1669|24|1409|236|208000|113.5|1830|4|25|
+09062021|09|06|2021|66|9|Jawa Barat|Kota Banjar|Kota Banjar|1653|24|1408|221|208000|113.5|1830|4|25|
 08062021|08|06|2021|66|9|Jawa Barat|Kota Banjar|Kota Banjar|1652|24|1360|268|208000|113.5|1830|4|25|
 07062021|07|06|2021|66|9|Jawa Barat|Kota Banjar|Kota Banjar|1648|24|1360|264|208000|113.5|1830|4|25|
 06062021|06|06|2021|66|9|Jawa Barat|Kota Banjar|Kota Banjar|1632|24|1360|248|208000|113.5|1830|4|25|
@@ -2237,8 +2239,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 22032020|22|03|2020|66|9|Jawa Barat|Kota Banjar|Kota Banjar|||||208000|113.5|1830|4|25|
 21032020|21|03|2020|66|9|Jawa Barat|Kota Banjar|Kota Banjar|||||208000|113.5|1830|4|25|
 20032020|20|03|2020|66|9|Jawa Barat|Kota Banjar|Kota Banjar|||||208000|113.5|1830|4|25|
-19032020|19|03|2020|66|9|Jawa Barat|Kota Banjar|Kota Banjar|||||208000|113.5|1830|4|25|
-18032020|18|03|2020|66|9|Jawa Barat|Kota Banjar|Kota Banjar|||||208000|113.5|1830|4|25|
+10062021|10|06|2021|67|9|Jawa Barat|Kab. Bekasi|Bekasi|25899|60|25795|44|2600000|1224.9|2153|23|187|
+09062021|09|06|2021|67|9|Jawa Barat|Kab. Bekasi|Bekasi|25887|60|25779|48|2600000|1224.9|2153|23|187|
 08062021|08|06|2021|67|9|Jawa Barat|Kab. Bekasi|Bekasi|25866|60|25770|36|2600000|1224.9|2153|23|187|
 07062021|07|06|2021|67|9|Jawa Barat|Kab. Bekasi|Bekasi|25850|60|25757|33|2600000|1224.9|2153|23|187|
 06062021|06|06|2021|67|9|Jawa Barat|Kab. Bekasi|Bekasi|25841|60|25751|30|2600000|1224.9|2153|23|187|
@@ -2685,8 +2687,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 22032020|22|03|2020|67|9|Jawa Barat|Kab. Bekasi|Bekasi|6|2|1|3|2600000|1224.9|2153|23|187|
 21032020|21|03|2020|67|9|Jawa Barat|Kab. Bekasi|Bekasi|6|2|1|3|2600000|1224.9|2153|23|187|
 20032020|20|03|2020|67|9|Jawa Barat|Kab. Bekasi|Bekasi|6|2|1|3|2600000|1224.9|2153|23|187|
-19032020|19|03|2020|67|9|Jawa Barat|Kab. Bekasi|Bekasi|5|2|1|2|2600000|1224.9|2153|23|187|
-18032020|18|03|2020|67|9|Jawa Barat|Kab. Bekasi|Bekasi|5|2|1|2|2600000|1224.9|2153|23|187|
+10062021|10|06|2021|68|9|Jawa Barat|Kota Bekasi|Kota Bekasi|44906|218|44083|605|2500000|206.6|12038|12|56|
+09062021|09|06|2021|68|9|Jawa Barat|Kota Bekasi|Kota Bekasi|44737|218|43994|525|2500000|206.6|12038|12|56|
 08062021|08|06|2021|68|9|Jawa Barat|Kota Bekasi|Kota Bekasi|44575|218|43884|473|2500000|206.6|12038|12|56|
 07062021|07|06|2021|68|9|Jawa Barat|Kota Bekasi|Kota Bekasi|44475|218|43790|467|2500000|206.6|12038|12|56|
 06062021|06|06|2021|68|9|Jawa Barat|Kota Bekasi|Kota Bekasi|44376|218|43739|419|2500000|206.6|12038|12|56|
@@ -3133,8 +3135,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 22032020|22|03|2020|68|9|Jawa Barat|Kota Bekasi|Kota Bekasi|15||1|14|2500000|206.6|12038|12|56|
 21032020|21|03|2020|68|9|Jawa Barat|Kota Bekasi|Kota Bekasi|13||1|12|2500000|206.6|12038|12|56|
 20032020|20|03|2020|68|9|Jawa Barat|Kota Bekasi|Kota Bekasi|12||1|11|2500000|206.6|12038|12|56|
-19032020|19|03|2020|68|9|Jawa Barat|Kota Bekasi|Kota Bekasi|11||1|10|2500000|206.6|12038|12|56|
-18032020|18|03|2020|68|9|Jawa Barat|Kota Bekasi|Kota Bekasi|10||1|9|2500000|206.6|12038|12|56|
+10062021|10|06|2021|69|9|Jawa Barat|Kab. Bogor|Bogor|19620|172|17290|2158|4400000|2710.6|1617|40|435|
+09062021|09|06|2021|69|9|Jawa Barat|Kab. Bogor|Bogor|19545|172|17290|2083|4400000|2710.6|1617|40|435|
 08062021|08|06|2021|69|9|Jawa Barat|Kab. Bogor|Bogor|19473|172|17290|2011|4400000|2710.6|1617|40|435|
 07062021|07|06|2021|69|9|Jawa Barat|Kab. Bogor|Bogor|19402|172|17245|1985|4400000|2710.6|1617|40|435|
 06062021|06|06|2021|69|9|Jawa Barat|Kab. Bogor|Bogor|19402|172|17245|1985|4400000|2710.6|1617|40|435|
@@ -3581,8 +3583,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 22032020|22|03|2020|69|9|Jawa Barat|Kab. Bogor|Bogor|5||1|4|4400000|2710.6|1617|40|435|
 21032020|21|03|2020|69|9|Jawa Barat|Kab. Bogor|Bogor|5||1|4|4400000|2710.6|1617|40|435|
 20032020|20|03|2020|69|9|Jawa Barat|Kab. Bogor|Bogor|5||1|4|4400000|2710.6|1617|40|435|
-19032020|19|03|2020|69|9|Jawa Barat|Kab. Bogor|Bogor|2||1|1|4400000|2710.6|1617|40|435|
-18032020|18|03|2020|69|9|Jawa Barat|Kab. Bogor|Bogor|1||1||4400000|2710.6|1617|40|435|
+10062021|10|06|2021|70|9|Jawa Barat|Kota Bogor|Kota Bogor|16064|120|15318|626|1000000|118.5|8756|6|68|
+09062021|09|06|2021|70|9|Jawa Barat|Kota Bogor|Kota Bogor|16036|120|15306|610|1000000|118.5|8756|6|68|
 08062021|08|06|2021|70|9|Jawa Barat|Kota Bogor|Kota Bogor|16002|120|15295|587|1000000|118.5|8756|6|68|
 07062021|07|06|2021|70|9|Jawa Barat|Kota Bogor|Kota Bogor|15970|120|15292|558|1000000|118.5|8756|6|68|
 06062021|06|06|2021|70|9|Jawa Barat|Kota Bogor|Kota Bogor|15909|120|15280|509|1000000|118.5|8756|6|68|
@@ -4029,8 +4031,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 22032020|22|03|2020|70|9|Jawa Barat|Kota Bogor|Kota Bogor|5|1|1|3|1000000|118.5|8756|6|68|
 21032020|21|03|2020|70|9|Jawa Barat|Kota Bogor|Kota Bogor|4||1|3|1000000|118.5|8756|6|68|
 20032020|20|03|2020|70|9|Jawa Barat|Kota Bogor|Kota Bogor|3||1|2|1000000|118.5|8756|6|68|
-19032020|19|03|2020|70|9|Jawa Barat|Kota Bogor|Kota Bogor|3||1|2|1000000|118.5|8756|6|68|
-18032020|18|03|2020|70|9|Jawa Barat|Kota Bogor|Kota Bogor|3||1|2|1000000|118.5|8756|6|68|
+10062021|10|06|2021|71|9|Jawa Barat|Kab. Ciamis|Ciamis|5144|55|4865|224|1300000|1414.7|896|27|265|7
+09062021|09|06|2021|71|9|Jawa Barat|Kab. Ciamis|Ciamis|5131|55|4850|226|1300000|1414.7|896|27|265|7
 08062021|08|06|2021|71|9|Jawa Barat|Kab. Ciamis|Ciamis|5070|55|4816|199|1300000|1414.7|896|27|265|7
 07062021|07|06|2021|71|9|Jawa Barat|Kab. Ciamis|Ciamis|5015|55|4816|144|1300000|1414.7|896|27|265|7
 06062021|06|06|2021|71|9|Jawa Barat|Kab. Ciamis|Ciamis|5015|55|4757|203|1300000|1414.7|896|27|265|7
@@ -4477,8 +4479,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 22032020|22|03|2020|71|9|Jawa Barat|Kab. Ciamis|Ciamis|||||1300000|1414.7|896|27|265|7
 21032020|21|03|2020|71|9|Jawa Barat|Kab. Ciamis|Ciamis|||||1300000|1414.7|896|27|265|7
 20032020|20|03|2020|71|9|Jawa Barat|Kab. Ciamis|Ciamis|||||1300000|1414.7|896|27|265|7
-19032020|19|03|2020|71|9|Jawa Barat|Kab. Ciamis|Ciamis|||||1300000|1414.7|896|27|265|7
-18032020|18|03|2020|71|9|Jawa Barat|Kab. Ciamis|Ciamis|||||1300000|1414.7|896|27|265|7
+10062021|10|06|2021|72|9|Jawa Barat|Kab. Cianjur|Cianjur|4364|2|4023|339|2300000|3840.2|604|32|360|
+09062021|09|06|2021|72|9|Jawa Barat|Kab. Cianjur|Cianjur|4349|2|4023|324|2300000|3840.2|604|32|360|
 08062021|08|06|2021|72|9|Jawa Barat|Kab. Cianjur|Cianjur|4346|2|4023|321|2300000|3840.2|604|32|360|
 07062021|07|06|2021|72|9|Jawa Barat|Kab. Cianjur|Cianjur|4335|2|4023|310|2300000|3840.2|604|32|360|
 06062021|06|06|2021|72|9|Jawa Barat|Kab. Cianjur|Cianjur|4324|2|4023|299|2300000|3840.2|604|32|360|
@@ -4925,8 +4927,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 22032020|22|03|2020|72|9|Jawa Barat|Kab. Cianjur|Cianjur|||||2300000|3840.2|604|32|360|
 21032020|21|03|2020|72|9|Jawa Barat|Kab. Cianjur|Cianjur|||||2300000|3840.2|604|32|360|
 20032020|20|03|2020|72|9|Jawa Barat|Kab. Cianjur|Cianjur|||||2300000|3840.2|604|32|360|
-19032020|19|03|2020|72|9|Jawa Barat|Kab. Cianjur|Cianjur|||||2300000|3840.2|604|32|360|
-18032020|18|03|2020|72|9|Jawa Barat|Kab. Cianjur|Cianjur|||||2300000|3840.2|604|32|360|
+10062021|10|06|2021|73|9|Jawa Barat|Kota Cimahi|Kota Cimahi|5563|54|4929|580|550000|39.3|14012|3|15|
+09062021|09|06|2021|73|9|Jawa Barat|Kota Cimahi|Kota Cimahi|5513|54|4850|609|550000|39.3|14012|3|15|
 08062021|08|06|2021|73|9|Jawa Barat|Kota Cimahi|Kota Cimahi|5513|54|4809|650|550000|39.3|14012|3|15|
 07062021|07|06|2021|73|9|Jawa Barat|Kota Cimahi|Kota Cimahi|5490|54|4733|703|550000|39.3|14012|3|15|
 06062021|06|06|2021|73|9|Jawa Barat|Kota Cimahi|Kota Cimahi|5403|54|4733|616|550000|39.3|14012|3|15|
@@ -5373,8 +5375,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 22032020|22|03|2020|73|9|Jawa Barat|Kota Cimahi|Kota Cimahi|||||550000|39.3|14012|3|15|
 21032020|21|03|2020|73|9|Jawa Barat|Kota Cimahi|Kota Cimahi|||||550000|39.3|14012|3|15|
 20032020|20|03|2020|73|9|Jawa Barat|Kota Cimahi|Kota Cimahi|||||550000|39.3|14012|3|15|
-19032020|19|03|2020|73|9|Jawa Barat|Kota Cimahi|Kota Cimahi|||||550000|39.3|14012|3|15|
-18032020|18|03|2020|73|9|Jawa Barat|Kota Cimahi|Kota Cimahi|||||550000|39.3|14012|3|15|
+10062021|10|06|2021|74|9|Jawa Barat|Kab. Cirebon|Cirebon|9724|194|8612|918|2200000|984.5|2201|40|424|
+09062021|09|06|2021|74|9|Jawa Barat|Kab. Cirebon|Cirebon|9641|194|8603|844|2200000|984.5|2201|40|424|
 08062021|08|06|2021|74|9|Jawa Barat|Kab. Cirebon|Cirebon|9592|194|8532|866|2200000|984.5|2201|40|424|
 07062021|07|06|2021|74|9|Jawa Barat|Kab. Cirebon|Cirebon|9544|194|8447|903|2200000|984.5|2201|40|424|
 06062021|06|06|2021|74|9|Jawa Barat|Kab. Cirebon|Cirebon|9527|194|8447|886|2200000|984.5|2201|40|424|
@@ -5821,8 +5823,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 22032020|22|03|2020|74|9|Jawa Barat|Kab. Cirebon|Cirebon|1||1||2200000|984.5|2201|40|424|
 21032020|21|03|2020|74|9|Jawa Barat|Kab. Cirebon|Cirebon|1||1||2200000|984.5|2201|40|424|
 20032020|20|03|2020|74|9|Jawa Barat|Kab. Cirebon|Cirebon|1||1||2200000|984.5|2201|40|424|
-19032020|19|03|2020|74|9|Jawa Barat|Kab. Cirebon|Cirebon|1||1||2200000|984.5|2201|40|424|
-18032020|18|03|2020|74|9|Jawa Barat|Kab. Cirebon|Cirebon|1||1||2200000|984.5|2201|40|424|
+10062021|10|06|2021|75|9|Jawa Barat|Kota Cirebon|Kota Cirebon|5678|36|5091|551|336000|37.4|9002|5|22|
+09062021|09|06|2021|75|9|Jawa Barat|Kota Cirebon|Kota Cirebon|5670|36|5089|545|336000|37.4|9002|5|22|
 08062021|08|06|2021|75|9|Jawa Barat|Kota Cirebon|Kota Cirebon|5663|36|5060|567|336000|37.4|9002|5|22|
 07062021|07|06|2021|75|9|Jawa Barat|Kota Cirebon|Kota Cirebon|5657|36|5051|570|336000|37.4|9002|5|22|
 06062021|06|06|2021|75|9|Jawa Barat|Kota Cirebon|Kota Cirebon|5647|36|5051|560|336000|37.4|9002|5|22|
@@ -6269,8 +6271,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 22032020|22|03|2020|75|9|Jawa Barat|Kota Cirebon|Kota Cirebon|||||336000|37.4|9002|5|22|
 21032020|21|03|2020|75|9|Jawa Barat|Kota Cirebon|Kota Cirebon|||||336000|37.4|9002|5|22|
 20032020|20|03|2020|75|9|Jawa Barat|Kota Cirebon|Kota Cirebon|||||336000|37.4|9002|5|22|
-19032020|19|03|2020|75|9|Jawa Barat|Kota Cirebon|Kota Cirebon|||||336000|37.4|9002|5|22|
-18032020|18|03|2020|75|9|Jawa Barat|Kota Cirebon|Kota Cirebon|||||336000|37.4|9002|5|22|
+10062021|10|06|2021|76|9|Jawa Barat|Kota Depok|Kota Depok|50910|322|47115|3473|1900000|200.3|9325|11|63|
+09062021|09|06|2021|76|9|Jawa Barat|Kota Depok|Kota Depok|50640|322|47020|3298|1900000|200.3|9325|11|63|
 08062021|08|06|2021|76|9|Jawa Barat|Kota Depok|Kota Depok|50528|322|46929|3277|1900000|200.3|9325|11|63|
 07062021|07|06|2021|76|9|Jawa Barat|Kota Depok|Kota Depok|50317|322|46792|3203|1900000|200.3|9325|11|63|
 06062021|06|06|2021|76|9|Jawa Barat|Kota Depok|Kota Depok|50237|322|46792|3123|1900000|200.3|9325|11|63|
@@ -6717,8 +6719,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 22032020|22|03|2020|76|9|Jawa Barat|Kota Depok|Kota Depok|9|1|3|5|1900000|200.3|9325|11|63|
 21032020|21|03|2020|76|9|Jawa Barat|Kota Depok|Kota Depok|9|1|3|5|1900000|200.3|9325|11|63|
 20032020|20|03|2020|76|9|Jawa Barat|Kota Depok|Kota Depok|8|1|3|4|1900000|200.3|9325|11|63|
-19032020|19|03|2020|76|9|Jawa Barat|Kota Depok|Kota Depok|6||3|3|1900000|200.3|9325|11|63|
-18032020|18|03|2020|76|9|Jawa Barat|Kota Depok|Kota Depok|3||3||1900000|200.3|9325|11|63|
+10062021|10|06|2021|77|9|Jawa Barat|Kab. Garut|Garut|11891|143|8924|2824|2300000|3074.1|742|42|442|2
+09062021|09|06|2021|77|9|Jawa Barat|Kab. Garut|Garut|11891|143|8924|2824|2300000|3074.1|742|42|442|2
 08062021|08|06|2021|77|9|Jawa Barat|Kab. Garut|Garut|11887|143|8924|2820|2300000|3074.1|742|42|442|2
 07062021|07|06|2021|77|9|Jawa Barat|Kab. Garut|Garut|11460|143|8924|2393|2300000|3074.1|742|42|442|2
 06062021|06|06|2021|77|9|Jawa Barat|Kab. Garut|Garut|11460|143|8924|2393|2300000|3074.1|742|42|442|2
@@ -7165,8 +7167,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 22032020|22|03|2020|77|9|Jawa Barat|Kab. Garut|Garut|||||2300000|3074.1|742|42|442|2
 21032020|21|03|2020|77|9|Jawa Barat|Kab. Garut|Garut|||||2300000|3074.1|742|42|442|2
 20032020|20|03|2020|77|9|Jawa Barat|Kab. Garut|Garut|||||2300000|3074.1|742|42|442|2
-19032020|19|03|2020|77|9|Jawa Barat|Kab. Garut|Garut|||||2300000|3074.1|742|42|442|2
-18032020|18|03|2020|77|9|Jawa Barat|Kab. Garut|Garut|||||2300000|3074.1|742|42|442|2
+10062021|10|06|2021|78|9|Jawa Barat|Kab. Indramayu|Indramayu|8346|43|7772|531|1900000|2040.1|934|31|317|3
+09062021|09|06|2021|78|9|Jawa Barat|Kab. Indramayu|Indramayu|8339|43|7729|567|1900000|2040.1|934|31|317|3
 08062021|08|06|2021|78|9|Jawa Barat|Kab. Indramayu|Indramayu|8330|43|7704|583|1900000|2040.1|934|31|317|3
 07062021|07|06|2021|78|9|Jawa Barat|Kab. Indramayu|Indramayu|8320|43|7678|599|1900000|2040.1|934|31|317|3
 06062021|06|06|2021|78|9|Jawa Barat|Kab. Indramayu|Indramayu|8319|43|7656|620|1900000|2040.1|934|31|317|3
@@ -7613,8 +7615,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 22032020|22|03|2020|78|9|Jawa Barat|Kab. Indramayu|Indramayu|||||1900000|2040.1|934|31|317|3
 21032020|21|03|2020|78|9|Jawa Barat|Kab. Indramayu|Indramayu|||||1900000|2040.1|934|31|317|3
 20032020|20|03|2020|78|9|Jawa Barat|Kab. Indramayu|Indramayu|||||1900000|2040.1|934|31|317|3
-19032020|19|03|2020|78|9|Jawa Barat|Kab. Indramayu|Indramayu|||||1900000|2040.1|934|31|317|3
-18032020|18|03|2020|78|9|Jawa Barat|Kab. Indramayu|Indramayu|||||1900000|2040.1|934|31|317|3
+10062021|10|06|2021|79|9|Jawa Barat|Kab. Karawang|Karawang|20068|237|18921|910|2200000|1652.2|1319|30|309|
+09062021|09|06|2021|79|9|Jawa Barat|Kab. Karawang|Karawang|19997|237|18905|855|2200000|1652.2|1319|30|309|
 08062021|08|06|2021|79|9|Jawa Barat|Kab. Karawang|Karawang|19904|237|18846|821|2200000|1652.2|1319|30|309|
 07062021|07|06|2021|79|9|Jawa Barat|Kab. Karawang|Karawang|19831|237|18816|778|2200000|1652.2|1319|30|309|
 06062021|06|06|2021|79|9|Jawa Barat|Kab. Karawang|Karawang|19730|237|18782|711|2200000|1652.2|1319|30|309|
@@ -8061,8 +8063,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 22032020|22|03|2020|79|9|Jawa Barat|Kab. Karawang|Karawang|||||2200000|1652.2|1319|30|309|
 21032020|21|03|2020|79|9|Jawa Barat|Kab. Karawang|Karawang|||||2200000|1652.2|1319|30|309|
 20032020|20|03|2020|79|9|Jawa Barat|Kab. Karawang|Karawang|||||2200000|1652.2|1319|30|309|
-19032020|19|03|2020|79|9|Jawa Barat|Kab. Karawang|Karawang|||||2200000|1652.2|1319|30|309|
-18032020|18|03|2020|79|9|Jawa Barat|Kab. Karawang|Karawang|||||2200000|1652.2|1319|30|309|
+10062021|10|06|2021|80|9|Jawa Barat|Kab. Kuningan|Kuningan|6438|16|5280|1142|1200000|1110.6|1053|32|376|
+09062021|09|06|2021|80|9|Jawa Barat|Kab. Kuningan|Kuningan|6393|16|5269|1108|1200000|1110.6|1053|32|376|
 08062021|08|06|2021|80|9|Jawa Barat|Kab. Kuningan|Kuningan|6309|16|5165|1128|1200000|1110.6|1053|32|376|
 07062021|07|06|2021|80|9|Jawa Barat|Kab. Kuningan|Kuningan|6271|16|5160|1095|1200000|1110.6|1053|32|376|
 06062021|06|06|2021|80|9|Jawa Barat|Kab. Kuningan|Kuningan|6228|16|5160|1052|1200000|1110.6|1053|32|376|
@@ -8509,8 +8511,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 22032020|22|03|2020|80|9|Jawa Barat|Kab. Kuningan|Kuningan|1|1|||1200000|1110.6|1053|32|376|
 21032020|21|03|2020|80|9|Jawa Barat|Kab. Kuningan|Kuningan|1|1|||1200000|1110.6|1053|32|376|
 20032020|20|03|2020|80|9|Jawa Barat|Kab. Kuningan|Kuningan|1|1|||1200000|1110.6|1053|32|376|
-19032020|19|03|2020|80|9|Jawa Barat|Kab. Kuningan|Kuningan|1|1|||1200000|1110.6|1053|32|376|
-18032020|18|03|2020|80|9|Jawa Barat|Kab. Kuningan|Kuningan|1|1|||1200000|1110.6|1053|32|376|
+10062021|10|06|2021|81|9|Jawa Barat|Kab. Majalengka|Majalengka|3790|40|3422|328|1300000|1204.2|1086|26|343|
+09062021|09|06|2021|81|9|Jawa Barat|Kab. Majalengka|Majalengka|3739|40|3422|277|1300000|1204.2|1086|26|343|
 08062021|08|06|2021|81|9|Jawa Barat|Kab. Majalengka|Majalengka|3714|40|3382|292|1300000|1204.2|1086|26|343|
 07062021|07|06|2021|81|9|Jawa Barat|Kab. Majalengka|Majalengka|3684|40|3382|262|1300000|1204.2|1086|26|343|
 06062021|06|06|2021|81|9|Jawa Barat|Kab. Majalengka|Majalengka|3654|40|3382|232|1300000|1204.2|1086|26|343|
@@ -8957,8 +8959,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 22032020|22|03|2020|81|9|Jawa Barat|Kab. Majalengka|Majalengka|||||1300000|1204.2|1086|26|343|
 21032020|21|03|2020|81|9|Jawa Barat|Kab. Majalengka|Majalengka|||||1300000|1204.2|1086|26|343|
 20032020|20|03|2020|81|9|Jawa Barat|Kab. Majalengka|Majalengka|||||1300000|1204.2|1086|26|343|
-19032020|19|03|2020|81|9|Jawa Barat|Kab. Majalengka|Majalengka|||||1300000|1204.2|1086|26|343|
-18032020|18|03|2020|81|9|Jawa Barat|Kab. Majalengka|Majalengka|||||1300000|1204.2|1086|26|343|
+10062021|10|06|2021|82|9|Jawa Barat|Kab. Purwakarta|Purwakarta|5499|59|5105|335|942000|825.7|1141|17|192|
+09062021|09|06|2021|82|9|Jawa Barat|Kab. Purwakarta|Purwakarta|5491|59|5086|346|942000|825.7|1141|17|192|
 08062021|08|06|2021|82|9|Jawa Barat|Kab. Purwakarta|Purwakarta|5484|59|5081|344|942000|825.7|1141|17|192|
 07062021|07|06|2021|82|9|Jawa Barat|Kab. Purwakarta|Purwakarta|5419|59|5027|333|942000|825.7|1141|17|192|
 06062021|06|06|2021|82|9|Jawa Barat|Kab. Purwakarta|Purwakarta|5409|59|5012|338|942000|825.7|1141|17|192|
@@ -9405,8 +9407,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 22032020|22|03|2020|82|9|Jawa Barat|Kab. Purwakarta|Purwakarta|1||1||942000|825.7|1141|17|192|
 21032020|21|03|2020|82|9|Jawa Barat|Kab. Purwakarta|Purwakarta|1||1||942000|825.7|1141|17|192|
 20032020|20|03|2020|82|9|Jawa Barat|Kab. Purwakarta|Purwakarta|1||1||942000|825.7|1141|17|192|
-19032020|19|03|2020|82|9|Jawa Barat|Kab. Purwakarta|Purwakarta|1||1||942000|825.7|1141|17|192|
-18032020|18|03|2020|82|9|Jawa Barat|Kab. Purwakarta|Purwakarta|1||1||942000|825.7|1141|17|192|
+10062021|10|06|2021|83|9|Jawa Barat|Kab. Subang|Subang|5632|14|5118|500|1600000|1894|847|30|253|
+09062021|09|06|2021|83|9|Jawa Barat|Kab. Subang|Subang|5632|14|5118|500|1600000|1894|847|30|253|
 08062021|08|06|2021|83|9|Jawa Barat|Kab. Subang|Subang|5614|14|5118|482|1600000|1894|847|30|253|
 07062021|07|06|2021|83|9|Jawa Barat|Kab. Subang|Subang|5584|14|5118|452|1600000|1894|847|30|253|
 06062021|06|06|2021|83|9|Jawa Barat|Kab. Subang|Subang|5584|14|5118|452|1600000|1894|847|30|253|
@@ -9853,8 +9855,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 22032020|22|03|2020|83|9|Jawa Barat|Kab. Subang|Subang|||||1600000|1894|847|30|253|
 21032020|21|03|2020|83|9|Jawa Barat|Kab. Subang|Subang|||||1600000|1894|847|30|253|
 20032020|20|03|2020|83|9|Jawa Barat|Kab. Subang|Subang|||||1600000|1894|847|30|253|
-19032020|19|03|2020|83|9|Jawa Barat|Kab. Subang|Subang|||||1600000|1894|847|30|253|
-18032020|18|03|2020|83|9|Jawa Barat|Kab. Subang|Subang|||||1600000|1894|847|30|253|
+10062021|10|06|2021|84|9|Jawa Barat|Kab. Sukabumi|Sukabumi|5123|34|4677|412|2600000|4145.7|629|47|386|5
+09062021|09|06|2021|84|9|Jawa Barat|Kab. Sukabumi|Sukabumi|5123|34|4677|412|2600000|4145.7|629|47|386|5
 08062021|08|06|2021|84|9|Jawa Barat|Kab. Sukabumi|Sukabumi|5123|34|4677|412|2600000|4145.7|629|47|386|5
 07062021|07|06|2021|84|9|Jawa Barat|Kab. Sukabumi|Sukabumi|5123|34|4677|412|2600000|4145.7|629|47|386|5
 06062021|06|06|2021|84|9|Jawa Barat|Kab. Sukabumi|Sukabumi|5077|34|4677|366|2600000|4145.7|629|47|386|5
@@ -10301,8 +10303,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 22032020|22|03|2020|84|9|Jawa Barat|Kab. Sukabumi|Sukabumi|||||2600000|4145.7|629|47|386|5
 21032020|21|03|2020|84|9|Jawa Barat|Kab. Sukabumi|Sukabumi|||||2600000|4145.7|629|47|386|5
 20032020|20|03|2020|84|9|Jawa Barat|Kab. Sukabumi|Sukabumi|||||2600000|4145.7|629|47|386|5
-19032020|19|03|2020|84|9|Jawa Barat|Kab. Sukabumi|Sukabumi|||||2600000|4145.7|629|47|386|5
-18032020|18|03|2020|84|9|Jawa Barat|Kab. Sukabumi|Sukabumi|||||2600000|4145.7|629|47|386|5
+10062021|10|06|2021|85|9|Jawa Barat|Kota Sukabumi|Kota Sukabumi|4649|42|4469|138|345000|48.3|7147|7|33|
+09062021|09|06|2021|85|9|Jawa Barat|Kota Sukabumi|Kota Sukabumi|4634|42|4456|136|345000|48.3|7147|7|33|
 08062021|08|06|2021|85|9|Jawa Barat|Kota Sukabumi|Kota Sukabumi|4622|42|4456|124|345000|48.3|7147|7|33|
 07062021|07|06|2021|85|9|Jawa Barat|Kota Sukabumi|Kota Sukabumi|4616|42|4448|126|345000|48.3|7147|7|33|
 06062021|06|06|2021|85|9|Jawa Barat|Kota Sukabumi|Kota Sukabumi|4607|42|4424|141|345000|48.3|7147|7|33|
@@ -10749,8 +10751,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 22032020|22|03|2020|85|9|Jawa Barat|Kota Sukabumi|Kota Sukabumi|||||345000|48.3|7147|7|33|
 21032020|21|03|2020|85|9|Jawa Barat|Kota Sukabumi|Kota Sukabumi|||||345000|48.3|7147|7|33|
 20032020|20|03|2020|85|9|Jawa Barat|Kota Sukabumi|Kota Sukabumi|||||345000|48.3|7147|7|33|
-19032020|19|03|2020|85|9|Jawa Barat|Kota Sukabumi|Kota Sukabumi|||||345000|48.3|7147|7|33|
-18032020|18|03|2020|85|9|Jawa Barat|Kota Sukabumi|Kota Sukabumi|||||345000|48.3|7147|7|33|
+10062021|10|06|2021|86|9|Jawa Barat|Kab. Sumedang|Sumedang|4319|40|3840|439|1200000|1518.3|772|26|277|
+09062021|09|06|2021|86|9|Jawa Barat|Kab. Sumedang|Sumedang|4286|40|3740|506|1200000|1518.3|772|26|277|
 08062021|08|06|2021|86|9|Jawa Barat|Kab. Sumedang|Sumedang|4286|40|3740|506|1200000|1518.3|772|26|277|
 07062021|07|06|2021|86|9|Jawa Barat|Kab. Sumedang|Sumedang|4171|40|3640|491|1200000|1518.3|772|26|277|
 06062021|06|06|2021|86|9|Jawa Barat|Kab. Sumedang|Sumedang|4171|40|3640|491|1200000|1518.3|772|26|277|
@@ -11197,8 +11199,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 22032020|22|03|2020|86|9|Jawa Barat|Kab. Sumedang|Sumedang|||||1200000|1518.3|772|26|277|
 21032020|21|03|2020|86|9|Jawa Barat|Kab. Sumedang|Sumedang|||||1200000|1518.3|772|26|277|
 20032020|20|03|2020|86|9|Jawa Barat|Kab. Sumedang|Sumedang|||||1200000|1518.3|772|26|277|
-19032020|19|03|2020|86|9|Jawa Barat|Kab. Sumedang|Sumedang|||||1200000|1518.3|772|26|277|
-18032020|18|03|2020|86|9|Jawa Barat|Kab. Sumedang|Sumedang|||||1200000|1518.3|772|26|277|
+10062021|10|06|2021|87|9|Jawa Barat|Kab. Tasikmalaya|Tasikmalaya|2777|60|2676|41|1800000|2551.2|693|39|351|2
+09062021|09|06|2021|87|9|Jawa Barat|Kab. Tasikmalaya|Tasikmalaya|2763|60|2666|37|1800000|2551.2|693|39|351|2
 08062021|08|06|2021|87|9|Jawa Barat|Kab. Tasikmalaya|Tasikmalaya|2752|60|2657|35|1800000|2551.2|693|39|351|2
 07062021|07|06|2021|87|9|Jawa Barat|Kab. Tasikmalaya|Tasikmalaya|2737|60|2654|23|1800000|2551.2|693|39|351|2
 06062021|06|06|2021|87|9|Jawa Barat|Kab. Tasikmalaya|Tasikmalaya|2737|60|2651|26|1800000|2551.2|693|39|351|2
@@ -11645,8 +11647,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 22032020|22|03|2020|87|9|Jawa Barat|Kab. Tasikmalaya|Tasikmalaya|||||1800000|2551.2|693|39|351|2
 21032020|21|03|2020|87|9|Jawa Barat|Kab. Tasikmalaya|Tasikmalaya|||||1800000|2551.2|693|39|351|2
 20032020|20|03|2020|87|9|Jawa Barat|Kab. Tasikmalaya|Tasikmalaya|||||1800000|2551.2|693|39|351|2
-19032020|19|03|2020|87|9|Jawa Barat|Kab. Tasikmalaya|Tasikmalaya|||||1800000|2551.2|693|39|351|2
-18032020|18|03|2020|87|9|Jawa Barat|Kab. Tasikmalaya|Tasikmalaya|||||1800000|2551.2|693|39|351|2
+10062021|10|06|2021|88|9|Jawa Barat|Kota Tasikmalaya|Kota Tasikmalaya|6795|146|4932|1717|715000|171.6|4166|10|69|
+09062021|09|06|2021|88|9|Jawa Barat|Kota Tasikmalaya|Kota Tasikmalaya|6750|32|4932|1786|715000|171.6|4166|10|69|
 08062021|08|06|2021|88|9|Jawa Barat|Kota Tasikmalaya|Kota Tasikmalaya|6717|32|4932|1753|715000|171.6|4166|10|69|
 07062021|07|06|2021|88|9|Jawa Barat|Kota Tasikmalaya|Kota Tasikmalaya|6700|32|4932|1736|715000|171.6|4166|10|69|
 06062021|06|06|2021|88|9|Jawa Barat|Kota Tasikmalaya|Kota Tasikmalaya|6700|32|4932|1736|715000|171.6|4166|10|69|
@@ -12093,5 +12095,3 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 22032020|22|03|2020|88|9|Jawa Barat|Kota Tasikmalaya|Kota Tasikmalaya|||||715000|171.6|4166|10|69|
 21032020|21|03|2020|88|9|Jawa Barat|Kota Tasikmalaya|Kota Tasikmalaya|||||715000|171.6|4166|10|69|
 20032020|20|03|2020|88|9|Jawa Barat|Kota Tasikmalaya|Kota Tasikmalaya|||||715000|171.6|4166|10|69|
-19032020|19|03|2020|88|9|Jawa Barat|Kota Tasikmalaya|Kota Tasikmalaya|||||715000|171.6|4166|10|69|
-18032020|18|03|2020|88|9|Jawa Barat|Kota Tasikmalaya|Kota Tasikmalaya|||||715000|171.6|4166|10|69|
