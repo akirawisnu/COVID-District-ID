@@ -1,4 +1,10 @@
 date|day|month|year|id_district|id_province|province_name|district_name|city_name|confirmed_case|death_case|recovered_case|active_case|population|area_km2|pop_density|num_kecamatan|num_village|num_islands
+03072021|03|07|2021|238|20|Maluku|Kota Ambon|Kota Ambon|3962|50|3911|1|388000|298.6|1299|5|50|1
+02072021|02|07|2021|238|20|Maluku|Kota Ambon|Kota Ambon|3962|50|3911|1|388000|298.6|1299|5|50|1
+01072021|01|07|2021|238|20|Maluku|Kota Ambon|Kota Ambon|3962|49|3913||388000|298.6|1299|5|50|1
+30062021|30|06|2021|238|20|Maluku|Kota Ambon|Kota Ambon|3962|49|3913||388000|298.6|1299|5|50|1
+29062021|29|06|2021|238|20|Maluku|Kota Ambon|Kota Ambon|3962|49|3913||388000|298.6|1299|5|50|1
+28062021|28|06|2021|238|20|Maluku|Kota Ambon|Kota Ambon|3962|49|3913||388000|298.6|1299|5|50|1
 27062021|27|06|2021|238|20|Maluku|Kota Ambon|Kota Ambon|3962|49|3913||388000|298.6|1299|5|50|1
 26062021|26|06|2021|238|20|Maluku|Kota Ambon|Kota Ambon|3962|49|3913||388000|298.6|1299|5|50|1
 25062021|25|06|2021|238|20|Maluku|Kota Ambon|Kota Ambon|3962|49|3913||388000|298.6|1299|5|50|1
@@ -463,6 +469,12 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 23032020|23|03|2020|238|20|Maluku|Kota Ambon|Kota Ambon|1||1||388000|298.6|1299|5|50|1
 22032020|22|03|2020|238|20|Maluku|Kota Ambon|Kota Ambon|1||1||388000|298.6|1299|5|50|1
 21032020|21|03|2020|238|20|Maluku|Kota Ambon|Kota Ambon|||||388000|298.6|1299|5|50|1
+03072021|03|07|2021|239|20|Maluku|Kab. Buru|Buru|177|3|163|11|135000|4932.3|27|10|82|3
+02072021|02|07|2021|239|20|Maluku|Kab. Buru|Buru|177|3|163|11|135000|4932.3|27|10|82|3
+01072021|01|07|2021|239|20|Maluku|Kab. Buru|Buru|177|3|163|11|135000|4932.3|27|10|82|3
+30062021|30|06|2021|239|20|Maluku|Kab. Buru|Buru|177|3|163|11|135000|4932.3|27|10|82|3
+29062021|29|06|2021|239|20|Maluku|Kab. Buru|Buru|177|3|163|11|135000|4932.3|27|10|82|3
+28062021|28|06|2021|239|20|Maluku|Kab. Buru|Buru|177|3|163|11|135000|4932.3|27|10|82|3
 27062021|27|06|2021|239|20|Maluku|Kab. Buru|Buru|177|3|163|11|135000|4932.3|27|10|82|3
 26062021|26|06|2021|239|20|Maluku|Kab. Buru|Buru|177|3|163|11|135000|4932.3|27|10|82|3
 25062021|25|06|2021|239|20|Maluku|Kab. Buru|Buru|177|3|163|11|135000|4932.3|27|10|82|3
@@ -927,6 +939,12 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 23032020|23|03|2020|239|20|Maluku|Kab. Buru|Buru|||||135000|4932.3|27|10|82|3
 22032020|22|03|2020|239|20|Maluku|Kab. Buru|Buru|||||135000|4932.3|27|10|82|3
 21032020|21|03|2020|239|20|Maluku|Kab. Buru|Buru|||||135000|4932.3|27|10|82|3
+03072021|03|07|2021|240|20|Maluku|Kab. Buru Selatan|Buru Selatan|54||54||75000|3780.6|20|6|79|33
+02072021|02|07|2021|240|20|Maluku|Kab. Buru Selatan|Buru Selatan|54||54||75000|3780.6|20|6|79|33
+01072021|01|07|2021|240|20|Maluku|Kab. Buru Selatan|Buru Selatan|54||54||75000|3780.6|20|6|79|33
+30062021|30|06|2021|240|20|Maluku|Kab. Buru Selatan|Buru Selatan|54||54||75000|3780.6|20|6|79|33
+29062021|29|06|2021|240|20|Maluku|Kab. Buru Selatan|Buru Selatan|54||54||75000|3780.6|20|6|79|33
+28062021|28|06|2021|240|20|Maluku|Kab. Buru Selatan|Buru Selatan|54||54||75000|3780.6|20|6|79|33
 27062021|27|06|2021|240|20|Maluku|Kab. Buru Selatan|Buru Selatan|54||54||75000|3780.6|20|6|79|33
 26062021|26|06|2021|240|20|Maluku|Kab. Buru Selatan|Buru Selatan|54||54||75000|3780.6|20|6|79|33
 25062021|25|06|2021|240|20|Maluku|Kab. Buru Selatan|Buru Selatan|54||54||75000|3780.6|20|6|79|33
@@ -1391,6 +1409,12 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 23032020|23|03|2020|240|20|Maluku|Kab. Buru Selatan|Buru Selatan|||||75000|3780.6|20|6|79|33
 22032020|22|03|2020|240|20|Maluku|Kab. Buru Selatan|Buru Selatan|||||75000|3780.6|20|6|79|33
 21032020|21|03|2020|240|20|Maluku|Kab. Buru Selatan|Buru Selatan|||||75000|3780.6|20|6|79|33
+03072021|03|07|2021|241|20|Maluku|Kab. Kepulauan Aru|Kepulauan Aru|91||9|82|106000|8152.4|13|10|119|555
+02072021|02|07|2021|241|20|Maluku|Kab. Kepulauan Aru|Kepulauan Aru|91||9|82|106000|8152.4|13|10|119|555
+01072021|01|07|2021|241|20|Maluku|Kab. Kepulauan Aru|Kepulauan Aru|91||9|82|106000|8152.4|13|10|119|555
+30062021|30|06|2021|241|20|Maluku|Kab. Kepulauan Aru|Kepulauan Aru|91||9|82|106000|8152.4|13|10|119|555
+29062021|29|06|2021|241|20|Maluku|Kab. Kepulauan Aru|Kepulauan Aru|91||9|82|106000|8152.4|13|10|119|555
+28062021|28|06|2021|241|20|Maluku|Kab. Kepulauan Aru|Kepulauan Aru|91||9|82|106000|8152.4|13|10|119|555
 27062021|27|06|2021|241|20|Maluku|Kab. Kepulauan Aru|Kepulauan Aru|91||9|82|106000|8152.4|13|10|119|555
 26062021|26|06|2021|241|20|Maluku|Kab. Kepulauan Aru|Kepulauan Aru|91||9|82|106000|8152.4|13|10|119|555
 25062021|25|06|2021|241|20|Maluku|Kab. Kepulauan Aru|Kepulauan Aru|91||9|82|106000|8152.4|13|10|119|555
@@ -1855,6 +1879,12 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 23032020|23|03|2020|241|20|Maluku|Kab. Kepulauan Aru|Kepulauan Aru|||||106000|8152.4|13|10|119|555
 22032020|22|03|2020|241|20|Maluku|Kab. Kepulauan Aru|Kepulauan Aru|||||106000|8152.4|13|10|119|555
 21032020|21|03|2020|241|20|Maluku|Kab. Kepulauan Aru|Kepulauan Aru|||||106000|8152.4|13|10|119|555
+03072021|03|07|2021|242|20|Maluku|Kab. Maluku Barat Daya|Maluku Barat Daya|96|2|93|1|69000|4581.1|15|17|118|67
+02072021|02|07|2021|242|20|Maluku|Kab. Maluku Barat Daya|Maluku Barat Daya|96|2|93|1|69000|4581.1|15|17|118|67
+01072021|01|07|2021|242|20|Maluku|Kab. Maluku Barat Daya|Maluku Barat Daya|96|2|93|1|69000|4581.1|15|17|118|67
+30062021|30|06|2021|242|20|Maluku|Kab. Maluku Barat Daya|Maluku Barat Daya|96|2|93|1|69000|4581.1|15|17|118|67
+29062021|29|06|2021|242|20|Maluku|Kab. Maluku Barat Daya|Maluku Barat Daya|96|2|93|1|69000|4581.1|15|17|118|67
+28062021|28|06|2021|242|20|Maluku|Kab. Maluku Barat Daya|Maluku Barat Daya|96|2|93|1|69000|4581.1|15|17|118|67
 27062021|27|06|2021|242|20|Maluku|Kab. Maluku Barat Daya|Maluku Barat Daya|96|2|93|1|69000|4581.1|15|17|118|67
 26062021|26|06|2021|242|20|Maluku|Kab. Maluku Barat Daya|Maluku Barat Daya|96|2|93|1|69000|4581.1|15|17|118|67
 25062021|25|06|2021|242|20|Maluku|Kab. Maluku Barat Daya|Maluku Barat Daya|96|2|93|1|69000|4581.1|15|17|118|67
@@ -2319,6 +2349,12 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 23032020|23|03|2020|242|20|Maluku|Kab. Maluku Barat Daya|Maluku Barat Daya|||||69000|4581.1|15|17|118|67
 22032020|22|03|2020|242|20|Maluku|Kab. Maluku Barat Daya|Maluku Barat Daya|||||69000|4581.1|15|17|118|67
 21032020|21|03|2020|242|20|Maluku|Kab. Maluku Barat Daya|Maluku Barat Daya|||||69000|4581.1|15|17|118|67
+03072021|03|07|2021|243|20|Maluku|Kab. Maluku Tengah|Maluku Tengah|528|13|420|95|436000|7953.8|55|18|192|44
+02072021|02|07|2021|243|20|Maluku|Kab. Maluku Tengah|Maluku Tengah|528|13|420|95|436000|7953.8|55|18|192|44
+01072021|01|07|2021|243|20|Maluku|Kab. Maluku Tengah|Maluku Tengah|528|13|420|95|436000|7953.8|55|18|192|44
+30062021|30|06|2021|243|20|Maluku|Kab. Maluku Tengah|Maluku Tengah|528|13|420|95|436000|7953.8|55|18|192|44
+29062021|29|06|2021|243|20|Maluku|Kab. Maluku Tengah|Maluku Tengah|528|13|420|95|436000|7953.8|55|18|192|44
+28062021|28|06|2021|243|20|Maluku|Kab. Maluku Tengah|Maluku Tengah|528|13|420|95|436000|7953.8|55|18|192|44
 27062021|27|06|2021|243|20|Maluku|Kab. Maluku Tengah|Maluku Tengah|528|13|420|95|436000|7953.8|55|18|192|44
 26062021|26|06|2021|243|20|Maluku|Kab. Maluku Tengah|Maluku Tengah|528|13|420|95|436000|7953.8|55|18|192|44
 25062021|25|06|2021|243|20|Maluku|Kab. Maluku Tengah|Maluku Tengah|528|13|420|95|436000|7953.8|55|18|192|44
@@ -2783,6 +2819,12 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 23032020|23|03|2020|243|20|Maluku|Kab. Maluku Tengah|Maluku Tengah|||||436000|7953.8|55|18|192|44
 22032020|22|03|2020|243|20|Maluku|Kab. Maluku Tengah|Maluku Tengah|||||436000|7953.8|55|18|192|44
 21032020|21|03|2020|243|20|Maluku|Kab. Maluku Tengah|Maluku Tengah|||||436000|7953.8|55|18|192|44
+03072021|03|07|2021|244|20|Maluku|Kab. Maluku Tenggara|Maluku Tenggara|122|7|81|34|130000|1031.8|126|11|191|81
+02072021|02|07|2021|244|20|Maluku|Kab. Maluku Tenggara|Maluku Tenggara|122|7|81|34|130000|1031.8|126|11|191|81
+01072021|01|07|2021|244|20|Maluku|Kab. Maluku Tenggara|Maluku Tenggara|122|7|81|34|130000|1031.8|126|11|191|81
+30062021|30|06|2021|244|20|Maluku|Kab. Maluku Tenggara|Maluku Tenggara|122|7|81|34|130000|1031.8|126|11|191|81
+29062021|29|06|2021|244|20|Maluku|Kab. Maluku Tenggara|Maluku Tenggara|122|7|81|34|130000|1031.8|126|11|191|81
+28062021|28|06|2021|244|20|Maluku|Kab. Maluku Tenggara|Maluku Tenggara|122|7|81|34|130000|1031.8|126|11|191|81
 27062021|27|06|2021|244|20|Maluku|Kab. Maluku Tenggara|Maluku Tenggara|122|7|81|34|130000|1031.8|126|11|191|81
 26062021|26|06|2021|244|20|Maluku|Kab. Maluku Tenggara|Maluku Tenggara|122|7|81|34|130000|1031.8|126|11|191|81
 25062021|25|06|2021|244|20|Maluku|Kab. Maluku Tenggara|Maluku Tenggara|122|7|81|34|130000|1031.8|126|11|191|81
@@ -3247,6 +3289,12 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 23032020|23|03|2020|244|20|Maluku|Kab. Maluku Tenggara|Maluku Tenggara|||||130000|1031.8|126|11|191|81
 22032020|22|03|2020|244|20|Maluku|Kab. Maluku Tenggara|Maluku Tenggara|||||130000|1031.8|126|11|191|81
 21032020|21|03|2020|244|20|Maluku|Kab. Maluku Tenggara|Maluku Tenggara|||||130000|1031.8|126|11|191|81
+03072021|03|07|2021|245|20|Maluku|Kab. Kepulauan Tanimbar|Kepulauan Tanimbar|529|1|378|150|126000|4465.8|28|10|82|99
+02072021|02|07|2021|245|20|Maluku|Kab. Kepulauan Tanimbar|Kepulauan Tanimbar|529|1|378|150|126000|4465.8|28|10|82|99
+01072021|01|07|2021|245|20|Maluku|Kab. Kepulauan Tanimbar|Kepulauan Tanimbar|529|1|378|150|126000|4465.8|28|10|82|99
+30062021|30|06|2021|245|20|Maluku|Kab. Kepulauan Tanimbar|Kepulauan Tanimbar|529|1|378|150|126000|4465.8|28|10|82|99
+29062021|29|06|2021|245|20|Maluku|Kab. Kepulauan Tanimbar|Kepulauan Tanimbar|529|1|378|150|126000|4465.8|28|10|82|99
+28062021|28|06|2021|245|20|Maluku|Kab. Kepulauan Tanimbar|Kepulauan Tanimbar|529|1|378|150|126000|4465.8|28|10|82|99
 27062021|27|06|2021|245|20|Maluku|Kab. Kepulauan Tanimbar|Kepulauan Tanimbar|529|1|378|150|126000|4465.8|28|10|82|99
 26062021|26|06|2021|245|20|Maluku|Kab. Kepulauan Tanimbar|Kepulauan Tanimbar|529|1|378|150|126000|4465.8|28|10|82|99
 25062021|25|06|2021|245|20|Maluku|Kab. Kepulauan Tanimbar|Kepulauan Tanimbar|529|1|378|150|126000|4465.8|28|10|82|99
@@ -3711,6 +3759,12 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 23032020|23|03|2020|245|20|Maluku|Kab. Kepulauan Tanimbar|Kepulauan Tanimbar|||||126000|4465.8|28|10|82|99
 22032020|22|03|2020|245|20|Maluku|Kab. Kepulauan Tanimbar|Kepulauan Tanimbar|||||126000|4465.8|28|10|82|99
 21032020|21|03|2020|245|20|Maluku|Kab. Kepulauan Tanimbar|Kepulauan Tanimbar|||||126000|4465.8|28|10|82|99
+03072021|03|07|2021|246|20|Maluku|Kab. Seram Bagian Barat|Seram Bagian Barat|77|9|66|2|215000|5033.4|43|11|92|46
+02072021|02|07|2021|246|20|Maluku|Kab. Seram Bagian Barat|Seram Bagian Barat|77|9|66|2|215000|5033.4|43|11|92|46
+01072021|01|07|2021|246|20|Maluku|Kab. Seram Bagian Barat|Seram Bagian Barat|77|9|66|2|215000|5033.4|43|11|92|46
+30062021|30|06|2021|246|20|Maluku|Kab. Seram Bagian Barat|Seram Bagian Barat|77|9|66|2|215000|5033.4|43|11|92|46
+29062021|29|06|2021|246|20|Maluku|Kab. Seram Bagian Barat|Seram Bagian Barat|77|9|66|2|215000|5033.4|43|11|92|46
+28062021|28|06|2021|246|20|Maluku|Kab. Seram Bagian Barat|Seram Bagian Barat|77|9|66|2|215000|5033.4|43|11|92|46
 27062021|27|06|2021|246|20|Maluku|Kab. Seram Bagian Barat|Seram Bagian Barat|77|9|66|2|215000|5033.4|43|11|92|46
 26062021|26|06|2021|246|20|Maluku|Kab. Seram Bagian Barat|Seram Bagian Barat|77|9|66|2|215000|5033.4|43|11|92|46
 25062021|25|06|2021|246|20|Maluku|Kab. Seram Bagian Barat|Seram Bagian Barat|77|9|66|2|215000|5033.4|43|11|92|46
@@ -4175,6 +4229,12 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 23032020|23|03|2020|246|20|Maluku|Kab. Seram Bagian Barat|Seram Bagian Barat|||||215000|5033.4|43|11|92|46
 22032020|22|03|2020|246|20|Maluku|Kab. Seram Bagian Barat|Seram Bagian Barat|||||215000|5033.4|43|11|92|46
 21032020|21|03|2020|246|20|Maluku|Kab. Seram Bagian Barat|Seram Bagian Barat|||||215000|5033.4|43|11|92|46
+03072021|03|07|2021|247|20|Maluku|Kab. Seram Bagian Timur|Seram Bagian Timur|47||47||136000|6429.9|21|15|198|45
+02072021|02|07|2021|247|20|Maluku|Kab. Seram Bagian Timur|Seram Bagian Timur|47||47||136000|6429.9|21|15|198|45
+01072021|01|07|2021|247|20|Maluku|Kab. Seram Bagian Timur|Seram Bagian Timur|47||47||136000|6429.9|21|15|198|45
+30062021|30|06|2021|247|20|Maluku|Kab. Seram Bagian Timur|Seram Bagian Timur|47||47||136000|6429.9|21|15|198|45
+29062021|29|06|2021|247|20|Maluku|Kab. Seram Bagian Timur|Seram Bagian Timur|47||47||136000|6429.9|21|15|198|45
+28062021|28|06|2021|247|20|Maluku|Kab. Seram Bagian Timur|Seram Bagian Timur|47||47||136000|6429.9|21|15|198|45
 27062021|27|06|2021|247|20|Maluku|Kab. Seram Bagian Timur|Seram Bagian Timur|47||47||136000|6429.9|21|15|198|45
 26062021|26|06|2021|247|20|Maluku|Kab. Seram Bagian Timur|Seram Bagian Timur|47||47||136000|6429.9|21|15|198|45
 25062021|25|06|2021|247|20|Maluku|Kab. Seram Bagian Timur|Seram Bagian Timur|47||47||136000|6429.9|21|15|198|45
@@ -4639,6 +4699,12 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 23032020|23|03|2020|247|20|Maluku|Kab. Seram Bagian Timur|Seram Bagian Timur|||||136000|6429.9|21|15|198|45
 22032020|22|03|2020|247|20|Maluku|Kab. Seram Bagian Timur|Seram Bagian Timur|||||136000|6429.9|21|15|198|45
 21032020|21|03|2020|247|20|Maluku|Kab. Seram Bagian Timur|Seram Bagian Timur|||||136000|6429.9|21|15|198|45
+03072021|03|07|2021|248|20|Maluku|Kota Tual|Kota Tual|176|4|161|11|87000|254.4|343|5|30|66
+02072021|02|07|2021|248|20|Maluku|Kota Tual|Kota Tual|176|4|161|11|87000|254.4|343|5|30|66
+01072021|01|07|2021|248|20|Maluku|Kota Tual|Kota Tual|176|4|161|11|87000|254.4|343|5|30|66
+30062021|30|06|2021|248|20|Maluku|Kota Tual|Kota Tual|176|4|161|11|87000|254.4|343|5|30|66
+29062021|29|06|2021|248|20|Maluku|Kota Tual|Kota Tual|176|4|161|11|87000|254.4|343|5|30|66
+28062021|28|06|2021|248|20|Maluku|Kota Tual|Kota Tual|176|4|161|11|87000|254.4|343|5|30|66
 27062021|27|06|2021|248|20|Maluku|Kota Tual|Kota Tual|176|4|161|11|87000|254.4|343|5|30|66
 26062021|26|06|2021|248|20|Maluku|Kota Tual|Kota Tual|176|4|161|11|87000|254.4|343|5|30|66
 25062021|25|06|2021|248|20|Maluku|Kota Tual|Kota Tual|176|4|161|11|87000|254.4|343|5|30|66

@@ -1,4 +1,10 @@
 date|day|month|year|id_district|id_province|province_name|district_name|city_name|confirmed_case|death_case|recovered_case|active_case|population|area_km2|pop_density|num_kecamatan|num_village|num_islands
+03072021|03|07|2021|203|15|Kalimantan Timur|Kota Balikpapan|Kota Balikpapan|19308|657|16788|1863|640000|527|1215|6|34|5
+02072021|02|07|2021|203|15|Kalimantan Timur|Kota Balikpapan|Kota Balikpapan|19308|657|16788|1863|640000|527|1215|6|34|5
+01072021|01|07|2021|203|15|Kalimantan Timur|Kota Balikpapan|Kota Balikpapan|18931|647|16722|1562|640000|527|1215|6|34|5
+30062021|30|06|2021|203|15|Kalimantan Timur|Kota Balikpapan|Kota Balikpapan|18931|647|16722|1562|640000|527|1215|6|34|5
+29062021|29|06|2021|203|15|Kalimantan Timur|Kota Balikpapan|Kota Balikpapan|18763|641|16691|1431|640000|527|1215|6|34|5
+28062021|28|06|2021|203|15|Kalimantan Timur|Kota Balikpapan|Kota Balikpapan|18552|635|16652|1265|640000|527|1215|6|34|5
 27062021|27|06|2021|203|15|Kalimantan Timur|Kota Balikpapan|Kota Balikpapan|18216|626|16582|1008|640000|527|1215|6|34|5
 26062021|26|06|2021|203|15|Kalimantan Timur|Kota Balikpapan|Kota Balikpapan|18216|626|16582|1008|640000|527|1215|6|34|5
 25062021|25|06|2021|203|15|Kalimantan Timur|Kota Balikpapan|Kota Balikpapan|17906|621|16519|766|640000|527|1215|6|34|5
@@ -369,6 +375,12 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 25062020|25|06|2020|203|15|Kalimantan Timur|Kota Balikpapan|Kota Balikpapan|143|3|81|59|640000|527|1215|6|34|5
 24062020|24|06|2020|203|15|Kalimantan Timur|Kota Balikpapan|Kota Balikpapan|141|3|78|60|640000|527|1215|6|34|5
 23062020|23|06|2020|203|15|Kalimantan Timur|Kota Balikpapan|Kota Balikpapan|141|3|78|60|640000|527|1215|6|34|5
+03072021|03|07|2021|204|15|Kalimantan Timur|Kab. Berau|Berau|5174|108|4683|383|226000|21240|11|13|110|68
+02072021|02|07|2021|204|15|Kalimantan Timur|Kab. Berau|Berau|5174|108|4683|383|226000|21240|11|13|110|68
+01072021|01|07|2021|204|15|Kalimantan Timur|Kab. Berau|Berau|5077|108|4642|327|226000|21240|11|13|110|68
+30062021|30|06|2021|204|15|Kalimantan Timur|Kab. Berau|Berau|5077|108|4642|327|226000|21240|11|13|110|68
+29062021|29|06|2021|204|15|Kalimantan Timur|Kab. Berau|Berau|5024|107|4633|284|226000|21240|11|13|110|68
+28062021|28|06|2021|204|15|Kalimantan Timur|Kab. Berau|Berau|4994|106|4615|273|226000|21240|11|13|110|68
 27062021|27|06|2021|204|15|Kalimantan Timur|Kab. Berau|Berau|4908|106|4602|200|226000|21240|11|13|110|68
 26062021|26|06|2021|204|15|Kalimantan Timur|Kab. Berau|Berau|4908|106|4602|200|226000|21240|11|13|110|68
 25062021|25|06|2021|204|15|Kalimantan Timur|Kab. Berau|Berau|4828|105|4585|138|226000|21240|11|13|110|68
@@ -739,6 +751,12 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 25062020|25|06|2020|204|15|Kalimantan Timur|Kab. Berau|Berau|43||36|7|226000|21240|11|13|110|68
 24062020|24|06|2020|204|15|Kalimantan Timur|Kab. Berau|Berau|42||35|7|226000|21240|11|13|110|68
 23062020|23|06|2020|204|15|Kalimantan Timur|Kab. Berau|Berau|42||35|7|226000|21240|11|13|110|68
+03072021|03|07|2021|205|15|Kalimantan Timur|Kota Bontang|Kota Bontang|7119|103|6183|833|180000|406.7|442|3|15|12
+02072021|02|07|2021|205|15|Kalimantan Timur|Kota Bontang|Kota Bontang|7119|103|6183|833|180000|406.7|442|3|15|12
+01072021|01|07|2021|205|15|Kalimantan Timur|Kota Bontang|Kota Bontang|6929|102|6128|699|180000|406.7|442|3|15|12
+30062021|30|06|2021|205|15|Kalimantan Timur|Kota Bontang|Kota Bontang|6929|102|6128|699|180000|406.7|442|3|15|12
+29062021|29|06|2021|205|15|Kalimantan Timur|Kota Bontang|Kota Bontang|6878|101|6105|672|180000|406.7|442|3|15|12
+28062021|28|06|2021|205|15|Kalimantan Timur|Kota Bontang|Kota Bontang|6808|100|6092|616|180000|406.7|442|3|15|12
 27062021|27|06|2021|205|15|Kalimantan Timur|Kota Bontang|Kota Bontang|6690|99|6051|540|180000|406.7|442|3|15|12
 26062021|26|06|2021|205|15|Kalimantan Timur|Kota Bontang|Kota Bontang|6690|99|6051|540|180000|406.7|442|3|15|12
 25062021|25|06|2021|205|15|Kalimantan Timur|Kota Bontang|Kota Bontang|6595|99|6037|459|180000|406.7|442|3|15|12
@@ -1109,6 +1127,12 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 25062020|25|06|2020|205|15|Kalimantan Timur|Kota Bontang|Kota Bontang|16||13|3|180000|406.7|442|3|15|12
 24062020|24|06|2020|205|15|Kalimantan Timur|Kota Bontang|Kota Bontang|16||13|3|180000|406.7|442|3|15|12
 23062020|23|06|2020|205|15|Kalimantan Timur|Kota Bontang|Kota Bontang|16||13|3|180000|406.7|442|3|15|12
+03072021|03|07|2021|207|15|Kalimantan Timur|Kab. Kutai Barat|Kutai Barat|3931|69|3709|153|164000|20381.6|8|16|194|3
+02072021|02|07|2021|207|15|Kalimantan Timur|Kab. Kutai Barat|Kutai Barat|3931|69|3709|153|164000|20381.6|8|16|194|3
+01072021|01|07|2021|207|15|Kalimantan Timur|Kab. Kutai Barat|Kutai Barat|3885|69|3695|121|164000|20381.6|8|16|194|3
+30062021|30|06|2021|207|15|Kalimantan Timur|Kab. Kutai Barat|Kutai Barat|3885|69|3695|121|164000|20381.6|8|16|194|3
+29062021|29|06|2021|207|15|Kalimantan Timur|Kab. Kutai Barat|Kutai Barat|3875|68|3686|121|164000|20381.6|8|16|194|3
+28062021|28|06|2021|207|15|Kalimantan Timur|Kab. Kutai Barat|Kutai Barat|3856|68|3685|103|164000|20381.6|8|16|194|3
 27062021|27|06|2021|207|15|Kalimantan Timur|Kab. Kutai Barat|Kutai Barat|3845|68|3675|102|164000|20381.6|8|16|194|3
 26062021|26|06|2021|207|15|Kalimantan Timur|Kab. Kutai Barat|Kutai Barat|3845|68|3675|102|164000|20381.6|8|16|194|3
 25062021|25|06|2021|207|15|Kalimantan Timur|Kab. Kutai Barat|Kutai Barat|3818|68|3668|82|164000|20381.6|8|16|194|3
@@ -1479,6 +1503,12 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 25062020|25|06|2020|207|15|Kalimantan Timur|Kab. Kutai Barat|Kutai Barat|29||20|9|164000|20381.6|8|16|194|3
 24062020|24|06|2020|207|15|Kalimantan Timur|Kab. Kutai Barat|Kutai Barat|27||20|7|164000|20381.6|8|16|194|3
 23062020|23|06|2020|207|15|Kalimantan Timur|Kab. Kutai Barat|Kutai Barat|27||20|7|164000|20381.6|8|16|194|3
+03072021|03|07|2021|208|15|Kalimantan Timur|Kab. Kutai Kartanegara|Kutai Kartanegara|13092|242|12399|451|692000|23601.9|29|18|237|57
+02072021|02|07|2021|208|15|Kalimantan Timur|Kab. Kutai Kartanegara|Kutai Kartanegara|13092|242|12399|451|692000|23601.9|29|18|237|57
+01072021|01|07|2021|208|15|Kalimantan Timur|Kab. Kutai Kartanegara|Kutai Kartanegara|12959|240|12396|323|692000|23601.9|29|18|237|57
+30062021|30|06|2021|208|15|Kalimantan Timur|Kab. Kutai Kartanegara|Kutai Kartanegara|12959|240|12396|323|692000|23601.9|29|18|237|57
+29062021|29|06|2021|208|15|Kalimantan Timur|Kab. Kutai Kartanegara|Kutai Kartanegara|12898|239|12396|263|692000|23601.9|29|18|237|57
+28062021|28|06|2021|208|15|Kalimantan Timur|Kab. Kutai Kartanegara|Kutai Kartanegara|12854|238|12385|231|692000|23601.9|29|18|237|57
 27062021|27|06|2021|208|15|Kalimantan Timur|Kab. Kutai Kartanegara|Kutai Kartanegara|12757|235|12381|141|692000|23601.9|29|18|237|57
 26062021|26|06|2021|208|15|Kalimantan Timur|Kab. Kutai Kartanegara|Kutai Kartanegara|12757|235|12381|141|692000|23601.9|29|18|237|57
 25062021|25|06|2021|208|15|Kalimantan Timur|Kab. Kutai Kartanegara|Kutai Kartanegara|12676|234|12348|94|692000|23601.9|29|18|237|57
@@ -1849,6 +1879,12 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 25062020|25|06|2020|208|15|Kalimantan Timur|Kab. Kutai Kartanegara|Kutai Kartanegara|66||63|3|692000|23601.9|29|18|237|57
 24062020|24|06|2020|208|15|Kalimantan Timur|Kab. Kutai Kartanegara|Kutai Kartanegara|66||61|5|692000|23601.9|29|18|237|57
 23062020|23|06|2020|208|15|Kalimantan Timur|Kab. Kutai Kartanegara|Kutai Kartanegara|66||61|5|692000|23601.9|29|18|237|57
+03072021|03|07|2021|209|15|Kalimantan Timur|Kab. Kutai Timur|Kutai Timur|9266|132|8782|352|430000|35747.5|12|18|141|25
+02072021|02|07|2021|209|15|Kalimantan Timur|Kab. Kutai Timur|Kutai Timur|9266|132|8782|352|430000|35747.5|12|18|141|25
+01072021|01|07|2021|209|15|Kalimantan Timur|Kab. Kutai Timur|Kutai Timur|9126|131|8762|233|430000|35747.5|12|18|141|25
+30062021|30|06|2021|209|15|Kalimantan Timur|Kab. Kutai Timur|Kutai Timur|9126|131|8762|233|430000|35747.5|12|18|141|25
+29062021|29|06|2021|209|15|Kalimantan Timur|Kab. Kutai Timur|Kutai Timur|9093|131|8754|208|430000|35747.5|12|18|141|25
+28062021|28|06|2021|209|15|Kalimantan Timur|Kab. Kutai Timur|Kutai Timur|9064|131|8742|191|430000|35747.5|12|18|141|25
 27062021|27|06|2021|209|15|Kalimantan Timur|Kab. Kutai Timur|Kutai Timur|8999|131|8731|137|430000|35747.5|12|18|141|25
 26062021|26|06|2021|209|15|Kalimantan Timur|Kab. Kutai Timur|Kutai Timur|8999|131|8731|137|430000|35747.5|12|18|141|25
 25062021|25|06|2021|209|15|Kalimantan Timur|Kab. Kutai Timur|Kutai Timur|8961|130|8708|123|430000|35747.5|12|18|141|25
@@ -2219,6 +2255,12 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 25062020|25|06|2020|209|15|Kalimantan Timur|Kab. Kutai Timur|Kutai Timur|45|1|28|16|430000|35747.5|12|18|141|25
 24062020|24|06|2020|209|15|Kalimantan Timur|Kab. Kutai Timur|Kutai Timur|45|1|28|16|430000|35747.5|12|18|141|25
 23062020|23|06|2020|209|15|Kalimantan Timur|Kab. Kutai Timur|Kutai Timur|45|1|28|16|430000|35747.5|12|18|141|25
+03072021|03|07|2021|212|15|Kalimantan Timur|Kab. Paser|Paser|4310|106|4115|89|263000|7730.9|34|10|144|6
+02072021|02|07|2021|212|15|Kalimantan Timur|Kab. Paser|Paser|4310|106|4115|89|263000|7730.9|34|10|144|6
+01072021|01|07|2021|212|15|Kalimantan Timur|Kab. Paser|Paser|4289|106|4098|85|263000|7730.9|34|10|144|6
+30062021|30|06|2021|212|15|Kalimantan Timur|Kab. Paser|Paser|4289|106|4098|85|263000|7730.9|34|10|144|6
+29062021|29|06|2021|212|15|Kalimantan Timur|Kab. Paser|Paser|4280|106|4098|76|263000|7730.9|34|10|144|6
+28062021|28|06|2021|212|15|Kalimantan Timur|Kab. Paser|Paser|4271|105|4098|68|263000|7730.9|34|10|144|6
 27062021|27|06|2021|212|15|Kalimantan Timur|Kab. Paser|Paser|4255|103|4087|65|263000|7730.9|34|10|144|6
 26062021|26|06|2021|212|15|Kalimantan Timur|Kab. Paser|Paser|4255|103|4087|65|263000|7730.9|34|10|144|6
 25062021|25|06|2021|212|15|Kalimantan Timur|Kab. Paser|Paser|4240|103|4082|55|263000|7730.9|34|10|144|6
@@ -2589,6 +2631,12 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 25062020|25|06|2020|212|15|Kalimantan Timur|Kab. Paser|Paser|26|1|17|8|263000|7730.9|34|10|144|6
 24062020|24|06|2020|212|15|Kalimantan Timur|Kab. Paser|Paser|22||17|5|263000|7730.9|34|10|144|6
 23062020|23|06|2020|212|15|Kalimantan Timur|Kab. Paser|Paser|22||17|5|263000|7730.9|34|10|144|6
+03072021|03|07|2021|213|15|Kalimantan Timur|Kab. Penajam Paser Utara|Penajam Paser Utara|1470|60|1269|141|172000|3333.1|52|4|54|17
+02072021|02|07|2021|213|15|Kalimantan Timur|Kab. Penajam Paser Utara|Penajam Paser Utara|1470|60|1269|141|172000|3333.1|52|4|54|17
+01072021|01|07|2021|213|15|Kalimantan Timur|Kab. Penajam Paser Utara|Penajam Paser Utara|1424|60|1263|101|172000|3333.1|52|4|54|17
+30062021|30|06|2021|213|15|Kalimantan Timur|Kab. Penajam Paser Utara|Penajam Paser Utara|1424|60|1263|101|172000|3333.1|52|4|54|17
+29062021|29|06|2021|213|15|Kalimantan Timur|Kab. Penajam Paser Utara|Penajam Paser Utara|1418|60|1261|97|172000|3333.1|52|4|54|17
+28062021|28|06|2021|213|15|Kalimantan Timur|Kab. Penajam Paser Utara|Penajam Paser Utara|1402|60|1259|83|172000|3333.1|52|4|54|17
 27062021|27|06|2021|213|15|Kalimantan Timur|Kab. Penajam Paser Utara|Penajam Paser Utara|1389|59|1246|84|172000|3333.1|52|4|54|17
 26062021|26|06|2021|213|15|Kalimantan Timur|Kab. Penajam Paser Utara|Penajam Paser Utara|1389|59|1246|84|172000|3333.1|52|4|54|17
 25062021|25|06|2021|213|15|Kalimantan Timur|Kab. Penajam Paser Utara|Penajam Paser Utara|1366|59|1242|65|172000|3333.1|52|4|54|17
@@ -2959,6 +3007,12 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 25062020|25|06|2020|213|15|Kalimantan Timur|Kab. Penajam Paser Utara|Penajam Paser Utara|23||19|4|172000|3333.1|52|4|54|17
 24062020|24|06|2020|213|15|Kalimantan Timur|Kab. Penajam Paser Utara|Penajam Paser Utara|23||19|4|172000|3333.1|52|4|54|17
 23062020|23|06|2020|213|15|Kalimantan Timur|Kab. Penajam Paser Utara|Penajam Paser Utara|23||19|4|172000|3333.1|52|4|54|17
+03072021|03|07|2021|214|15|Kalimantan Timur|Kota Samarinda|Kota Samarinda|14387|364|13375|648|791000|783|1010|10|59|
+02072021|02|07|2021|214|15|Kalimantan Timur|Kota Samarinda|Kota Samarinda|14387|364|13375|648|791000|783|1010|10|59|
+01072021|01|07|2021|214|15|Kalimantan Timur|Kota Samarinda|Kota Samarinda|14189|358|13350|481|791000|783|1010|10|59|
+30062021|30|06|2021|214|15|Kalimantan Timur|Kota Samarinda|Kota Samarinda|14189|358|13350|481|791000|783|1010|10|59|
+29062021|29|06|2021|214|15|Kalimantan Timur|Kota Samarinda|Kota Samarinda|14091|357|13340|394|791000|783|1010|10|59|
+28062021|28|06|2021|214|15|Kalimantan Timur|Kota Samarinda|Kota Samarinda|14038|355|13315|368|791000|783|1010|10|59|
 27062021|27|06|2021|214|15|Kalimantan Timur|Kota Samarinda|Kota Samarinda|13930|354|13270|306|791000|783|1010|10|59|
 26062021|26|06|2021|214|15|Kalimantan Timur|Kota Samarinda|Kota Samarinda|13930|354|13270|306|791000|783|1010|10|59|
 25062021|25|06|2021|214|15|Kalimantan Timur|Kota Samarinda|Kota Samarinda|13819|353|13246|220|791000|783|1010|10|59|
@@ -3329,6 +3383,12 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 25062020|25|06|2020|214|15|Kalimantan Timur|Kota Samarinda|Kota Samarinda|65|1|55|9|791000|783|1010|10|59|
 24062020|24|06|2020|214|15|Kalimantan Timur|Kota Samarinda|Kota Samarinda|65|1|53|11|791000|783|1010|10|59|
 23062020|23|06|2020|214|15|Kalimantan Timur|Kota Samarinda|Kota Samarinda|65|1|53|11|791000|783|1010|10|59|
+03072021|03|07|2021|502|15|Kalimantan Timur|Kab. Mahakam Ulu|Mahakam Ulu|435|10|413|12|25000|15315|2|5|50|15
+02072021|02|07|2021|502|15|Kalimantan Timur|Kab. Mahakam Ulu|Mahakam Ulu|435|10|413|12|25000|15315|2|5|50|15
+01072021|01|07|2021|502|15|Kalimantan Timur|Kab. Mahakam Ulu|Mahakam Ulu|426|10|411|5|25000|15315|2|5|50|15
+30062021|30|06|2021|502|15|Kalimantan Timur|Kab. Mahakam Ulu|Mahakam Ulu|426|10|411|5|25000|15315|2|5|50|15
+29062021|29|06|2021|502|15|Kalimantan Timur|Kab. Mahakam Ulu|Mahakam Ulu|426|10|411|5|25000|15315|2|5|50|15
+28062021|28|06|2021|502|15|Kalimantan Timur|Kab. Mahakam Ulu|Mahakam Ulu|425|9|411|5|25000|15315|2|5|50|15
 27062021|27|06|2021|502|15|Kalimantan Timur|Kab. Mahakam Ulu|Mahakam Ulu|423|9|411|3|25000|15315|2|5|50|15
 26062021|26|06|2021|502|15|Kalimantan Timur|Kab. Mahakam Ulu|Mahakam Ulu|423|9|411|3|25000|15315|2|5|50|15
 25062021|25|06|2021|502|15|Kalimantan Timur|Kab. Mahakam Ulu|Mahakam Ulu|423|9|411|3|25000|15315|2|5|50|15

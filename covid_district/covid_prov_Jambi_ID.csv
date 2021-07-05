@@ -1,4 +1,10 @@
 date|day|month|year|id_district|id_province|province_name|district_name|city_name|confirmed_case|death_case|recovered_case|active_case|population|area_km2|pop_density|num_kecamatan|num_village|num_islands
+03072021|03|07|2021|52|8|Jambi|Kab. Batang Hari|Batang Hari|1271|40|1073|158|318000|5804|55|8|124|
+02072021|02|07|2021|52|8|Jambi|Kab. Batang Hari|Batang Hari|1271|40|1073|158|318000|5804|55|8|124|
+01072021|01|07|2021|52|8|Jambi|Kab. Batang Hari|Batang Hari|1271|40|1073|158|318000|5804|55|8|124|
+30062021|30|06|2021|52|8|Jambi|Kab. Batang Hari|Batang Hari|1271|39|1072|160|318000|5804|55|8|124|
+29062021|29|06|2021|52|8|Jambi|Kab. Batang Hari|Batang Hari|1271|39|1072|160|318000|5804|55|8|124|
+28062021|28|06|2021|52|8|Jambi|Kab. Batang Hari|Batang Hari|1252|38|1050|164|318000|5804|55|8|124|
 27062021|27|06|2021|52|8|Jambi|Kab. Batang Hari|Batang Hari|1225|35|1031|159|318000|5804|55|8|124|
 26062021|26|06|2021|52|8|Jambi|Kab. Batang Hari|Batang Hari|1225|35|1031|159|318000|5804|55|8|124|
 25062021|25|06|2021|52|8|Jambi|Kab. Batang Hari|Batang Hari|1219|34|991|194|318000|5804|55|8|124|
@@ -370,6 +376,12 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 24062020|24|06|2020|52|8|Jambi|Kab. Batang Hari|Batang Hari|7||4|3|318000|5804|55|8|124|
 23062020|23|06|2020|52|8|Jambi|Kab. Batang Hari|Batang Hari|7||4|3|318000|5804|55|8|124|
 22062020|22|06|2020|52|8|Jambi|Kab. Batang Hari|Batang Hari|6||1|5|318000|5804|55|8|124|
+03072021|03|07|2021|53|8|Jambi|Kab. Bungo|Bungo|846|8|777|61|344000|4659|74|17|153|
+02072021|02|07|2021|53|8|Jambi|Kab. Bungo|Bungo|846|8|777|61|344000|4659|74|17|153|
+01072021|01|07|2021|53|8|Jambi|Kab. Bungo|Bungo|846|8|777|61|344000|4659|74|17|153|
+30062021|30|06|2021|53|8|Jambi|Kab. Bungo|Bungo|846|8|777|61|344000|4659|74|17|153|
+29062021|29|06|2021|53|8|Jambi|Kab. Bungo|Bungo|846|8|777|61|344000|4659|74|17|153|
+28062021|28|06|2021|53|8|Jambi|Kab. Bungo|Bungo|828|8|753|67|344000|4659|74|17|153|
 27062021|27|06|2021|53|8|Jambi|Kab. Bungo|Bungo|818|8|753|57|344000|4659|74|17|153|
 26062021|26|06|2021|53|8|Jambi|Kab. Bungo|Bungo|818|8|753|57|344000|4659|74|17|153|
 25062021|25|06|2021|53|8|Jambi|Kab. Bungo|Bungo|786|8|711|67|344000|4659|74|17|153|
@@ -741,6 +753,12 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 24062020|24|06|2020|53|8|Jambi|Kab. Bungo|Bungo|4||4||344000|4659|74|17|153|
 23062020|23|06|2020|53|8|Jambi|Kab. Bungo|Bungo|4||4||344000|4659|74|17|153|
 22062020|22|06|2020|53|8|Jambi|Kab. Bungo|Bungo|4||4||344000|4659|74|17|153|
+03072021|03|07|2021|54|8|Jambi|Kota Jambi|Kota Jambi|3850|75|3250|525|629000|103.5|6079|11|62|
+02072021|02|07|2021|54|8|Jambi|Kota Jambi|Kota Jambi|3850|75|3250|525|629000|103.5|6079|11|62|
+01072021|01|07|2021|54|8|Jambi|Kota Jambi|Kota Jambi|3850|75|3250|525|629000|103.5|6079|11|62|
+30062021|30|06|2021|54|8|Jambi|Kota Jambi|Kota Jambi|3797|73|3197|527|629000|103.5|6079|11|62|
+29062021|29|06|2021|54|8|Jambi|Kota Jambi|Kota Jambi|3797|73|3197|527|629000|103.5|6079|11|62|
+28062021|28|06|2021|54|8|Jambi|Kota Jambi|Kota Jambi|3789|73|3143|573|629000|103.5|6079|11|62|
 27062021|27|06|2021|54|8|Jambi|Kota Jambi|Kota Jambi|3767|70|3097|600|629000|103.5|6079|11|62|
 26062021|26|06|2021|54|8|Jambi|Kota Jambi|Kota Jambi|3767|70|3097|600|629000|103.5|6079|11|62|
 25062021|25|06|2021|54|8|Jambi|Kota Jambi|Kota Jambi|3729|69|3019|641|629000|103.5|6079|11|62|
@@ -1112,6 +1130,12 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 24062020|24|06|2020|54|8|Jambi|Kota Jambi|Kota Jambi|31||16|15|629000|103.5|6079|11|62|
 23062020|23|06|2020|54|8|Jambi|Kota Jambi|Kota Jambi|31||16|15|629000|103.5|6079|11|62|
 22062020|22|06|2020|54|8|Jambi|Kota Jambi|Kota Jambi|31||10|21|629000|103.5|6079|11|62|
+03072021|03|07|2021|55|8|Jambi|Kab. Kerinci|Kerinci|326|10|308|8|243000|3355.3|73|16|287|
+02072021|02|07|2021|55|8|Jambi|Kab. Kerinci|Kerinci|326|10|308|8|243000|3355.3|73|16|287|
+01072021|01|07|2021|55|8|Jambi|Kab. Kerinci|Kerinci|326|10|308|8|243000|3355.3|73|16|287|
+30062021|30|06|2021|55|8|Jambi|Kab. Kerinci|Kerinci|324|10|308|6|243000|3355.3|73|16|287|
+29062021|29|06|2021|55|8|Jambi|Kab. Kerinci|Kerinci|324|10|308|6|243000|3355.3|73|16|287|
+28062021|28|06|2021|55|8|Jambi|Kab. Kerinci|Kerinci|324|10|308|6|243000|3355.3|73|16|287|
 27062021|27|06|2021|55|8|Jambi|Kab. Kerinci|Kerinci|324|10|308|6|243000|3355.3|73|16|287|
 26062021|26|06|2021|55|8|Jambi|Kab. Kerinci|Kerinci|324|10|308|6|243000|3355.3|73|16|287|
 25062021|25|06|2021|55|8|Jambi|Kab. Kerinci|Kerinci|324|10|308|6|243000|3355.3|73|16|287|
@@ -1483,6 +1507,12 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 24062020|24|06|2020|55|8|Jambi|Kab. Kerinci|Kerinci|1||1||243000|3355.3|73|16|287|
 23062020|23|06|2020|55|8|Jambi|Kab. Kerinci|Kerinci|1||1||243000|3355.3|73|16|287|
 22062020|22|06|2020|55|8|Jambi|Kab. Kerinci|Kerinci|1||1||243000|3355.3|73|16|287|
+03072021|03|07|2021|56|8|Jambi|Kab. Merangin|Merangin|748|39|638|71|344000|7679|45|24|215|
+02072021|02|07|2021|56|8|Jambi|Kab. Merangin|Merangin|748|39|638|71|344000|7679|45|24|215|
+01072021|01|07|2021|56|8|Jambi|Kab. Merangin|Merangin|748|39|638|71|344000|7679|45|24|215|
+30062021|30|06|2021|56|8|Jambi|Kab. Merangin|Merangin|748|39|638|71|344000|7679|45|24|215|
+29062021|29|06|2021|56|8|Jambi|Kab. Merangin|Merangin|748|39|638|71|344000|7679|45|24|215|
+28062021|28|06|2021|56|8|Jambi|Kab. Merangin|Merangin|748|39|638|71|344000|7679|45|24|215|
 27062021|27|06|2021|56|8|Jambi|Kab. Merangin|Merangin|748|39|604|105|344000|7679|45|24|215|
 26062021|26|06|2021|56|8|Jambi|Kab. Merangin|Merangin|748|39|604|105|344000|7679|45|24|215|
 25062021|25|06|2021|56|8|Jambi|Kab. Merangin|Merangin|703|35|581|87|344000|7679|45|24|215|
@@ -1854,6 +1884,12 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 24062020|24|06|2020|56|8|Jambi|Kab. Merangin|Merangin|21||21||344000|7679|45|24|215|
 23062020|23|06|2020|56|8|Jambi|Kab. Merangin|Merangin|21||21||344000|7679|45|24|215|
 22062020|22|06|2020|56|8|Jambi|Kab. Merangin|Merangin|21||16|5|344000|7679|45|24|215|
+03072021|03|07|2021|57|8|Jambi|Kab. Muaro Jambi|Muaro Jambi|1868|15|1593|260|371000|5326|70|11|155|
+02072021|02|07|2021|57|8|Jambi|Kab. Muaro Jambi|Muaro Jambi|1868|15|1593|260|371000|5326|70|11|155|
+01072021|01|07|2021|57|8|Jambi|Kab. Muaro Jambi|Muaro Jambi|1868|15|1593|260|371000|5326|70|11|155|
+30062021|30|06|2021|57|8|Jambi|Kab. Muaro Jambi|Muaro Jambi|1829|13|1558|258|371000|5326|70|11|155|
+29062021|29|06|2021|57|8|Jambi|Kab. Muaro Jambi|Muaro Jambi|1829|13|1558|258|371000|5326|70|11|155|
+28062021|28|06|2021|57|8|Jambi|Kab. Muaro Jambi|Muaro Jambi|1788|13|1558|217|371000|5326|70|11|155|
 27062021|27|06|2021|57|8|Jambi|Kab. Muaro Jambi|Muaro Jambi|1784|12|1529|243|371000|5326|70|11|155|
 26062021|26|06|2021|57|8|Jambi|Kab. Muaro Jambi|Muaro Jambi|1784|12|1529|243|371000|5326|70|11|155|
 25062021|25|06|2021|57|8|Jambi|Kab. Muaro Jambi|Muaro Jambi|1752|12|1495|245|371000|5326|70|11|155|
@@ -2225,6 +2261,12 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 24062020|24|06|2020|57|8|Jambi|Kab. Muaro Jambi|Muaro Jambi|12||7|5|371000|5326|70|11|155|
 23062020|23|06|2020|57|8|Jambi|Kab. Muaro Jambi|Muaro Jambi|12||7|5|371000|5326|70|11|155|
 22062020|22|06|2020|57|8|Jambi|Kab. Muaro Jambi|Muaro Jambi|12||5|7|371000|5326|70|11|155|
+03072021|03|07|2021|58|8|Jambi|Kab. Sarolangun|Sarolangun|512|3|390|119|324000|6184|52|10|158|
+02072021|02|07|2021|58|8|Jambi|Kab. Sarolangun|Sarolangun|512|3|390|119|324000|6184|52|10|158|
+01072021|01|07|2021|58|8|Jambi|Kab. Sarolangun|Sarolangun|512|3|390|119|324000|6184|52|10|158|
+30062021|30|06|2021|58|8|Jambi|Kab. Sarolangun|Sarolangun|512|3|390|119|324000|6184|52|10|158|
+29062021|29|06|2021|58|8|Jambi|Kab. Sarolangun|Sarolangun|512|3|390|119|324000|6184|52|10|158|
+28062021|28|06|2021|58|8|Jambi|Kab. Sarolangun|Sarolangun|512|3|390|119|324000|6184|52|10|158|
 27062021|27|06|2021|58|8|Jambi|Kab. Sarolangun|Sarolangun|510|3|368|139|324000|6184|52|10|158|
 26062021|26|06|2021|58|8|Jambi|Kab. Sarolangun|Sarolangun|510|3|368|139|324000|6184|52|10|158|
 25062021|25|06|2021|58|8|Jambi|Kab. Sarolangun|Sarolangun|502|3|330|169|324000|6184|52|10|158|
@@ -2596,6 +2638,12 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 24062020|24|06|2020|58|8|Jambi|Kab. Sarolangun|Sarolangun|4||3|1|324000|6184|52|10|158|
 23062020|23|06|2020|58|8|Jambi|Kab. Sarolangun|Sarolangun|4||3|1|324000|6184|52|10|158|
 22062020|22|06|2020|58|8|Jambi|Kab. Sarolangun|Sarolangun|4||3|1|324000|6184|52|10|158|
+03072021|03|07|2021|59|8|Jambi|Kota Sungaipenuh|Kota Sungaipenuh|785|10|748|27|107000|391.5|273|8|69|
+02072021|02|07|2021|59|8|Jambi|Kota Sungaipenuh|Kota Sungaipenuh|785|10|748|27|107000|391.5|273|8|69|
+01072021|01|07|2021|59|8|Jambi|Kota Sungaipenuh|Kota Sungaipenuh|785|10|748|27|107000|391.5|273|8|69|
+30062021|30|06|2021|59|8|Jambi|Kota Sungaipenuh|Kota Sungaipenuh|785|10|748|27|107000|391.5|273|8|69|
+29062021|29|06|2021|59|8|Jambi|Kota Sungaipenuh|Kota Sungaipenuh|785|10|748|27|107000|391.5|273|8|69|
+28062021|28|06|2021|59|8|Jambi|Kota Sungaipenuh|Kota Sungaipenuh|785|10|748|27|107000|391.5|273|8|69|
 27062021|27|06|2021|59|8|Jambi|Kota Sungaipenuh|Kota Sungaipenuh|775|10|730|35|107000|391.5|273|8|69|
 26062021|26|06|2021|59|8|Jambi|Kota Sungaipenuh|Kota Sungaipenuh|775|10|730|35|107000|391.5|273|8|69|
 25062021|25|06|2021|59|8|Jambi|Kota Sungaipenuh|Kota Sungaipenuh|775|10|730|35|107000|391.5|273|8|69|
@@ -2967,6 +3015,12 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 24062020|24|06|2020|59|8|Jambi|Kota Sungaipenuh|Kota Sungaipenuh|19||7|12|107000|391.5|273|8|69|
 23062020|23|06|2020|59|8|Jambi|Kota Sungaipenuh|Kota Sungaipenuh|19||7|12|107000|391.5|273|8|69|
 22062020|22|06|2020|59|8|Jambi|Kota Sungaipenuh|Kota Sungaipenuh|19||4|15|107000|391.5|273|8|69|
+03072021|03|07|2021|60|8|Jambi|Kab. Tanjung Jabung Barat|Tanjung Jabung Barat|1143|25|984|134|332000|4649.9|72|13|134|
+02072021|02|07|2021|60|8|Jambi|Kab. Tanjung Jabung Barat|Tanjung Jabung Barat|1143|25|984|134|332000|4649.9|72|13|134|
+01072021|01|07|2021|60|8|Jambi|Kab. Tanjung Jabung Barat|Tanjung Jabung Barat|1143|25|984|134|332000|4649.9|72|13|134|
+30062021|30|06|2021|60|8|Jambi|Kab. Tanjung Jabung Barat|Tanjung Jabung Barat|1131|25|984|122|332000|4649.9|72|13|134|
+29062021|29|06|2021|60|8|Jambi|Kab. Tanjung Jabung Barat|Tanjung Jabung Barat|1131|25|984|122|332000|4649.9|72|13|134|
+28062021|28|06|2021|60|8|Jambi|Kab. Tanjung Jabung Barat|Tanjung Jabung Barat|1104|23|937|144|332000|4649.9|72|13|134|
 27062021|27|06|2021|60|8|Jambi|Kab. Tanjung Jabung Barat|Tanjung Jabung Barat|1101|23|937|141|332000|4649.9|72|13|134|
 26062021|26|06|2021|60|8|Jambi|Kab. Tanjung Jabung Barat|Tanjung Jabung Barat|1101|23|937|141|332000|4649.9|72|13|134|
 25062021|25|06|2021|60|8|Jambi|Kab. Tanjung Jabung Barat|Tanjung Jabung Barat|1071|23|915|133|332000|4649.9|72|13|134|
@@ -3338,6 +3392,12 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 24062020|24|06|2020|60|8|Jambi|Kab. Tanjung Jabung Barat|Tanjung Jabung Barat|10||2|8|332000|4649.9|72|13|134|
 23062020|23|06|2020|60|8|Jambi|Kab. Tanjung Jabung Barat|Tanjung Jabung Barat|10||2|8|332000|4649.9|72|13|134|
 22062020|22|06|2020|60|8|Jambi|Kab. Tanjung Jabung Barat|Tanjung Jabung Barat|9||2|7|332000|4649.9|72|13|134|
+03072021|03|07|2021|61|8|Jambi|Kab. Tanjung Jabung Timur|Tanjung Jabung Timur|723|4|642|77|230000|5445|42|11|93|20
+02072021|02|07|2021|61|8|Jambi|Kab. Tanjung Jabung Timur|Tanjung Jabung Timur|723|4|642|77|230000|5445|42|11|93|20
+01072021|01|07|2021|61|8|Jambi|Kab. Tanjung Jabung Timur|Tanjung Jabung Timur|723|4|642|77|230000|5445|42|11|93|20
+30062021|30|06|2021|61|8|Jambi|Kab. Tanjung Jabung Timur|Tanjung Jabung Timur|722|4|642|76|230000|5445|42|11|93|20
+29062021|29|06|2021|61|8|Jambi|Kab. Tanjung Jabung Timur|Tanjung Jabung Timur|722|4|642|76|230000|5445|42|11|93|20
+28062021|28|06|2021|61|8|Jambi|Kab. Tanjung Jabung Timur|Tanjung Jabung Timur|722|4|642|76|230000|5445|42|11|93|20
 27062021|27|06|2021|61|8|Jambi|Kab. Tanjung Jabung Timur|Tanjung Jabung Timur|706|4|614|88|230000|5445|42|11|93|20
 26062021|26|06|2021|61|8|Jambi|Kab. Tanjung Jabung Timur|Tanjung Jabung Timur|706|4|614|88|230000|5445|42|11|93|20
 25062021|25|06|2021|61|8|Jambi|Kab. Tanjung Jabung Timur|Tanjung Jabung Timur|706|4|614|88|230000|5445|42|11|93|20
@@ -3709,6 +3769,12 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 24062020|24|06|2020|61|8|Jambi|Kab. Tanjung Jabung Timur|Tanjung Jabung Timur|2||2||230000|5445|42|11|93|20
 23062020|23|06|2020|61|8|Jambi|Kab. Tanjung Jabung Timur|Tanjung Jabung Timur|2||2||230000|5445|42|11|93|20
 22062020|22|06|2020|61|8|Jambi|Kab. Tanjung Jabung Timur|Tanjung Jabung Timur|2||2||230000|5445|42|11|93|20
+03072021|03|07|2021|62|8|Jambi|Kab. Tebo|Tebo|789|32|666|91|338000|6461|52|12|112|
+02072021|02|07|2021|62|8|Jambi|Kab. Tebo|Tebo|789|32|666|91|338000|6461|52|12|112|
+01072021|01|07|2021|62|8|Jambi|Kab. Tebo|Tebo|789|32|666|91|338000|6461|52|12|112|
+30062021|30|06|2021|62|8|Jambi|Kab. Tebo|Tebo|789|32|646|111|338000|6461|52|12|112|
+29062021|29|06|2021|62|8|Jambi|Kab. Tebo|Tebo|789|32|646|111|338000|6461|52|12|112|
+28062021|28|06|2021|62|8|Jambi|Kab. Tebo|Tebo|779|32|633|114|338000|6461|52|12|112|
 27062021|27|06|2021|62|8|Jambi|Kab. Tebo|Tebo|779|32|628|119|338000|6461|52|12|112|
 26062021|26|06|2021|62|8|Jambi|Kab. Tebo|Tebo|779|32|628|119|338000|6461|52|12|112|
 25062021|25|06|2021|62|8|Jambi|Kab. Tebo|Tebo|750|32|618|100|338000|6461|52|12|112|

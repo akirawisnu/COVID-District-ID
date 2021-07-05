@@ -1,4 +1,10 @@
 date|day|month|year|id_district|id_province|province_name|district_name|city_name|confirmed_case|death_case|recovered_case|active_case|population|area_km2|pop_density|num_kecamatan|num_village|num_islands
+03072021|03|07|2021|363|27|Sulawesi Barat|Kab. Majene|Majene|594|19|569|6|172000|947.8|181|8|82|3
+02072021|02|07|2021|363|27|Sulawesi Barat|Kab. Majene|Majene|594|19|569|6|172000|947.8|181|8|82|3
+01072021|01|07|2021|363|27|Sulawesi Barat|Kab. Majene|Majene|594|19|569|6|172000|947.8|181|8|82|3
+30062021|30|06|2021|363|27|Sulawesi Barat|Kab. Majene|Majene|591|19|569|3|172000|947.8|181|8|82|3
+29062021|29|06|2021|363|27|Sulawesi Barat|Kab. Majene|Majene|591|19|569|3|172000|947.8|181|8|82|3
+28062021|28|06|2021|363|27|Sulawesi Barat|Kab. Majene|Majene|591|19|569|3|172000|947.8|181|8|82|3
 27062021|27|06|2021|363|27|Sulawesi Barat|Kab. Majene|Majene|591|19|569|3|172000|947.8|181|8|82|3
 26062021|26|06|2021|363|27|Sulawesi Barat|Kab. Majene|Majene|590|19|569|2|172000|947.8|181|8|82|3
 25062021|25|06|2021|363|27|Sulawesi Barat|Kab. Majene|Majene|590|19|569|2|172000|947.8|181|8|82|3
@@ -368,6 +374,12 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 26062020|26|06|2020|363|27|Sulawesi Barat|Kab. Majene|Majene|5||5||172000|947.8|181|8|82|3
 25062020|25|06|2020|363|27|Sulawesi Barat|Kab. Majene|Majene|5||5||172000|947.8|181|8|82|3
 24062020|24|06|2020|363|27|Sulawesi Barat|Kab. Majene|Majene|5||5||172000|947.8|181|8|82|3
+03072021|03|07|2021|364|27|Sulawesi Barat|Kab. Mamasa|Mamasa|269|5|197|67|210000|3005.9|70|17|181|
+02072021|02|07|2021|364|27|Sulawesi Barat|Kab. Mamasa|Mamasa|269|5|197|67|210000|3005.9|70|17|181|
+01072021|01|07|2021|364|27|Sulawesi Barat|Kab. Mamasa|Mamasa|269|5|197|67|210000|3005.9|70|17|181|
+30062021|30|06|2021|364|27|Sulawesi Barat|Kab. Mamasa|Mamasa|228|5|197|26|210000|3005.9|70|17|181|
+29062021|29|06|2021|364|27|Sulawesi Barat|Kab. Mamasa|Mamasa|228|5|197|26|210000|3005.9|70|17|181|
+28062021|28|06|2021|364|27|Sulawesi Barat|Kab. Mamasa|Mamasa|219|5|197|17|210000|3005.9|70|17|181|
 27062021|27|06|2021|364|27|Sulawesi Barat|Kab. Mamasa|Mamasa|219|5|197|17|210000|3005.9|70|17|181|
 26062021|26|06|2021|364|27|Sulawesi Barat|Kab. Mamasa|Mamasa|219|5|197|17|210000|3005.9|70|17|181|
 25062021|25|06|2021|364|27|Sulawesi Barat|Kab. Mamasa|Mamasa|219|5|197|17|210000|3005.9|70|17|181|
@@ -737,6 +749,12 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 26062020|26|06|2020|364|27|Sulawesi Barat|Kab. Mamasa|Mamasa|1||1||210000|3005.9|70|17|181|
 25062020|25|06|2020|364|27|Sulawesi Barat|Kab. Mamasa|Mamasa|1||1||210000|3005.9|70|17|181|
 24062020|24|06|2020|364|27|Sulawesi Barat|Kab. Mamasa|Mamasa|1||1||210000|3005.9|70|17|181|
+03072021|03|07|2021|365|27|Sulawesi Barat|Kab. Mamuju|Mamuju|1725|13|1530|182|307000|4999.7|61|11|101|29
+02072021|02|07|2021|365|27|Sulawesi Barat|Kab. Mamuju|Mamuju|1725|13|1530|182|307000|4999.7|61|11|101|29
+01072021|01|07|2021|365|27|Sulawesi Barat|Kab. Mamuju|Mamuju|1725|13|1530|182|307000|4999.7|61|11|101|29
+30062021|30|06|2021|365|27|Sulawesi Barat|Kab. Mamuju|Mamuju|1721|13|1517|191|307000|4999.7|61|11|101|29
+29062021|29|06|2021|365|27|Sulawesi Barat|Kab. Mamuju|Mamuju|1721|13|1517|191|307000|4999.7|61|11|101|29
+28062021|28|06|2021|365|27|Sulawesi Barat|Kab. Mamuju|Mamuju|1647|13|1513|121|307000|4999.7|61|11|101|29
 27062021|27|06|2021|365|27|Sulawesi Barat|Kab. Mamuju|Mamuju|1647|13|1513|121|307000|4999.7|61|11|101|29
 26062021|26|06|2021|365|27|Sulawesi Barat|Kab. Mamuju|Mamuju|1619|13|1513|93|307000|4999.7|61|11|101|29
 25062021|25|06|2021|365|27|Sulawesi Barat|Kab. Mamuju|Mamuju|1619|13|1513|93|307000|4999.7|61|11|101|29
@@ -1106,6 +1124,12 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 26062020|26|06|2020|365|27|Sulawesi Barat|Kab. Mamuju|Mamuju|19||10|9|307000|4999.7|61|11|101|29
 25062020|25|06|2020|365|27|Sulawesi Barat|Kab. Mamuju|Mamuju|18||10|8|307000|4999.7|61|11|101|29
 24062020|24|06|2020|365|27|Sulawesi Barat|Kab. Mamuju|Mamuju|18||10|8|307000|4999.7|61|11|101|29
+03072021|03|07|2021|366|27|Sulawesi Barat|"Kab. Pasangkayu |Mamuju Utara)"|Pasangkayu (Mamuju Utara)|807|7|773|27|215000|3043.8|71|12|63|
+02072021|02|07|2021|366|27|Sulawesi Barat|"Kab. Pasangkayu |Mamuju Utara)"|Pasangkayu (Mamuju Utara)|807|7|773|27|215000|3043.8|71|12|63|
+01072021|01|07|2021|366|27|Sulawesi Barat|"Kab. Pasangkayu |Mamuju Utara)"|Pasangkayu (Mamuju Utara)|807|7|773|27|215000|3043.8|71|12|63|
+30062021|30|06|2021|366|27|Sulawesi Barat|"Kab. Pasangkayu |Mamuju Utara)"|Pasangkayu (Mamuju Utara)|782|7|773|2|215000|3043.8|71|12|63|
+29062021|29|06|2021|366|27|Sulawesi Barat|"Kab. Pasangkayu |Mamuju Utara)"|Pasangkayu (Mamuju Utara)|782|7|773|2|215000|3043.8|71|12|63|
+28062021|28|06|2021|366|27|Sulawesi Barat|"Kab. Pasangkayu |Mamuju Utara)"|Pasangkayu (Mamuju Utara)|782|7|773|2|215000|3043.8|71|12|63|
 27062021|27|06|2021|366|27|Sulawesi Barat|"Kab. Pasangkayu |Mamuju Utara)"|Pasangkayu (Mamuju Utara)|782|7|773|2|215000|3043.8|71|12|63|
 26062021|26|06|2021|366|27|Sulawesi Barat|"Kab. Pasangkayu |Mamuju Utara)"|Pasangkayu (Mamuju Utara)|781|7|773|1|215000|3043.8|71|12|63|
 25062021|25|06|2021|366|27|Sulawesi Barat|"Kab. Pasangkayu |Mamuju Utara)"|Pasangkayu (Mamuju Utara)|781|7|773|1|215000|3043.8|71|12|63|
@@ -1475,6 +1499,12 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 26062020|26|06|2020|366|27|Sulawesi Barat|"Kab. Pasangkayu |Mamuju Utara)"|Pasangkayu (Mamuju Utara)|7||7||215000|3043.8|71|12|63|
 25062020|25|06|2020|366|27|Sulawesi Barat|"Kab. Pasangkayu |Mamuju Utara)"|Pasangkayu (Mamuju Utara)|7||7||215000|3043.8|71|12|63|
 24062020|24|06|2020|366|27|Sulawesi Barat|"Kab. Pasangkayu |Mamuju Utara)"|Pasangkayu (Mamuju Utara)|7||7||215000|3043.8|71|12|63|
+03072021|03|07|2021|367|27|Sulawesi Barat|Kab. Polewali Mandar|Polewali Mandar|2076|65|1995|16|534000|1775.7|301|16|167|8
+02072021|02|07|2021|367|27|Sulawesi Barat|Kab. Polewali Mandar|Polewali Mandar|2076|65|1995|16|534000|1775.7|301|16|167|8
+01072021|01|07|2021|367|27|Sulawesi Barat|Kab. Polewali Mandar|Polewali Mandar|2076|65|1995|16|534000|1775.7|301|16|167|8
+30062021|30|06|2021|367|27|Sulawesi Barat|Kab. Polewali Mandar|Polewali Mandar|2071|65|1990|16|534000|1775.7|301|16|167|8
+29062021|29|06|2021|367|27|Sulawesi Barat|Kab. Polewali Mandar|Polewali Mandar|2071|65|1990|16|534000|1775.7|301|16|167|8
+28062021|28|06|2021|367|27|Sulawesi Barat|Kab. Polewali Mandar|Polewali Mandar|2068|65|1990|13|534000|1775.7|301|16|167|8
 27062021|27|06|2021|367|27|Sulawesi Barat|Kab. Polewali Mandar|Polewali Mandar|2068|65|1990|13|534000|1775.7|301|16|167|8
 26062021|26|06|2021|367|27|Sulawesi Barat|Kab. Polewali Mandar|Polewali Mandar|2064|65|1989|10|534000|1775.7|301|16|167|8
 25062021|25|06|2021|367|27|Sulawesi Barat|Kab. Polewali Mandar|Polewali Mandar|2064|65|1989|10|534000|1775.7|301|16|167|8
@@ -1844,6 +1874,12 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 26062020|26|06|2020|367|27|Sulawesi Barat|Kab. Polewali Mandar|Polewali Mandar|36|1|20|15|534000|1775.7|301|16|167|8
 25062020|25|06|2020|367|27|Sulawesi Barat|Kab. Polewali Mandar|Polewali Mandar|35|1|19|15|534000|1775.7|301|16|167|8
 24062020|24|06|2020|367|27|Sulawesi Barat|Kab. Polewali Mandar|Polewali Mandar|35|1|19|15|534000|1775.7|301|16|167|8
+03072021|03|07|2021|505|27|Sulawesi Barat|Kab. Mamuju Tengah|Mamuju Tengah|462|13|441|8|148000|3014.4|49|5|54|4
+02072021|02|07|2021|505|27|Sulawesi Barat|Kab. Mamuju Tengah|Mamuju Tengah|462|13|441|8|148000|3014.4|49|5|54|4
+01072021|01|07|2021|505|27|Sulawesi Barat|Kab. Mamuju Tengah|Mamuju Tengah|462|13|441|8|148000|3014.4|49|5|54|4
+30062021|30|06|2021|505|27|Sulawesi Barat|Kab. Mamuju Tengah|Mamuju Tengah|460|13|429|18|148000|3014.4|49|5|54|4
+29062021|29|06|2021|505|27|Sulawesi Barat|Kab. Mamuju Tengah|Mamuju Tengah|460|13|429|18|148000|3014.4|49|5|54|4
+28062021|28|06|2021|505|27|Sulawesi Barat|Kab. Mamuju Tengah|Mamuju Tengah|459|12|418|29|148000|3014.4|49|5|54|4
 27062021|27|06|2021|505|27|Sulawesi Barat|Kab. Mamuju Tengah|Mamuju Tengah|459|12|418|29|148000|3014.4|49|5|54|4
 26062021|26|06|2021|505|27|Sulawesi Barat|Kab. Mamuju Tengah|Mamuju Tengah|459|12|418|29|148000|3014.4|49|5|54|4
 25062021|25|06|2021|505|27|Sulawesi Barat|Kab. Mamuju Tengah|Mamuju Tengah|459|12|418|29|148000|3014.4|49|5|54|4
