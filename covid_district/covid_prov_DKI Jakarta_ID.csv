@@ -1,4 +1,6 @@
 date|day|month|year|id_district|id_province|province_name|district_name|city_name|confirmed_case|death_case|recovered_case|active_case|population|area_km2|pop_density|num_kecamatan|num_village|num_islands
+05072021|05|07|2021|40|6|DKI Jakarta|Kota Jakarta Barat|Kota Jakarta Barat|102933|1645|83871|17417|2400000|124.4|19282|8|56|
+04072021|04|07|2021|40|6|DKI Jakarta|Kota Jakarta Barat|Kota Jakarta Barat|100999|1609|82008|17382|2400000|124.4|19282|8|56|
 03072021|03|07|2021|40|6|DKI Jakarta|Kota Jakarta Barat|Kota Jakarta Barat|99307|1593|81008|16706|2400000|124.4|19282|8|56|
 02072021|02|07|2021|40|6|DKI Jakarta|Kota Jakarta Barat|Kota Jakarta Barat|97283|1587|79779|15917|2400000|124.4|19282|8|56|
 01072021|01|07|2021|40|6|DKI Jakarta|Kota Jakarta Barat|Kota Jakarta Barat|95695|1584|78319|15792|2400000|124.4|19282|8|56|
@@ -465,6 +467,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 27032020|27|03|2020|40|6|DKI Jakarta|Kota Jakarta Barat|Kota Jakarta Barat|102|4|4|94|2400000|124.4|19282|8|56|
 26032020|26|03|2020|40|6|DKI Jakarta|Kota Jakarta Barat|Kota Jakarta Barat|98|4|2|92|2400000|124.4|19282|8|56|
 25032020|25|03|2020|40|6|DKI Jakarta|Kota Jakarta Barat|Kota Jakarta Barat|89|4|1|84|2400000|124.4|19282|8|56|
+05072021|05|07|2021|41|6|DKI Jakarta|Kota Jakarta Pusat|Kota Jakarta Pusat|58376|971|48336|9069|1200000|52.4|22437|8|44|
+04072021|04|07|2021|41|6|DKI Jakarta|Kota Jakarta Pusat|Kota Jakarta Pusat|57459|956|47431|9072|1200000|52.4|22437|8|44|
 03072021|03|07|2021|41|6|DKI Jakarta|Kota Jakarta Pusat|Kota Jakarta Pusat|56616|948|46723|8945|1200000|52.4|22437|8|44|
 02072021|02|07|2021|41|6|DKI Jakarta|Kota Jakarta Pusat|Kota Jakarta Pusat|55401|948|46319|8134|1200000|52.4|22437|8|44|
 01072021|01|07|2021|41|6|DKI Jakarta|Kota Jakarta Pusat|Kota Jakarta Pusat|54213|944|45779|7490|1200000|52.4|22437|8|44|
@@ -931,6 +935,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 27032020|27|03|2020|41|6|DKI Jakarta|Kota Jakarta Pusat|Kota Jakarta Pusat|23|2|4|17|1200000|52.4|22437|8|44|
 26032020|26|03|2020|41|6|DKI Jakarta|Kota Jakarta Pusat|Kota Jakarta Pusat|22|2|4|16|1200000|52.4|22437|8|44|
 25032020|25|03|2020|41|6|DKI Jakarta|Kota Jakarta Pusat|Kota Jakarta Pusat|22|2|4|16|1200000|52.4|22437|8|44|
+05072021|05|07|2021|42|6|DKI Jakarta|Kota Jakarta Selatan|Kota Jakarta Selatan|116003|1763|96377|17863|2300000|154.3|14641|10|65|
+04072021|04|07|2021|42|6|DKI Jakarta|Kota Jakarta Selatan|Kota Jakarta Selatan|113495|1741|95373|16381|2300000|154.3|14641|10|65|
 03072021|03|07|2021|42|6|DKI Jakarta|Kota Jakarta Selatan|Kota Jakarta Selatan|111019|1724|94258|15037|2300000|154.3|14641|10|65|
 02072021|02|07|2021|42|6|DKI Jakarta|Kota Jakarta Selatan|Kota Jakarta Selatan|109533|1720|93182|14631|2300000|154.3|14641|10|65|
 01072021|01|07|2021|42|6|DKI Jakarta|Kota Jakarta Selatan|Kota Jakarta Selatan|107738|1716|92571|13451|2300000|154.3|14641|10|65|
@@ -1397,6 +1403,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 27032020|27|03|2020|42|6|DKI Jakarta|Kota Jakarta Selatan|Kota Jakarta Selatan|113|17|14|82|2300000|154.3|14641|10|65|
 26032020|26|03|2020|42|6|DKI Jakarta|Kota Jakarta Selatan|Kota Jakarta Selatan|107|15|14|78|2300000|154.3|14641|10|65|
 25032020|25|03|2020|42|6|DKI Jakarta|Kota Jakarta Selatan|Kota Jakarta Selatan|102|11|11|80|2300000|154.3|14641|10|65|
+05072021|05|07|2021|43|6|DKI Jakarta|Kota Jakarta Timur|Kota Jakarta Timur|145872|2332|118671|24869|3000000|182.7|16639|10|65|
+04072021|04|07|2021|43|6|DKI Jakarta|Kota Jakarta Timur|Kota Jakarta Timur|142344|2297|116897|23150|3000000|182.7|16639|10|65|
 03072021|03|07|2021|43|6|DKI Jakarta|Kota Jakarta Timur|Kota Jakarta Timur|139610|2278|115635|21697|3000000|182.7|16639|10|65|
 02072021|02|07|2021|43|6|DKI Jakarta|Kota Jakarta Timur|Kota Jakarta Timur|137304|2262|113977|21065|3000000|182.7|16639|10|65|
 01072021|01|07|2021|43|6|DKI Jakarta|Kota Jakarta Timur|Kota Jakarta Timur|134311|2258|112852|19201|3000000|182.7|16639|10|65|
@@ -1863,6 +1871,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 27032020|27|03|2020|43|6|DKI Jakarta|Kota Jakarta Timur|Kota Jakarta Timur|72|13|4|55|3000000|182.7|16639|10|65|
 26032020|26|03|2020|43|6|DKI Jakarta|Kota Jakarta Timur|Kota Jakarta Timur|70|11|4|55|3000000|182.7|16639|10|65|
 25032020|25|03|2020|43|6|DKI Jakarta|Kota Jakarta Timur|Kota Jakarta Timur|59|9|3|47|3000000|182.7|16639|10|65|
+05072021|05|07|2021|44|6|DKI Jakarta|Kota Jakarta Utara|Kota Jakarta Utara|71742|1078|58248|12416|1800000|140|12621|6|31|1
+04072021|04|07|2021|44|6|DKI Jakarta|Kota Jakarta Utara|Kota Jakarta Utara|70661|1066|57926|11669|1800000|140|12621|6|31|1
 03072021|03|07|2021|44|6|DKI Jakarta|Kota Jakarta Utara|Kota Jakarta Utara|69042|1054|56917|11071|1800000|140|12621|6|31|1
 02072021|02|07|2021|44|6|DKI Jakarta|Kota Jakarta Utara|Kota Jakarta Utara|67666|1051|56384|10231|1800000|140|12621|6|31|1
 01072021|01|07|2021|44|6|DKI Jakarta|Kota Jakarta Utara|Kota Jakarta Utara|66865|1049|55702|10114|1800000|140|12621|6|31|1
@@ -2329,6 +2339,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 27032020|27|03|2020|44|6|DKI Jakarta|Kota Jakarta Utara|Kota Jakarta Utara|36|6|1|29|1800000|140|12621|6|31|1
 26032020|26|03|2020|44|6|DKI Jakarta|Kota Jakarta Utara|Kota Jakarta Utara|35|6|1|28|1800000|140|12621|6|31|1
 25032020|25|03|2020|44|6|DKI Jakarta|Kota Jakarta Utara|Kota Jakarta Utara|29|5|1|23|1800000|140|12621|6|31|1
+05072021|05|07|2021|45|6|DKI Jakarta|Kab. Kepulauan Seribu|Kepulauan Seribu|830|8|601|221|28000|10.2|2751|2|6|110
+04072021|04|07|2021|45|6|DKI Jakarta|Kab. Kepulauan Seribu|Kepulauan Seribu|783|8|597|178|28000|10.2|2751|2|6|110
 03072021|03|07|2021|45|6|DKI Jakarta|Kab. Kepulauan Seribu|Kepulauan Seribu|723|8|597|118|28000|10.2|2751|2|6|110
 02072021|02|07|2021|45|6|DKI Jakarta|Kab. Kepulauan Seribu|Kepulauan Seribu|716|8|593|115|28000|10.2|2751|2|6|110
 01072021|01|07|2021|45|6|DKI Jakarta|Kab. Kepulauan Seribu|Kepulauan Seribu|701|8|589|104|28000|10.2|2751|2|6|110
