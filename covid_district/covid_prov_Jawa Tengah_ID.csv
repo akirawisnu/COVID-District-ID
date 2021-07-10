@@ -1,4 +1,6 @@
 date|day|month|year|id_district|id_province|province_name|district_name|city_name|confirmed_case|death_case|recovered_case|active_case|population|area_km2|pop_density|num_kecamatan|num_village|num_islands
+07072021|07|07|2021|100|10|Jawa Tengah|Kab. Kebumen|Kebumen|10553|380|9094|1079|1400000|1211.7|1161|26|460|
+06072021|06|07|2021|100|10|Jawa Tengah|Kab. Kebumen|Kebumen|10342|378|8926|1038|1400000|1211.7|1161|26|460|
 05072021|05|07|2021|100|10|Jawa Tengah|Kab. Kebumen|Kebumen|10195|372|8708|1115|1400000|1211.7|1161|26|460|
 04072021|04|07|2021|100|10|Jawa Tengah|Kab. Kebumen|Kebumen|10126|371|8638|1117|1400000|1211.7|1161|26|460|
 03072021|03|07|2021|100|10|Jawa Tengah|Kab. Kebumen|Kebumen|10031|364|8497|1170|1400000|1211.7|1161|26|460|
@@ -376,6 +378,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 26062020|26|06|2020|100|10|Jawa Tengah|Kab. Kebumen|Kebumen|39|1|32|6|1400000|1211.7|1161|26|460|
 25062020|25|06|2020|100|10|Jawa Tengah|Kab. Kebumen|Kebumen|39|1|32|6|1400000|1211.7|1161|26|460|
 24062020|24|06|2020|100|10|Jawa Tengah|Kab. Kebumen|Kebumen|33|1|29|3|1400000|1211.7|1161|26|460|
+07072021|07|07|2021|101|10|Jawa Tengah|Kab. Kendal|Kendal|10914|452|9320|1142|1000000|1118.1|902|20|286|
+06072021|06|07|2021|101|10|Jawa Tengah|Kab. Kendal|Kendal|10792|443|9159|1190|1000000|1118.1|902|20|286|
 05072021|05|07|2021|101|10|Jawa Tengah|Kab. Kendal|Kendal|10684|438|8908|1338|1000000|1118.1|902|20|286|
 04072021|04|07|2021|101|10|Jawa Tengah|Kab. Kendal|Kendal|10480|427|8781|1272|1000000|1118.1|902|20|286|
 03072021|03|07|2021|101|10|Jawa Tengah|Kab. Kendal|Kendal|10433|426|8597|1410|1000000|1118.1|902|20|286|
@@ -753,6 +757,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 26062020|26|06|2020|101|10|Jawa Tengah|Kab. Kendal|Kendal|39|2|12|25|1000000|1118.1|902|20|286|
 25062020|25|06|2020|101|10|Jawa Tengah|Kab. Kendal|Kendal|39|2|12|25|1000000|1118.1|902|20|286|
 24062020|24|06|2020|101|10|Jawa Tengah|Kab. Kendal|Kendal|34|2|12|20|1000000|1118.1|902|20|286|
+07072021|07|07|2021|102|10|Jawa Tengah|Kab. Klaten|Klaten|9323|397|7576|1350|1300000|658.2|2046|26|401|
+06072021|06|07|2021|102|10|Jawa Tengah|Kab. Klaten|Klaten|9169|390|7505|1274|1300000|658.2|2046|26|401|
 05072021|05|07|2021|102|10|Jawa Tengah|Kab. Klaten|Klaten|9016|384|7462|1170|1300000|658.2|2046|26|401|
 04072021|04|07|2021|102|10|Jawa Tengah|Kab. Klaten|Klaten|8768|383|7402|983|1300000|658.2|2046|26|401|
 03072021|03|07|2021|102|10|Jawa Tengah|Kab. Klaten|Klaten|8706|382|7369|955|1300000|658.2|2046|26|401|
@@ -1130,6 +1136,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 26062020|26|06|2020|102|10|Jawa Tengah|Kab. Klaten|Klaten|56|2|32|22|1300000|658.2|2046|26|401|
 25062020|25|06|2020|102|10|Jawa Tengah|Kab. Klaten|Klaten|56|2|32|22|1300000|658.2|2046|26|401|
 24062020|24|06|2020|102|10|Jawa Tengah|Kab. Klaten|Klaten|47|1|22|24|1300000|658.2|2046|26|401|
+07072021|07|07|2021|103|10|Jawa Tengah|Kab. Kudus|Kudus|14891|1222|12789|880|860000|425.2|2022|9|132|
+06072021|06|07|2021|103|10|Jawa Tengah|Kab. Kudus|Kudus|14813|1212|12497|1104|860000|425.2|2022|9|132|
 05072021|05|07|2021|103|10|Jawa Tengah|Kab. Kudus|Kudus|14666|1207|12370|1089|860000|425.2|2022|9|132|
 04072021|04|07|2021|103|10|Jawa Tengah|Kab. Kudus|Kudus|14593|1197|12164|1232|860000|425.2|2022|9|132|
 03072021|03|07|2021|103|10|Jawa Tengah|Kab. Kudus|Kudus|14515|1191|11953|1371|860000|425.2|2022|9|132|
@@ -1507,6 +1515,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 26062020|26|06|2020|103|10|Jawa Tengah|Kab. Kudus|Kudus|109|10|41|58|860000|425.2|2022|9|132|
 25062020|25|06|2020|103|10|Jawa Tengah|Kab. Kudus|Kudus|106|10|41|55|860000|425.2|2022|9|132|
 24062020|24|06|2020|103|10|Jawa Tengah|Kab. Kudus|Kudus|105|9|38|58|860000|425.2|2022|9|132|
+07072021|07|07|2021|104|10|Jawa Tengah|Kab. Magelang|Magelang|10144|354|9225|565|1300000|1102.9|1199|21|372|
+06072021|06|07|2021|104|10|Jawa Tengah|Kab. Magelang|Magelang|9963|347|9166|450|1300000|1102.9|1199|21|372|
 05072021|05|07|2021|104|10|Jawa Tengah|Kab. Magelang|Magelang|9862|345|9089|428|1300000|1102.9|1199|21|372|
 04072021|04|07|2021|104|10|Jawa Tengah|Kab. Magelang|Magelang|9816|345|9039|432|1300000|1102.9|1199|21|372|
 03072021|03|07|2021|104|10|Jawa Tengah|Kab. Magelang|Magelang|9746|344|8892|510|1300000|1102.9|1199|21|372|
@@ -1884,6 +1894,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 26062020|26|06|2020|104|10|Jawa Tengah|Kab. Magelang|Magelang|131|4|108|19|1300000|1102.9|1199|21|372|
 25062020|25|06|2020|104|10|Jawa Tengah|Kab. Magelang|Magelang|131|4|108|19|1300000|1102.9|1199|21|372|
 24062020|24|06|2020|104|10|Jawa Tengah|Kab. Magelang|Magelang|130|4|95|31|1300000|1102.9|1199|21|372|
+07072021|07|07|2021|105|10|Jawa Tengah|Kota Magelang|Kota Magelang|2823|129|2518|176|133000|16.1|8312|3|17|
+06072021|06|07|2021|105|10|Jawa Tengah|Kota Magelang|Kota Magelang|2711|129|2513|69|133000|16.1|8312|3|17|
 05072021|05|07|2021|105|10|Jawa Tengah|Kota Magelang|Kota Magelang|2698|129|2493|76|133000|16.1|8312|3|17|
 04072021|04|07|2021|105|10|Jawa Tengah|Kota Magelang|Kota Magelang|2684|129|2469|86|133000|16.1|8312|3|17|
 03072021|03|07|2021|105|10|Jawa Tengah|Kota Magelang|Kota Magelang|2684|129|2440|115|133000|16.1|8312|3|17|
@@ -2261,6 +2273,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 26062020|26|06|2020|105|10|Jawa Tengah|Kota Magelang|Kota Magelang|34|4|24|6|133000|16.1|8312|3|17|
 25062020|25|06|2020|105|10|Jawa Tengah|Kota Magelang|Kota Magelang|34|4|24|6|133000|16.1|8312|3|17|
 24062020|24|06|2020|105|10|Jawa Tengah|Kota Magelang|Kota Magelang|34|4|19|11|133000|16.1|8312|3|17|
+07072021|07|07|2021|106|10|Jawa Tengah|Kab. Pati|Pati|5110|809|3887|414|1300000|1489.2|890|21|406|
+06072021|06|07|2021|106|10|Jawa Tengah|Kab. Pati|Pati|5052|798|3839|415|1300000|1489.2|890|21|406|
 05072021|05|07|2021|106|10|Jawa Tengah|Kab. Pati|Pati|4993|781|3776|436|1300000|1489.2|890|21|406|
 04072021|04|07|2021|106|10|Jawa Tengah|Kab. Pati|Pati|4926|769|3732|425|1300000|1489.2|890|21|406|
 03072021|03|07|2021|106|10|Jawa Tengah|Kab. Pati|Pati|4872|762|3709|401|1300000|1489.2|890|21|406|
@@ -2638,6 +2652,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 26062020|26|06|2020|106|10|Jawa Tengah|Kab. Pati|Pati|24|2|21|1|1300000|1489.2|890|21|406|
 25062020|25|06|2020|106|10|Jawa Tengah|Kab. Pati|Pati|24|2|21|1|1300000|1489.2|890|21|406|
 24062020|24|06|2020|106|10|Jawa Tengah|Kab. Pati|Pati|24|2|21|1|1300000|1489.2|890|21|406|
+07072021|07|07|2021|107|10|Jawa Tengah|Kab. Pekalongan|Pekalongan|4332|253|3820|259|965000|837|1153|19|285|
+06072021|06|07|2021|107|10|Jawa Tengah|Kab. Pekalongan|Pekalongan|4297|248|3795|254|965000|837|1153|19|285|
 05072021|05|07|2021|107|10|Jawa Tengah|Kab. Pekalongan|Pekalongan|4258|247|3749|262|965000|837|1153|19|285|
 04072021|04|07|2021|107|10|Jawa Tengah|Kab. Pekalongan|Pekalongan|4233|247|3698|288|965000|837|1153|19|285|
 03072021|03|07|2021|107|10|Jawa Tengah|Kab. Pekalongan|Pekalongan|4216|247|3643|326|965000|837|1153|19|285|
@@ -3015,6 +3031,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 26062020|26|06|2020|107|10|Jawa Tengah|Kab. Pekalongan|Pekalongan|18|1|11|6|965000|837|1153|19|285|
 25062020|25|06|2020|107|10|Jawa Tengah|Kab. Pekalongan|Pekalongan|18|1|11|6|965000|837|1153|19|285|
 24062020|24|06|2020|107|10|Jawa Tengah|Kab. Pekalongan|Pekalongan|18|1|11|6|965000|837|1153|19|285|
+07072021|07|07|2021|108|10|Jawa Tengah|Kota Pekalongan|Kota Pekalongan|3562|178|2991|393|315000|45.3|6960|4|27|
+06072021|06|07|2021|108|10|Jawa Tengah|Kota Pekalongan|Kota Pekalongan|3513|175|2983|355|315000|45.3|6960|4|27|
 05072021|05|07|2021|108|10|Jawa Tengah|Kota Pekalongan|Kota Pekalongan|3405|174|2975|256|315000|45.3|6960|4|27|
 04072021|04|07|2021|108|10|Jawa Tengah|Kota Pekalongan|Kota Pekalongan|3402|173|2858|371|315000|45.3|6960|4|27|
 03072021|03|07|2021|108|10|Jawa Tengah|Kota Pekalongan|Kota Pekalongan|3350|173|2839|338|315000|45.3|6960|4|27|
@@ -3392,6 +3410,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 26062020|26|06|2020|108|10|Jawa Tengah|Kota Pekalongan|Kota Pekalongan|11|1|10||315000|45.3|6960|4|27|
 25062020|25|06|2020|108|10|Jawa Tengah|Kota Pekalongan|Kota Pekalongan|11|1|10||315000|45.3|6960|4|27|
 24062020|24|06|2020|108|10|Jawa Tengah|Kota Pekalongan|Kota Pekalongan|11|1|10||315000|45.3|6960|4|27|
+07072021|07|07|2021|109|10|Jawa Tengah|Kab. Pemalang|Pemalang|6729|377|5532|820|1500000|1118|1358|14|222|
+06072021|06|07|2021|109|10|Jawa Tengah|Kab. Pemalang|Pemalang|6559|375|5461|723|1500000|1118|1358|14|222|
 05072021|05|07|2021|109|10|Jawa Tengah|Kab. Pemalang|Pemalang|6451|365|5398|688|1500000|1118|1358|14|222|
 04072021|04|07|2021|109|10|Jawa Tengah|Kab. Pemalang|Pemalang|6394|364|5331|699|1500000|1118|1358|14|222|
 03072021|03|07|2021|109|10|Jawa Tengah|Kab. Pemalang|Pemalang|6348|360|5226|762|1500000|1118|1358|14|222|
@@ -3862,6 +3882,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 25032020|25|03|2020|109|10|Jawa Tengah|Kab. Pemalang|Pemalang|||||1500000|1118|1358|14|222|
 24032020|24|03|2020|109|10|Jawa Tengah|Kab. Pemalang|Pemalang|||||1500000|1118|1358|14|222|
 23032020|23|03|2020|109|10|Jawa Tengah|Kab. Pemalang|Pemalang|||||1500000|1118|1358|14|222|
+07072021|07|07|2021|110|10|Jawa Tengah|Kab. Purbalingga|Purbalingga|5262|220|4722|320|984000|677.6|1453|18|239|
+06072021|06|07|2021|110|10|Jawa Tengah|Kab. Purbalingga|Purbalingga|5256|220|4702|334|984000|677.6|1453|18|239|
 05072021|05|07|2021|110|10|Jawa Tengah|Kab. Purbalingga|Purbalingga|5228|220|4692|316|984000|677.6|1453|18|239|
 04072021|04|07|2021|110|10|Jawa Tengah|Kab. Purbalingga|Purbalingga|5217|217|4682|318|984000|677.6|1453|18|239|
 03072021|03|07|2021|110|10|Jawa Tengah|Kab. Purbalingga|Purbalingga|5193|217|4680|296|984000|677.6|1453|18|239|
@@ -4239,6 +4261,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 26062020|26|06|2020|110|10|Jawa Tengah|Kab. Purbalingga|Purbalingga|62|1|50|11|984000|677.6|1453|18|239|
 25062020|25|06|2020|110|10|Jawa Tengah|Kab. Purbalingga|Purbalingga|62|1|50|11|984000|677.6|1453|18|239|
 24062020|24|06|2020|110|10|Jawa Tengah|Kab. Purbalingga|Purbalingga|60|1|49|10|984000|677.6|1453|18|239|
+07072021|07|07|2021|111|10|Jawa Tengah|Kab. Purworejo|Purworejo|8902|222|7638|1042|796000|1091.5|729|16|494|
+06072021|06|07|2021|111|10|Jawa Tengah|Kab. Purworejo|Purworejo|8625|217|7531|877|796000|1091.5|729|16|494|
 05072021|05|07|2021|111|10|Jawa Tengah|Kab. Purworejo|Purworejo|8377|210|7382|785|796000|1091.5|729|16|494|
 04072021|04|07|2021|111|10|Jawa Tengah|Kab. Purworejo|Purworejo|8334|209|7273|852|796000|1091.5|729|16|494|
 03072021|03|07|2021|111|10|Jawa Tengah|Kab. Purworejo|Purworejo|8329|209|7166|954|796000|1091.5|729|16|494|
@@ -4616,6 +4640,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 26062020|26|06|2020|111|10|Jawa Tengah|Kab. Purworejo|Purworejo|69||69||796000|1091.5|729|16|494|
 25062020|25|06|2020|111|10|Jawa Tengah|Kab. Purworejo|Purworejo|69||69||796000|1091.5|729|16|494|
 24062020|24|06|2020|111|10|Jawa Tengah|Kab. Purworejo|Purworejo|69||69||796000|1091.5|729|16|494|
+07072021|07|07|2021|112|10|Jawa Tengah|Kab. Rembang|Rembang|3793|474|2821|498|646000|887.1|728|14|294|3
+06072021|06|07|2021|112|10|Jawa Tengah|Kab. Rembang|Rembang|3759|465|2799|495|646000|887.1|728|14|294|3
 05072021|05|07|2021|112|10|Jawa Tengah|Kab. Rembang|Rembang|3731|462|2774|495|646000|887.1|728|14|294|3
 04072021|04|07|2021|112|10|Jawa Tengah|Kab. Rembang|Rembang|3712|454|2748|510|646000|887.1|728|14|294|3
 03072021|03|07|2021|112|10|Jawa Tengah|Kab. Rembang|Rembang|3662|448|2672|542|646000|887.1|728|14|294|3
@@ -4993,6 +5019,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 26062020|26|06|2020|112|10|Jawa Tengah|Kab. Rembang|Rembang|35|3|9|23|646000|887.1|728|14|294|3
 25062020|25|06|2020|112|10|Jawa Tengah|Kab. Rembang|Rembang|35|3|9|23|646000|887.1|728|14|294|3
 24062020|24|06|2020|112|10|Jawa Tengah|Kab. Rembang|Rembang|33|3|9|21|646000|887.1|728|14|294|3
+07072021|07|07|2021|113|10|Jawa Tengah|Kota Salatiga|Kota Salatiga|2429|52|2241|136|193000|57.4|3363|4|23|
+06072021|06|07|2021|113|10|Jawa Tengah|Kota Salatiga|Kota Salatiga|2428|52|2239|137|193000|57.4|3363|4|23|
 05072021|05|07|2021|113|10|Jawa Tengah|Kota Salatiga|Kota Salatiga|2412|49|2186|177|193000|57.4|3363|4|23|
 04072021|04|07|2021|113|10|Jawa Tengah|Kota Salatiga|Kota Salatiga|2412|49|2186|177|193000|57.4|3363|4|23|
 03072021|03|07|2021|113|10|Jawa Tengah|Kota Salatiga|Kota Salatiga|2361|49|2169|143|193000|57.4|3363|4|23|
@@ -5370,6 +5398,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 26062020|26|06|2020|113|10|Jawa Tengah|Kota Salatiga|Kota Salatiga|73||43|30|193000|57.4|3363|4|23|
 25062020|25|06|2020|113|10|Jawa Tengah|Kota Salatiga|Kota Salatiga|73||43|30|193000|57.4|3363|4|23|
 24062020|24|06|2020|113|10|Jawa Tengah|Kota Salatiga|Kota Salatiga|69||36|33|193000|57.4|3363|4|23|
+07072021|07|07|2021|114|10|Jawa Tengah|Kab. Semarang|Semarang|8083|487|6902|694|1000000|950.2|1096|19|235|
+06072021|06|07|2021|114|10|Jawa Tengah|Kab. Semarang|Semarang|8019|482|6866|671|1000000|950.2|1096|19|235|
 05072021|05|07|2021|114|10|Jawa Tengah|Kab. Semarang|Semarang|7976|479|6809|688|1000000|950.2|1096|19|235|
 04072021|04|07|2021|114|10|Jawa Tengah|Kab. Semarang|Semarang|7893|479|6753|661|1000000|950.2|1096|19|235|
 03072021|03|07|2021|114|10|Jawa Tengah|Kab. Semarang|Semarang|7880|468|6705|707|1000000|950.2|1096|19|235|
@@ -5747,6 +5777,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 26062020|26|06|2020|114|10|Jawa Tengah|Kab. Semarang|Semarang|41|7|20|14|1000000|950.2|1096|19|235|
 25062020|25|06|2020|114|10|Jawa Tengah|Kab. Semarang|Semarang|40|7|20|13|1000000|950.2|1096|19|235|
 24062020|24|06|2020|114|10|Jawa Tengah|Kab. Semarang|Semarang|37|7|17|13|1000000|950.2|1096|19|235|
+07072021|07|07|2021|115|10|Jawa Tengah|Kota Semarang|Kota Semarang|23860|2452|19764|1644|1700000|373.8|4566|16|177|
+06072021|06|07|2021|115|10|Jawa Tengah|Kota Semarang|Kota Semarang|23691|2437|19656|1598|1700000|373.8|4566|16|177|
 05072021|05|07|2021|115|10|Jawa Tengah|Kota Semarang|Kota Semarang|23443|2395|19562|1486|1700000|373.8|4566|16|177|
 04072021|04|07|2021|115|10|Jawa Tengah|Kota Semarang|Kota Semarang|23307|2386|19411|1510|1700000|373.8|4566|16|177|
 03072021|03|07|2021|115|10|Jawa Tengah|Kota Semarang|Kota Semarang|23214|2369|19290|1555|1700000|373.8|4566|16|177|
@@ -6124,6 +6156,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 26062020|26|06|2020|115|10|Jawa Tengah|Kota Semarang|Kota Semarang|904|97|356|451|1700000|373.8|4566|16|177|
 25062020|25|06|2020|115|10|Jawa Tengah|Kota Semarang|Kota Semarang|904|97|356|451|1700000|373.8|4566|16|177|
 24062020|24|06|2020|115|10|Jawa Tengah|Kota Semarang|Kota Semarang|904|97|356|451|1700000|373.8|4566|16|177|
+07072021|07|07|2021|116|10|Jawa Tengah|Kab. Sragen|Sragen|9485|734|8029|722|1000000|941.5|1076|20|208|
+06072021|06|07|2021|116|10|Jawa Tengah|Kab. Sragen|Sragen|9391|728|7976|687|1000000|941.5|1076|20|208|
 05072021|05|07|2021|116|10|Jawa Tengah|Kab. Sragen|Sragen|9363|719|7960|684|1000000|941.5|1076|20|208|
 04072021|04|07|2021|116|10|Jawa Tengah|Kab. Sragen|Sragen|9349|713|7865|771|1000000|941.5|1076|20|208|
 03072021|03|07|2021|116|10|Jawa Tengah|Kab. Sragen|Sragen|9327|713|7753|861|1000000|941.5|1076|20|208|
@@ -6501,6 +6535,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 26062020|26|06|2020|116|10|Jawa Tengah|Kab. Sragen|Sragen|40|1|35|4|1000000|941.5|1076|20|208|
 25062020|25|06|2020|116|10|Jawa Tengah|Kab. Sragen|Sragen|40|1|35|4|1000000|941.5|1076|20|208|
 24062020|24|06|2020|116|10|Jawa Tengah|Kab. Sragen|Sragen|40|1|34|5|1000000|941.5|1076|20|208|
+07072021|07|07|2021|117|10|Jawa Tengah|Kab. Sukoharjo|Sukoharjo|6797|596|5463|738|926000|489.1|1894|12|167|
+06072021|06|07|2021|117|10|Jawa Tengah|Kab. Sukoharjo|Sukoharjo|6724|592|5406|726|926000|489.1|1894|12|167|
 05072021|05|07|2021|117|10|Jawa Tengah|Kab. Sukoharjo|Sukoharjo|6659|585|5363|711|926000|489.1|1894|12|167|
 04072021|04|07|2021|117|10|Jawa Tengah|Kab. Sukoharjo|Sukoharjo|6568|581|5318|669|926000|489.1|1894|12|167|
 03072021|03|07|2021|117|10|Jawa Tengah|Kab. Sukoharjo|Sukoharjo|6561|577|5263|721|926000|489.1|1894|12|167|
@@ -6878,6 +6914,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 26062020|26|06|2020|117|10|Jawa Tengah|Kab. Sukoharjo|Sukoharjo|53|5|40|8|926000|489.1|1894|12|167|
 25062020|25|06|2020|117|10|Jawa Tengah|Kab. Sukoharjo|Sukoharjo|53|5|40|8|926000|489.1|1894|12|167|
 24062020|24|06|2020|117|10|Jawa Tengah|Kab. Sukoharjo|Sukoharjo|52|5|40|7|926000|489.1|1894|12|167|
+07072021|07|07|2021|118|10|Jawa Tengah|Kota Surakarta|Kota Surakarta|7914|557|6750|607|580000|46|12617|5|51|
+06072021|06|07|2021|118|10|Jawa Tengah|Kota Surakarta|Kota Surakarta|7885|553|6701|631|580000|46|12617|5|51|
 05072021|05|07|2021|118|10|Jawa Tengah|Kota Surakarta|Kota Surakarta|7830|550|6674|606|580000|46|12617|5|51|
 04072021|04|07|2021|118|10|Jawa Tengah|Kota Surakarta|Kota Surakarta|7776|548|6647|581|580000|46|12617|5|51|
 03072021|03|07|2021|118|10|Jawa Tengah|Kota Surakarta|Kota Surakarta|7727|545|6624|558|580000|46|12617|5|51|
@@ -7255,6 +7293,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 26062020|26|06|2020|118|10|Jawa Tengah|Kota Surakarta|Kota Surakarta|44|4|36|4|580000|46|12617|5|51|
 25062020|25|06|2020|118|10|Jawa Tengah|Kota Surakarta|Kota Surakarta|44|4|36|4|580000|46|12617|5|51|
 24062020|24|06|2020|118|10|Jawa Tengah|Kota Surakarta|Kota Surakarta|40|4|33|3|580000|46|12617|5|51|
+07072021|07|07|2021|119|10|Jawa Tengah|Kab. Tegal|Tegal|9042|512|7885|645|1500000|876.1|1702|18|287|
+06072021|06|07|2021|119|10|Jawa Tengah|Kab. Tegal|Tegal|8957|509|7857|591|1500000|876.1|1702|18|287|
 05072021|05|07|2021|119|10|Jawa Tengah|Kab. Tegal|Tegal|8919|507|7824|588|1500000|876.1|1702|18|287|
 04072021|04|07|2021|119|10|Jawa Tengah|Kab. Tegal|Tegal|8872|505|7772|595|1500000|876.1|1702|18|287|
 03072021|03|07|2021|119|10|Jawa Tengah|Kab. Tegal|Tegal|8817|504|7706|607|1500000|876.1|1702|18|287|
@@ -7632,6 +7672,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 26062020|26|06|2020|119|10|Jawa Tengah|Kab. Tegal|Tegal|30|4|13|13|1500000|876.1|1702|18|287|
 25062020|25|06|2020|119|10|Jawa Tengah|Kab. Tegal|Tegal|30|4|13|13|1500000|876.1|1702|18|287|
 24062020|24|06|2020|119|10|Jawa Tengah|Kab. Tegal|Tegal|29|4|13|12|1500000|876.1|1702|18|287|
+07072021|07|07|2021|120|10|Jawa Tengah|Kota Tegal|Kota Tegal|2170|139|1882|149|290000|39.7|7310|4|27|
+06072021|06|07|2021|120|10|Jawa Tengah|Kota Tegal|Kota Tegal|2113|137|1848|128|290000|39.7|7310|4|27|
 05072021|05|07|2021|120|10|Jawa Tengah|Kota Tegal|Kota Tegal|2098|136|1846|116|290000|39.7|7310|4|27|
 04072021|04|07|2021|120|10|Jawa Tengah|Kota Tegal|Kota Tegal|2092|134|1841|117|290000|39.7|7310|4|27|
 03072021|03|07|2021|120|10|Jawa Tengah|Kota Tegal|Kota Tegal|2092|133|1825|134|290000|39.7|7310|4|27|
@@ -8009,6 +8051,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 26062020|26|06|2020|120|10|Jawa Tengah|Kota Tegal|Kota Tegal|4|1|2|1|290000|39.7|7310|4|27|
 25062020|25|06|2020|120|10|Jawa Tengah|Kota Tegal|Kota Tegal|4|1|2|1|290000|39.7|7310|4|27|
 24062020|24|06|2020|120|10|Jawa Tengah|Kota Tegal|Kota Tegal|4|1|2|1|290000|39.7|7310|4|27|
+07072021|07|07|2021|121|10|Jawa Tengah|Kab. Temanggung|Temanggung|6154|191|5230|733|795000|837.7|949|20|289|
+06072021|06|07|2021|121|10|Jawa Tengah|Kab. Temanggung|Temanggung|6081|185|5111|785|795000|837.7|949|20|289|
 05072021|05|07|2021|121|10|Jawa Tengah|Kab. Temanggung|Temanggung|5972|181|5028|763|795000|837.7|949|20|289|
 04072021|04|07|2021|121|10|Jawa Tengah|Kab. Temanggung|Temanggung|5806|180|4937|689|795000|837.7|949|20|289|
 03072021|03|07|2021|121|10|Jawa Tengah|Kab. Temanggung|Temanggung|5723|179|4803|741|795000|837.7|949|20|289|
@@ -8386,6 +8430,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 26062020|26|06|2020|121|10|Jawa Tengah|Kab. Temanggung|Temanggung|68|2|55|11|795000|837.7|949|20|289|
 25062020|25|06|2020|121|10|Jawa Tengah|Kab. Temanggung|Temanggung|68|2|55|11|795000|837.7|949|20|289|
 24062020|24|06|2020|121|10|Jawa Tengah|Kab. Temanggung|Temanggung|68|2|55|11|795000|837.7|949|20|289|
+07072021|07|07|2021|122|10|Jawa Tengah|Kab. Wonogiri|Wonogiri|5879|436|4968|475|1100000|1793.7|622|25|294|
+06072021|06|07|2021|122|10|Jawa Tengah|Kab. Wonogiri|Wonogiri|5821|426|4950|445|1100000|1793.7|622|25|294|
 05072021|05|07|2021|122|10|Jawa Tengah|Kab. Wonogiri|Wonogiri|5773|422|4918|433|1100000|1793.7|622|25|294|
 04072021|04|07|2021|122|10|Jawa Tengah|Kab. Wonogiri|Wonogiri|5734|415|4907|412|1100000|1793.7|622|25|294|
 03072021|03|07|2021|122|10|Jawa Tengah|Kab. Wonogiri|Wonogiri|5734|413|4889|432|1100000|1793.7|622|25|294|
@@ -8763,6 +8809,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 26062020|26|06|2020|122|10|Jawa Tengah|Kab. Wonogiri|Wonogiri|17|2|13|2|1100000|1793.7|622|25|294|
 25062020|25|06|2020|122|10|Jawa Tengah|Kab. Wonogiri|Wonogiri|17|2|13|2|1100000|1793.7|622|25|294|
 24062020|24|06|2020|122|10|Jawa Tengah|Kab. Wonogiri|Wonogiri|16|2|12|2|1100000|1793.7|622|25|294|
+07072021|07|07|2021|123|10|Jawa Tengah|Kab. Wonosobo|Wonosobo|6757|308|5401|1048|886000|981.4|903|15|265|
+06072021|06|07|2021|123|10|Jawa Tengah|Kab. Wonosobo|Wonosobo|6730|301|5353|1076|886000|981.4|903|15|265|
 05072021|05|07|2021|123|10|Jawa Tengah|Kab. Wonosobo|Wonosobo|6653|301|5313|1039|886000|981.4|903|15|265|
 04072021|04|07|2021|123|10|Jawa Tengah|Kab. Wonosobo|Wonosobo|6425|299|5276|850|886000|981.4|903|15|265|
 03072021|03|07|2021|123|10|Jawa Tengah|Kab. Wonosobo|Wonosobo|6321|295|5233|793|886000|981.4|903|15|265|
@@ -9140,6 +9188,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 26062020|26|06|2020|123|10|Jawa Tengah|Kab. Wonosobo|Wonosobo|83||82|1|886000|981.4|903|15|265|
 25062020|25|06|2020|123|10|Jawa Tengah|Kab. Wonosobo|Wonosobo|83||80|3|886000|981.4|903|15|265|
 24062020|24|06|2020|123|10|Jawa Tengah|Kab. Wonosobo|Wonosobo|83||80|3|886000|981.4|903|15|265|
+07072021|07|07|2021|89|10|Jawa Tengah|Kab. Banjarnegara|Banjarnegara|4153|126|2751|1276|1000000|1023.7|1011|20|278|
+06072021|06|07|2021|89|10|Jawa Tengah|Kab. Banjarnegara|Banjarnegara|4034|126|2684|1224|1000000|1023.7|1011|20|278|
 05072021|05|07|2021|89|10|Jawa Tengah|Kab. Banjarnegara|Banjarnegara|3992|126|2623|1243|1000000|1023.7|1011|20|278|
 04072021|04|07|2021|89|10|Jawa Tengah|Kab. Banjarnegara|Banjarnegara|3917|126|2531|1260|1000000|1023.7|1011|20|278|
 03072021|03|07|2021|89|10|Jawa Tengah|Kab. Banjarnegara|Banjarnegara|3778|117|2476|1185|1000000|1023.7|1011|20|278|
@@ -9517,6 +9567,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 26062020|26|06|2020|89|10|Jawa Tengah|Kab. Banjarnegara|Banjarnegara|45|1|36|8|1000000|1023.7|1011|20|278|
 25062020|25|06|2020|89|10|Jawa Tengah|Kab. Banjarnegara|Banjarnegara|45|1|36|8|1000000|1023.7|1011|20|278|
 24062020|24|06|2020|89|10|Jawa Tengah|Kab. Banjarnegara|Banjarnegara|45|1|36|8|1000000|1023.7|1011|20|278|
+07072021|07|07|2021|90|10|Jawa Tengah|Kab. Banyumas|Banyumas|12782|503|11557|722|1800000|1335.3|1346|27|331|
+06072021|06|07|2021|90|10|Jawa Tengah|Kab. Banyumas|Banyumas|12699|496|11536|667|1800000|1335.3|1346|27|331|
 05072021|05|07|2021|90|10|Jawa Tengah|Kab. Banyumas|Banyumas|12652|489|11522|641|1800000|1335.3|1346|27|331|
 04072021|04|07|2021|90|10|Jawa Tengah|Kab. Banyumas|Banyumas|12638|489|11502|647|1800000|1335.3|1346|27|331|
 03072021|03|07|2021|90|10|Jawa Tengah|Kab. Banyumas|Banyumas|12620|489|11471|660|1800000|1335.3|1346|27|331|
@@ -9894,6 +9946,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 26062020|26|06|2020|90|10|Jawa Tengah|Kab. Banyumas|Banyumas|71|4|59|8|1800000|1335.3|1346|27|331|
 25062020|25|06|2020|90|10|Jawa Tengah|Kab. Banyumas|Banyumas|71|4|59|8|1800000|1335.3|1346|27|331|
 24062020|24|06|2020|90|10|Jawa Tengah|Kab. Banyumas|Banyumas|68|4|55|9|1800000|1335.3|1346|27|331|
+07072021|07|07|2021|91|10|Jawa Tengah|Kab. Batang|Batang|5217|270|4409|538|798000|788.7|1012|15|248|
+06072021|06|07|2021|91|10|Jawa Tengah|Kab. Batang|Batang|5038|267|4320|451|798000|788.7|1012|15|248|
 05072021|05|07|2021|91|10|Jawa Tengah|Kab. Batang|Batang|4978|262|4285|431|798000|788.7|1012|15|248|
 04072021|04|07|2021|91|10|Jawa Tengah|Kab. Batang|Batang|4902|258|4248|396|798000|788.7|1012|15|248|
 03072021|03|07|2021|91|10|Jawa Tengah|Kab. Batang|Batang|4828|258|4206|364|798000|788.7|1012|15|248|
@@ -10271,6 +10325,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 26062020|26|06|2020|91|10|Jawa Tengah|Kab. Batang|Batang|41|2|22|17|798000|788.7|1012|15|248|
 25062020|25|06|2020|91|10|Jawa Tengah|Kab. Batang|Batang|41|2|22|17|798000|788.7|1012|15|248|
 24062020|24|06|2020|91|10|Jawa Tengah|Kab. Batang|Batang|38|1|22|15|798000|788.7|1012|15|248|
+07072021|07|07|2021|92|10|Jawa Tengah|Kab. Blora|Blora|8124|402|7448|274|923000|1804.6|511|16|295|
+06072021|06|07|2021|92|10|Jawa Tengah|Kab. Blora|Blora|8082|399|7439|244|923000|1804.6|511|16|295|
 05072021|05|07|2021|92|10|Jawa Tengah|Kab. Blora|Blora|7990|389|7395|206|923000|1804.6|511|16|295|
 04072021|04|07|2021|92|10|Jawa Tengah|Kab. Blora|Blora|7967|387|7387|193|923000|1804.6|511|16|295|
 03072021|03|07|2021|92|10|Jawa Tengah|Kab. Blora|Blora|7947|386|7375|186|923000|1804.6|511|16|295|
@@ -10648,6 +10704,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 26062020|26|06|2020|92|10|Jawa Tengah|Kab. Blora|Blora|19|5|7|7|923000|1804.6|511|16|295|
 25062020|25|06|2020|92|10|Jawa Tengah|Kab. Blora|Blora|18|5|7|6|923000|1804.6|511|16|295|
 24062020|24|06|2020|92|10|Jawa Tengah|Kab. Blora|Blora|16|5|7|4|923000|1804.6|511|16|295|
+07072021|07|07|2021|93|10|Jawa Tengah|Kab. Boyolali|Boyolali|4961|208|4470|283|1000000|1008.5|1013|19|267|
+06072021|06|07|2021|93|10|Jawa Tengah|Kab. Boyolali|Boyolali|4953|206|4465|282|1000000|1008.5|1013|19|267|
 05072021|05|07|2021|93|10|Jawa Tengah|Kab. Boyolali|Boyolali|4940|205|4462|273|1000000|1008.5|1013|19|267|
 04072021|04|07|2021|93|10|Jawa Tengah|Kab. Boyolali|Boyolali|4928|204|4456|268|1000000|1008.5|1013|19|267|
 03072021|03|07|2021|93|10|Jawa Tengah|Kab. Boyolali|Boyolali|4921|202|4454|265|1000000|1008.5|1013|19|267|
@@ -11116,6 +11174,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 27032020|27|03|2020|93|10|Jawa Tengah|Kab. Boyolali|Boyolali|||||1000000|1008.5|1013|19|267|
 26032020|26|03|2020|93|10|Jawa Tengah|Kab. Boyolali|Boyolali|||||1000000|1008.5|1013|19|267|
 25032020|25|03|2020|93|10|Jawa Tengah|Kab. Boyolali|Boyolali|||||1000000|1008.5|1013|19|267|
+07072021|07|07|2021|94|10|Jawa Tengah|Kab. Brebes|Brebes|5376|604|4199|573|2000000|1902.4|1029|17|297|
+06072021|06|07|2021|94|10|Jawa Tengah|Kab. Brebes|Brebes|5333|596|4171|566|2000000|1902.4|1029|17|297|
 05072021|05|07|2021|94|10|Jawa Tengah|Kab. Brebes|Brebes|5284|592|4149|543|2000000|1902.4|1029|17|297|
 04072021|04|07|2021|94|10|Jawa Tengah|Kab. Brebes|Brebes|5269|590|4127|552|2000000|1902.4|1029|17|297|
 03072021|03|07|2021|94|10|Jawa Tengah|Kab. Brebes|Brebes|5245|588|4090|567|2000000|1902.4|1029|17|297|
@@ -11493,6 +11553,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 26062020|26|06|2020|94|10|Jawa Tengah|Kab. Brebes|Brebes|31||29|2|2000000|1902.4|1029|17|297|
 25062020|25|06|2020|94|10|Jawa Tengah|Kab. Brebes|Brebes|31||29|2|2000000|1902.4|1029|17|297|
 24062020|24|06|2020|94|10|Jawa Tengah|Kab. Brebes|Brebes|29||23|6|2000000|1902.4|1029|17|297|
+07072021|07|07|2021|95|10|Jawa Tengah|Kab. Cilacap|Cilacap|10546|312|9206|1028|1900000|2124.5|894|24|284|1
+06072021|06|07|2021|95|10|Jawa Tengah|Kab. Cilacap|Cilacap|10467|311|9123|1033|1900000|2124.5|894|24|284|1
 05072021|05|07|2021|95|10|Jawa Tengah|Kab. Cilacap|Cilacap|10362|310|9076|976|1900000|2124.5|894|24|284|1
 04072021|04|07|2021|95|10|Jawa Tengah|Kab. Cilacap|Cilacap|10265|309|9022|934|1900000|2124.5|894|24|284|1
 03072021|03|07|2021|95|10|Jawa Tengah|Kab. Cilacap|Cilacap|10214|309|8989|916|1900000|2124.5|894|24|284|1
@@ -11870,6 +11932,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 26062020|26|06|2020|95|10|Jawa Tengah|Kab. Cilacap|Cilacap|56|1|46|9|1900000|2124.5|894|24|284|1
 25062020|25|06|2020|95|10|Jawa Tengah|Kab. Cilacap|Cilacap|56|1|46|9|1900000|2124.5|894|24|284|1
 24062020|24|06|2020|95|10|Jawa Tengah|Kab. Cilacap|Cilacap|54|1|39|14|1900000|2124.5|894|24|284|1
+07072021|07|07|2021|96|10|Jawa Tengah|Kab. Demak|Demak|8132|904|6675|553|1200000|900.1|1280|14|249|
+06072021|06|07|2021|96|10|Jawa Tengah|Kab. Demak|Demak|8090|888|6614|588|1200000|900.1|1280|14|249|
 05072021|05|07|2021|96|10|Jawa Tengah|Kab. Demak|Demak|8016|876|6505|635|1200000|900.1|1280|14|249|
 04072021|04|07|2021|96|10|Jawa Tengah|Kab. Demak|Demak|7925|871|6427|627|1200000|900.1|1280|14|249|
 03072021|03|07|2021|96|10|Jawa Tengah|Kab. Demak|Demak|7887|869|6337|681|1200000|900.1|1280|14|249|
@@ -12247,6 +12311,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 26062020|26|06|2020|96|10|Jawa Tengah|Kab. Demak|Demak|200|62|56|82|1200000|900.1|1280|14|249|
 25062020|25|06|2020|96|10|Jawa Tengah|Kab. Demak|Demak|200|62|56|82|1200000|900.1|1280|14|249|
 24062020|24|06|2020|96|10|Jawa Tengah|Kab. Demak|Demak|198|57|54|87|1200000|900.1|1280|14|249|
+07072021|07|07|2021|97|10|Jawa Tengah|Kab. Grobogan|Grobogan|4117|488|3184|445|1500000|2013.9|743|19|280|
+06072021|06|07|2021|97|10|Jawa Tengah|Kab. Grobogan|Grobogan|4082|481|3098|503|1500000|2013.9|743|19|280|
 05072021|05|07|2021|97|10|Jawa Tengah|Kab. Grobogan|Grobogan|3964|476|3043|445|1500000|2013.9|743|19|280|
 04072021|04|07|2021|97|10|Jawa Tengah|Kab. Grobogan|Grobogan|3960|473|3027|460|1500000|2013.9|743|19|280|
 03072021|03|07|2021|97|10|Jawa Tengah|Kab. Grobogan|Grobogan|3936|473|2994|469|1500000|2013.9|743|19|280|
@@ -12624,6 +12690,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 26062020|26|06|2020|97|10|Jawa Tengah|Kab. Grobogan|Grobogan|76|9|24|43|1500000|2013.9|743|19|280|
 25062020|25|06|2020|97|10|Jawa Tengah|Kab. Grobogan|Grobogan|75|9|24|42|1500000|2013.9|743|19|280|
 24062020|24|06|2020|97|10|Jawa Tengah|Kab. Grobogan|Grobogan|63|7|21|35|1500000|2013.9|743|19|280|
+07072021|07|07|2021|98|10|Jawa Tengah|Kab. Jepara|Jepara|7978|581|6792|605|1200000|1059.3|1129|16|195|29
+06072021|06|07|2021|98|10|Jawa Tengah|Kab. Jepara|Jepara|7881|577|6742|562|1200000|1059.3|1129|16|195|29
 05072021|05|07|2021|98|10|Jawa Tengah|Kab. Jepara|Jepara|7797|572|6668|557|1200000|1059.3|1129|16|195|29
 04072021|04|07|2021|98|10|Jawa Tengah|Kab. Jepara|Jepara|7742|567|6604|571|1200000|1059.3|1129|16|195|29
 03072021|03|07|2021|98|10|Jawa Tengah|Kab. Jepara|Jepara|7722|565|6524|633|1200000|1059.3|1129|16|195|29
@@ -13001,6 +13069,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 26062020|26|06|2020|98|10|Jawa Tengah|Kab. Jepara|Jepara|53|13|7|33|1200000|1059.3|1129|16|195|29
 25062020|25|06|2020|98|10|Jawa Tengah|Kab. Jepara|Jepara|53|13|7|33|1200000|1059.3|1129|16|195|29
 24062020|24|06|2020|98|10|Jawa Tengah|Kab. Jepara|Jepara|53|13|7|33|1200000|1059.3|1129|16|195|29
+07072021|07|07|2021|99|10|Jawa Tengah|Kab. Karanganyar|Karanganyar|8344|506|7251|587|926000|775.4|1194|17|177|
+06072021|06|07|2021|99|10|Jawa Tengah|Kab. Karanganyar|Karanganyar|8314|492|7220|602|926000|775.4|1194|17|177|
 05072021|05|07|2021|99|10|Jawa Tengah|Kab. Karanganyar|Karanganyar|8265|488|7184|593|926000|775.4|1194|17|177|
 04072021|04|07|2021|99|10|Jawa Tengah|Kab. Karanganyar|Karanganyar|8236|485|7113|638|926000|775.4|1194|17|177|
 03072021|03|07|2021|99|10|Jawa Tengah|Kab. Karanganyar|Karanganyar|8208|480|7025|703|926000|775.4|1194|17|177|

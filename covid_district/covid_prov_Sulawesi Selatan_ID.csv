@@ -1,4 +1,6 @@
 date|day|month|year|id_district|id_province|province_name|district_name|city_name|confirmed_case|death_case|recovered_case|active_case|population|area_km2|pop_density|num_kecamatan|num_village|num_islands
+07072021|07|07|2021|1281|28|Sulawesi Selatan|"Rekreasi Duta |Sulsel)"|Rekreasi Duta (Sulsel)|574||574|||||||
+06072021|06|07|2021|1281|28|Sulawesi Selatan|"Rekreasi Duta |Sulsel)"|Rekreasi Duta (Sulsel)|574||574|||||||
 05072021|05|07|2021|1281|28|Sulawesi Selatan|"Rekreasi Duta |Sulsel)"|Rekreasi Duta (Sulsel)|574||574|||||||
 04072021|04|07|2021|1281|28|Sulawesi Selatan|"Rekreasi Duta |Sulsel)"|Rekreasi Duta (Sulsel)|574||574|||||||
 03072021|03|07|2021|1281|28|Sulawesi Selatan|"Rekreasi Duta |Sulsel)"|Rekreasi Duta (Sulsel)|574||574|||||||
@@ -376,6 +378,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 26062020|26|06|2020|1281|28|Sulawesi Selatan|"Rekreasi Duta |Sulsel)"|Rekreasi Duta (Sulsel)|574||272|304||||||
 25062020|25|06|2020|1281|28|Sulawesi Selatan|"Rekreasi Duta |Sulsel)"|Rekreasi Duta (Sulsel)|574||247|329||||||
 24062020|24|06|2020|1281|28|Sulawesi Selatan|"Rekreasi Duta |Sulsel)"|Rekreasi Duta (Sulsel)|574||247|329||||||
+07072021|07|07|2021|1282|28|Sulawesi Selatan|"RS Lainnya |Sulsel)"|RS Lainnya (Sulsel)|441|49|392|||||||
+06072021|06|07|2021|1282|28|Sulawesi Selatan|"RS Lainnya |Sulsel)"|RS Lainnya (Sulsel)|441|49|392|||||||
 05072021|05|07|2021|1282|28|Sulawesi Selatan|"RS Lainnya |Sulsel)"|RS Lainnya (Sulsel)|441|49|392|||||||
 04072021|04|07|2021|1282|28|Sulawesi Selatan|"RS Lainnya |Sulsel)"|RS Lainnya (Sulsel)|441|49|392|||||||
 03072021|03|07|2021|1282|28|Sulawesi Selatan|"RS Lainnya |Sulsel)"|RS Lainnya (Sulsel)|441|49|392|||||||
@@ -753,6 +757,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 26062020|26|06|2020|1282|28|Sulawesi Selatan|"RS Lainnya |Sulsel)"|RS Lainnya (Sulsel)|190|15|103|72||||||
 25062020|25|06|2020|1282|28|Sulawesi Selatan|"RS Lainnya |Sulsel)"|RS Lainnya (Sulsel)|182|14|89|79||||||
 24062020|24|06|2020|1282|28|Sulawesi Selatan|"RS Lainnya |Sulsel)"|RS Lainnya (Sulsel)|182|14|43|125||||||
+07072021|07|07|2021|368|28|Sulawesi Selatan|Kab. Bantaeng|Bantaeng|909|9|886|14|203000|395.8|512|8|67|2
+06072021|06|07|2021|368|28|Sulawesi Selatan|Kab. Bantaeng|Bantaeng|909|9|886|14|203000|395.8|512|8|67|2
 05072021|05|07|2021|368|28|Sulawesi Selatan|Kab. Bantaeng|Bantaeng|909|9|886|14|203000|395.8|512|8|67|2
 04072021|04|07|2021|368|28|Sulawesi Selatan|Kab. Bantaeng|Bantaeng|909|9|886|14|203000|395.8|512|8|67|2
 03072021|03|07|2021|368|28|Sulawesi Selatan|Kab. Bantaeng|Bantaeng|903|9|886|8|203000|395.8|512|8|67|2
@@ -1130,6 +1136,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 26062020|26|06|2020|368|28|Sulawesi Selatan|Kab. Bantaeng|Bantaeng|||||203000|395.8|512|8|67|2
 25062020|25|06|2020|368|28|Sulawesi Selatan|Kab. Bantaeng|Bantaeng|||||203000|395.8|512|8|67|2
 24062020|24|06|2020|368|28|Sulawesi Selatan|Kab. Bantaeng|Bantaeng|||||203000|395.8|512|8|67|2
+07072021|07|07|2021|369|28|Sulawesi Selatan|Kab. Barru|Barru|914|5|860|49|179000|1174.7|153|7|55|13
+06072021|06|07|2021|369|28|Sulawesi Selatan|Kab. Barru|Barru|914|5|860|49|179000|1174.7|153|7|55|13
 05072021|05|07|2021|369|28|Sulawesi Selatan|Kab. Barru|Barru|914|5|860|49|179000|1174.7|153|7|55|13
 04072021|04|07|2021|369|28|Sulawesi Selatan|Kab. Barru|Barru|900|5|860|35|179000|1174.7|153|7|55|13
 03072021|03|07|2021|369|28|Sulawesi Selatan|Kab. Barru|Barru|900|5|860|35|179000|1174.7|153|7|55|13
@@ -1507,6 +1515,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 26062020|26|06|2020|369|28|Sulawesi Selatan|Kab. Barru|Barru|4||4||179000|1174.7|153|7|55|13
 25062020|25|06|2020|369|28|Sulawesi Selatan|Kab. Barru|Barru|3||3||179000|1174.7|153|7|55|13
 24062020|24|06|2020|369|28|Sulawesi Selatan|Kab. Barru|Barru|3||3||179000|1174.7|153|7|55|13
+07072021|07|07|2021|370|28|Sulawesi Selatan|Kab. Bone|Bone|1349|12|1310|27|894000|4559|196|27|372|1
+06072021|06|07|2021|370|28|Sulawesi Selatan|Kab. Bone|Bone|1330|12|1308|10|894000|4559|196|27|372|1
 05072021|05|07|2021|370|28|Sulawesi Selatan|Kab. Bone|Bone|1330|12|1308|10|894000|4559|196|27|372|1
 04072021|04|07|2021|370|28|Sulawesi Selatan|Kab. Bone|Bone|1330|12|1308|10|894000|4559|196|27|372|1
 03072021|03|07|2021|370|28|Sulawesi Selatan|Kab. Bone|Bone|1330|12|1308|10|894000|4559|196|27|372|1
@@ -1884,6 +1894,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 26062020|26|06|2020|370|28|Sulawesi Selatan|Kab. Bone|Bone|7||2|5|894000|4559|196|27|372|1
 25062020|25|06|2020|370|28|Sulawesi Selatan|Kab. Bone|Bone|6||1|5|894000|4559|196|27|372|1
 24062020|24|06|2020|370|28|Sulawesi Selatan|Kab. Bone|Bone|6||1|5|894000|4559|196|27|372|1
+07072021|07|07|2021|371|28|Sulawesi Selatan|Kab. Bulukumba|Bulukumba|1167|15|1121|31|446000|1284.6|347|10|136|5
+06072021|06|07|2021|371|28|Sulawesi Selatan|Kab. Bulukumba|Bulukumba|1163|15|1108|40|446000|1284.6|347|10|136|5
 05072021|05|07|2021|371|28|Sulawesi Selatan|Kab. Bulukumba|Bulukumba|1161|15|1106|40|446000|1284.6|347|10|136|5
 04072021|04|07|2021|371|28|Sulawesi Selatan|Kab. Bulukumba|Bulukumba|1158|15|1106|37|446000|1284.6|347|10|136|5
 03072021|03|07|2021|371|28|Sulawesi Selatan|Kab. Bulukumba|Bulukumba|1150|15|1106|29|446000|1284.6|347|10|136|5
@@ -2261,6 +2273,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 26062020|26|06|2020|371|28|Sulawesi Selatan|Kab. Bulukumba|Bulukumba|48||9|39|446000|1284.6|347|10|136|5
 25062020|25|06|2020|371|28|Sulawesi Selatan|Kab. Bulukumba|Bulukumba|47||7|40|446000|1284.6|347|10|136|5
 24062020|24|06|2020|371|28|Sulawesi Selatan|Kab. Bulukumba|Bulukumba|47||2|45|446000|1284.6|347|10|136|5
+07072021|07|07|2021|372|28|Sulawesi Selatan|Kab. Enrekang|Enrekang|385|17|353|15|247000|1784.9|139|12|129|
+06072021|06|07|2021|372|28|Sulawesi Selatan|Kab. Enrekang|Enrekang|383|17|353|13|247000|1784.9|139|12|129|
 05072021|05|07|2021|372|28|Sulawesi Selatan|Kab. Enrekang|Enrekang|383|17|343|23|247000|1784.9|139|12|129|
 04072021|04|07|2021|372|28|Sulawesi Selatan|Kab. Enrekang|Enrekang|383|17|343|23|247000|1784.9|139|12|129|
 03072021|03|07|2021|372|28|Sulawesi Selatan|Kab. Enrekang|Enrekang|383|17|343|23|247000|1784.9|139|12|129|
@@ -2638,6 +2652,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 26062020|26|06|2020|372|28|Sulawesi Selatan|Kab. Enrekang|Enrekang|12|3|9||247000|1784.9|139|12|129|
 25062020|25|06|2020|372|28|Sulawesi Selatan|Kab. Enrekang|Enrekang|12|3|9||247000|1784.9|139|12|129|
 24062020|24|06|2020|372|28|Sulawesi Selatan|Kab. Enrekang|Enrekang|12|3|9||247000|1784.9|139|12|129|
+07072021|07|07|2021|373|28|Sulawesi Selatan|Kab. Gowa|Gowa|5684|66|5475|143|777000|1883.3|413|18|167|
+06072021|06|07|2021|373|28|Sulawesi Selatan|Kab. Gowa|Gowa|5665|66|5472|127|777000|1883.3|413|18|167|
 05072021|05|07|2021|373|28|Sulawesi Selatan|Kab. Gowa|Gowa|5640|66|5472|102|777000|1883.3|413|18|167|
 04072021|04|07|2021|373|28|Sulawesi Selatan|Kab. Gowa|Gowa|5617|66|5471|80|777000|1883.3|413|18|167|
 03072021|03|07|2021|373|28|Sulawesi Selatan|Kab. Gowa|Gowa|5617|66|5467|84|777000|1883.3|413|18|167|
@@ -3015,6 +3031,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 26062020|26|06|2020|373|28|Sulawesi Selatan|Kab. Gowa|Gowa|340|12|75|253|777000|1883.3|413|18|167|
 25062020|25|06|2020|373|28|Sulawesi Selatan|Kab. Gowa|Gowa|320|11|70|239|777000|1883.3|413|18|167|
 24062020|24|06|2020|373|28|Sulawesi Selatan|Kab. Gowa|Gowa|320|11|70|239|777000|1883.3|413|18|167|
+07072021|07|07|2021|374|28|Sulawesi Selatan|Kab. Jeneponto|Jeneponto|1633|12|1439|182|423000|706.5|599|11|113|1
+06072021|06|07|2021|374|28|Sulawesi Selatan|Kab. Jeneponto|Jeneponto|1564|12|1439|113|423000|706.5|599|11|113|1
 05072021|05|07|2021|374|28|Sulawesi Selatan|Kab. Jeneponto|Jeneponto|1537|12|1439|86|423000|706.5|599|11|113|1
 04072021|04|07|2021|374|28|Sulawesi Selatan|Kab. Jeneponto|Jeneponto|1520|12|1439|69|423000|706.5|599|11|113|1
 03072021|03|07|2021|374|28|Sulawesi Selatan|Kab. Jeneponto|Jeneponto|1506|11|1438|57|423000|706.5|599|11|113|1
@@ -3392,6 +3410,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 26062020|26|06|2020|374|28|Sulawesi Selatan|Kab. Jeneponto|Jeneponto|17||3|14|423000|706.5|599|11|113|1
 25062020|25|06|2020|374|28|Sulawesi Selatan|Kab. Jeneponto|Jeneponto|7||3|4|423000|706.5|599|11|113|1
 24062020|24|06|2020|374|28|Sulawesi Selatan|Kab. Jeneponto|Jeneponto|7||1|6|423000|706.5|599|11|113|1
+07072021|07|07|2021|375|28|Sulawesi Selatan|Kab. Luwu|Luwu|647|9|618|20|388000|3344|116|22|227|
+06072021|06|07|2021|375|28|Sulawesi Selatan|Kab. Luwu|Luwu|635|9|618|8|388000|3344|116|22|227|
 05072021|05|07|2021|375|28|Sulawesi Selatan|Kab. Luwu|Luwu|635|9|618|8|388000|3344|116|22|227|
 04072021|04|07|2021|375|28|Sulawesi Selatan|Kab. Luwu|Luwu|635|9|618|8|388000|3344|116|22|227|
 03072021|03|07|2021|375|28|Sulawesi Selatan|Kab. Luwu|Luwu|635|9|618|8|388000|3344|116|22|227|
@@ -3769,6 +3789,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 26062020|26|06|2020|375|28|Sulawesi Selatan|Kab. Luwu|Luwu|7||1|6|388000|3344|116|22|227|
 25062020|25|06|2020|375|28|Sulawesi Selatan|Kab. Luwu|Luwu|7||1|6|388000|3344|116|22|227|
 24062020|24|06|2020|375|28|Sulawesi Selatan|Kab. Luwu|Luwu|7||1|6|388000|3344|116|22|227|
+07072021|07|07|2021|376|28|Sulawesi Selatan|Kab. Luwu Timur|Luwu Timur|3008|11|2804|193|304000|6944.9|44|11|127|11
+06072021|06|07|2021|376|28|Sulawesi Selatan|Kab. Luwu Timur|Luwu Timur|2995|11|2793|191|304000|6944.9|44|11|127|11
 05072021|05|07|2021|376|28|Sulawesi Selatan|Kab. Luwu Timur|Luwu Timur|2980|11|2789|180|304000|6944.9|44|11|127|11
 04072021|04|07|2021|376|28|Sulawesi Selatan|Kab. Luwu Timur|Luwu Timur|2977|11|2788|178|304000|6944.9|44|11|127|11
 03072021|03|07|2021|376|28|Sulawesi Selatan|Kab. Luwu Timur|Luwu Timur|2957|11|2780|166|304000|6944.9|44|11|127|11
@@ -4146,6 +4168,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 26062020|26|06|2020|376|28|Sulawesi Selatan|Kab. Luwu Timur|Luwu Timur|462||153|309|304000|6944.9|44|11|127|11
 25062020|25|06|2020|376|28|Sulawesi Selatan|Kab. Luwu Timur|Luwu Timur|442||150|292|304000|6944.9|44|11|127|11
 24062020|24|06|2020|376|28|Sulawesi Selatan|Kab. Luwu Timur|Luwu Timur|442||150|292|304000|6944.9|44|11|127|11
+07072021|07|07|2021|377|28|Sulawesi Selatan|Kab. Luwu Utara|Luwu Utara|1405|24|1324|57|377000|7502.6|50|12|173|
+06072021|06|07|2021|377|28|Sulawesi Selatan|Kab. Luwu Utara|Luwu Utara|1391|24|1322|45|377000|7502.6|50|12|173|
 05072021|05|07|2021|377|28|Sulawesi Selatan|Kab. Luwu Utara|Luwu Utara|1390|24|1322|44|377000|7502.6|50|12|173|
 04072021|04|07|2021|377|28|Sulawesi Selatan|Kab. Luwu Utara|Luwu Utara|1377|24|1322|31|377000|7502.6|50|12|173|
 03072021|03|07|2021|377|28|Sulawesi Selatan|Kab. Luwu Utara|Luwu Utara|1373|24|1318|31|377000|7502.6|50|12|173|
@@ -4523,6 +4547,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 26062020|26|06|2020|377|28|Sulawesi Selatan|Kab. Luwu Utara|Luwu Utara|4||2|2|377000|7502.6|50|12|173|
 25062020|25|06|2020|377|28|Sulawesi Selatan|Kab. Luwu Utara|Luwu Utara|1||1||377000|7502.6|50|12|173|
 24062020|24|06|2020|377|28|Sulawesi Selatan|Kab. Luwu Utara|Luwu Utara|1||1||377000|7502.6|50|12|173|
+07072021|07|07|2021|378|28|Sulawesi Selatan|Kota Makassar|Kota Makassar|32744|568|30750|1426|1700000|199.3|8619|15|153|12
+06072021|06|07|2021|378|28|Sulawesi Selatan|Kota Makassar|Kota Makassar|32568|563|30716|1289|1700000|199.3|8619|15|153|12
 05072021|05|07|2021|378|28|Sulawesi Selatan|Kota Makassar|Kota Makassar|32453|563|30681|1209|1700000|199.3|8619|15|153|12
 04072021|04|07|2021|378|28|Sulawesi Selatan|Kota Makassar|Kota Makassar|32383|562|30598|1223|1700000|199.3|8619|15|153|12
 03072021|03|07|2021|378|28|Sulawesi Selatan|Kota Makassar|Kota Makassar|32289|560|30548|1181|1700000|199.3|8619|15|153|12
@@ -4900,6 +4926,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 26062020|26|06|2020|378|28|Sulawesi Selatan|Kota Makassar|Kota Makassar|2297|121|680|1496|1700000|199.3|8619|15|153|12
 25062020|25|06|2020|378|28|Sulawesi Selatan|Kota Makassar|Kota Makassar|2158|120|637|1401|1700000|199.3|8619|15|153|12
 24062020|24|06|2020|378|28|Sulawesi Selatan|Kota Makassar|Kota Makassar|2158|120|637|1401|1700000|199.3|8619|15|153|12
+07072021|07|07|2021|379|28|Sulawesi Selatan|Kab. Maros|Maros|2315|26|2233|56|411000|1619.1|254|14|103|
+06072021|06|07|2021|379|28|Sulawesi Selatan|Kab. Maros|Maros|2300|26|2233|41|411000|1619.1|254|14|103|
 05072021|05|07|2021|379|28|Sulawesi Selatan|Kab. Maros|Maros|2300|26|2233|41|411000|1619.1|254|14|103|
 04072021|04|07|2021|379|28|Sulawesi Selatan|Kab. Maros|Maros|2300|26|2233|41|411000|1619.1|254|14|103|
 03072021|03|07|2021|379|28|Sulawesi Selatan|Kab. Maros|Maros|2298|26|2232|40|411000|1619.1|254|14|103|
@@ -5277,6 +5305,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 26062020|26|06|2020|379|28|Sulawesi Selatan|Kab. Maros|Maros|98|2|23|73|411000|1619.1|254|14|103|
 25062020|25|06|2020|379|28|Sulawesi Selatan|Kab. Maros|Maros|85|2|22|61|411000|1619.1|254|14|103|
 24062020|24|06|2020|379|28|Sulawesi Selatan|Kab. Maros|Maros|85|2|22|61|411000|1619.1|254|14|103|
+07072021|07|07|2021|380|28|Sulawesi Selatan|Kota Palopo|Kota Palopo|1601|24|1465|112|189000|253|746|9|48|1
+06072021|06|07|2021|380|28|Sulawesi Selatan|Kota Palopo|Kota Palopo|1589|24|1458|107|189000|253|746|9|48|1
 05072021|05|07|2021|380|28|Sulawesi Selatan|Kota Palopo|Kota Palopo|1551|24|1458|69|189000|253|746|9|48|1
 04072021|04|07|2021|380|28|Sulawesi Selatan|Kota Palopo|Kota Palopo|1551|24|1458|69|189000|253|746|9|48|1
 03072021|03|07|2021|380|28|Sulawesi Selatan|Kota Palopo|Kota Palopo|1551|24|1458|69|189000|253|746|9|48|1
@@ -5654,6 +5684,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 26062020|26|06|2020|380|28|Sulawesi Selatan|Kota Palopo|Kota Palopo|3||2|1|189000|253|746|9|48|1
 25062020|25|06|2020|380|28|Sulawesi Selatan|Kota Palopo|Kota Palopo|2||2||189000|253|746|9|48|1
 24062020|24|06|2020|380|28|Sulawesi Selatan|Kota Palopo|Kota Palopo|2||2||189000|253|746|9|48|1
+07072021|07|07|2021|381|28|Sulawesi Selatan|Kab. Pangkajene Kepulauan|Pangkajene Kepulauan|1344|32|1251|61|373000|1132.1|330|13|103|111
+06072021|06|07|2021|381|28|Sulawesi Selatan|Kab. Pangkajene Kepulauan|Pangkajene Kepulauan|1331|31|1251|49|373000|1132.1|330|13|103|111
 05072021|05|07|2021|381|28|Sulawesi Selatan|Kab. Pangkajene Kepulauan|Pangkajene Kepulauan|1331|31|1249|51|373000|1132.1|330|13|103|111
 04072021|04|07|2021|381|28|Sulawesi Selatan|Kab. Pangkajene Kepulauan|Pangkajene Kepulauan|1330|31|1248|51|373000|1132.1|330|13|103|111
 03072021|03|07|2021|381|28|Sulawesi Selatan|Kab. Pangkajene Kepulauan|Pangkajene Kepulauan|1309|31|1248|30|373000|1132.1|330|13|103|111
@@ -6031,6 +6063,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 26062020|26|06|2020|381|28|Sulawesi Selatan|Kab. Pangkajene Kepulauan|Pangkajene Kepulauan|19|1|2|16|373000|1132.1|330|13|103|111
 25062020|25|06|2020|381|28|Sulawesi Selatan|Kab. Pangkajene Kepulauan|Pangkajene Kepulauan|18|1|1|16|373000|1132.1|330|13|103|111
 24062020|24|06|2020|381|28|Sulawesi Selatan|Kab. Pangkajene Kepulauan|Pangkajene Kepulauan|18|1|1|16|373000|1132.1|330|13|103|111
+07072021|07|07|2021|382|28|Sulawesi Selatan|Kota Parepare|Kota Parepare|1306|24|1219|63|183000|99.3|1846|4|22|
+06072021|06|07|2021|382|28|Sulawesi Selatan|Kota Parepare|Kota Parepare|1268|24|1219|25|183000|99.3|1846|4|22|
 05072021|05|07|2021|382|28|Sulawesi Selatan|Kota Parepare|Kota Parepare|1268|24|1219|25|183000|99.3|1846|4|22|
 04072021|04|07|2021|382|28|Sulawesi Selatan|Kota Parepare|Kota Parepare|1268|24|1218|26|183000|99.3|1846|4|22|
 03072021|03|07|2021|382|28|Sulawesi Selatan|Kota Parepare|Kota Parepare|1268|24|1218|26|183000|99.3|1846|4|22|
@@ -6408,6 +6442,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 26062020|26|06|2020|382|28|Sulawesi Selatan|Kota Parepare|Kota Parepare|58||18|40|183000|99.3|1846|4|22|
 25062020|25|06|2020|382|28|Sulawesi Selatan|Kota Parepare|Kota Parepare|58||18|40|183000|99.3|1846|4|22|
 24062020|24|06|2020|382|28|Sulawesi Selatan|Kota Parepare|Kota Parepare|58||18|40|183000|99.3|1846|4|22|
+07072021|07|07|2021|383|28|Sulawesi Selatan|Kab. Pinrang|Pinrang|1039|46|948|45|425000|1961.7|217|12|108|3
+06072021|06|07|2021|383|28|Sulawesi Selatan|Kab. Pinrang|Pinrang|1033|46|947|40|425000|1961.7|217|12|108|3
 05072021|05|07|2021|383|28|Sulawesi Selatan|Kab. Pinrang|Pinrang|1033|46|947|40|425000|1961.7|217|12|108|3
 04072021|04|07|2021|383|28|Sulawesi Selatan|Kab. Pinrang|Pinrang|1017|46|947|24|425000|1961.7|217|12|108|3
 03072021|03|07|2021|383|28|Sulawesi Selatan|Kab. Pinrang|Pinrang|1017|46|946|25|425000|1961.7|217|12|108|3
@@ -6785,6 +6821,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 26062020|26|06|2020|383|28|Sulawesi Selatan|Kab. Pinrang|Pinrang|16||5|11|425000|1961.7|217|12|108|3
 25062020|25|06|2020|383|28|Sulawesi Selatan|Kab. Pinrang|Pinrang|12||5|7|425000|1961.7|217|12|108|3
 24062020|24|06|2020|383|28|Sulawesi Selatan|Kab. Pinrang|Pinrang|12||5|7|425000|1961.7|217|12|108|3
+07072021|07|07|2021|384|28|Sulawesi Selatan|Kab. Kepulauan Selayar|Kepulauan Selayar|591|14|483|94|140000|1357|103|11|88|133
+06072021|06|07|2021|384|28|Sulawesi Selatan|Kab. Kepulauan Selayar|Kepulauan Selayar|576|13|483|80|140000|1357|103|11|88|133
 05072021|05|07|2021|384|28|Sulawesi Selatan|Kab. Kepulauan Selayar|Kepulauan Selayar|564|13|473|78|140000|1357|103|11|88|133
 04072021|04|07|2021|384|28|Sulawesi Selatan|Kab. Kepulauan Selayar|Kepulauan Selayar|559|13|472|74|140000|1357|103|11|88|133
 03072021|03|07|2021|384|28|Sulawesi Selatan|Kab. Kepulauan Selayar|Kepulauan Selayar|552|13|472|67|140000|1357|103|11|88|133
@@ -7162,6 +7200,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 26062020|26|06|2020|384|28|Sulawesi Selatan|Kab. Kepulauan Selayar|Kepulauan Selayar|3||3||140000|1357|103|11|88|133
 25062020|25|06|2020|384|28|Sulawesi Selatan|Kab. Kepulauan Selayar|Kepulauan Selayar|3||3||140000|1357|103|11|88|133
 24062020|24|06|2020|384|28|Sulawesi Selatan|Kab. Kepulauan Selayar|Kepulauan Selayar|3||3||140000|1357|103|11|88|133
+07072021|07|07|2021|385|28|Sulawesi Selatan|Kab. Sidenreng Rappang|Sidenreng Rappang|1002|10|950|42|321000|1883.2|170|11|106|
+06072021|06|07|2021|385|28|Sulawesi Selatan|Kab. Sidenreng Rappang|Sidenreng Rappang|996|9|950|37|321000|1883.2|170|11|106|
 05072021|05|07|2021|385|28|Sulawesi Selatan|Kab. Sidenreng Rappang|Sidenreng Rappang|985|9|950|26|321000|1883.2|170|11|106|
 04072021|04|07|2021|385|28|Sulawesi Selatan|Kab. Sidenreng Rappang|Sidenreng Rappang|980|9|950|21|321000|1883.2|170|11|106|
 03072021|03|07|2021|385|28|Sulawesi Selatan|Kab. Sidenreng Rappang|Sidenreng Rappang|980|9|950|21|321000|1883.2|170|11|106|
@@ -7539,6 +7579,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 26062020|26|06|2020|385|28|Sulawesi Selatan|Kab. Sidenreng Rappang|Sidenreng Rappang|31||18|13|321000|1883.2|170|11|106|
 25062020|25|06|2020|385|28|Sulawesi Selatan|Kab. Sidenreng Rappang|Sidenreng Rappang|30||18|12|321000|1883.2|170|11|106|
 24062020|24|06|2020|385|28|Sulawesi Selatan|Kab. Sidenreng Rappang|Sidenreng Rappang|30||18|12|321000|1883.2|170|11|106|
+07072021|07|07|2021|386|28|Sulawesi Selatan|Kab. Sinjai|Sinjai|2874|17|2807|50|264000|799|331|9|80|11
+06072021|06|07|2021|386|28|Sulawesi Selatan|Kab. Sinjai|Sinjai|2873|17|2807|49|264000|799|331|9|80|11
 05072021|05|07|2021|386|28|Sulawesi Selatan|Kab. Sinjai|Sinjai|2871|17|2802|52|264000|799|331|9|80|11
 04072021|04|07|2021|386|28|Sulawesi Selatan|Kab. Sinjai|Sinjai|2852|17|2802|33|264000|799|331|9|80|11
 03072021|03|07|2021|386|28|Sulawesi Selatan|Kab. Sinjai|Sinjai|2852|17|2794|41|264000|799|331|9|80|11
@@ -7916,6 +7958,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 26062020|26|06|2020|386|28|Sulawesi Selatan|Kab. Sinjai|Sinjai|29||8|21|264000|799|331|9|80|11
 25062020|25|06|2020|386|28|Sulawesi Selatan|Kab. Sinjai|Sinjai|17||8|9|264000|799|331|9|80|11
 24062020|24|06|2020|386|28|Sulawesi Selatan|Kab. Sinjai|Sinjai|17||2|15|264000|799|331|9|80|11
+07072021|07|07|2021|387|28|Sulawesi Selatan|Kab. Soppeng|Soppeng|1105|18|1067|20|258000|1557|166|8|70|
+06072021|06|07|2021|387|28|Sulawesi Selatan|Kab. Soppeng|Soppeng|1098|18|1067|13|258000|1557|166|8|70|
 05072021|05|07|2021|387|28|Sulawesi Selatan|Kab. Soppeng|Soppeng|1098|18|1067|13|258000|1557|166|8|70|
 04072021|04|07|2021|387|28|Sulawesi Selatan|Kab. Soppeng|Soppeng|1098|18|1067|13|258000|1557|166|8|70|
 03072021|03|07|2021|387|28|Sulawesi Selatan|Kab. Soppeng|Soppeng|1098|18|1066|14|258000|1557|166|8|70|
@@ -8293,6 +8337,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 26062020|26|06|2020|387|28|Sulawesi Selatan|Kab. Soppeng|Soppeng|10|1|8|1|258000|1557|166|8|70|
 25062020|25|06|2020|387|28|Sulawesi Selatan|Kab. Soppeng|Soppeng|9|1|5|3|258000|1557|166|8|70|
 24062020|24|06|2020|387|28|Sulawesi Selatan|Kab. Soppeng|Soppeng|9|1|5|3|258000|1557|166|8|70|
+07072021|07|07|2021|388|28|Sulawesi Selatan|Kab. Takalar|Takalar|1310|19|1251|40|296000|566.6|522|9|100|9
+06072021|06|07|2021|388|28|Sulawesi Selatan|Kab. Takalar|Takalar|1305|19|1251|35|296000|566.6|522|9|100|9
 05072021|05|07|2021|388|28|Sulawesi Selatan|Kab. Takalar|Takalar|1304|19|1250|35|296000|566.6|522|9|100|9
 04072021|04|07|2021|388|28|Sulawesi Selatan|Kab. Takalar|Takalar|1294|18|1247|29|296000|566.6|522|9|100|9
 03072021|03|07|2021|388|28|Sulawesi Selatan|Kab. Takalar|Takalar|1294|18|1247|29|296000|566.6|522|9|100|9
@@ -8670,6 +8716,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 26062020|26|06|2020|388|28|Sulawesi Selatan|Kab. Takalar|Takalar|41||5|36|296000|566.6|522|9|100|9
 25062020|25|06|2020|388|28|Sulawesi Selatan|Kab. Takalar|Takalar|32||5|27|296000|566.6|522|9|100|9
 24062020|24|06|2020|388|28|Sulawesi Selatan|Kab. Takalar|Takalar|32||2|30|296000|566.6|522|9|100|9
+07072021|07|07|2021|389|28|Sulawesi Selatan|Kab. Tana Toraja|Tana Toraja|823|2|747|74|292000|1990.2|147|19|159|
+06072021|06|07|2021|389|28|Sulawesi Selatan|Kab. Tana Toraja|Tana Toraja|793|2|747|44|292000|1990.2|147|19|159|
 05072021|05|07|2021|389|28|Sulawesi Selatan|Kab. Tana Toraja|Tana Toraja|793|2|747|44|292000|1990.2|147|19|159|
 04072021|04|07|2021|389|28|Sulawesi Selatan|Kab. Tana Toraja|Tana Toraja|793|2|747|44|292000|1990.2|147|19|159|
 03072021|03|07|2021|389|28|Sulawesi Selatan|Kab. Tana Toraja|Tana Toraja|793|2|745|46|292000|1990.2|147|19|159|
@@ -9047,6 +9095,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 26062020|26|06|2020|389|28|Sulawesi Selatan|Kab. Tana Toraja|Tana Toraja|8||5|3|292000|1990.2|147|19|159|
 25062020|25|06|2020|389|28|Sulawesi Selatan|Kab. Tana Toraja|Tana Toraja|6||5|1|292000|1990.2|147|19|159|
 24062020|24|06|2020|389|28|Sulawesi Selatan|Kab. Tana Toraja|Tana Toraja|6||5|1|292000|1990.2|147|19|159|
+07072021|07|07|2021|390|28|Sulawesi Selatan|Kab. Toraja Utara|Toraja Utara|254|5|236|13|247000|1215.6|203|21|151|
+06072021|06|07|2021|390|28|Sulawesi Selatan|Kab. Toraja Utara|Toraja Utara|249|5|236|8|247000|1215.6|203|21|151|
 05072021|05|07|2021|390|28|Sulawesi Selatan|Kab. Toraja Utara|Toraja Utara|249|5|236|8|247000|1215.6|203|21|151|
 04072021|04|07|2021|390|28|Sulawesi Selatan|Kab. Toraja Utara|Toraja Utara|249|5|236|8|247000|1215.6|203|21|151|
 03072021|03|07|2021|390|28|Sulawesi Selatan|Kab. Toraja Utara|Toraja Utara|249|5|236|8|247000|1215.6|203|21|151|
@@ -9424,6 +9474,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 26062020|26|06|2020|390|28|Sulawesi Selatan|Kab. Toraja Utara|Toraja Utara|2||1|1|247000|1215.6|203|21|151|
 25062020|25|06|2020|390|28|Sulawesi Selatan|Kab. Toraja Utara|Toraja Utara|2||1|1|247000|1215.6|203|21|151|
 24062020|24|06|2020|390|28|Sulawesi Selatan|Kab. Toraja Utara|Toraja Utara|2||1|1|247000|1215.6|203|21|151|
+07072021|07|07|2021|391|28|Sulawesi Selatan|Kab. Wajo|Wajo|859|19|807|33|476000|2504.1|190|14|190|
+06072021|06|07|2021|391|28|Sulawesi Selatan|Kab. Wajo|Wajo|855|19|807|29|476000|2504.1|190|14|190|
 05072021|05|07|2021|391|28|Sulawesi Selatan|Kab. Wajo|Wajo|855|19|805|31|476000|2504.1|190|14|190|
 04072021|04|07|2021|391|28|Sulawesi Selatan|Kab. Wajo|Wajo|835|19|805|11|476000|2504.1|190|14|190|
 03072021|03|07|2021|391|28|Sulawesi Selatan|Kab. Wajo|Wajo|835|19|805|11|476000|2504.1|190|14|190|
