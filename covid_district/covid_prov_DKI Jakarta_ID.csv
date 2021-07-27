@@ -1,4 +1,7 @@
 date|day|month|year|id_district|id_province|province_name|district_name|city_name|confirmed_case|death_case|recovered_case|active_case|population|area_km2|pop_density|num_kecamatan|num_village|num_islands
+24072021|24|07|2021|40|6|DKI Jakarta|Kota Jakarta Barat|Kota Jakarta Barat|137159|2099|123172|11888|2400000|124.4|19282|8|56|
+23072021|23|07|2021|40|6|DKI Jakarta|Kota Jakarta Barat|Kota Jakarta Barat|136056|2074|120844|13138|2400000|124.4|19282|8|56|
+22072021|22|07|2021|40|6|DKI Jakarta|Kota Jakarta Barat|Kota Jakarta Barat|134778|2047|118243|14488|2400000|124.4|19282|8|56|
 21072021|21|07|2021|40|6|DKI Jakarta|Kota Jakarta Barat|Kota Jakarta Barat|133741|2023|116140|15578|2400000|124.4|19282|8|56|
 20072021|20|07|2021|40|6|DKI Jakarta|Kota Jakarta Barat|Kota Jakarta Barat|132548|2007|114584|15957|2400000|124.4|19282|8|56|
 19072021|19|07|2021|40|6|DKI Jakarta|Kota Jakarta Barat|Kota Jakarta Barat|131423|1945|112046|17432|2400000|124.4|19282|8|56|
@@ -479,9 +482,9 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 31032020|31|03|2020|40|6|DKI Jakarta|Kota Jakarta Barat|Kota Jakarta Barat|139|9|11|119|2400000|124.4|19282|8|56|
 30032020|30|03|2020|40|6|DKI Jakarta|Kota Jakarta Barat|Kota Jakarta Barat|129|8|11|110|2400000|124.4|19282|8|56|
 29032020|29|03|2020|40|6|DKI Jakarta|Kota Jakarta Barat|Kota Jakarta Barat|114|6|11|97|2400000|124.4|19282|8|56|
-28032020|28|03|2020|40|6|DKI Jakarta|Kota Jakarta Barat|Kota Jakarta Barat|108|5|9|94|2400000|124.4|19282|8|56|
-27032020|27|03|2020|40|6|DKI Jakarta|Kota Jakarta Barat|Kota Jakarta Barat|102|4|4|94|2400000|124.4|19282|8|56|
-26032020|26|03|2020|40|6|DKI Jakarta|Kota Jakarta Barat|Kota Jakarta Barat|98|4|2|92|2400000|124.4|19282|8|56|
+24072021|24|07|2021|41|6|DKI Jakarta|Kota Jakarta Pusat|Kota Jakarta Pusat|76823|1251|68862|6710|1200000|52.4|22437|8|44|
+23072021|23|07|2021|41|6|DKI Jakarta|Kota Jakarta Pusat|Kota Jakarta Pusat|76041|1228|67607|7206|1200000|52.4|22437|8|44|
+22072021|22|07|2021|41|6|DKI Jakarta|Kota Jakarta Pusat|Kota Jakarta Pusat|75351|1212|66365|7774|1200000|52.4|22437|8|44|
 21072021|21|07|2021|41|6|DKI Jakarta|Kota Jakarta Pusat|Kota Jakarta Pusat|74777|1193|65281|8303|1200000|52.4|22437|8|44|
 20072021|20|07|2021|41|6|DKI Jakarta|Kota Jakarta Pusat|Kota Jakarta Pusat|74147|1183|64399|8565|1200000|52.4|22437|8|44|
 19072021|19|07|2021|41|6|DKI Jakarta|Kota Jakarta Pusat|Kota Jakarta Pusat|73418|1150|63028|9240|1200000|52.4|22437|8|44|
@@ -962,9 +965,9 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 31032020|31|03|2020|41|6|DKI Jakarta|Kota Jakarta Pusat|Kota Jakarta Pusat|42|6|4|32|1200000|52.4|22437|8|44|
 30032020|30|03|2020|41|6|DKI Jakarta|Kota Jakarta Pusat|Kota Jakarta Pusat|36|4|4|28|1200000|52.4|22437|8|44|
 29032020|29|03|2020|41|6|DKI Jakarta|Kota Jakarta Pusat|Kota Jakarta Pusat|31|4|4|23|1200000|52.4|22437|8|44|
-28032020|28|03|2020|41|6|DKI Jakarta|Kota Jakarta Pusat|Kota Jakarta Pusat|26|3|4|19|1200000|52.4|22437|8|44|
-27032020|27|03|2020|41|6|DKI Jakarta|Kota Jakarta Pusat|Kota Jakarta Pusat|23|2|4|17|1200000|52.4|22437|8|44|
-26032020|26|03|2020|41|6|DKI Jakarta|Kota Jakarta Pusat|Kota Jakarta Pusat|22|2|4|16|1200000|52.4|22437|8|44|
+24072021|24|07|2021|42|6|DKI Jakarta|Kota Jakarta Selatan|Kota Jakarta Selatan|157379|2241|139720|15418|2300000|154.3|14641|10|65|
+23072021|23|07|2021|42|6|DKI Jakarta|Kota Jakarta Selatan|Kota Jakarta Selatan|155666|2197|136932|16537|2300000|154.3|14641|10|65|
+22072021|22|07|2021|42|6|DKI Jakarta|Kota Jakarta Selatan|Kota Jakarta Selatan|154232|2162|133598|18472|2300000|154.3|14641|10|65|
 21072021|21|07|2021|42|6|DKI Jakarta|Kota Jakarta Selatan|Kota Jakarta Selatan|152930|2123|131539|19268|2300000|154.3|14641|10|65|
 20072021|20|07|2021|42|6|DKI Jakarta|Kota Jakarta Selatan|Kota Jakarta Selatan|151636|2104|128305|21227|2300000|154.3|14641|10|65|
 19072021|19|07|2021|42|6|DKI Jakarta|Kota Jakarta Selatan|Kota Jakarta Selatan|150231|2051|126358|21822|2300000|154.3|14641|10|65|
@@ -1445,9 +1448,9 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 31032020|31|03|2020|42|6|DKI Jakarta|Kota Jakarta Selatan|Kota Jakarta Selatan|173|21|19|133|2300000|154.3|14641|10|65|
 30032020|30|03|2020|42|6|DKI Jakarta|Kota Jakarta Selatan|Kota Jakarta Selatan|152|20|19|113|2300000|154.3|14641|10|65|
 29032020|29|03|2020|42|6|DKI Jakarta|Kota Jakarta Selatan|Kota Jakarta Selatan|140|19|17|104|2300000|154.3|14641|10|65|
-28032020|28|03|2020|42|6|DKI Jakarta|Kota Jakarta Selatan|Kota Jakarta Selatan|130|19|17|94|2300000|154.3|14641|10|65|
-27032020|27|03|2020|42|6|DKI Jakarta|Kota Jakarta Selatan|Kota Jakarta Selatan|113|17|14|82|2300000|154.3|14641|10|65|
-26032020|26|03|2020|42|6|DKI Jakarta|Kota Jakarta Selatan|Kota Jakarta Selatan|107|15|14|78|2300000|154.3|14641|10|65|
+24072021|24|07|2021|43|6|DKI Jakarta|Kota Jakarta Timur|Kota Jakarta Timur|196035|3025|173218|19792|3000000|182.7|16639|10|65|
+23072021|23|07|2021|43|6|DKI Jakarta|Kota Jakarta Timur|Kota Jakarta Timur|193781|2978|169941|20862|3000000|182.7|16639|10|65|
+22072021|22|07|2021|43|6|DKI Jakarta|Kota Jakarta Timur|Kota Jakarta Timur|191511|2930|166811|21770|3000000|182.7|16639|10|65|
 21072021|21|07|2021|43|6|DKI Jakarta|Kota Jakarta Timur|Kota Jakarta Timur|189435|2879|163859|22697|3000000|182.7|16639|10|65|
 20072021|20|07|2021|43|6|DKI Jakarta|Kota Jakarta Timur|Kota Jakarta Timur|188082|2856|161339|23887|3000000|182.7|16639|10|65|
 19072021|19|07|2021|43|6|DKI Jakarta|Kota Jakarta Timur|Kota Jakarta Timur|186633|2782|158043|25808|3000000|182.7|16639|10|65|
@@ -1928,9 +1931,9 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 31032020|31|03|2020|43|6|DKI Jakarta|Kota Jakarta Timur|Kota Jakarta Timur|115|19|5|91|3000000|182.7|16639|10|65|
 30032020|30|03|2020|43|6|DKI Jakarta|Kota Jakarta Timur|Kota Jakarta Timur|97|16|5|76|3000000|182.7|16639|10|65|
 29032020|29|03|2020|43|6|DKI Jakarta|Kota Jakarta Timur|Kota Jakarta Timur|85|13|4|68|3000000|182.7|16639|10|65|
-28032020|28|03|2020|43|6|DKI Jakarta|Kota Jakarta Timur|Kota Jakarta Timur|79|13|4|62|3000000|182.7|16639|10|65|
-27032020|27|03|2020|43|6|DKI Jakarta|Kota Jakarta Timur|Kota Jakarta Timur|72|13|4|55|3000000|182.7|16639|10|65|
-26032020|26|03|2020|43|6|DKI Jakarta|Kota Jakarta Timur|Kota Jakarta Timur|70|11|4|55|3000000|182.7|16639|10|65|
+24072021|24|07|2021|44|6|DKI Jakarta|Kota Jakarta Utara|Kota Jakarta Utara|96053|1407|86404|8242|1800000|140|12621|6|31|1
+23072021|23|07|2021|44|6|DKI Jakarta|Kota Jakarta Utara|Kota Jakarta Utara|95084|1393|84149|9542|1800000|140|12621|6|31|1
+22072021|22|07|2021|44|6|DKI Jakarta|Kota Jakarta Utara|Kota Jakarta Utara|94142|1370|82200|10572|1800000|140|12621|6|31|1
 21072021|21|07|2021|44|6|DKI Jakarta|Kota Jakarta Utara|Kota Jakarta Utara|93357|1339|81271|10747|1800000|140|12621|6|31|1
 20072021|20|07|2021|44|6|DKI Jakarta|Kota Jakarta Utara|Kota Jakarta Utara|92478|1328|80305|10845|1800000|140|12621|6|31|1
 19072021|19|07|2021|44|6|DKI Jakarta|Kota Jakarta Utara|Kota Jakarta Utara|91725|1298|78644|11783|1800000|140|12621|6|31|1
@@ -2411,24 +2414,24 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 31032020|31|03|2020|44|6|DKI Jakarta|Kota Jakarta Utara|Kota Jakarta Utara|58|13|5|40|1800000|140|12621|6|31|1
 30032020|30|03|2020|44|6|DKI Jakarta|Kota Jakarta Utara|Kota Jakarta Utara|55|12|4|39|1800000|140|12621|6|31|1
 29032020|29|03|2020|44|6|DKI Jakarta|Kota Jakarta Utara|Kota Jakarta Utara|44|7|3|34|1800000|140|12621|6|31|1
-28032020|28|03|2020|44|6|DKI Jakarta|Kota Jakarta Utara|Kota Jakarta Utara|41|7|3|31|1800000|140|12621|6|31|1
-27032020|27|03|2020|44|6|DKI Jakarta|Kota Jakarta Utara|Kota Jakarta Utara|36|6|1|29|1800000|140|12621|6|31|1
-26032020|26|03|2020|44|6|DKI Jakarta|Kota Jakarta Utara|Kota Jakarta Utara|35|6|1|28|1800000|140|12621|6|31|1
-21072021|21|07|2021|45|6|DKI Jakarta|Kab. Kepulauan Seribu|Kepulauan Seribu|1153|12|964|177|28000|10.2|2751|2|6|110
-20072021|20|07|2021|45|6|DKI Jakarta|Kab. Kepulauan Seribu|Kepulauan Seribu|1145|12|950|186|28000|10.2|2751|2|6|110
-19072021|19|07|2021|45|6|DKI Jakarta|Kab. Kepulauan Seribu|Kepulauan Seribu|1141|12|910|222|28000|10.2|2751|2|6|110
-18072021|18|07|2021|45|6|DKI Jakarta|Kab. Kepulauan Seribu|Kepulauan Seribu|1125|12|840|273|28000|10.2|2751|2|6|110
-17072021|17|07|2021|45|6|DKI Jakarta|Kab. Kepulauan Seribu|Kepulauan Seribu|1125|12|840|273|28000|10.2|2751|2|6|110
-16072021|16|07|2021|45|6|DKI Jakarta|Kab. Kepulauan Seribu|Kepulauan Seribu|1103|11|813|279|28000|10.2|2751|2|6|110
-15072021|15|07|2021|45|6|DKI Jakarta|Kab. Kepulauan Seribu|Kepulauan Seribu|1085|11|812|262|28000|10.2|2751|2|6|110
-14072021|14|07|2021|45|6|DKI Jakarta|Kab. Kepulauan Seribu|Kepulauan Seribu|1074|11|812|251|28000|10.2|2751|2|6|110
-13072021|13|07|2021|45|6|DKI Jakarta|Kab. Kepulauan Seribu|Kepulauan Seribu|1063|11|784|268|28000|10.2|2751|2|6|110
-12072021|12|07|2021|45|6|DKI Jakarta|Kab. Kepulauan Seribu|Kepulauan Seribu|1035|11|775|249|28000|10.2|2751|2|6|110
-11072021|11|07|2021|45|6|DKI Jakarta|Kab. Kepulauan Seribu|Kepulauan Seribu|1004|11|719|274|28000|10.2|2751|2|6|110
-10072021|10|07|2021|45|6|DKI Jakarta|Kab. Kepulauan Seribu|Kepulauan Seribu|966|11|642|313|28000|10.2|2751|2|6|110
-09072021|09|07|2021|45|6|DKI Jakarta|Kab. Kepulauan Seribu|Kepulauan Seribu|947|11|626|310|28000|10.2|2751|2|6|110
-08072021|08|07|2021|45|6|DKI Jakarta|Kab. Kepulauan Seribu|Kepulauan Seribu|903|11|609|283|28000|10.2|2751|2|6|110
-07072021|07|07|2021|45|6|DKI Jakarta|Kab. Kepulauan Seribu|Kepulauan Seribu|898|11|602|285|28000|10.2|2751|2|6|110
+24072021|24|07|2021|45|6|DKI Jakarta|Kab. Kepulauan Seribu|Kepulauan Seribu|1201|9|1071|121|28000|10.2|2751|2|6|110
+23072021|23|07|2021|45|6|DKI Jakarta|Kab. Kepulauan Seribu|Kepulauan Seribu|1176|9|1033|134|28000|10.2|2751|2|6|110
+22072021|22|07|2021|45|6|DKI Jakarta|Kab. Kepulauan Seribu|Kepulauan Seribu|1158|9|1008|141|28000|10.2|2751|2|6|110
+21072021|21|07|2021|45|6|DKI Jakarta|Kab. Kepulauan Seribu|Kepulauan Seribu|1153|9|964|180|28000|10.2|2751|2|6|110
+20072021|20|07|2021|45|6|DKI Jakarta|Kab. Kepulauan Seribu|Kepulauan Seribu|1145|9|950|186|28000|10.2|2751|2|6|110
+19072021|19|07|2021|45|6|DKI Jakarta|Kab. Kepulauan Seribu|Kepulauan Seribu|1141|9|910|222|28000|10.2|2751|2|6|110
+18072021|18|07|2021|45|6|DKI Jakarta|Kab. Kepulauan Seribu|Kepulauan Seribu|1125|9|840|276|28000|10.2|2751|2|6|110
+17072021|17|07|2021|45|6|DKI Jakarta|Kab. Kepulauan Seribu|Kepulauan Seribu|1125|9|840|276|28000|10.2|2751|2|6|110
+16072021|16|07|2021|45|6|DKI Jakarta|Kab. Kepulauan Seribu|Kepulauan Seribu|1103|9|813|281|28000|10.2|2751|2|6|110
+15072021|15|07|2021|45|6|DKI Jakarta|Kab. Kepulauan Seribu|Kepulauan Seribu|1085|9|812|264|28000|10.2|2751|2|6|110
+14072021|14|07|2021|45|6|DKI Jakarta|Kab. Kepulauan Seribu|Kepulauan Seribu|1074|9|812|253|28000|10.2|2751|2|6|110
+13072021|13|07|2021|45|6|DKI Jakarta|Kab. Kepulauan Seribu|Kepulauan Seribu|1063|9|784|270|28000|10.2|2751|2|6|110
+12072021|12|07|2021|45|6|DKI Jakarta|Kab. Kepulauan Seribu|Kepulauan Seribu|1035|9|775|249|28000|10.2|2751|2|6|110
+11072021|11|07|2021|45|6|DKI Jakarta|Kab. Kepulauan Seribu|Kepulauan Seribu|1004|9|719|274|28000|10.2|2751|2|6|110
+10072021|10|07|2021|45|6|DKI Jakarta|Kab. Kepulauan Seribu|Kepulauan Seribu|966|9|642|313|28000|10.2|2751|2|6|110
+09072021|09|07|2021|45|6|DKI Jakarta|Kab. Kepulauan Seribu|Kepulauan Seribu|947|9|626|310|28000|10.2|2751|2|6|110
+08072021|08|07|2021|45|6|DKI Jakarta|Kab. Kepulauan Seribu|Kepulauan Seribu|903|9|609|283|28000|10.2|2751|2|6|110
+07072021|07|07|2021|45|6|DKI Jakarta|Kab. Kepulauan Seribu|Kepulauan Seribu|898|9|602|285|28000|10.2|2751|2|6|110
 06072021|06|07|2021|45|6|DKI Jakarta|Kab. Kepulauan Seribu|Kepulauan Seribu|865|8|601|256|28000|10.2|2751|2|6|110
 05072021|05|07|2021|45|6|DKI Jakarta|Kab. Kepulauan Seribu|Kepulauan Seribu|830|8|601|221|28000|10.2|2751|2|6|110
 04072021|04|07|2021|45|6|DKI Jakarta|Kab. Kepulauan Seribu|Kepulauan Seribu|783|8|597|178|28000|10.2|2751|2|6|110
@@ -2894,6 +2897,3 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 31032020|31|03|2020|45|6|DKI Jakarta|Kab. Kepulauan Seribu|Kepulauan Seribu|||||28000|10.2|2751|2|6|110
 30032020|30|03|2020|45|6|DKI Jakarta|Kab. Kepulauan Seribu|Kepulauan Seribu|||||28000|10.2|2751|2|6|110
 29032020|29|03|2020|45|6|DKI Jakarta|Kab. Kepulauan Seribu|Kepulauan Seribu|||||28000|10.2|2751|2|6|110
-28032020|28|03|2020|45|6|DKI Jakarta|Kab. Kepulauan Seribu|Kepulauan Seribu|||||28000|10.2|2751|2|6|110
-27032020|27|03|2020|45|6|DKI Jakarta|Kab. Kepulauan Seribu|Kepulauan Seribu|||||28000|10.2|2751|2|6|110
-26032020|26|03|2020|45|6|DKI Jakarta|Kab. Kepulauan Seribu|Kepulauan Seribu|||||28000|10.2|2751|2|6|110
