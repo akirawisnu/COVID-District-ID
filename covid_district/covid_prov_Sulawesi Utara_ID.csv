@@ -1,4 +1,11 @@
 date|day|month|year|id_district|id_province|province_name|district_name|city_name|confirmed_case|death_case|recovered_case|active_case|population|area_km2|pop_density|num_kecamatan|num_village|num_islands
+15082021|15|08|2021|415|31|Sulawesi Utara|Kota Bitung|Kota Bitung|2613|53|2335|225|228000|302.9|754|8|69|20
+14082021|14|08|2021|415|31|Sulawesi Utara|Kota Bitung|Kota Bitung|2602|53|2261|288|228000|302.9|754|8|69|20
+13082021|13|08|2021|415|31|Sulawesi Utara|Kota Bitung|Kota Bitung|2577|53|2261|263|228000|302.9|754|8|69|20
+12082021|12|08|2021|415|31|Sulawesi Utara|Kota Bitung|Kota Bitung|2558|53|2221|284|228000|302.9|754|8|69|20
+11082021|11|08|2021|415|31|Sulawesi Utara|Kota Bitung|Kota Bitung|2545|53|2221|271|228000|302.9|754|8|69|20
+10082021|10|08|2021|415|31|Sulawesi Utara|Kota Bitung|Kota Bitung|2521|53|2180|288|228000|302.9|754|8|69|20
+09082021|09|08|2021|415|31|Sulawesi Utara|Kota Bitung|Kota Bitung|2472|53|2170|249|228000|302.9|754|8|69|20
 08082021|08|08|2021|415|31|Sulawesi Utara|Kota Bitung|Kota Bitung|2472|52|2083|337|228000|302.9|754|8|69|20
 07082021|07|08|2021|415|31|Sulawesi Utara|Kota Bitung|Kota Bitung|2436|52|1919|465|228000|302.9|754|8|69|20
 06082021|06|08|2021|415|31|Sulawesi Utara|Kota Bitung|Kota Bitung|2240|52|1919|269|228000|302.9|754|8|69|20
@@ -422,6 +429,13 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 14062020|14|06|2020|415|31|Sulawesi Utara|Kota Bitung|Kota Bitung|14||3|11|228000|302.9|754|8|69|20
 13062020|13|06|2020|415|31|Sulawesi Utara|Kota Bitung|Kota Bitung|14||3|11|228000|302.9|754|8|69|20
 12062020|12|06|2020|415|31|Sulawesi Utara|Kota Bitung|Kota Bitung|13||3|10|228000|302.9|754|8|69|20
+15082021|15|08|2021|416|31|Sulawesi Utara|Kab. Bolaang Mongondow|Bolaang Mongondow|700|23|560|117|254000|2871.7|89|15|202|7
+14082021|14|08|2021|416|31|Sulawesi Utara|Kab. Bolaang Mongondow|Bolaang Mongondow|689|23|506|160|254000|2871.7|89|15|202|7
+13082021|13|08|2021|416|31|Sulawesi Utara|Kab. Bolaang Mongondow|Bolaang Mongondow|685|23|505|157|254000|2871.7|89|15|202|7
+12082021|12|08|2021|416|31|Sulawesi Utara|Kab. Bolaang Mongondow|Bolaang Mongondow|673|23|497|153|254000|2871.7|89|15|202|7
+11082021|11|08|2021|416|31|Sulawesi Utara|Kab. Bolaang Mongondow|Bolaang Mongondow|666|22|495|149|254000|2871.7|89|15|202|7
+10082021|10|08|2021|416|31|Sulawesi Utara|Kab. Bolaang Mongondow|Bolaang Mongondow|664|22|492|150|254000|2871.7|89|15|202|7
+09082021|09|08|2021|416|31|Sulawesi Utara|Kab. Bolaang Mongondow|Bolaang Mongondow|663|22|489|152|254000|2871.7|89|15|202|7
 08082021|08|08|2021|416|31|Sulawesi Utara|Kab. Bolaang Mongondow|Bolaang Mongondow|663|22|486|155|254000|2871.7|89|15|202|7
 07082021|07|08|2021|416|31|Sulawesi Utara|Kab. Bolaang Mongondow|Bolaang Mongondow|653|21|474|158|254000|2871.7|89|15|202|7
 06082021|06|08|2021|416|31|Sulawesi Utara|Kab. Bolaang Mongondow|Bolaang Mongondow|648|20|471|157|254000|2871.7|89|15|202|7
@@ -845,6 +859,13 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 14062020|14|06|2020|416|31|Sulawesi Utara|Kab. Bolaang Mongondow|Bolaang Mongondow|||||254000|2871.7|89|15|202|7
 13062020|13|06|2020|416|31|Sulawesi Utara|Kab. Bolaang Mongondow|Bolaang Mongondow|||||254000|2871.7|89|15|202|7
 12062020|12|06|2020|416|31|Sulawesi Utara|Kab. Bolaang Mongondow|Bolaang Mongondow|||||254000|2871.7|89|15|202|7
+15082021|15|08|2021|417|31|Sulawesi Utara|Kab. Bolaang Mongondow Selatan|Bolaang Mongondow Selatan|317|5|185|127|69000|1615.9|42|7|81|4
+14082021|14|08|2021|417|31|Sulawesi Utara|Kab. Bolaang Mongondow Selatan|Bolaang Mongondow Selatan|314|5|185|124|69000|1615.9|42|7|81|4
+13082021|13|08|2021|417|31|Sulawesi Utara|Kab. Bolaang Mongondow Selatan|Bolaang Mongondow Selatan|299|5|166|128|69000|1615.9|42|7|81|4
+12082021|12|08|2021|417|31|Sulawesi Utara|Kab. Bolaang Mongondow Selatan|Bolaang Mongondow Selatan|290|5|166|119|69000|1615.9|42|7|81|4
+11082021|11|08|2021|417|31|Sulawesi Utara|Kab. Bolaang Mongondow Selatan|Bolaang Mongondow Selatan|282|5|166|111|69000|1615.9|42|7|81|4
+10082021|10|08|2021|417|31|Sulawesi Utara|Kab. Bolaang Mongondow Selatan|Bolaang Mongondow Selatan|262|5|150|107|69000|1615.9|42|7|81|4
+09082021|09|08|2021|417|31|Sulawesi Utara|Kab. Bolaang Mongondow Selatan|Bolaang Mongondow Selatan|250|5|148|97|69000|1615.9|42|7|81|4
 08082021|08|08|2021|417|31|Sulawesi Utara|Kab. Bolaang Mongondow Selatan|Bolaang Mongondow Selatan|241|5|119|117|69000|1615.9|42|7|81|4
 07082021|07|08|2021|417|31|Sulawesi Utara|Kab. Bolaang Mongondow Selatan|Bolaang Mongondow Selatan|234|5|109|120|69000|1615.9|42|7|81|4
 06082021|06|08|2021|417|31|Sulawesi Utara|Kab. Bolaang Mongondow Selatan|Bolaang Mongondow Selatan|211|5|103|103|69000|1615.9|42|7|81|4
@@ -1268,6 +1289,13 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 14062020|14|06|2020|417|31|Sulawesi Utara|Kab. Bolaang Mongondow Selatan|Bolaang Mongondow Selatan|4||1|3|69000|1615.9|42|7|81|4
 13062020|13|06|2020|417|31|Sulawesi Utara|Kab. Bolaang Mongondow Selatan|Bolaang Mongondow Selatan|4||1|3|69000|1615.9|42|7|81|4
 12062020|12|06|2020|417|31|Sulawesi Utara|Kab. Bolaang Mongondow Selatan|Bolaang Mongondow Selatan|4||1|3|69000|1615.9|42|7|81|4
+15082021|15|08|2021|418|31|Sulawesi Utara|Kab. Bolaang Mongondow Timur|Bolaang Mongondow Timur|396|9|305|82|87000|910.2|96|7|81|7
+14082021|14|08|2021|418|31|Sulawesi Utara|Kab. Bolaang Mongondow Timur|Bolaang Mongondow Timur|393|9|305|79|87000|910.2|96|7|81|7
+13082021|13|08|2021|418|31|Sulawesi Utara|Kab. Bolaang Mongondow Timur|Bolaang Mongondow Timur|392|9|305|78|87000|910.2|96|7|81|7
+12082021|12|08|2021|418|31|Sulawesi Utara|Kab. Bolaang Mongondow Timur|Bolaang Mongondow Timur|383|9|292|82|87000|910.2|96|7|81|7
+11082021|11|08|2021|418|31|Sulawesi Utara|Kab. Bolaang Mongondow Timur|Bolaang Mongondow Timur|364|9|281|74|87000|910.2|96|7|81|7
+10082021|10|08|2021|418|31|Sulawesi Utara|Kab. Bolaang Mongondow Timur|Bolaang Mongondow Timur|344|9|281|54|87000|910.2|96|7|81|7
+09082021|09|08|2021|418|31|Sulawesi Utara|Kab. Bolaang Mongondow Timur|Bolaang Mongondow Timur|344|9|278|57|87000|910.2|96|7|81|7
 08082021|08|08|2021|418|31|Sulawesi Utara|Kab. Bolaang Mongondow Timur|Bolaang Mongondow Timur|344|9|277|58|87000|910.2|96|7|81|7
 07082021|07|08|2021|418|31|Sulawesi Utara|Kab. Bolaang Mongondow Timur|Bolaang Mongondow Timur|310|9|272|29|87000|910.2|96|7|81|7
 06082021|06|08|2021|418|31|Sulawesi Utara|Kab. Bolaang Mongondow Timur|Bolaang Mongondow Timur|304|9|272|23|87000|910.2|96|7|81|7
@@ -1691,6 +1719,13 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 14062020|14|06|2020|418|31|Sulawesi Utara|Kab. Bolaang Mongondow Timur|Bolaang Mongondow Timur|1||1||87000|910.2|96|7|81|7
 13062020|13|06|2020|418|31|Sulawesi Utara|Kab. Bolaang Mongondow Timur|Bolaang Mongondow Timur|1||1||87000|910.2|96|7|81|7
 12062020|12|06|2020|418|31|Sulawesi Utara|Kab. Bolaang Mongondow Timur|Bolaang Mongondow Timur|1||1||87000|910.2|96|7|81|7
+15082021|15|08|2021|419|31|Sulawesi Utara|Kab. Bolaang Mongondow Utara|Bolaang Mongondow Utara|560|6|407|147|91000|1680|54|6|107|6
+14082021|14|08|2021|419|31|Sulawesi Utara|Kab. Bolaang Mongondow Utara|Bolaang Mongondow Utara|558|6|405|147|91000|1680|54|6|107|6
+13082021|13|08|2021|419|31|Sulawesi Utara|Kab. Bolaang Mongondow Utara|Bolaang Mongondow Utara|553|6|405|142|91000|1680|54|6|107|6
+12082021|12|08|2021|419|31|Sulawesi Utara|Kab. Bolaang Mongondow Utara|Bolaang Mongondow Utara|544|6|405|133|91000|1680|54|6|107|6
+11082021|11|08|2021|419|31|Sulawesi Utara|Kab. Bolaang Mongondow Utara|Bolaang Mongondow Utara|530|6|405|119|91000|1680|54|6|107|6
+10082021|10|08|2021|419|31|Sulawesi Utara|Kab. Bolaang Mongondow Utara|Bolaang Mongondow Utara|530|6|405|119|91000|1680|54|6|107|6
+09082021|09|08|2021|419|31|Sulawesi Utara|Kab. Bolaang Mongondow Utara|Bolaang Mongondow Utara|529|6|389|134|91000|1680|54|6|107|6
 08082021|08|08|2021|419|31|Sulawesi Utara|Kab. Bolaang Mongondow Utara|Bolaang Mongondow Utara|517|4|337|176|91000|1680|54|6|107|6
 07082021|07|08|2021|419|31|Sulawesi Utara|Kab. Bolaang Mongondow Utara|Bolaang Mongondow Utara|495|4|288|203|91000|1680|54|6|107|6
 06082021|06|08|2021|419|31|Sulawesi Utara|Kab. Bolaang Mongondow Utara|Bolaang Mongondow Utara|491|4|192|295|91000|1680|54|6|107|6
@@ -2114,6 +2149,13 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 14062020|14|06|2020|419|31|Sulawesi Utara|Kab. Bolaang Mongondow Utara|Bolaang Mongondow Utara|3||2|1|91000|1680|54|6|107|6
 13062020|13|06|2020|419|31|Sulawesi Utara|Kab. Bolaang Mongondow Utara|Bolaang Mongondow Utara|3||2|1|91000|1680|54|6|107|6
 12062020|12|06|2020|419|31|Sulawesi Utara|Kab. Bolaang Mongondow Utara|Bolaang Mongondow Utara|||||91000|1680|54|6|107|6
+15082021|15|08|2021|420|31|Sulawesi Utara|Kab. Kepulauan Sangihe|Kepulauan Sangihe|1025|32|902|91|147000|461.1|318|15|167|108
+14082021|14|08|2021|420|31|Sulawesi Utara|Kab. Kepulauan Sangihe|Kepulauan Sangihe|1016|31|858|127|147000|461.1|318|15|167|108
+13082021|13|08|2021|420|31|Sulawesi Utara|Kab. Kepulauan Sangihe|Kepulauan Sangihe|1014|31|858|125|147000|461.1|318|15|167|108
+12082021|12|08|2021|420|31|Sulawesi Utara|Kab. Kepulauan Sangihe|Kepulauan Sangihe|996|31|858|107|147000|461.1|318|15|167|108
+11082021|11|08|2021|420|31|Sulawesi Utara|Kab. Kepulauan Sangihe|Kepulauan Sangihe|987|31|850|106|147000|461.1|318|15|167|108
+10082021|10|08|2021|420|31|Sulawesi Utara|Kab. Kepulauan Sangihe|Kepulauan Sangihe|986|26|850|110|147000|461.1|318|15|167|108
+09082021|09|08|2021|420|31|Sulawesi Utara|Kab. Kepulauan Sangihe|Kepulauan Sangihe|970|26|824|120|147000|461.1|318|15|167|108
 08082021|08|08|2021|420|31|Sulawesi Utara|Kab. Kepulauan Sangihe|Kepulauan Sangihe|961|26|713|222|147000|461.1|318|15|167|108
 07082021|07|08|2021|420|31|Sulawesi Utara|Kab. Kepulauan Sangihe|Kepulauan Sangihe|884|23|713|148|147000|461.1|318|15|167|108
 06082021|06|08|2021|420|31|Sulawesi Utara|Kab. Kepulauan Sangihe|Kepulauan Sangihe|881|23|627|231|147000|461.1|318|15|167|108
@@ -2537,6 +2579,13 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 14062020|14|06|2020|420|31|Sulawesi Utara|Kab. Kepulauan Sangihe|Kepulauan Sangihe|6||1|5|147000|461.1|318|15|167|108
 13062020|13|06|2020|420|31|Sulawesi Utara|Kab. Kepulauan Sangihe|Kepulauan Sangihe|6||1|5|147000|461.1|318|15|167|108
 12062020|12|06|2020|420|31|Sulawesi Utara|Kab. Kepulauan Sangihe|Kepulauan Sangihe|6||1|5|147000|461.1|318|15|167|108
+15082021|15|08|2021|421|31|Sulawesi Utara|Kab. Kepulauan Sitaro|Kepulauan Sitaro|400|32|335|33|75000|275.9|270|10|93|48
+14082021|14|08|2021|421|31|Sulawesi Utara|Kab. Kepulauan Sitaro|Kepulauan Sitaro|396|32|331|33|75000|275.9|270|10|93|48
+13082021|13|08|2021|421|31|Sulawesi Utara|Kab. Kepulauan Sitaro|Kepulauan Sitaro|394|31|321|42|75000|275.9|270|10|93|48
+12082021|12|08|2021|421|31|Sulawesi Utara|Kab. Kepulauan Sitaro|Kepulauan Sitaro|388|31|300|57|75000|275.9|270|10|93|48
+11082021|11|08|2021|421|31|Sulawesi Utara|Kab. Kepulauan Sitaro|Kepulauan Sitaro|376|30|291|55|75000|275.9|270|10|93|48
+10082021|10|08|2021|421|31|Sulawesi Utara|Kab. Kepulauan Sitaro|Kepulauan Sitaro|373|28|286|59|75000|275.9|270|10|93|48
+09082021|09|08|2021|421|31|Sulawesi Utara|Kab. Kepulauan Sitaro|Kepulauan Sitaro|369|28|278|63|75000|275.9|270|10|93|48
 08082021|08|08|2021|421|31|Sulawesi Utara|Kab. Kepulauan Sitaro|Kepulauan Sitaro|366|28|264|74|75000|275.9|270|10|93|48
 07082021|07|08|2021|421|31|Sulawesi Utara|Kab. Kepulauan Sitaro|Kepulauan Sitaro|355|27|263|65|75000|275.9|270|10|93|48
 06082021|06|08|2021|421|31|Sulawesi Utara|Kab. Kepulauan Sitaro|Kepulauan Sitaro|355|25|239|91|75000|275.9|270|10|93|48
@@ -2960,6 +3009,13 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 14062020|14|06|2020|421|31|Sulawesi Utara|Kab. Kepulauan Sitaro|Kepulauan Sitaro|||||75000|275.9|270|10|93|48
 13062020|13|06|2020|421|31|Sulawesi Utara|Kab. Kepulauan Sitaro|Kepulauan Sitaro|||||75000|275.9|270|10|93|48
 12062020|12|06|2020|421|31|Sulawesi Utara|Kab. Kepulauan Sitaro|Kepulauan Sitaro|||||75000|275.9|270|10|93|48
+15082021|15|08|2021|422|31|Sulawesi Utara|Kab. Kepulauan Talaud|Kepulauan Talaud|355|9|285|61|104000|1240.4|84|19|153|16
+14082021|14|08|2021|422|31|Sulawesi Utara|Kab. Kepulauan Talaud|Kepulauan Talaud|354|9|279|66|104000|1240.4|84|19|153|16
+13082021|13|08|2021|422|31|Sulawesi Utara|Kab. Kepulauan Talaud|Kepulauan Talaud|352|9|279|64|104000|1240.4|84|19|153|16
+12082021|12|08|2021|422|31|Sulawesi Utara|Kab. Kepulauan Talaud|Kepulauan Talaud|351|9|259|83|104000|1240.4|84|19|153|16
+11082021|11|08|2021|422|31|Sulawesi Utara|Kab. Kepulauan Talaud|Kepulauan Talaud|325|9|259|57|104000|1240.4|84|19|153|16
+10082021|10|08|2021|422|31|Sulawesi Utara|Kab. Kepulauan Talaud|Kepulauan Talaud|324|9|259|56|104000|1240.4|84|19|153|16
+09082021|09|08|2021|422|31|Sulawesi Utara|Kab. Kepulauan Talaud|Kepulauan Talaud|321|9|253|59|104000|1240.4|84|19|153|16
 08082021|08|08|2021|422|31|Sulawesi Utara|Kab. Kepulauan Talaud|Kepulauan Talaud|321|9|253|59|104000|1240.4|84|19|153|16
 07082021|07|08|2021|422|31|Sulawesi Utara|Kab. Kepulauan Talaud|Kepulauan Talaud|321|9|253|59|104000|1240.4|84|19|153|16
 06082021|06|08|2021|422|31|Sulawesi Utara|Kab. Kepulauan Talaud|Kepulauan Talaud|293|9|253|31|104000|1240.4|84|19|153|16
@@ -3383,6 +3439,13 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 14062020|14|06|2020|422|31|Sulawesi Utara|Kab. Kepulauan Talaud|Kepulauan Talaud|||||104000|1240.4|84|19|153|16
 13062020|13|06|2020|422|31|Sulawesi Utara|Kab. Kepulauan Talaud|Kepulauan Talaud|||||104000|1240.4|84|19|153|16
 12062020|12|06|2020|422|31|Sulawesi Utara|Kab. Kepulauan Talaud|Kepulauan Talaud|||||104000|1240.4|84|19|153|16
+15082021|15|08|2021|423|31|Sulawesi Utara|Kota Kotamobagu|Kota Kotamobagu|1377|28|1175|174|126000|68.09999999999999|1855|4|33|
+14082021|14|08|2021|423|31|Sulawesi Utara|Kota Kotamobagu|Kota Kotamobagu|1364|27|1160|177|126000|68.09999999999999|1855|4|33|
+13082021|13|08|2021|423|31|Sulawesi Utara|Kota Kotamobagu|Kota Kotamobagu|1355|26|1129|200|126000|68.09999999999999|1855|4|33|
+12082021|12|08|2021|423|31|Sulawesi Utara|Kota Kotamobagu|Kota Kotamobagu|1344|26|1126|192|126000|68.09999999999999|1855|4|33|
+11082021|11|08|2021|423|31|Sulawesi Utara|Kota Kotamobagu|Kota Kotamobagu|1331|26|1126|179|126000|68.09999999999999|1855|4|33|
+10082021|10|08|2021|423|31|Sulawesi Utara|Kota Kotamobagu|Kota Kotamobagu|1311|26|1126|159|126000|68.09999999999999|1855|4|33|
+09082021|09|08|2021|423|31|Sulawesi Utara|Kota Kotamobagu|Kota Kotamobagu|1308|25|1090|193|126000|68.09999999999999|1855|4|33|
 08082021|08|08|2021|423|31|Sulawesi Utara|Kota Kotamobagu|Kota Kotamobagu|1308|25|1090|193|126000|68.09999999999999|1855|4|33|
 07082021|07|08|2021|423|31|Sulawesi Utara|Kota Kotamobagu|Kota Kotamobagu|1297|25|1090|182|126000|68.09999999999999|1855|4|33|
 06082021|06|08|2021|423|31|Sulawesi Utara|Kota Kotamobagu|Kota Kotamobagu|1287|25|1090|172|126000|68.09999999999999|1855|4|33|
@@ -3806,6 +3869,13 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 14062020|14|06|2020|423|31|Sulawesi Utara|Kota Kotamobagu|Kota Kotamobagu|11||8|3|126000|68.09999999999999|1855|4|33|
 13062020|13|06|2020|423|31|Sulawesi Utara|Kota Kotamobagu|Kota Kotamobagu|11||8|3|126000|68.09999999999999|1855|4|33|
 12062020|12|06|2020|423|31|Sulawesi Utara|Kota Kotamobagu|Kota Kotamobagu|11||8|3|126000|68.09999999999999|1855|4|33|
+15082021|15|08|2021|424|31|Sulawesi Utara|Kota Manado|Kota Manado|9308|249|6620|2439|481000|157.3|3060|11|87|3
+14082021|14|08|2021|424|31|Sulawesi Utara|Kota Manado|Kota Manado|9251|249|6503|2499|481000|157.3|3060|11|87|3
+13082021|13|08|2021|424|31|Sulawesi Utara|Kota Manado|Kota Manado|9190|247|6503|2440|481000|157.3|3060|11|87|3
+12082021|12|08|2021|424|31|Sulawesi Utara|Kota Manado|Kota Manado|9128|246|6416|2466|481000|157.3|3060|11|87|3
+11082021|11|08|2021|424|31|Sulawesi Utara|Kota Manado|Kota Manado|9028|246|6416|2366|481000|157.3|3060|11|87|3
+10082021|10|08|2021|424|31|Sulawesi Utara|Kota Manado|Kota Manado|8973|246|6344|2383|481000|157.3|3060|11|87|3
+09082021|09|08|2021|424|31|Sulawesi Utara|Kota Manado|Kota Manado|8940|246|6295|2399|481000|157.3|3060|11|87|3
 08082021|08|08|2021|424|31|Sulawesi Utara|Kota Manado|Kota Manado|8923|246|6253|2424|481000|157.3|3060|11|87|3
 07082021|07|08|2021|424|31|Sulawesi Utara|Kota Manado|Kota Manado|8834|244|6231|2359|481000|157.3|3060|11|87|3
 06082021|06|08|2021|424|31|Sulawesi Utara|Kota Manado|Kota Manado|8722|244|6138|2340|481000|157.3|3060|11|87|3
@@ -4229,6 +4299,13 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 14062020|14|06|2020|424|31|Sulawesi Utara|Kota Manado|Kota Manado|458|42|47|369|481000|157.3|3060|11|87|3
 13062020|13|06|2020|424|31|Sulawesi Utara|Kota Manado|Kota Manado|455|42|46|367|481000|157.3|3060|11|87|3
 12062020|12|06|2020|424|31|Sulawesi Utara|Kota Manado|Kota Manado|443|42|46|355|481000|157.3|3060|11|87|3
+15082021|15|08|2021|425|31|Sulawesi Utara|Kab. Minahasa|Minahasa|3509|131|2712|666|347000|1114.9|311|25|270|1
+14082021|14|08|2021|425|31|Sulawesi Utara|Kab. Minahasa|Minahasa|3469|129|2669|671|347000|1114.9|311|25|270|1
+13082021|13|08|2021|425|31|Sulawesi Utara|Kab. Minahasa|Minahasa|3352|127|2663|562|347000|1114.9|311|25|270|1
+12082021|12|08|2021|425|31|Sulawesi Utara|Kab. Minahasa|Minahasa|3288|123|2638|527|347000|1114.9|311|25|270|1
+11082021|11|08|2021|425|31|Sulawesi Utara|Kab. Minahasa|Minahasa|3203|117|2613|473|347000|1114.9|311|25|270|1
+10082021|10|08|2021|425|31|Sulawesi Utara|Kab. Minahasa|Minahasa|3154|116|2575|463|347000|1114.9|311|25|270|1
+09082021|09|08|2021|425|31|Sulawesi Utara|Kab. Minahasa|Minahasa|3140|112|2525|503|347000|1114.9|311|25|270|1
 08082021|08|08|2021|425|31|Sulawesi Utara|Kab. Minahasa|Minahasa|3128|111|2497|520|347000|1114.9|311|25|270|1
 07082021|07|08|2021|425|31|Sulawesi Utara|Kab. Minahasa|Minahasa|3101|111|2423|567|347000|1114.9|311|25|270|1
 06082021|06|08|2021|425|31|Sulawesi Utara|Kab. Minahasa|Minahasa|3075|110|2363|602|347000|1114.9|311|25|270|1
@@ -4652,6 +4729,13 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 14062020|14|06|2020|425|31|Sulawesi Utara|Kab. Minahasa|Minahasa|58|4|12|42|347000|1114.9|311|25|270|1
 13062020|13|06|2020|425|31|Sulawesi Utara|Kab. Minahasa|Minahasa|55|4|10|41|347000|1114.9|311|25|270|1
 12062020|12|06|2020|425|31|Sulawesi Utara|Kab. Minahasa|Minahasa|54|4|10|40|347000|1114.9|311|25|270|1
+15082021|15|08|2021|426|31|Sulawesi Utara|Kab. Minahasa Selatan|Minahasa Selatan|1186|50|968|168|242000|1410|172|17|177|4
+14082021|14|08|2021|426|31|Sulawesi Utara|Kab. Minahasa Selatan|Minahasa Selatan|1154|50|968|136|242000|1410|172|17|177|4
+13082021|13|08|2021|426|31|Sulawesi Utara|Kab. Minahasa Selatan|Minahasa Selatan|1112|49|968|95|242000|1410|172|17|177|4
+12082021|12|08|2021|426|31|Sulawesi Utara|Kab. Minahasa Selatan|Minahasa Selatan|1090|49|968|73|242000|1410|172|17|177|4
+11082021|11|08|2021|426|31|Sulawesi Utara|Kab. Minahasa Selatan|Minahasa Selatan|1067|48|829|190|242000|1410|172|17|177|4
+10082021|10|08|2021|426|31|Sulawesi Utara|Kab. Minahasa Selatan|Minahasa Selatan|1045|48|829|168|242000|1410|172|17|177|4
+09082021|09|08|2021|426|31|Sulawesi Utara|Kab. Minahasa Selatan|Minahasa Selatan|1018|48|829|141|242000|1410|172|17|177|4
 08082021|08|08|2021|426|31|Sulawesi Utara|Kab. Minahasa Selatan|Minahasa Selatan|1016|48|817|151|242000|1410|172|17|177|4
 07082021|07|08|2021|426|31|Sulawesi Utara|Kab. Minahasa Selatan|Minahasa Selatan|1012|48|817|147|242000|1410|172|17|177|4
 06082021|06|08|2021|426|31|Sulawesi Utara|Kab. Minahasa Selatan|Minahasa Selatan|1004|48|817|139|242000|1410|172|17|177|4
@@ -5075,6 +5159,13 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 14062020|14|06|2020|426|31|Sulawesi Utara|Kab. Minahasa Selatan|Minahasa Selatan|13|2|10|1|242000|1410|172|17|177|4
 13062020|13|06|2020|426|31|Sulawesi Utara|Kab. Minahasa Selatan|Minahasa Selatan|12|2|10||242000|1410|172|17|177|4
 12062020|12|06|2020|426|31|Sulawesi Utara|Kab. Minahasa Selatan|Minahasa Selatan|||||242000|1410|172|17|177|4
+15082021|15|08|2021|427|31|Sulawesi Utara|Kab. Minahasa Tenggara|Minahasa Tenggara|1253|43|1019|191|120000|710.8|169|12|144|26
+14082021|14|08|2021|427|31|Sulawesi Utara|Kab. Minahasa Tenggara|Minahasa Tenggara|1247|41|999|207|120000|710.8|169|12|144|26
+13082021|13|08|2021|427|31|Sulawesi Utara|Kab. Minahasa Tenggara|Minahasa Tenggara|1245|41|975|229|120000|710.8|169|12|144|26
+12082021|12|08|2021|427|31|Sulawesi Utara|Kab. Minahasa Tenggara|Minahasa Tenggara|1239|41|946|252|120000|710.8|169|12|144|26
+11082021|11|08|2021|427|31|Sulawesi Utara|Kab. Minahasa Tenggara|Minahasa Tenggara|1239|40|932|267|120000|710.8|169|12|144|26
+10082021|10|08|2021|427|31|Sulawesi Utara|Kab. Minahasa Tenggara|Minahasa Tenggara|1228|40|871|317|120000|710.8|169|12|144|26
+09082021|09|08|2021|427|31|Sulawesi Utara|Kab. Minahasa Tenggara|Minahasa Tenggara|1225|40|863|322|120000|710.8|169|12|144|26
 08082021|08|08|2021|427|31|Sulawesi Utara|Kab. Minahasa Tenggara|Minahasa Tenggara|1222|40|842|340|120000|710.8|169|12|144|26
 07082021|07|08|2021|427|31|Sulawesi Utara|Kab. Minahasa Tenggara|Minahasa Tenggara|1220|38|821|361|120000|710.8|169|12|144|26
 06082021|06|08|2021|427|31|Sulawesi Utara|Kab. Minahasa Tenggara|Minahasa Tenggara|1202|38|819|345|120000|710.8|169|12|144|26
@@ -5498,6 +5589,13 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 14062020|14|06|2020|427|31|Sulawesi Utara|Kab. Minahasa Tenggara|Minahasa Tenggara|7|2|4|1|120000|710.8|169|12|144|26
 13062020|13|06|2020|427|31|Sulawesi Utara|Kab. Minahasa Tenggara|Minahasa Tenggara|||||120000|710.8|169|12|144|26
 12062020|12|06|2020|427|31|Sulawesi Utara|Kab. Minahasa Tenggara|Minahasa Tenggara|||||120000|710.8|169|12|144|26
+15082021|15|08|2021|428|31|Sulawesi Utara|Kab. Minahasa Utara|Minahasa Utara|2778|74|2445|259|225000|918.5|245|10|131|46
+14082021|14|08|2021|428|31|Sulawesi Utara|Kab. Minahasa Utara|Minahasa Utara|2756|73|2431|252|225000|918.5|245|10|131|46
+13082021|13|08|2021|428|31|Sulawesi Utara|Kab. Minahasa Utara|Minahasa Utara|2736|70|2419|247|225000|918.5|245|10|131|46
+12082021|12|08|2021|428|31|Sulawesi Utara|Kab. Minahasa Utara|Minahasa Utara|2710|70|2376|264|225000|918.5|245|10|131|46
+11082021|11|08|2021|428|31|Sulawesi Utara|Kab. Minahasa Utara|Minahasa Utara|2674|70|2369|235|225000|918.5|245|10|131|46
+10082021|10|08|2021|428|31|Sulawesi Utara|Kab. Minahasa Utara|Minahasa Utara|2641|69|2334|238|225000|918.5|245|10|131|46
+09082021|09|08|2021|428|31|Sulawesi Utara|Kab. Minahasa Utara|Minahasa Utara|2637|69|2285|283|225000|918.5|245|10|131|46
 08082021|08|08|2021|428|31|Sulawesi Utara|Kab. Minahasa Utara|Minahasa Utara|2636|67|2251|318|225000|918.5|245|10|131|46
 07082021|07|08|2021|428|31|Sulawesi Utara|Kab. Minahasa Utara|Minahasa Utara|2619|67|2219|333|225000|918.5|245|10|131|46
 06082021|06|08|2021|428|31|Sulawesi Utara|Kab. Minahasa Utara|Minahasa Utara|2542|67|2178|297|225000|918.5|245|10|131|46
@@ -5921,6 +6019,13 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 14062020|14|06|2020|428|31|Sulawesi Utara|Kab. Minahasa Utara|Minahasa Utara|29|3|5|21|225000|918.5|245|10|131|46
 13062020|13|06|2020|428|31|Sulawesi Utara|Kab. Minahasa Utara|Minahasa Utara|29|3|5|21|225000|918.5|245|10|131|46
 12062020|12|06|2020|428|31|Sulawesi Utara|Kab. Minahasa Utara|Minahasa Utara|28|3|3|22|225000|918.5|245|10|131|46
+15082021|15|08|2021|429|31|Sulawesi Utara|Kota Tomohon|Kota Tomohon|3138|84|2037|1017|101000|114.2|886|5|44|
+14082021|14|08|2021|429|31|Sulawesi Utara|Kota Tomohon|Kota Tomohon|3119|84|2037|998|101000|114.2|886|5|44|
+13082021|13|08|2021|429|31|Sulawesi Utara|Kota Tomohon|Kota Tomohon|3082|79|2033|970|101000|114.2|886|5|44|
+12082021|12|08|2021|429|31|Sulawesi Utara|Kota Tomohon|Kota Tomohon|3048|79|2033|936|101000|114.2|886|5|44|
+11082021|11|08|2021|429|31|Sulawesi Utara|Kota Tomohon|Kota Tomohon|2920|74|2008|838|101000|114.2|886|5|44|
+10082021|10|08|2021|429|31|Sulawesi Utara|Kota Tomohon|Kota Tomohon|2900|74|2008|818|101000|114.2|886|5|44|
+09082021|09|08|2021|429|31|Sulawesi Utara|Kota Tomohon|Kota Tomohon|2898|74|2008|816|101000|114.2|886|5|44|
 08082021|08|08|2021|429|31|Sulawesi Utara|Kota Tomohon|Kota Tomohon|2835|74|1977|784|101000|114.2|886|5|44|
 07082021|07|08|2021|429|31|Sulawesi Utara|Kota Tomohon|Kota Tomohon|2664|70|1977|617|101000|114.2|886|5|44|
 06082021|06|08|2021|429|31|Sulawesi Utara|Kota Tomohon|Kota Tomohon|2656|70|1977|609|101000|114.2|886|5|44|

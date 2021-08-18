@@ -1,4 +1,11 @@
 date|day|month|year|id_district|id_province|province_name|district_name|city_name|confirmed_case|death_case|recovered_case|active_case|population|area_km2|pop_density|num_kecamatan|num_village|num_islands
+15082021|15|08|2021|224|19|Lampung|Kota Bandar Lampung|Kota Bandar Lampung|9788|659|8399|730|1200000|296|4100|20|126|2
+14082021|14|08|2021|224|19|Lampung|Kota Bandar Lampung|Kota Bandar Lampung|9725|650|8297|778|1200000|296|4100|20|126|2
+13082021|13|08|2021|224|19|Lampung|Kota Bandar Lampung|Kota Bandar Lampung|9674|644|8174|856|1200000|296|4100|20|126|2
+12082021|12|08|2021|224|19|Lampung|Kota Bandar Lampung|Kota Bandar Lampung|9624|639|8054|931|1200000|296|4100|20|126|2
+11082021|11|08|2021|224|19|Lampung|Kota Bandar Lampung|Kota Bandar Lampung|9577|632|7929|1016|1200000|296|4100|20|126|2
+10082021|10|08|2021|224|19|Lampung|Kota Bandar Lampung|Kota Bandar Lampung|9502|618|7809|1075|1200000|296|4100|20|126|2
+09082021|09|08|2021|224|19|Lampung|Kota Bandar Lampung|Kota Bandar Lampung|9410|602|7683|1125|1200000|296|4100|20|126|2
 08082021|08|08|2021|224|19|Lampung|Kota Bandar Lampung|Kota Bandar Lampung|9317|593|7559|1165|1200000|296|4100|20|126|2
 07082021|07|08|2021|224|19|Lampung|Kota Bandar Lampung|Kota Bandar Lampung|9240|587|7448|1205|1200000|296|4100|20|126|2
 06082021|06|08|2021|224|19|Lampung|Kota Bandar Lampung|Kota Bandar Lampung|9145|581|7328|1236|1200000|296|4100|20|126|2
@@ -503,6 +510,13 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 25032020|25|03|2020|224|19|Lampung|Kota Bandar Lampung|Kota Bandar Lampung|1||1||1200000|296|4100|20|126|2
 24032020|24|03|2020|224|19|Lampung|Kota Bandar Lampung|Kota Bandar Lampung|1||1||1200000|296|4100|20|126|2
 23032020|23|03|2020|224|19|Lampung|Kota Bandar Lampung|Kota Bandar Lampung|1||1||1200000|296|4100|20|126|2
+15082021|15|08|2021|225|19|Lampung|Kab. Lampung Barat|Lampung Barat|2313|112|1897|304|311000|2142.8|145|15|136|
+14082021|14|08|2021|225|19|Lampung|Kab. Lampung Barat|Lampung Barat|2313|112|1897|304|311000|2142.8|145|15|136|
+13082021|13|08|2021|225|19|Lampung|Kab. Lampung Barat|Lampung Barat|2237|107|1859|271|311000|2142.8|145|15|136|
+12082021|12|08|2021|225|19|Lampung|Kab. Lampung Barat|Lampung Barat|2202|105|1859|238|311000|2142.8|145|15|136|
+11082021|11|08|2021|225|19|Lampung|Kab. Lampung Barat|Lampung Barat|2174|104|1714|356|311000|2142.8|145|15|136|
+10082021|10|08|2021|225|19|Lampung|Kab. Lampung Barat|Lampung Barat|2142|103|1714|325|311000|2142.8|145|15|136|
+09082021|09|08|2021|225|19|Lampung|Kab. Lampung Barat|Lampung Barat|2129|102|1678|349|311000|2142.8|145|15|136|
 08082021|08|08|2021|225|19|Lampung|Kab. Lampung Barat|Lampung Barat|2113|102|1678|333|311000|2142.8|145|15|136|
 07082021|07|08|2021|225|19|Lampung|Kab. Lampung Barat|Lampung Barat|2112|102|1637|373|311000|2142.8|145|15|136|
 06082021|06|08|2021|225|19|Lampung|Kab. Lampung Barat|Lampung Barat|2084|100|1603|381|311000|2142.8|145|15|136|
@@ -1007,6 +1021,13 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 25032020|25|03|2020|225|19|Lampung|Kab. Lampung Barat|Lampung Barat|||||311000|2142.8|145|15|136|
 24032020|24|03|2020|225|19|Lampung|Kab. Lampung Barat|Lampung Barat|||||311000|2142.8|145|15|136|
 23032020|23|03|2020|225|19|Lampung|Kab. Lampung Barat|Lampung Barat|||||311000|2142.8|145|15|136|
+15082021|15|08|2021|226|19|Lampung|Kab. Lampung Selatan|Lampung Selatan|3929|216|2806|907|1300000|700.3|1871|17|260|43
+14082021|14|08|2021|226|19|Lampung|Kab. Lampung Selatan|Lampung Selatan|3841|208|2767|866|1300000|700.3|1871|17|260|43
+13082021|13|08|2021|226|19|Lampung|Kab. Lampung Selatan|Lampung Selatan|3746|198|2689|859|1300000|700.3|1871|17|260|43
+12082021|12|08|2021|226|19|Lampung|Kab. Lampung Selatan|Lampung Selatan|3666|192|2624|850|1300000|700.3|1871|17|260|43
+11082021|11|08|2021|226|19|Lampung|Kab. Lampung Selatan|Lampung Selatan|3639|191|2585|863|1300000|700.3|1871|17|260|43
+10082021|10|08|2021|226|19|Lampung|Kab. Lampung Selatan|Lampung Selatan|3616|190|2469|957|1300000|700.3|1871|17|260|43
+09082021|09|08|2021|226|19|Lampung|Kab. Lampung Selatan|Lampung Selatan|3516|188|2370|958|1300000|700.3|1871|17|260|43
 08082021|08|08|2021|226|19|Lampung|Kab. Lampung Selatan|Lampung Selatan|3460|188|2284|988|1300000|700.3|1871|17|260|43
 07082021|07|08|2021|226|19|Lampung|Kab. Lampung Selatan|Lampung Selatan|3398|186|2259|953|1300000|700.3|1871|17|260|43
 06082021|06|08|2021|226|19|Lampung|Kab. Lampung Selatan|Lampung Selatan|3364|182|2259|923|1300000|700.3|1871|17|260|43
@@ -1511,6 +1532,13 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 25032020|25|03|2020|226|19|Lampung|Kab. Lampung Selatan|Lampung Selatan|||||1300000|700.3|1871|17|260|43
 24032020|24|03|2020|226|19|Lampung|Kab. Lampung Selatan|Lampung Selatan|||||1300000|700.3|1871|17|260|43
 23032020|23|03|2020|226|19|Lampung|Kab. Lampung Selatan|Lampung Selatan|||||1300000|700.3|1871|17|260|43
+15082021|15|08|2021|227|19|Lampung|Kab. Lampung Tengah|Lampung Tengah|3970|451|3342|177|1500000|3802.7|399|28|311|
+14082021|14|08|2021|227|19|Lampung|Kab. Lampung Tengah|Lampung Tengah|3942|448|3321|173|1500000|3802.7|399|28|311|
+13082021|13|08|2021|227|19|Lampung|Kab. Lampung Tengah|Lampung Tengah|3914|441|3300|173|1500000|3802.7|399|28|311|
+12082021|12|08|2021|227|19|Lampung|Kab. Lampung Tengah|Lampung Tengah|3890|433|3264|193|1500000|3802.7|399|28|311|
+11082021|11|08|2021|227|19|Lampung|Kab. Lampung Tengah|Lampung Tengah|3821|417|3234|170|1500000|3802.7|399|28|311|
+10082021|10|08|2021|227|19|Lampung|Kab. Lampung Tengah|Lampung Tengah|3806|395|3161|250|1500000|3802.7|399|28|311|
+09082021|09|08|2021|227|19|Lampung|Kab. Lampung Tengah|Lampung Tengah|3770|390|3161|219|1500000|3802.7|399|28|311|
 08082021|08|08|2021|227|19|Lampung|Kab. Lampung Tengah|Lampung Tengah|3748|378|3118|252|1500000|3802.7|399|28|311|
 07082021|07|08|2021|227|19|Lampung|Kab. Lampung Tengah|Lampung Tengah|3731|369|3072|290|1500000|3802.7|399|28|311|
 06082021|06|08|2021|227|19|Lampung|Kab. Lampung Tengah|Lampung Tengah|3708|367|3025|316|1500000|3802.7|399|28|311|
@@ -2015,6 +2043,13 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 25032020|25|03|2020|227|19|Lampung|Kab. Lampung Tengah|Lampung Tengah|||||1500000|3802.7|399|28|311|
 24032020|24|03|2020|227|19|Lampung|Kab. Lampung Tengah|Lampung Tengah|||||1500000|3802.7|399|28|311|
 23032020|23|03|2020|227|19|Lampung|Kab. Lampung Tengah|Lampung Tengah|||||1500000|3802.7|399|28|311|
+15082021|15|08|2021|228|19|Lampung|Kab. Lampung Timur|Lampung Timur|5074|436|3927|711|1200000|5325|216|24|264|5
+14082021|14|08|2021|228|19|Lampung|Kab. Lampung Timur|Lampung Timur|5020|420|3856|744|1200000|5325|216|24|264|5
+13082021|13|08|2021|228|19|Lampung|Kab. Lampung Timur|Lampung Timur|4991|411|3791|789|1200000|5325|216|24|264|5
+12082021|12|08|2021|228|19|Lampung|Kab. Lampung Timur|Lampung Timur|4936|406|3691|839|1200000|5325|216|24|264|5
+11082021|11|08|2021|228|19|Lampung|Kab. Lampung Timur|Lampung Timur|4884|394|3618|872|1200000|5325|216|24|264|5
+10082021|10|08|2021|228|19|Lampung|Kab. Lampung Timur|Lampung Timur|4830|385|3535|910|1200000|5325|216|24|264|5
+09082021|09|08|2021|228|19|Lampung|Kab. Lampung Timur|Lampung Timur|4758|378|3464|916|1200000|5325|216|24|264|5
 08082021|08|08|2021|228|19|Lampung|Kab. Lampung Timur|Lampung Timur|4720|374|3407|939|1200000|5325|216|24|264|5
 07082021|07|08|2021|228|19|Lampung|Kab. Lampung Timur|Lampung Timur|4667|371|3357|939|1200000|5325|216|24|264|5
 06082021|06|08|2021|228|19|Lampung|Kab. Lampung Timur|Lampung Timur|4590|355|3281|954|1200000|5325|216|24|264|5
@@ -2519,6 +2554,13 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 25032020|25|03|2020|228|19|Lampung|Kab. Lampung Timur|Lampung Timur|||||1200000|5325|216|24|264|5
 24032020|24|03|2020|228|19|Lampung|Kab. Lampung Timur|Lampung Timur|||||1200000|5325|216|24|264|5
 23032020|23|03|2020|228|19|Lampung|Kab. Lampung Timur|Lampung Timur|||||1200000|5325|216|24|264|5
+15082021|15|08|2021|229|19|Lampung|Kab. Lampung Utara|Lampung Utara|3635|155|2092|1388|914000|2725.9|335|23|247|
+14082021|14|08|2021|229|19|Lampung|Kab. Lampung Utara|Lampung Utara|3616|152|2092|1372|914000|2725.9|335|23|247|
+13082021|13|08|2021|229|19|Lampung|Kab. Lampung Utara|Lampung Utara|3616|152|2092|1372|914000|2725.9|335|23|247|
+12082021|12|08|2021|229|19|Lampung|Kab. Lampung Utara|Lampung Utara|3616|152|2092|1372|914000|2725.9|335|23|247|
+11082021|11|08|2021|229|19|Lampung|Kab. Lampung Utara|Lampung Utara|3598|148|2092|1358|914000|2725.9|335|23|247|
+10082021|10|08|2021|229|19|Lampung|Kab. Lampung Utara|Lampung Utara|3572|143|2092|1337|914000|2725.9|335|23|247|
+09082021|09|08|2021|229|19|Lampung|Kab. Lampung Utara|Lampung Utara|3572|143|2092|1337|914000|2725.9|335|23|247|
 08082021|08|08|2021|229|19|Lampung|Kab. Lampung Utara|Lampung Utara|3566|142|2092|1332|914000|2725.9|335|23|247|
 07082021|07|08|2021|229|19|Lampung|Kab. Lampung Utara|Lampung Utara|3508|137|2092|1279|914000|2725.9|335|23|247|
 06082021|06|08|2021|229|19|Lampung|Kab. Lampung Utara|Lampung Utara|3508|137|2092|1279|914000|2725.9|335|23|247|
@@ -3023,6 +3065,13 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 25032020|25|03|2020|229|19|Lampung|Kab. Lampung Utara|Lampung Utara|||||914000|2725.9|335|23|247|
 24032020|24|03|2020|229|19|Lampung|Kab. Lampung Utara|Lampung Utara|||||914000|2725.9|335|23|247|
 23032020|23|03|2020|229|19|Lampung|Kab. Lampung Utara|Lampung Utara|||||914000|2725.9|335|23|247|
+15082021|15|08|2021|230|19|Lampung|Kab. Mesuji|Mesuji|440|42|278|120|326000|2184|149|7|105|
+14082021|14|08|2021|230|19|Lampung|Kab. Mesuji|Mesuji|433|42|278|113|326000|2184|149|7|105|
+13082021|13|08|2021|230|19|Lampung|Kab. Mesuji|Mesuji|425|41|278|106|326000|2184|149|7|105|
+12082021|12|08|2021|230|19|Lampung|Kab. Mesuji|Mesuji|412|40|266|106|326000|2184|149|7|105|
+11082021|11|08|2021|230|19|Lampung|Kab. Mesuji|Mesuji|404|38|241|125|326000|2184|149|7|105|
+10082021|10|08|2021|230|19|Lampung|Kab. Mesuji|Mesuji|393|38|241|114|326000|2184|149|7|105|
+09082021|09|08|2021|230|19|Lampung|Kab. Mesuji|Mesuji|374|37|241|96|326000|2184|149|7|105|
 08082021|08|08|2021|230|19|Lampung|Kab. Mesuji|Mesuji|370|35|241|94|326000|2184|149|7|105|
 07082021|07|08|2021|230|19|Lampung|Kab. Mesuji|Mesuji|361|32|241|88|326000|2184|149|7|105|
 06082021|06|08|2021|230|19|Lampung|Kab. Mesuji|Mesuji|361|32|241|88|326000|2184|149|7|105|
@@ -3527,6 +3576,13 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 25032020|25|03|2020|230|19|Lampung|Kab. Mesuji|Mesuji|||||326000|2184|149|7|105|
 24032020|24|03|2020|230|19|Lampung|Kab. Mesuji|Mesuji|||||326000|2184|149|7|105|
 23032020|23|03|2020|230|19|Lampung|Kab. Mesuji|Mesuji|||||326000|2184|149|7|105|
+15082021|15|08|2021|231|19|Lampung|Kota Metro|Kota Metro|2272|146|2036|90|171000|61.8|2763|5|22|
+14082021|14|08|2021|231|19|Lampung|Kota Metro|Kota Metro|2239|143|2014|82|171000|61.8|2763|5|22|
+13082021|13|08|2021|231|19|Lampung|Kota Metro|Kota Metro|2204|138|1956|110|171000|61.8|2763|5|22|
+12082021|12|08|2021|231|19|Lampung|Kota Metro|Kota Metro|2172|135|1956|81|171000|61.8|2763|5|22|
+11082021|11|08|2021|231|19|Lampung|Kota Metro|Kota Metro|2146|132|1943|71|171000|61.8|2763|5|22|
+10082021|10|08|2021|231|19|Lampung|Kota Metro|Kota Metro|2121|130|1943|48|171000|61.8|2763|5|22|
+09082021|09|08|2021|231|19|Lampung|Kota Metro|Kota Metro|2100|128|1859|113|171000|61.8|2763|5|22|
 08082021|08|08|2021|231|19|Lampung|Kota Metro|Kota Metro|2074|126|1859|89|171000|61.8|2763|5|22|
 07082021|07|08|2021|231|19|Lampung|Kota Metro|Kota Metro|2044|124|1859|61|171000|61.8|2763|5|22|
 06082021|06|08|2021|231|19|Lampung|Kota Metro|Kota Metro|2023|122|1798|103|171000|61.8|2763|5|22|
@@ -4031,6 +4087,13 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 25032020|25|03|2020|231|19|Lampung|Kota Metro|Kota Metro|||||171000|61.8|2763|5|22|
 24032020|24|03|2020|231|19|Lampung|Kota Metro|Kota Metro|||||171000|61.8|2763|5|22|
 23032020|23|03|2020|231|19|Lampung|Kota Metro|Kota Metro|||||171000|61.8|2763|5|22|
+15082021|15|08|2021|232|19|Lampung|Kab. Pesawaran|Pesawaran|2268|189|1916|163|564000|2243.5|251|11|144|40
+14082021|14|08|2021|232|19|Lampung|Kab. Pesawaran|Pesawaran|2248|184|1901|163|564000|2243.5|251|11|144|40
+13082021|13|08|2021|232|19|Lampung|Kab. Pesawaran|Pesawaran|2235|183|1869|183|564000|2243.5|251|11|144|40
+12082021|12|08|2021|232|19|Lampung|Kab. Pesawaran|Pesawaran|2211|179|1852|180|564000|2243.5|251|11|144|40
+11082021|11|08|2021|232|19|Lampung|Kab. Pesawaran|Pesawaran|2201|177|1837|187|564000|2243.5|251|11|144|40
+10082021|10|08|2021|232|19|Lampung|Kab. Pesawaran|Pesawaran|2184|174|1810|200|564000|2243.5|251|11|144|40
+09082021|09|08|2021|232|19|Lampung|Kab. Pesawaran|Pesawaran|2175|174|1787|214|564000|2243.5|251|11|144|40
 08082021|08|08|2021|232|19|Lampung|Kab. Pesawaran|Pesawaran|2158|172|1781|205|564000|2243.5|251|11|144|40
 07082021|07|08|2021|232|19|Lampung|Kab. Pesawaran|Pesawaran|2142|170|1765|207|564000|2243.5|251|11|144|40
 06082021|06|08|2021|232|19|Lampung|Kab. Pesawaran|Pesawaran|2124|165|1747|212|564000|2243.5|251|11|144|40
@@ -4535,6 +4598,13 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 25032020|25|03|2020|232|19|Lampung|Kab. Pesawaran|Pesawaran|||||564000|2243.5|251|11|144|40
 24032020|24|03|2020|232|19|Lampung|Kab. Pesawaran|Pesawaran|||||564000|2243.5|251|11|144|40
 23032020|23|03|2020|232|19|Lampung|Kab. Pesawaran|Pesawaran|||||564000|2243.5|251|11|144|40
+15082021|15|08|2021|233|19|Lampung|Kab. Pringsewu|Pringsewu|3303|247|2781|275|435000|625|696|9|131|
+14082021|14|08|2021|233|19|Lampung|Kab. Pringsewu|Pringsewu|3277|244|2679|354|435000|625|696|9|131|
+13082021|13|08|2021|233|19|Lampung|Kab. Pringsewu|Pringsewu|3207|233|2622|352|435000|625|696|9|131|
+12082021|12|08|2021|233|19|Lampung|Kab. Pringsewu|Pringsewu|3163|227|2573|363|435000|625|696|9|131|
+11082021|11|08|2021|233|19|Lampung|Kab. Pringsewu|Pringsewu|3126|218|2549|359|435000|625|696|9|131|
+10082021|10|08|2021|233|19|Lampung|Kab. Pringsewu|Pringsewu|3096|212|2510|374|435000|625|696|9|131|
+09082021|09|08|2021|233|19|Lampung|Kab. Pringsewu|Pringsewu|3052|209|2466|377|435000|625|696|9|131|
 08082021|08|08|2021|233|19|Lampung|Kab. Pringsewu|Pringsewu|3020|205|2428|387|435000|625|696|9|131|
 07082021|07|08|2021|233|19|Lampung|Kab. Pringsewu|Pringsewu|2965|192|2392|381|435000|625|696|9|131|
 06082021|06|08|2021|233|19|Lampung|Kab. Pringsewu|Pringsewu|2932|181|2313|438|435000|625|696|9|131|
@@ -5039,6 +5109,13 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 25032020|25|03|2020|233|19|Lampung|Kab. Pringsewu|Pringsewu|||||435000|625|696|9|131|
 24032020|24|03|2020|233|19|Lampung|Kab. Pringsewu|Pringsewu|||||435000|625|696|9|131|
 23032020|23|03|2020|233|19|Lampung|Kab. Pringsewu|Pringsewu|||||435000|625|696|9|131|
+15082021|15|08|2021|234|19|Lampung|Kab. Tanggamus|Tanggamus|2267|106|1974|187|661000|3020.6|219|20|302|44
+14082021|14|08|2021|234|19|Lampung|Kab. Tanggamus|Tanggamus|2243|105|1951|187|661000|3020.6|219|20|302|44
+13082021|13|08|2021|234|19|Lampung|Kab. Tanggamus|Tanggamus|2226|101|1911|214|661000|3020.6|219|20|302|44
+12082021|12|08|2021|234|19|Lampung|Kab. Tanggamus|Tanggamus|2201|99|1882|220|661000|3020.6|219|20|302|44
+11082021|11|08|2021|234|19|Lampung|Kab. Tanggamus|Tanggamus|2181|95|1849|237|661000|3020.6|219|20|302|44
+10082021|10|08|2021|234|19|Lampung|Kab. Tanggamus|Tanggamus|2161|92|1807|262|661000|3020.6|219|20|302|44
+09082021|09|08|2021|234|19|Lampung|Kab. Tanggamus|Tanggamus|2126|88|1741|297|661000|3020.6|219|20|302|44
 08082021|08|08|2021|234|19|Lampung|Kab. Tanggamus|Tanggamus|2096|88|1691|317|661000|3020.6|219|20|302|44
 07082021|07|08|2021|234|19|Lampung|Kab. Tanggamus|Tanggamus|2055|84|1628|343|661000|3020.6|219|20|302|44
 06082021|06|08|2021|234|19|Lampung|Kab. Tanggamus|Tanggamus|2026|82|1605|339|661000|3020.6|219|20|302|44
@@ -5543,6 +5620,13 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 25032020|25|03|2020|234|19|Lampung|Kab. Tanggamus|Tanggamus|||||661000|3020.6|219|20|302|44
 24032020|24|03|2020|234|19|Lampung|Kab. Tanggamus|Tanggamus|||||661000|3020.6|219|20|302|44
 23032020|23|03|2020|234|19|Lampung|Kab. Tanggamus|Tanggamus|||||661000|3020.6|219|20|302|44
+15082021|15|08|2021|235|19|Lampung|Kab. Tulang Bawang|Tulang Bawang|638|67|533|38|433000|3466.3|125|15|151|
+14082021|14|08|2021|235|19|Lampung|Kab. Tulang Bawang|Tulang Bawang|637|66|533|38|433000|3466.3|125|15|151|
+13082021|13|08|2021|235|19|Lampung|Kab. Tulang Bawang|Tulang Bawang|635|64|533|38|433000|3466.3|125|15|151|
+12082021|12|08|2021|235|19|Lampung|Kab. Tulang Bawang|Tulang Bawang|612|63|533|16|433000|3466.3|125|15|151|
+11082021|11|08|2021|235|19|Lampung|Kab. Tulang Bawang|Tulang Bawang|605|63|529|13|433000|3466.3|125|15|151|
+10082021|10|08|2021|235|19|Lampung|Kab. Tulang Bawang|Tulang Bawang|595|61|517|17|433000|3466.3|125|15|151|
+09082021|09|08|2021|235|19|Lampung|Kab. Tulang Bawang|Tulang Bawang|590|59|504|27|433000|3466.3|125|15|151|
 08082021|08|08|2021|235|19|Lampung|Kab. Tulang Bawang|Tulang Bawang|586|56|504|26|433000|3466.3|125|15|151|
 07082021|07|08|2021|235|19|Lampung|Kab. Tulang Bawang|Tulang Bawang|560|53|477|30|433000|3466.3|125|15|151|
 06082021|06|08|2021|235|19|Lampung|Kab. Tulang Bawang|Tulang Bawang|532|52|477|3|433000|3466.3|125|15|151|
@@ -6047,6 +6131,13 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 25032020|25|03|2020|235|19|Lampung|Kab. Tulang Bawang|Tulang Bawang|||||433000|3466.3|125|15|151|
 24032020|24|03|2020|235|19|Lampung|Kab. Tulang Bawang|Tulang Bawang|||||433000|3466.3|125|15|151|
 23032020|23|03|2020|235|19|Lampung|Kab. Tulang Bawang|Tulang Bawang|||||433000|3466.3|125|15|151|
+15082021|15|08|2021|236|19|Lampung|Kab. Tulang Bawang Barat|Tulang Bawang Barat|998|140|749|109|277000|1201|230|9|96|
+14082021|14|08|2021|236|19|Lampung|Kab. Tulang Bawang Barat|Tulang Bawang Barat|993|140|739|114|277000|1201|230|9|96|
+13082021|13|08|2021|236|19|Lampung|Kab. Tulang Bawang Barat|Tulang Bawang Barat|971|140|739|92|277000|1201|230|9|96|
+12082021|12|08|2021|236|19|Lampung|Kab. Tulang Bawang Barat|Tulang Bawang Barat|950|139|719|92|277000|1201|230|9|96|
+11082021|11|08|2021|236|19|Lampung|Kab. Tulang Bawang Barat|Tulang Bawang Barat|919|139|719|61|277000|1201|230|9|96|
+10082021|10|08|2021|236|19|Lampung|Kab. Tulang Bawang Barat|Tulang Bawang Barat|911|139|719|53|277000|1201|230|9|96|
+09082021|09|08|2021|236|19|Lampung|Kab. Tulang Bawang Barat|Tulang Bawang Barat|900|138|591|171|277000|1201|230|9|96|
 08082021|08|08|2021|236|19|Lampung|Kab. Tulang Bawang Barat|Tulang Bawang Barat|900|136|591|173|277000|1201|230|9|96|
 07082021|07|08|2021|236|19|Lampung|Kab. Tulang Bawang Barat|Tulang Bawang Barat|870|133|591|146|277000|1201|230|9|96|
 06082021|06|08|2021|236|19|Lampung|Kab. Tulang Bawang Barat|Tulang Bawang Barat|861|132|399|330|277000|1201|230|9|96|
@@ -6551,6 +6642,13 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 25032020|25|03|2020|236|19|Lampung|Kab. Tulang Bawang Barat|Tulang Bawang Barat|||||277000|1201|230|9|96|
 24032020|24|03|2020|236|19|Lampung|Kab. Tulang Bawang Barat|Tulang Bawang Barat|||||277000|1201|230|9|96|
 23032020|23|03|2020|236|19|Lampung|Kab. Tulang Bawang Barat|Tulang Bawang Barat|||||277000|1201|230|9|96|
+15082021|15|08|2021|237|19|Lampung|Kab. Way Kanan|Way Kanan|671|50|383|238|495000|3921.6|126|14|227|
+14082021|14|08|2021|237|19|Lampung|Kab. Way Kanan|Way Kanan|661|49|362|250|495000|3921.6|126|14|227|
+13082021|13|08|2021|237|19|Lampung|Kab. Way Kanan|Way Kanan|645|44|343|258|495000|3921.6|126|14|227|
+12082021|12|08|2021|237|19|Lampung|Kab. Way Kanan|Way Kanan|613|43|319|251|495000|3921.6|126|14|227|
+11082021|11|08|2021|237|19|Lampung|Kab. Way Kanan|Way Kanan|589|40|288|261|495000|3921.6|126|14|227|
+10082021|10|08|2021|237|19|Lampung|Kab. Way Kanan|Way Kanan|564|39|249|276|495000|3921.6|126|14|227|
+09082021|09|08|2021|237|19|Lampung|Kab. Way Kanan|Way Kanan|526|34|249|243|495000|3921.6|126|14|227|
 08082021|08|08|2021|237|19|Lampung|Kab. Way Kanan|Way Kanan|513|34|249|230|495000|3921.6|126|14|227|
 07082021|07|08|2021|237|19|Lampung|Kab. Way Kanan|Way Kanan|472|30|234|208|495000|3921.6|126|14|227|
 06082021|06|08|2021|237|19|Lampung|Kab. Way Kanan|Way Kanan|472|30|234|208|495000|3921.6|126|14|227|
@@ -7055,6 +7153,13 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 25032020|25|03|2020|237|19|Lampung|Kab. Way Kanan|Way Kanan|||||495000|3921.6|126|14|227|
 24032020|24|03|2020|237|19|Lampung|Kab. Way Kanan|Way Kanan|||||495000|3921.6|126|14|227|
 23032020|23|03|2020|237|19|Lampung|Kab. Way Kanan|Way Kanan|||||495000|3921.6|126|14|227|
+15082021|15|08|2021|499|19|Lampung|Kab. Pesisir Barat|Pesisir Barat|860|36|705|119|161000|2907.2|55|11|118|3
+14082021|14|08|2021|499|19|Lampung|Kab. Pesisir Barat|Pesisir Barat|856|36|705|115|161000|2907.2|55|11|118|3
+13082021|13|08|2021|499|19|Lampung|Kab. Pesisir Barat|Pesisir Barat|850|36|705|109|161000|2907.2|55|11|118|3
+12082021|12|08|2021|499|19|Lampung|Kab. Pesisir Barat|Pesisir Barat|841|35|705|101|161000|2907.2|55|11|118|3
+11082021|11|08|2021|499|19|Lampung|Kab. Pesisir Barat|Pesisir Barat|823|35|705|83|161000|2907.2|55|11|118|3
+10082021|10|08|2021|499|19|Lampung|Kab. Pesisir Barat|Pesisir Barat|815|35|705|75|161000|2907.2|55|11|118|3
+09082021|09|08|2021|499|19|Lampung|Kab. Pesisir Barat|Pesisir Barat|815|35|576|204|161000|2907.2|55|11|118|3
 08082021|08|08|2021|499|19|Lampung|Kab. Pesisir Barat|Pesisir Barat|805|34|576|195|161000|2907.2|55|11|118|3
 07082021|07|08|2021|499|19|Lampung|Kab. Pesisir Barat|Pesisir Barat|798|33|576|189|161000|2907.2|55|11|118|3
 06082021|06|08|2021|499|19|Lampung|Kab. Pesisir Barat|Pesisir Barat|782|31|576|175|161000|2907.2|55|11|118|3

@@ -1,4 +1,11 @@
 date|day|month|year|id_district|id_province|province_name|district_name|city_name|confirmed_case|death_case|recovered_case|active_case|population|area_km2|pop_density|num_kecamatan|num_village|num_islands
+15082021|15|08|2021|189|14|Kalimantan Tengah|Kab. Barito Selatan|Barito Selatan|1077|40|844|193|127000|8830|14|6|93|8
+14082021|14|08|2021|189|14|Kalimantan Tengah|Kab. Barito Selatan|Barito Selatan|1036|40|836|160|127000|8830|14|6|93|8
+13082021|13|08|2021|189|14|Kalimantan Tengah|Kab. Barito Selatan|Barito Selatan|1030|38|803|189|127000|8830|14|6|93|8
+12082021|12|08|2021|189|14|Kalimantan Tengah|Kab. Barito Selatan|Barito Selatan|982|36|803|143|127000|8830|14|6|93|8
+11082021|11|08|2021|189|14|Kalimantan Tengah|Kab. Barito Selatan|Barito Selatan|957|34|796|127|127000|8830|14|6|93|8
+10082021|10|08|2021|189|14|Kalimantan Tengah|Kab. Barito Selatan|Barito Selatan|932|33|783|116|127000|8830|14|6|93|8
+09082021|09|08|2021|189|14|Kalimantan Tengah|Kab. Barito Selatan|Barito Selatan|929|33|755|141|127000|8830|14|6|93|8
 08082021|08|08|2021|189|14|Kalimantan Tengah|Kab. Barito Selatan|Barito Selatan|925|31|748|146|127000|8830|14|6|93|8
 07082021|07|08|2021|189|14|Kalimantan Tengah|Kab. Barito Selatan|Barito Selatan|924|31|745|148|127000|8830|14|6|93|8
 06082021|06|08|2021|189|14|Kalimantan Tengah|Kab. Barito Selatan|Barito Selatan|919|30|739|150|127000|8830|14|6|93|8
@@ -507,6 +514,13 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 21032020|21|03|2020|189|14|Kalimantan Tengah|Kab. Barito Selatan|Barito Selatan|||||127000|8830|14|6|93|8
 20032020|20|03|2020|189|14|Kalimantan Tengah|Kab. Barito Selatan|Barito Selatan|||||127000|8830|14|6|93|8
 19032020|19|03|2020|189|14|Kalimantan Tengah|Kab. Barito Selatan|Barito Selatan|||||127000|8830|14|6|93|8
+15082021|15|08|2021|190|14|Kalimantan Tengah|Kab. Barito Timur|Barito Timur|1598|36|1433|129|114000|3834|30|10|103|
+14082021|14|08|2021|190|14|Kalimantan Tengah|Kab. Barito Timur|Barito Timur|1482|36|1313|133|114000|3834|30|10|103|
+13082021|13|08|2021|190|14|Kalimantan Tengah|Kab. Barito Timur|Barito Timur|1360|35|1254|71|114000|3834|30|10|103|
+12082021|12|08|2021|190|14|Kalimantan Tengah|Kab. Barito Timur|Barito Timur|1297|32|1206|59|114000|3834|30|10|103|
+11082021|11|08|2021|190|14|Kalimantan Tengah|Kab. Barito Timur|Barito Timur|1285|32|1196|57|114000|3834|30|10|103|
+10082021|10|08|2021|190|14|Kalimantan Tengah|Kab. Barito Timur|Barito Timur|1285|32|1182|71|114000|3834|30|10|103|
+09082021|09|08|2021|190|14|Kalimantan Tengah|Kab. Barito Timur|Barito Timur|1283|29|1162|92|114000|3834|30|10|103|
 08082021|08|08|2021|190|14|Kalimantan Tengah|Kab. Barito Timur|Barito Timur|1255|29|1148|78|114000|3834|30|10|103|
 07082021|07|08|2021|190|14|Kalimantan Tengah|Kab. Barito Timur|Barito Timur|1254|29|1148|77|114000|3834|30|10|103|
 06082021|06|08|2021|190|14|Kalimantan Tengah|Kab. Barito Timur|Barito Timur|1251|28|1143|80|114000|3834|30|10|103|
@@ -1015,6 +1029,13 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 21032020|21|03|2020|190|14|Kalimantan Tengah|Kab. Barito Timur|Barito Timur|||||114000|3834|30|10|103|
 20032020|20|03|2020|190|14|Kalimantan Tengah|Kab. Barito Timur|Barito Timur|||||114000|3834|30|10|103|
 19032020|19|03|2020|190|14|Kalimantan Tengah|Kab. Barito Timur|Barito Timur|||||114000|3834|30|10|103|
+15082021|15|08|2021|191|14|Kalimantan Tengah|Kab. Barito Utara|Barito Utara|1234|38|991|205|157000|8300|19|9|103|
+14082021|14|08|2021|191|14|Kalimantan Tengah|Kab. Barito Utara|Barito Utara|1211|38|955|218|157000|8300|19|9|103|
+13082021|13|08|2021|191|14|Kalimantan Tengah|Kab. Barito Utara|Barito Utara|1169|38|955|176|157000|8300|19|9|103|
+12082021|12|08|2021|191|14|Kalimantan Tengah|Kab. Barito Utara|Barito Utara|1159|38|955|166|157000|8300|19|9|103|
+11082021|11|08|2021|191|14|Kalimantan Tengah|Kab. Barito Utara|Barito Utara|1147|38|955|154|157000|8300|19|9|103|
+10082021|10|08|2021|191|14|Kalimantan Tengah|Kab. Barito Utara|Barito Utara|1145|38|955|152|157000|8300|19|9|103|
+09082021|09|08|2021|191|14|Kalimantan Tengah|Kab. Barito Utara|Barito Utara|1135|37|887|211|157000|8300|19|9|103|
 08082021|08|08|2021|191|14|Kalimantan Tengah|Kab. Barito Utara|Barito Utara|1087|33|887|167|157000|8300|19|9|103|
 07082021|07|08|2021|191|14|Kalimantan Tengah|Kab. Barito Utara|Barito Utara|1054|33|887|134|157000|8300|19|9|103|
 06082021|06|08|2021|191|14|Kalimantan Tengah|Kab. Barito Utara|Barito Utara|1053|33|887|133|157000|8300|19|9|103|
@@ -1523,6 +1544,13 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 21032020|21|03|2020|191|14|Kalimantan Tengah|Kab. Barito Utara|Barito Utara|||||157000|8300|19|9|103|
 20032020|20|03|2020|191|14|Kalimantan Tengah|Kab. Barito Utara|Barito Utara|||||157000|8300|19|9|103|
 19032020|19|03|2020|191|14|Kalimantan Tengah|Kab. Barito Utara|Barito Utara|||||157000|8300|19|9|103|
+15082021|15|08|2021|192|14|Kalimantan Tengah|Kab. Gunung Mas|Gunung Mas|1796|32|1407|357|142000|10805|13|12|127|
+14082021|14|08|2021|192|14|Kalimantan Tengah|Kab. Gunung Mas|Gunung Mas|1764|32|1374|358|142000|10805|13|12|127|
+13082021|13|08|2021|192|14|Kalimantan Tengah|Kab. Gunung Mas|Gunung Mas|1742|32|1374|336|142000|10805|13|12|127|
+12082021|12|08|2021|192|14|Kalimantan Tengah|Kab. Gunung Mas|Gunung Mas|1712|32|1367|313|142000|10805|13|12|127|
+11082021|11|08|2021|192|14|Kalimantan Tengah|Kab. Gunung Mas|Gunung Mas|1668|32|1291|345|142000|10805|13|12|127|
+10082021|10|08|2021|192|14|Kalimantan Tengah|Kab. Gunung Mas|Gunung Mas|1635|32|1291|312|142000|10805|13|12|127|
+09082021|09|08|2021|192|14|Kalimantan Tengah|Kab. Gunung Mas|Gunung Mas|1607|32|1273|302|142000|10805|13|12|127|
 08082021|08|08|2021|192|14|Kalimantan Tengah|Kab. Gunung Mas|Gunung Mas|1577|32|1251|294|142000|10805|13|12|127|
 07082021|07|08|2021|192|14|Kalimantan Tengah|Kab. Gunung Mas|Gunung Mas|1554|32|1247|275|142000|10805|13|12|127|
 06082021|06|08|2021|192|14|Kalimantan Tengah|Kab. Gunung Mas|Gunung Mas|1523|32|1244|247|142000|10805|13|12|127|
@@ -2031,6 +2059,13 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 21032020|21|03|2020|192|14|Kalimantan Tengah|Kab. Gunung Mas|Gunung Mas|||||142000|10805|13|12|127|
 20032020|20|03|2020|192|14|Kalimantan Tengah|Kab. Gunung Mas|Gunung Mas|||||142000|10805|13|12|127|
 19032020|19|03|2020|192|14|Kalimantan Tengah|Kab. Gunung Mas|Gunung Mas|||||142000|10805|13|12|127|
+15082021|15|08|2021|193|14|Kalimantan Tengah|Kab. Kapuas|Kapuas|4068|147|3355|566|423000|14999|28|17|231|17
+14082021|14|08|2021|193|14|Kalimantan Tengah|Kab. Kapuas|Kapuas|4001|141|3312|548|423000|14999|28|17|231|17
+13082021|13|08|2021|193|14|Kalimantan Tengah|Kab. Kapuas|Kapuas|3950|140|3251|559|423000|14999|28|17|231|17
+12082021|12|08|2021|193|14|Kalimantan Tengah|Kab. Kapuas|Kapuas|3858|138|3209|511|423000|14999|28|17|231|17
+11082021|11|08|2021|193|14|Kalimantan Tengah|Kab. Kapuas|Kapuas|3799|137|3100|562|423000|14999|28|17|231|17
+10082021|10|08|2021|193|14|Kalimantan Tengah|Kab. Kapuas|Kapuas|3701|134|3090|477|423000|14999|28|17|231|17
+09082021|09|08|2021|193|14|Kalimantan Tengah|Kab. Kapuas|Kapuas|3643|129|3015|499|423000|14999|28|17|231|17
 08082021|08|08|2021|193|14|Kalimantan Tengah|Kab. Kapuas|Kapuas|3566|128|2994|444|423000|14999|28|17|231|17
 07082021|07|08|2021|193|14|Kalimantan Tengah|Kab. Kapuas|Kapuas|3463|127|2980|356|423000|14999|28|17|231|17
 06082021|06|08|2021|193|14|Kalimantan Tengah|Kab. Kapuas|Kapuas|3399|121|2910|368|423000|14999|28|17|231|17
@@ -2539,6 +2574,13 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 21032020|21|03|2020|193|14|Kalimantan Tengah|Kab. Kapuas|Kapuas|||||423000|14999|28|17|231|17
 20032020|20|03|2020|193|14|Kalimantan Tengah|Kab. Kapuas|Kapuas|||||423000|14999|28|17|231|17
 19032020|19|03|2020|193|14|Kalimantan Tengah|Kab. Kapuas|Kapuas|||||423000|14999|28|17|231|17
+15082021|15|08|2021|194|14|Kalimantan Tengah|Kab. Katingan|Katingan|1455|58|1285|112|153000|17500|9|13|161|19
+14082021|14|08|2021|194|14|Kalimantan Tengah|Kab. Katingan|Katingan|1428|57|1285|86|153000|17500|9|13|161|19
+13082021|13|08|2021|194|14|Kalimantan Tengah|Kab. Katingan|Katingan|1417|56|1276|85|153000|17500|9|13|161|19
+12082021|12|08|2021|194|14|Kalimantan Tengah|Kab. Katingan|Katingan|1362|55|1245|62|153000|17500|9|13|161|19
+11082021|11|08|2021|194|14|Kalimantan Tengah|Kab. Katingan|Katingan|1346|53|1233|60|153000|17500|9|13|161|19
+10082021|10|08|2021|194|14|Kalimantan Tengah|Kab. Katingan|Katingan|1344|52|1195|97|153000|17500|9|13|161|19
+09082021|09|08|2021|194|14|Kalimantan Tengah|Kab. Katingan|Katingan|1306|50|1171|85|153000|17500|9|13|161|19
 08082021|08|08|2021|194|14|Kalimantan Tengah|Kab. Katingan|Katingan|1269|46|1145|78|153000|17500|9|13|161|19
 07082021|07|08|2021|194|14|Kalimantan Tengah|Kab. Katingan|Katingan|1267|46|1145|76|153000|17500|9|13|161|19
 06082021|06|08|2021|194|14|Kalimantan Tengah|Kab. Katingan|Katingan|1261|44|1135|82|153000|17500|9|13|161|19
@@ -3047,6 +3089,13 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 21032020|21|03|2020|194|14|Kalimantan Tengah|Kab. Katingan|Katingan|||||153000|17500|9|13|161|19
 20032020|20|03|2020|194|14|Kalimantan Tengah|Kab. Katingan|Katingan|||||153000|17500|9|13|161|19
 19032020|19|03|2020|194|14|Kalimantan Tengah|Kab. Katingan|Katingan|||||153000|17500|9|13|161|19
+15082021|15|08|2021|195|14|Kalimantan Tengah|Kab. Kotawaringin Barat|Kotawaringin Barat|5964|189|5574|201|252000|10759|23|6|94|
+14082021|14|08|2021|195|14|Kalimantan Tengah|Kab. Kotawaringin Barat|Kotawaringin Barat|5946|188|5556|202|252000|10759|23|6|94|
+13082021|13|08|2021|195|14|Kalimantan Tengah|Kab. Kotawaringin Barat|Kotawaringin Barat|5710|188|5509|13|252000|10759|23|6|94|
+12082021|12|08|2021|195|14|Kalimantan Tengah|Kab. Kotawaringin Barat|Kotawaringin Barat|5691|186|5209|296|252000|10759|23|6|94|
+11082021|11|08|2021|195|14|Kalimantan Tengah|Kab. Kotawaringin Barat|Kotawaringin Barat|5678|186|5209|283|252000|10759|23|6|94|
+10082021|10|08|2021|195|14|Kalimantan Tengah|Kab. Kotawaringin Barat|Kotawaringin Barat|5662|186|5209|267|252000|10759|23|6|94|
+09082021|09|08|2021|195|14|Kalimantan Tengah|Kab. Kotawaringin Barat|Kotawaringin Barat|5655|185|5208|262|252000|10759|23|6|94|
 08082021|08|08|2021|195|14|Kalimantan Tengah|Kab. Kotawaringin Barat|Kotawaringin Barat|5646|184|5208|254|252000|10759|23|6|94|
 07082021|07|08|2021|195|14|Kalimantan Tengah|Kab. Kotawaringin Barat|Kotawaringin Barat|5619|184|5182|253|252000|10759|23|6|94|
 06082021|06|08|2021|195|14|Kalimantan Tengah|Kab. Kotawaringin Barat|Kotawaringin Barat|5611|180|5147|284|252000|10759|23|6|94|
@@ -3555,6 +3604,13 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 21032020|21|03|2020|195|14|Kalimantan Tengah|Kab. Kotawaringin Barat|Kotawaringin Barat|||||252000|10759|23|6|94|
 20032020|20|03|2020|195|14|Kalimantan Tengah|Kab. Kotawaringin Barat|Kotawaringin Barat|||||252000|10759|23|6|94|
 19032020|19|03|2020|195|14|Kalimantan Tengah|Kab. Kotawaringin Barat|Kotawaringin Barat|||||252000|10759|23|6|94|
+15082021|15|08|2021|196|14|Kalimantan Tengah|Kab. Kotawaringin Timur|Kotawaringin Timur|4716|197|4241|278|421000|16796|25|17|185|7
+14082021|14|08|2021|196|14|Kalimantan Tengah|Kab. Kotawaringin Timur|Kotawaringin Timur|4679|193|4223|263|421000|16796|25|17|185|7
+13082021|13|08|2021|196|14|Kalimantan Tengah|Kab. Kotawaringin Timur|Kotawaringin Timur|4648|190|4216|242|421000|16796|25|17|185|7
+12082021|12|08|2021|196|14|Kalimantan Tengah|Kab. Kotawaringin Timur|Kotawaringin Timur|4603|187|4179|237|421000|16796|25|17|185|7
+11082021|11|08|2021|196|14|Kalimantan Tengah|Kab. Kotawaringin Timur|Kotawaringin Timur|4567|185|4149|233|421000|16796|25|17|185|7
+10082021|10|08|2021|196|14|Kalimantan Tengah|Kab. Kotawaringin Timur|Kotawaringin Timur|4533|182|4137|214|421000|16796|25|17|185|7
+09082021|09|08|2021|196|14|Kalimantan Tengah|Kab. Kotawaringin Timur|Kotawaringin Timur|4495|179|4091|225|421000|16796|25|17|185|7
 08082021|08|08|2021|196|14|Kalimantan Tengah|Kab. Kotawaringin Timur|Kotawaringin Timur|4492|176|4065|251|421000|16796|25|17|185|7
 07082021|07|08|2021|196|14|Kalimantan Tengah|Kab. Kotawaringin Timur|Kotawaringin Timur|4485|172|4047|266|421000|16796|25|17|185|7
 06082021|06|08|2021|196|14|Kalimantan Tengah|Kab. Kotawaringin Timur|Kotawaringin Timur|4422|169|4026|227|421000|16796|25|17|185|7
@@ -4063,6 +4119,13 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 21032020|21|03|2020|196|14|Kalimantan Tengah|Kab. Kotawaringin Timur|Kotawaringin Timur|||||421000|16796|25|17|185|7
 20032020|20|03|2020|196|14|Kalimantan Tengah|Kab. Kotawaringin Timur|Kotawaringin Timur|||||421000|16796|25|17|185|7
 19032020|19|03|2020|196|14|Kalimantan Tengah|Kab. Kotawaringin Timur|Kotawaringin Timur|||||421000|16796|25|17|185|7
+15082021|15|08|2021|197|14|Kalimantan Tengah|Kab. Lamandau|Lamandau|1141|32|1041|68|80000|6414|12|8|88|
+14082021|14|08|2021|197|14|Kalimantan Tengah|Kab. Lamandau|Lamandau|1123|32|1031|60|80000|6414|12|8|88|
+13082021|13|08|2021|197|14|Kalimantan Tengah|Kab. Lamandau|Lamandau|1120|31|1031|58|80000|6414|12|8|88|
+12082021|12|08|2021|197|14|Kalimantan Tengah|Kab. Lamandau|Lamandau|1119|31|1024|64|80000|6414|12|8|88|
+11082021|11|08|2021|197|14|Kalimantan Tengah|Kab. Lamandau|Lamandau|1114|30|1018|66|80000|6414|12|8|88|
+10082021|10|08|2021|197|14|Kalimantan Tengah|Kab. Lamandau|Lamandau|1104|29|1018|57|80000|6414|12|8|88|
+09082021|09|08|2021|197|14|Kalimantan Tengah|Kab. Lamandau|Lamandau|1102|29|1010|63|80000|6414|12|8|88|
 08082021|08|08|2021|197|14|Kalimantan Tengah|Kab. Lamandau|Lamandau|1100|29|1006|65|80000|6414|12|8|88|
 07082021|07|08|2021|197|14|Kalimantan Tengah|Kab. Lamandau|Lamandau|1097|29|1006|62|80000|6414|12|8|88|
 06082021|06|08|2021|197|14|Kalimantan Tengah|Kab. Lamandau|Lamandau|1095|29|989|77|80000|6414|12|8|88|
@@ -4571,6 +4634,13 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 21032020|21|03|2020|197|14|Kalimantan Tengah|Kab. Lamandau|Lamandau|||||80000|6414|12|8|88|
 20032020|20|03|2020|197|14|Kalimantan Tengah|Kab. Lamandau|Lamandau|||||80000|6414|12|8|88|
 19032020|19|03|2020|197|14|Kalimantan Tengah|Kab. Lamandau|Lamandau|||||80000|6414|12|8|88|
+15082021|15|08|2021|198|14|Kalimantan Tengah|Kab. Murung Raya|Murung Raya|1961|34|1906|21|109000|23700|5|10|125|
+14082021|14|08|2021|198|14|Kalimantan Tengah|Kab. Murung Raya|Murung Raya|1947|33|1906|8|109000|23700|5|10|125|
+13082021|13|08|2021|198|14|Kalimantan Tengah|Kab. Murung Raya|Murung Raya|1944|33|1906|5|109000|23700|5|10|125|
+12082021|12|08|2021|198|14|Kalimantan Tengah|Kab. Murung Raya|Murung Raya|1943|33|1841|69|109000|23700|5|10|125|
+11082021|11|08|2021|198|14|Kalimantan Tengah|Kab. Murung Raya|Murung Raya|1936|33|1841|62|109000|23700|5|10|125|
+10082021|10|08|2021|198|14|Kalimantan Tengah|Kab. Murung Raya|Murung Raya|1904|33|1835|36|109000|23700|5|10|125|
+09082021|09|08|2021|198|14|Kalimantan Tengah|Kab. Murung Raya|Murung Raya|1848|31|1779|38|109000|23700|5|10|125|
 08082021|08|08|2021|198|14|Kalimantan Tengah|Kab. Murung Raya|Murung Raya|1839|31|1751|57|109000|23700|5|10|125|
 07082021|07|08|2021|198|14|Kalimantan Tengah|Kab. Murung Raya|Murung Raya|1834|31|1743|60|109000|23700|5|10|125|
 06082021|06|08|2021|198|14|Kalimantan Tengah|Kab. Murung Raya|Murung Raya|1793|31|1677|85|109000|23700|5|10|125|
@@ -5079,6 +5149,13 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 21032020|21|03|2020|198|14|Kalimantan Tengah|Kab. Murung Raya|Murung Raya|||||109000|23700|5|10|125|
 20032020|20|03|2020|198|14|Kalimantan Tengah|Kab. Murung Raya|Murung Raya|||||109000|23700|5|10|125|
 19032020|19|03|2020|198|14|Kalimantan Tengah|Kab. Murung Raya|Murung Raya|||||109000|23700|5|10|125|
+15082021|15|08|2021|199|14|Kalimantan Tengah|Kota Palangka Raya|Kota Palangka Raya|11726|447|9649|1630|267000|2399.5|111|5|30|5
+14082021|14|08|2021|199|14|Kalimantan Tengah|Kota Palangka Raya|Kota Palangka Raya|11657|440|9598|1619|267000|2399.5|111|5|30|5
+13082021|13|08|2021|199|14|Kalimantan Tengah|Kota Palangka Raya|Kota Palangka Raya|11573|437|9544|1592|267000|2399.5|111|5|30|5
+12082021|12|08|2021|199|14|Kalimantan Tengah|Kota Palangka Raya|Kota Palangka Raya|11487|437|9503|1547|267000|2399.5|111|5|30|5
+11082021|11|08|2021|199|14|Kalimantan Tengah|Kota Palangka Raya|Kota Palangka Raya|11423|433|9399|1591|267000|2399.5|111|5|30|5
+10082021|10|08|2021|199|14|Kalimantan Tengah|Kota Palangka Raya|Kota Palangka Raya|11366|428|9333|1605|267000|2399.5|111|5|30|5
+09082021|09|08|2021|199|14|Kalimantan Tengah|Kota Palangka Raya|Kota Palangka Raya|11279|418|9276|1585|267000|2399.5|111|5|30|5
 08082021|08|08|2021|199|14|Kalimantan Tengah|Kota Palangka Raya|Kota Palangka Raya|11195|418|9212|1565|267000|2399.5|111|5|30|5
 07082021|07|08|2021|199|14|Kalimantan Tengah|Kota Palangka Raya|Kota Palangka Raya|11115|412|8502|2201|267000|2399.5|111|5|30|5
 06082021|06|08|2021|199|14|Kalimantan Tengah|Kota Palangka Raya|Kota Palangka Raya|10423|412|8448|1563|267000|2399.5|111|5|30|5
@@ -5587,6 +5664,13 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 21032020|21|03|2020|199|14|Kalimantan Tengah|Kota Palangka Raya|Kota Palangka Raya|2||1|1|267000|2399.5|111|5|30|5
 20032020|20|03|2020|199|14|Kalimantan Tengah|Kota Palangka Raya|Kota Palangka Raya|2||1|1|267000|2399.5|111|5|30|5
 19032020|19|03|2020|199|14|Kalimantan Tengah|Kota Palangka Raya|Kota Palangka Raya|||||267000|2399.5|111|5|30|5
+15082021|15|08|2021|200|14|Kalimantan Tengah|Kab. Pulang Pisau|Pulang Pisau|1028|60|888|80|130000|8997|15|8|99|6
+14082021|14|08|2021|200|14|Kalimantan Tengah|Kab. Pulang Pisau|Pulang Pisau|1027|58|881|88|130000|8997|15|8|99|6
+13082021|13|08|2021|200|14|Kalimantan Tengah|Kab. Pulang Pisau|Pulang Pisau|1024|57|865|102|130000|8997|15|8|99|6
+12082021|12|08|2021|200|14|Kalimantan Tengah|Kab. Pulang Pisau|Pulang Pisau|1011|56|856|99|130000|8997|15|8|99|6
+11082021|11|08|2021|200|14|Kalimantan Tengah|Kab. Pulang Pisau|Pulang Pisau|1010|55|851|104|130000|8997|15|8|99|6
+10082021|10|08|2021|200|14|Kalimantan Tengah|Kab. Pulang Pisau|Pulang Pisau|1006|54|848|104|130000|8997|15|8|99|6
+09082021|09|08|2021|200|14|Kalimantan Tengah|Kab. Pulang Pisau|Pulang Pisau|1000|52|831|117|130000|8997|15|8|99|6
 08082021|08|08|2021|200|14|Kalimantan Tengah|Kab. Pulang Pisau|Pulang Pisau|989|50|818|121|130000|8997|15|8|99|6
 07082021|07|08|2021|200|14|Kalimantan Tengah|Kab. Pulang Pisau|Pulang Pisau|988|50|809|129|130000|8997|15|8|99|6
 06082021|06|08|2021|200|14|Kalimantan Tengah|Kab. Pulang Pisau|Pulang Pisau|974|48|777|149|130000|8997|15|8|99|6
@@ -6095,6 +6179,13 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 21032020|21|03|2020|200|14|Kalimantan Tengah|Kab. Pulang Pisau|Pulang Pisau|||||130000|8997|15|8|99|6
 20032020|20|03|2020|200|14|Kalimantan Tengah|Kab. Pulang Pisau|Pulang Pisau|||||130000|8997|15|8|99|6
 19032020|19|03|2020|200|14|Kalimantan Tengah|Kab. Pulang Pisau|Pulang Pisau|||||130000|8997|15|8|99|6
+15082021|15|08|2021|201|14|Kalimantan Tengah|Kab. Seruyan|Seruyan|950|16|927|7|148000|16404|9|10|100|
+14082021|14|08|2021|201|14|Kalimantan Tengah|Kab. Seruyan|Seruyan|950|16|927|7|148000|16404|9|10|100|
+13082021|13|08|2021|201|14|Kalimantan Tengah|Kab. Seruyan|Seruyan|946|16|924|6|148000|16404|9|10|100|
+12082021|12|08|2021|201|14|Kalimantan Tengah|Kab. Seruyan|Seruyan|944|15|920|9|148000|16404|9|10|100|
+11082021|11|08|2021|201|14|Kalimantan Tengah|Kab. Seruyan|Seruyan|934|15|910|9|148000|16404|9|10|100|
+10082021|10|08|2021|201|14|Kalimantan Tengah|Kab. Seruyan|Seruyan|933|15|910|8|148000|16404|9|10|100|
+09082021|09|08|2021|201|14|Kalimantan Tengah|Kab. Seruyan|Seruyan|927|15|905|7|148000|16404|9|10|100|
 08082021|08|08|2021|201|14|Kalimantan Tengah|Kab. Seruyan|Seruyan|926|14|905|7|148000|16404|9|10|100|
 07082021|07|08|2021|201|14|Kalimantan Tengah|Kab. Seruyan|Seruyan|926|14|903|9|148000|16404|9|10|100|
 06082021|06|08|2021|201|14|Kalimantan Tengah|Kab. Seruyan|Seruyan|920|14|896|10|148000|16404|9|10|100|
@@ -6603,12 +6694,19 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 21032020|21|03|2020|201|14|Kalimantan Tengah|Kab. Seruyan|Seruyan|||||148000|16404|9|10|100|
 20032020|20|03|2020|201|14|Kalimantan Tengah|Kab. Seruyan|Seruyan|||||148000|16404|9|10|100|
 19032020|19|03|2020|201|14|Kalimantan Tengah|Kab. Seruyan|Seruyan|||||148000|16404|9|10|100|
+15082021|15|08|2021|202|14|Kalimantan Tengah|Kab. Sukamara|Sukamara|1611|42|1488|81|60000|3827|16|5|32|4
+14082021|14|08|2021|202|14|Kalimantan Tengah|Kab. Sukamara|Sukamara|1594|42|1485|67|60000|3827|16|5|32|4
+13082021|13|08|2021|202|14|Kalimantan Tengah|Kab. Sukamara|Sukamara|1588|42|1475|71|60000|3827|16|5|32|4
+12082021|12|08|2021|202|14|Kalimantan Tengah|Kab. Sukamara|Sukamara|1584|42|1463|79|60000|3827|16|5|32|4
+11082021|11|08|2021|202|14|Kalimantan Tengah|Kab. Sukamara|Sukamara|1579|41|1457|81|60000|3827|16|5|32|4
+10082021|10|08|2021|202|14|Kalimantan Tengah|Kab. Sukamara|Sukamara|1577|41|1455|81|60000|3827|16|5|32|4
+09082021|09|08|2021|202|14|Kalimantan Tengah|Kab. Sukamara|Sukamara|1577|41|1433|103|60000|3827|16|5|32|4
 08082021|08|08|2021|202|14|Kalimantan Tengah|Kab. Sukamara|Sukamara|1577|41|1422|114|60000|3827|16|5|32|4
-07082021|07|08|2021|202|14|Kalimantan Tengah|Kab. Sukamara|Sukamara|1577|39|1417|127|60000|3827|16|5|32|4
-06082021|06|08|2021|202|14|Kalimantan Tengah|Kab. Sukamara|Sukamara|1577|39|1417|127|60000|3827|16|5|32|4
-05082021|05|08|2021|202|14|Kalimantan Tengah|Kab. Sukamara|Sukamara|1577|39|1416|128|60000|3827|16|5|32|4
-04082021|04|08|2021|202|14|Kalimantan Tengah|Kab. Sukamara|Sukamara|1577|39|1415|129|60000|3827|16|5|32|4
-03082021|03|08|2021|202|14|Kalimantan Tengah|Kab. Sukamara|Sukamara|1577|39|1412|132|60000|3827|16|5|32|4
+07082021|07|08|2021|202|14|Kalimantan Tengah|Kab. Sukamara|Sukamara|1577|39|1417|121|60000|3827|16|5|32|4
+06082021|06|08|2021|202|14|Kalimantan Tengah|Kab. Sukamara|Sukamara|1577|39|1417|121|60000|3827|16|5|32|4
+05082021|05|08|2021|202|14|Kalimantan Tengah|Kab. Sukamara|Sukamara|1577|39|1416|122|60000|3827|16|5|32|4
+04082021|04|08|2021|202|14|Kalimantan Tengah|Kab. Sukamara|Sukamara|1577|39|1415|123|60000|3827|16|5|32|4
+03082021|03|08|2021|202|14|Kalimantan Tengah|Kab. Sukamara|Sukamara|1577|39|1412|126|60000|3827|16|5|32|4
 02082021|02|08|2021|202|14|Kalimantan Tengah|Kab. Sukamara|Sukamara|1577|33|1261|283|60000|3827|16|5|32|4
 01082021|01|08|2021|202|14|Kalimantan Tengah|Kab. Sukamara|Sukamara|1569|33|1261|275|60000|3827|16|5|32|4
 31072021|31|07|2021|202|14|Kalimantan Tengah|Kab. Sukamara|Sukamara|1561|33|1252|276|60000|3827|16|5|32|4
