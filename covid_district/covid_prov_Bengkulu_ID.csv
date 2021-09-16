@@ -1,4 +1,7 @@
 date|day|month|year|id_district|id_province|province_name|district_name|city_name|confirmed_case|death_case|recovered_case|active_case|population|area_km2|pop_density|num_kecamatan|num_village|num_islands
+13092021|13|09|2021|25|4|Bengkulu|Kota Bengkulu|Kota Bengkulu|8962|157|8730|75|376000|151.7|2481|9|67|1
+12092021|12|09|2021|25|4|Bengkulu|Kota Bengkulu|Kota Bengkulu|8962|157|8640|165|376000|151.7|2481|9|67|1
+11092021|11|09|2021|25|4|Bengkulu|Kota Bengkulu|Kota Bengkulu|8960|157|8635|168|376000|151.7|2481|9|67|1
 10092021|10|09|2021|25|4|Bengkulu|Kota Bengkulu|Kota Bengkulu|8941|157|8602|182|376000|151.7|2481|9|67|1
 09092021|09|09|2021|25|4|Bengkulu|Kota Bengkulu|Kota Bengkulu|8937|156|8592|189|376000|151.7|2481|9|67|1
 08092021|08|09|2021|25|4|Bengkulu|Kota Bengkulu|Kota Bengkulu|8935|156|8568|211|376000|151.7|2481|9|67|1
@@ -439,6 +442,9 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 30062020|30|06|2020|25|4|Bengkulu|Kota Bengkulu|Kota Bengkulu|92|10|57|25|376000|151.7|2481|9|67|1
 29062020|29|06|2020|25|4|Bengkulu|Kota Bengkulu|Kota Bengkulu|92|9|57|26|376000|151.7|2481|9|67|1
 28062020|28|06|2020|25|4|Bengkulu|Kota Bengkulu|Kota Bengkulu|92|9|57|26|376000|151.7|2481|9|67|1
+13092021|13|09|2021|26|4|Bengkulu|Kab. Bengkulu Selatan|Bengkulu Selatan|705|27|629|49|170000|1186.1|143|11|158|
+12092021|12|09|2021|26|4|Bengkulu|Kab. Bengkulu Selatan|Bengkulu Selatan|705|27|625|53|170000|1186.1|143|11|158|
+11092021|11|09|2021|26|4|Bengkulu|Kab. Bengkulu Selatan|Bengkulu Selatan|704|27|621|56|170000|1186.1|143|11|158|
 10092021|10|09|2021|26|4|Bengkulu|Kab. Bengkulu Selatan|Bengkulu Selatan|704|27|618|59|170000|1186.1|143|11|158|
 09092021|09|09|2021|26|4|Bengkulu|Kab. Bengkulu Selatan|Bengkulu Selatan|704|27|618|59|170000|1186.1|143|11|158|
 08092021|08|09|2021|26|4|Bengkulu|Kab. Bengkulu Selatan|Bengkulu Selatan|704|27|618|59|170000|1186.1|143|11|158|
@@ -879,6 +885,9 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 30062020|30|06|2020|26|4|Bengkulu|Kab. Bengkulu Selatan|Bengkulu Selatan|8||7|1|170000|1186.1|143|11|158|
 29062020|29|06|2020|26|4|Bengkulu|Kab. Bengkulu Selatan|Bengkulu Selatan|8||7|1|170000|1186.1|143|11|158|
 28062020|28|06|2020|26|4|Bengkulu|Kab. Bengkulu Selatan|Bengkulu Selatan|8||4|4|170000|1186.1|143|11|158|
+13092021|13|09|2021|27|4|Bengkulu|Kab. Bengkulu Tengah|Bengkulu Tengah|912|28|876|8|112000|1223.9|92|10|143|
+12092021|12|09|2021|27|4|Bengkulu|Kab. Bengkulu Tengah|Bengkulu Tengah|912|28|873|11|112000|1223.9|92|10|143|
+11092021|11|09|2021|27|4|Bengkulu|Kab. Bengkulu Tengah|Bengkulu Tengah|912|28|871|13|112000|1223.9|92|10|143|
 10092021|10|09|2021|27|4|Bengkulu|Kab. Bengkulu Tengah|Bengkulu Tengah|912|28|871|13|112000|1223.9|92|10|143|
 09092021|09|09|2021|27|4|Bengkulu|Kab. Bengkulu Tengah|Bengkulu Tengah|912|28|871|13|112000|1223.9|92|10|143|
 08092021|08|09|2021|27|4|Bengkulu|Kab. Bengkulu Tengah|Bengkulu Tengah|912|28|870|14|112000|1223.9|92|10|143|
@@ -1319,6 +1328,9 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 30062020|30|06|2020|27|4|Bengkulu|Kab. Bengkulu Tengah|Bengkulu Tengah|2|1|1||112000|1223.9|92|10|143|
 29062020|29|06|2020|27|4|Bengkulu|Kab. Bengkulu Tengah|Bengkulu Tengah|2|1|1||112000|1223.9|92|10|143|
 28062020|28|06|2020|27|4|Bengkulu|Kab. Bengkulu Tengah|Bengkulu Tengah|2|1|1||112000|1223.9|92|10|143|
+13092021|13|09|2021|28|4|Bengkulu|Kab. Bengkulu Utara|Bengkulu Utara|3224|69|2855|300|288000|4324.6|67|19|220|9
+12092021|12|09|2021|28|4|Bengkulu|Kab. Bengkulu Utara|Bengkulu Utara|3220|69|2766|385|288000|4324.6|67|19|220|9
+11092021|11|09|2021|28|4|Bengkulu|Kab. Bengkulu Utara|Bengkulu Utara|3217|67|2758|392|288000|4324.6|67|19|220|9
 10092021|10|09|2021|28|4|Bengkulu|Kab. Bengkulu Utara|Bengkulu Utara|3216|67|2716|433|288000|4324.6|67|19|220|9
 09092021|09|09|2021|28|4|Bengkulu|Kab. Bengkulu Utara|Bengkulu Utara|3201|67|2680|454|288000|4324.6|67|19|220|9
 08092021|08|09|2021|28|4|Bengkulu|Kab. Bengkulu Utara|Bengkulu Utara|3178|67|2660|451|288000|4324.6|67|19|220|9
@@ -1759,6 +1771,9 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 30062020|30|06|2020|28|4|Bengkulu|Kab. Bengkulu Utara|Bengkulu Utara|9||5|4|288000|4324.6|67|19|220|9
 29062020|29|06|2020|28|4|Bengkulu|Kab. Bengkulu Utara|Bengkulu Utara|9||5|4|288000|4324.6|67|19|220|9
 28062020|28|06|2020|28|4|Bengkulu|Kab. Bengkulu Utara|Bengkulu Utara|9||5|4|288000|4324.6|67|19|220|9
+13092021|13|09|2021|29|4|Bengkulu|Kab. Kaur|Kaur|485|6|460|19|130000|2369.1|55|15|195|
+12092021|12|09|2021|29|4|Bengkulu|Kab. Kaur|Kaur|485|6|452|27|130000|2369.1|55|15|195|
+11092021|11|09|2021|29|4|Bengkulu|Kab. Kaur|Kaur|485|6|450|29|130000|2369.1|55|15|195|
 10092021|10|09|2021|29|4|Bengkulu|Kab. Kaur|Kaur|484|6|450|28|130000|2369.1|55|15|195|
 09092021|09|09|2021|29|4|Bengkulu|Kab. Kaur|Kaur|484|6|447|31|130000|2369.1|55|15|195|
 08092021|08|09|2021|29|4|Bengkulu|Kab. Kaur|Kaur|484|6|447|31|130000|2369.1|55|15|195|
@@ -2199,6 +2214,9 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 30062020|30|06|2020|29|4|Bengkulu|Kab. Kaur|Kaur|4||2|2|130000|2369.1|55|15|195|
 29062020|29|06|2020|29|4|Bengkulu|Kab. Kaur|Kaur|4||2|2|130000|2369.1|55|15|195|
 28062020|28|06|2020|29|4|Bengkulu|Kab. Kaur|Kaur|4||2|2|130000|2369.1|55|15|195|
+13092021|13|09|2021|30|4|Bengkulu|Kab. Kepahiang|Kepahiang|1985|30|1954|1|152000|665|229|8|117|
+12092021|12|09|2021|30|4|Bengkulu|Kab. Kepahiang|Kepahiang|1985|30|1954|1|152000|665|229|8|117|
+11092021|11|09|2021|30|4|Bengkulu|Kab. Kepahiang|Kepahiang|1985|30|1954|1|152000|665|229|8|117|
 10092021|10|09|2021|30|4|Bengkulu|Kab. Kepahiang|Kepahiang|1985|30|1954|1|152000|665|229|8|117|
 09092021|09|09|2021|30|4|Bengkulu|Kab. Kepahiang|Kepahiang|1984|30|1953|1|152000|665|229|8|117|
 08092021|08|09|2021|30|4|Bengkulu|Kab. Kepahiang|Kepahiang|1984|30|1953|1|152000|665|229|8|117|
@@ -2639,6 +2657,9 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 30062020|30|06|2020|30|4|Bengkulu|Kab. Kepahiang|Kepahiang|5|1|3|1|152000|665|229|8|117|
 29062020|29|06|2020|30|4|Bengkulu|Kab. Kepahiang|Kepahiang|5|1|3|1|152000|665|229|8|117|
 28062020|28|06|2020|30|4|Bengkulu|Kab. Kepahiang|Kepahiang|5||3|2|152000|665|229|8|117|
+13092021|13|09|2021|31|4|Bengkulu|Kab. Lebong|Lebong|568|2|526|40|117000|1921.8|61|12|104|
+12092021|12|09|2021|31|4|Bengkulu|Kab. Lebong|Lebong|568|2|522|44|117000|1921.8|61|12|104|
+11092021|11|09|2021|31|4|Bengkulu|Kab. Lebong|Lebong|568|2|522|44|117000|1921.8|61|12|104|
 10092021|10|09|2021|31|4|Bengkulu|Kab. Lebong|Lebong|566|2|506|58|117000|1921.8|61|12|104|
 09092021|09|09|2021|31|4|Bengkulu|Kab. Lebong|Lebong|566|2|504|60|117000|1921.8|61|12|104|
 08092021|08|09|2021|31|4|Bengkulu|Kab. Lebong|Lebong|566|2|492|72|117000|1921.8|61|12|104|
@@ -3079,6 +3100,9 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 30062020|30|06|2020|31|4|Bengkulu|Kab. Lebong|Lebong|||||117000|1921.8|61|12|104|
 29062020|29|06|2020|31|4|Bengkulu|Kab. Lebong|Lebong|||||117000|1921.8|61|12|104|
 28062020|28|06|2020|31|4|Bengkulu|Kab. Lebong|Lebong|||||117000|1921.8|61|12|104|
+13092021|13|09|2021|32|4|Bengkulu|Kab. Muko Muko|Muko Muko|2153|23|2022|108|180000|4036.7|45|15|151|
+12092021|12|09|2021|32|4|Bengkulu|Kab. Muko Muko|Muko Muko|2153|23|1944|186|180000|4036.7|45|15|151|
+11092021|11|09|2021|32|4|Bengkulu|Kab. Muko Muko|Muko Muko|2151|23|1939|189|180000|4036.7|45|15|151|
 10092021|10|09|2021|32|4|Bengkulu|Kab. Muko Muko|Muko Muko|2151|23|1929|199|180000|4036.7|45|15|151|
 09092021|09|09|2021|32|4|Bengkulu|Kab. Muko Muko|Muko Muko|2149|21|1924|204|180000|4036.7|45|15|151|
 08092021|08|09|2021|32|4|Bengkulu|Kab. Muko Muko|Muko Muko|2148|21|1900|227|180000|4036.7|45|15|151|
@@ -3519,6 +3543,9 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 30062020|30|06|2020|32|4|Bengkulu|Kab. Muko Muko|Muko Muko|1||1||180000|4036.7|45|15|151|
 29062020|29|06|2020|32|4|Bengkulu|Kab. Muko Muko|Muko Muko|1||1||180000|4036.7|45|15|151|
 28062020|28|06|2020|32|4|Bengkulu|Kab. Muko Muko|Muko Muko|1||1||180000|4036.7|45|15|151|
+13092021|13|09|2021|33|4|Bengkulu|Kab. Rejang Lebong|Rejang Lebong|3305|34|3260|11|285000|1640|174|15|156|
+12092021|12|09|2021|33|4|Bengkulu|Kab. Rejang Lebong|Rejang Lebong|3304|34|3256|14|285000|1640|174|15|156|
+11092021|11|09|2021|33|4|Bengkulu|Kab. Rejang Lebong|Rejang Lebong|3304|34|3256|14|285000|1640|174|15|156|
 10092021|10|09|2021|33|4|Bengkulu|Kab. Rejang Lebong|Rejang Lebong|3299|33|3254|12|285000|1640|174|15|156|
 09092021|09|09|2021|33|4|Bengkulu|Kab. Rejang Lebong|Rejang Lebong|3299|33|3253|13|285000|1640|174|15|156|
 08092021|08|09|2021|33|4|Bengkulu|Kab. Rejang Lebong|Rejang Lebong|3296|33|3251|12|285000|1640|174|15|156|
@@ -3959,6 +3986,9 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 30062020|30|06|2020|33|4|Bengkulu|Kab. Rejang Lebong|Rejang Lebong|1||1||285000|1640|174|15|156|
 29062020|29|06|2020|33|4|Bengkulu|Kab. Rejang Lebong|Rejang Lebong|1||1||285000|1640|174|15|156|
 28062020|28|06|2020|33|4|Bengkulu|Kab. Rejang Lebong|Rejang Lebong|1||1||285000|1640|174|15|156|
+13092021|13|09|2021|34|4|Bengkulu|Kab. Seluma|Seluma|574|17|534|23|214000|2400.4|89|14|202|
+12092021|12|09|2021|34|4|Bengkulu|Kab. Seluma|Seluma|574|17|525|32|214000|2400.4|89|14|202|
+11092021|11|09|2021|34|4|Bengkulu|Kab. Seluma|Seluma|573|17|523|33|214000|2400.4|89|14|202|
 10092021|10|09|2021|34|4|Bengkulu|Kab. Seluma|Seluma|573|17|520|36|214000|2400.4|89|14|202|
 09092021|09|09|2021|34|4|Bengkulu|Kab. Seluma|Seluma|572|17|511|44|214000|2400.4|89|14|202|
 08092021|08|09|2021|34|4|Bengkulu|Kab. Seluma|Seluma|572|17|511|44|214000|2400.4|89|14|202|
