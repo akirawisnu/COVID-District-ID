@@ -1,4 +1,6 @@
 date|day|month|year|id_district|id_province|province_name|district_name|city_name|confirmed_case|death_case|recovered_case|active_case|population|area_km2|pop_density|num_kecamatan|num_village|num_islands
+26092021|26|09|2021|403|30|Sulawesi Tenggara|Kota Bau-Bau|Kota Bau-Bau|2190|49|2134|7|159000|221|722|8|43|3
+25092021|25|09|2021|403|30|Sulawesi Tenggara|Kota Bau-Bau|Kota Bau-Bau|2188|49|2133|6|159000|221|722|8|43|3
 24092021|24|09|2021|403|30|Sulawesi Tenggara|Kota Bau-Bau|Kota Bau-Bau|2188|49|2131|8|159000|221|722|8|43|3
 23092021|23|09|2021|403|30|Sulawesi Tenggara|Kota Bau-Bau|Kota Bau-Bau|2188|49|2131|8|159000|221|722|8|43|3
 22092021|22|09|2021|403|30|Sulawesi Tenggara|Kota Bau-Bau|Kota Bau-Bau|2188|49|2131|8|159000|221|722|8|43|3
@@ -541,6 +543,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|403|30|Sulawesi Tenggara|Kota Bau-Bau|Kota Bau-Bau|||||159000|221|722|8|43|3
 02042020|02|04|2020|403|30|Sulawesi Tenggara|Kota Bau-Bau|Kota Bau-Bau|||||159000|221|722|8|43|3
 01042020|01|04|2020|403|30|Sulawesi Tenggara|Kota Bau-Bau|Kota Bau-Bau|||||159000|221|722|8|43|3
+26092021|26|09|2021|404|30|Sulawesi Tenggara|Kab. Bombana|Bombana|579|21|548|10|141000|3001|47|22|143|25
+25092021|25|09|2021|404|30|Sulawesi Tenggara|Kab. Bombana|Bombana|572|21|548|3|141000|3001|47|22|143|25
 24092021|24|09|2021|404|30|Sulawesi Tenggara|Kab. Bombana|Bombana|571|21|548|2|141000|3001|47|22|143|25
 23092021|23|09|2021|404|30|Sulawesi Tenggara|Kab. Bombana|Bombana|571|21|548|2|141000|3001|47|22|143|25
 22092021|22|09|2021|404|30|Sulawesi Tenggara|Kab. Bombana|Bombana|571|21|548|2|141000|3001|47|22|143|25
@@ -1083,6 +1087,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|404|30|Sulawesi Tenggara|Kab. Bombana|Bombana|||||141000|3001|47|22|143|25
 02042020|02|04|2020|404|30|Sulawesi Tenggara|Kab. Bombana|Bombana|||||141000|3001|47|22|143|25
 01042020|01|04|2020|404|30|Sulawesi Tenggara|Kab. Bombana|Bombana|||||141000|3001|47|22|143|25
+26092021|26|09|2021|405|30|Sulawesi Tenggara|Kab. Buton|Buton|371|26|321|24|118000|1213|98|7|95|12
+25092021|25|09|2021|405|30|Sulawesi Tenggara|Kab. Buton|Buton|371|26|320|25|118000|1213|98|7|95|12
 24092021|24|09|2021|405|30|Sulawesi Tenggara|Kab. Buton|Buton|371|26|318|27|118000|1213|98|7|95|12
 23092021|23|09|2021|405|30|Sulawesi Tenggara|Kab. Buton|Buton|371|26|318|27|118000|1213|98|7|95|12
 22092021|22|09|2021|405|30|Sulawesi Tenggara|Kab. Buton|Buton|371|26|318|27|118000|1213|98|7|95|12
@@ -1625,6 +1631,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|405|30|Sulawesi Tenggara|Kab. Buton|Buton|||||118000|1213|98|7|95|12
 02042020|02|04|2020|405|30|Sulawesi Tenggara|Kab. Buton|Buton|||||118000|1213|98|7|95|12
 01042020|01|04|2020|405|30|Sulawesi Tenggara|Kab. Buton|Buton|||||118000|1213|98|7|95|12
+26092021|26|09|2021|406|30|Sulawesi Tenggara|Kab. Buton Utara|Buton Utara|145|17|104|24|64000|1864.9|34|6|90|13
+25092021|25|09|2021|406|30|Sulawesi Tenggara|Kab. Buton Utara|Buton Utara|145|17|104|24|64000|1864.9|34|6|90|13
 24092021|24|09|2021|406|30|Sulawesi Tenggara|Kab. Buton Utara|Buton Utara|145|17|104|24|64000|1864.9|34|6|90|13
 23092021|23|09|2021|406|30|Sulawesi Tenggara|Kab. Buton Utara|Buton Utara|145|17|104|24|64000|1864.9|34|6|90|13
 22092021|22|09|2021|406|30|Sulawesi Tenggara|Kab. Buton Utara|Buton Utara|145|17|104|24|64000|1864.9|34|6|90|13
@@ -2167,6 +2175,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|406|30|Sulawesi Tenggara|Kab. Buton Utara|Buton Utara|||||64000|1864.9|34|6|90|13
 02042020|02|04|2020|406|30|Sulawesi Tenggara|Kab. Buton Utara|Buton Utara|||||64000|1864.9|34|6|90|13
 01042020|01|04|2020|406|30|Sulawesi Tenggara|Kab. Buton Utara|Buton Utara|||||64000|1864.9|34|6|90|13
+26092021|26|09|2021|407|30|Sulawesi Tenggara|Kota Kendari|Kota Kendari|7707|96|7479|132|345000|300.9|1147|10|64|1
+25092021|25|09|2021|407|30|Sulawesi Tenggara|Kota Kendari|Kota Kendari|7707|96|7479|132|345000|300.9|1147|10|64|1
 24092021|24|09|2021|407|30|Sulawesi Tenggara|Kota Kendari|Kota Kendari|7706|96|7479|131|345000|300.9|1147|10|64|1
 23092021|23|09|2021|407|30|Sulawesi Tenggara|Kota Kendari|Kota Kendari|7706|96|7479|131|345000|300.9|1147|10|64|1
 22092021|22|09|2021|407|30|Sulawesi Tenggara|Kota Kendari|Kota Kendari|7706|96|7479|131|345000|300.9|1147|10|64|1
@@ -2709,6 +2719,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|407|30|Sulawesi Tenggara|Kota Kendari|Kota Kendari|3||2|1|345000|300.9|1147|10|64|1
 02042020|02|04|2020|407|30|Sulawesi Tenggara|Kota Kendari|Kota Kendari|1||1||345000|300.9|1147|10|64|1
 01042020|01|04|2020|407|30|Sulawesi Tenggara|Kota Kendari|Kota Kendari|1||1||345000|300.9|1147|10|64|1
+26092021|26|09|2021|408|30|Sulawesi Tenggara|Kab. Kolaka|Kolaka|2003|38|1940|25|236000|3283.6|72|12|135|13
+25092021|25|09|2021|408|30|Sulawesi Tenggara|Kab. Kolaka|Kolaka|2003|38|1940|25|236000|3283.6|72|12|135|13
 24092021|24|09|2021|408|30|Sulawesi Tenggara|Kab. Kolaka|Kolaka|2003|38|1933|32|236000|3283.6|72|12|135|13
 23092021|23|09|2021|408|30|Sulawesi Tenggara|Kab. Kolaka|Kolaka|2003|38|1933|32|236000|3283.6|72|12|135|13
 22092021|22|09|2021|408|30|Sulawesi Tenggara|Kab. Kolaka|Kolaka|2003|38|1933|32|236000|3283.6|72|12|135|13
@@ -3251,6 +3263,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|408|30|Sulawesi Tenggara|Kab. Kolaka|Kolaka|||||236000|3283.6|72|12|135|13
 02042020|02|04|2020|408|30|Sulawesi Tenggara|Kab. Kolaka|Kolaka|||||236000|3283.6|72|12|135|13
 01042020|01|04|2020|408|30|Sulawesi Tenggara|Kab. Kolaka|Kolaka|||||236000|3283.6|72|12|135|13
+26092021|26|09|2021|409|30|Sulawesi Tenggara|Kab. Kolaka Utara|Kolaka Utara|1217|33|1152|32|139000|3391.7|41|15|133|13
+25092021|25|09|2021|409|30|Sulawesi Tenggara|Kab. Kolaka Utara|Kolaka Utara|1217|33|1152|32|139000|3391.7|41|15|133|13
 24092021|24|09|2021|409|30|Sulawesi Tenggara|Kab. Kolaka Utara|Kolaka Utara|1217|33|1151|33|139000|3391.7|41|15|133|13
 23092021|23|09|2021|409|30|Sulawesi Tenggara|Kab. Kolaka Utara|Kolaka Utara|1217|33|1151|33|139000|3391.7|41|15|133|13
 22092021|22|09|2021|409|30|Sulawesi Tenggara|Kab. Kolaka Utara|Kolaka Utara|1217|33|1151|33|139000|3391.7|41|15|133|13
@@ -3793,6 +3807,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|409|30|Sulawesi Tenggara|Kab. Kolaka Utara|Kolaka Utara|||||139000|3391.7|41|15|133|13
 02042020|02|04|2020|409|30|Sulawesi Tenggara|Kab. Kolaka Utara|Kolaka Utara|||||139000|3391.7|41|15|133|13
 01042020|01|04|2020|409|30|Sulawesi Tenggara|Kab. Kolaka Utara|Kolaka Utara|||||139000|3391.7|41|15|133|13
+26092021|26|09|2021|410|30|Sulawesi Tenggara|Kab. Konawe|Konawe|1635|71|1533|31|262000|4435.3|59|27|354|6
+25092021|25|09|2021|410|30|Sulawesi Tenggara|Kab. Konawe|Konawe|1635|71|1533|31|262000|4435.3|59|27|354|6
 24092021|24|09|2021|410|30|Sulawesi Tenggara|Kab. Konawe|Konawe|1634|71|1533|30|262000|4435.3|59|27|354|6
 23092021|23|09|2021|410|30|Sulawesi Tenggara|Kab. Konawe|Konawe|1634|71|1533|30|262000|4435.3|59|27|354|6
 22092021|22|09|2021|410|30|Sulawesi Tenggara|Kab. Konawe|Konawe|1634|71|1533|30|262000|4435.3|59|27|354|6
@@ -4335,6 +4351,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|410|30|Sulawesi Tenggara|Kab. Konawe|Konawe|2||1|1|262000|4435.3|59|27|354|6
 02042020|02|04|2020|410|30|Sulawesi Tenggara|Kab. Konawe|Konawe|2||1|1|262000|4435.3|59|27|354|6
 01042020|01|04|2020|410|30|Sulawesi Tenggara|Kab. Konawe|Konawe|2||1|1|262000|4435.3|59|27|354|6
+26092021|26|09|2021|411|30|Sulawesi Tenggara|Kab. Konawe Selatan|Konawe Selatan|1148|35|1082|31|317000|5779.5|55|25|351|26
+25092021|25|09|2021|411|30|Sulawesi Tenggara|Kab. Konawe Selatan|Konawe Selatan|1148|35|1082|31|317000|5779.5|55|25|351|26
 24092021|24|09|2021|411|30|Sulawesi Tenggara|Kab. Konawe Selatan|Konawe Selatan|1148|35|1082|31|317000|5779.5|55|25|351|26
 23092021|23|09|2021|411|30|Sulawesi Tenggara|Kab. Konawe Selatan|Konawe Selatan|1148|35|1082|31|317000|5779.5|55|25|351|26
 22092021|22|09|2021|411|30|Sulawesi Tenggara|Kab. Konawe Selatan|Konawe Selatan|1148|35|1082|31|317000|5779.5|55|25|351|26
@@ -4877,6 +4895,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|411|30|Sulawesi Tenggara|Kab. Konawe Selatan|Konawe Selatan|||||317000|5779.5|55|25|351|26
 02042020|02|04|2020|411|30|Sulawesi Tenggara|Kab. Konawe Selatan|Konawe Selatan|||||317000|5779.5|55|25|351|26
 01042020|01|04|2020|411|30|Sulawesi Tenggara|Kab. Konawe Selatan|Konawe Selatan|||||317000|5779.5|55|25|351|26
+26092021|26|09|2021|412|30|Sulawesi Tenggara|Kab. Konawe Utara|Konawe Utara|540|13|527||67000|5101.8|13|13|170|53
+25092021|25|09|2021|412|30|Sulawesi Tenggara|Kab. Konawe Utara|Konawe Utara|540|13|527||67000|5101.8|13|13|170|53
 24092021|24|09|2021|412|30|Sulawesi Tenggara|Kab. Konawe Utara|Konawe Utara|540|13|527||67000|5101.8|13|13|170|53
 23092021|23|09|2021|412|30|Sulawesi Tenggara|Kab. Konawe Utara|Konawe Utara|540|13|527||67000|5101.8|13|13|170|53
 22092021|22|09|2021|412|30|Sulawesi Tenggara|Kab. Konawe Utara|Konawe Utara|540|13|527||67000|5101.8|13|13|170|53
@@ -5419,6 +5439,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|412|30|Sulawesi Tenggara|Kab. Konawe Utara|Konawe Utara|||||67000|5101.8|13|13|170|53
 02042020|02|04|2020|412|30|Sulawesi Tenggara|Kab. Konawe Utara|Konawe Utara|||||67000|5101.8|13|13|170|53
 01042020|01|04|2020|412|30|Sulawesi Tenggara|Kab. Konawe Utara|Konawe Utara|||||67000|5101.8|13|13|170|53
+26092021|26|09|2021|413|30|Sulawesi Tenggara|Kab. Muna|Muna|622|35|585|2|235000|1922.2|122|22|151|150
+25092021|25|09|2021|413|30|Sulawesi Tenggara|Kab. Muna|Muna|622|35|584|3|235000|1922.2|122|22|151|150
 24092021|24|09|2021|413|30|Sulawesi Tenggara|Kab. Muna|Muna|622|35|581|6|235000|1922.2|122|22|151|150
 23092021|23|09|2021|413|30|Sulawesi Tenggara|Kab. Muna|Muna|622|35|581|6|235000|1922.2|122|22|151|150
 22092021|22|09|2021|413|30|Sulawesi Tenggara|Kab. Muna|Muna|622|35|581|6|235000|1922.2|122|22|151|150
@@ -5961,6 +5983,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|413|30|Sulawesi Tenggara|Kab. Muna|Muna|||||235000|1922.2|122|22|151|150
 02042020|02|04|2020|413|30|Sulawesi Tenggara|Kab. Muna|Muna|||||235000|1922.2|122|22|151|150
 01042020|01|04|2020|413|30|Sulawesi Tenggara|Kab. Muna|Muna|||||235000|1922.2|122|22|151|150
+26092021|26|09|2021|414|30|Sulawesi Tenggara|Kab. Wakatobi|Wakatobi|456|27|429||114000|559.5|204|8|101|150
+25092021|25|09|2021|414|30|Sulawesi Tenggara|Kab. Wakatobi|Wakatobi|456|27|428|1|114000|559.5|204|8|101|150
 24092021|24|09|2021|414|30|Sulawesi Tenggara|Kab. Wakatobi|Wakatobi|456|27|428|1|114000|559.5|204|8|101|150
 23092021|23|09|2021|414|30|Sulawesi Tenggara|Kab. Wakatobi|Wakatobi|456|27|428|1|114000|559.5|204|8|101|150
 22092021|22|09|2021|414|30|Sulawesi Tenggara|Kab. Wakatobi|Wakatobi|456|27|428|1|114000|559.5|204|8|101|150
@@ -6503,6 +6527,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|414|30|Sulawesi Tenggara|Kab. Wakatobi|Wakatobi|||||114000|559.5|204|8|101|150
 02042020|02|04|2020|414|30|Sulawesi Tenggara|Kab. Wakatobi|Wakatobi|||||114000|559.5|204|8|101|150
 01042020|01|04|2020|414|30|Sulawesi Tenggara|Kab. Wakatobi|Wakatobi|||||114000|559.5|204|8|101|150
+26092021|26|09|2021|508|30|Sulawesi Tenggara|Kab. Buton Tengah|Buton Tengah|336|10|320|6|119000|958.3|124|7|77|20
+25092021|25|09|2021|508|30|Sulawesi Tenggara|Kab. Buton Tengah|Buton Tengah|336|10|320|6|119000|958.3|124|7|77|20
 24092021|24|09|2021|508|30|Sulawesi Tenggara|Kab. Buton Tengah|Buton Tengah|336|10|318|8|119000|958.3|124|7|77|20
 23092021|23|09|2021|508|30|Sulawesi Tenggara|Kab. Buton Tengah|Buton Tengah|336|10|318|8|119000|958.3|124|7|77|20
 22092021|22|09|2021|508|30|Sulawesi Tenggara|Kab. Buton Tengah|Buton Tengah|336|10|318|8|119000|958.3|124|7|77|20
@@ -7045,6 +7071,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|508|30|Sulawesi Tenggara|Kab. Buton Tengah|Buton Tengah|||||119000|958.3|124|7|77|20
 02042020|02|04|2020|508|30|Sulawesi Tenggara|Kab. Buton Tengah|Buton Tengah|||||119000|958.3|124|7|77|20
 01042020|01|04|2020|508|30|Sulawesi Tenggara|Kab. Buton Tengah|Buton Tengah|||||119000|958.3|124|7|77|20
+26092021|26|09|2021|509|30|Sulawesi Tenggara|Kab. Buton Selatan|Buton Selatan|135|7|127|1|98000|509.9|192|7|70|17
+25092021|25|09|2021|509|30|Sulawesi Tenggara|Kab. Buton Selatan|Buton Selatan|135|7|127|1|98000|509.9|192|7|70|17
 24092021|24|09|2021|509|30|Sulawesi Tenggara|Kab. Buton Selatan|Buton Selatan|135|7|127|1|98000|509.9|192|7|70|17
 23092021|23|09|2021|509|30|Sulawesi Tenggara|Kab. Buton Selatan|Buton Selatan|135|7|127|1|98000|509.9|192|7|70|17
 22092021|22|09|2021|509|30|Sulawesi Tenggara|Kab. Buton Selatan|Buton Selatan|135|7|127|1|98000|509.9|192|7|70|17
@@ -7587,6 +7615,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|509|30|Sulawesi Tenggara|Kab. Buton Selatan|Buton Selatan|||||98000|509.9|192|7|70|17
 02042020|02|04|2020|509|30|Sulawesi Tenggara|Kab. Buton Selatan|Buton Selatan|||||98000|509.9|192|7|70|17
 01042020|01|04|2020|509|30|Sulawesi Tenggara|Kab. Buton Selatan|Buton Selatan|||||98000|509.9|192|7|70|17
+26092021|26|09|2021|510|30|Sulawesi Tenggara|Kab. Muna Barat|Muna Barat|155|9|144|2|81000|1022.9|79|11|86|31
+25092021|25|09|2021|510|30|Sulawesi Tenggara|Kab. Muna Barat|Muna Barat|155|9|144|2|81000|1022.9|79|11|86|31
 24092021|24|09|2021|510|30|Sulawesi Tenggara|Kab. Muna Barat|Muna Barat|155|9|144|2|81000|1022.9|79|11|86|31
 23092021|23|09|2021|510|30|Sulawesi Tenggara|Kab. Muna Barat|Muna Barat|155|9|144|2|81000|1022.9|79|11|86|31
 22092021|22|09|2021|510|30|Sulawesi Tenggara|Kab. Muna Barat|Muna Barat|155|9|144|2|81000|1022.9|79|11|86|31
@@ -8129,6 +8159,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|510|30|Sulawesi Tenggara|Kab. Muna Barat|Muna Barat|||||81000|1022.9|79|11|86|31
 02042020|02|04|2020|510|30|Sulawesi Tenggara|Kab. Muna Barat|Muna Barat|||||81000|1022.9|79|11|86|31
 01042020|01|04|2020|510|30|Sulawesi Tenggara|Kab. Muna Barat|Muna Barat|||||81000|1022.9|79|11|86|31
+26092021|26|09|2021|511|30|Sulawesi Tenggara|Kab. Kolaka Timur|Kolaka Timur|662|34|618|10|123000|3634.7|34|12|133|
+25092021|25|09|2021|511|30|Sulawesi Tenggara|Kab. Kolaka Timur|Kolaka Timur|662|34|617|11|123000|3634.7|34|12|133|
 24092021|24|09|2021|511|30|Sulawesi Tenggara|Kab. Kolaka Timur|Kolaka Timur|662|34|612|16|123000|3634.7|34|12|133|
 23092021|23|09|2021|511|30|Sulawesi Tenggara|Kab. Kolaka Timur|Kolaka Timur|662|34|612|16|123000|3634.7|34|12|133|
 22092021|22|09|2021|511|30|Sulawesi Tenggara|Kab. Kolaka Timur|Kolaka Timur|662|34|612|16|123000|3634.7|34|12|133|
@@ -8671,6 +8703,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|511|30|Sulawesi Tenggara|Kab. Kolaka Timur|Kolaka Timur|||||123000|3634.7|34|12|133|
 02042020|02|04|2020|511|30|Sulawesi Tenggara|Kab. Kolaka Timur|Kolaka Timur|||||123000|3634.7|34|12|133|
 01042020|01|04|2020|511|30|Sulawesi Tenggara|Kab. Kolaka Timur|Kolaka Timur|||||123000|3634.7|34|12|133|
+26092021|26|09|2021|512|30|Sulawesi Tenggara|Kab. Konawe Kepulauan|Konawe Kepulauan|117|1|109|7|35000|867.6|41|7|96|
+25092021|25|09|2021|512|30|Sulawesi Tenggara|Kab. Konawe Kepulauan|Konawe Kepulauan|117|1|109|7|35000|867.6|41|7|96|
 24092021|24|09|2021|512|30|Sulawesi Tenggara|Kab. Konawe Kepulauan|Konawe Kepulauan|117|1|109|7|35000|867.6|41|7|96|
 23092021|23|09|2021|512|30|Sulawesi Tenggara|Kab. Konawe Kepulauan|Konawe Kepulauan|117|1|109|7|35000|867.6|41|7|96|
 22092021|22|09|2021|512|30|Sulawesi Tenggara|Kab. Konawe Kepulauan|Konawe Kepulauan|117|1|109|7|35000|867.6|41|7|96|

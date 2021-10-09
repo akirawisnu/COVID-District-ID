@@ -1,4 +1,6 @@
 date|day|month|year|id_district|id_province|province_name|district_name|city_name|confirmed_case|death_case|recovered_case|active_case|population|area_km2|pop_density|num_kecamatan|num_village|num_islands
+26092021|26|09|2021|17|3|Banten|Kota Cilegon|Kota Cilegon|12882|380|12457|45|418000|175.5|2379|8|43|5
+25092021|25|09|2021|17|3|Banten|Kota Cilegon|Kota Cilegon|12882|380|12457|45|418000|175.5|2379|8|43|5
 24092021|24|09|2021|17|3|Banten|Kota Cilegon|Kota Cilegon|11825|380|11224|221|418000|175.5|2379|8|43|5
 23092021|23|09|2021|17|3|Banten|Kota Cilegon|Kota Cilegon|11825|380|11224|221|418000|175.5|2379|8|43|5
 22092021|22|09|2021|17|3|Banten|Kota Cilegon|Kota Cilegon|11825|380|11224|221|418000|175.5|2379|8|43|5
@@ -541,6 +543,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|17|3|Banten|Kota Cilegon|Kota Cilegon|||||418000|175.5|2379|8|43|5
 02042020|02|04|2020|17|3|Banten|Kota Cilegon|Kota Cilegon|||||418000|175.5|2379|8|43|5
 01042020|01|04|2020|17|3|Banten|Kota Cilegon|Kota Cilegon|||||418000|175.5|2379|8|43|5
+26092021|26|09|2021|18|3|Banten|Kab. Lebak|Lebak|8460|210|8135|115|1300000|3426.6|368|28|345|5
+25092021|25|09|2021|18|3|Banten|Kab. Lebak|Lebak|8460|210|8135|115|1300000|3426.6|368|28|345|5
 24092021|24|09|2021|18|3|Banten|Kab. Lebak|Lebak|8460|199|6879|1382|1300000|3426.6|368|28|345|5
 23092021|23|09|2021|18|3|Banten|Kab. Lebak|Lebak|8460|199|6879|1382|1300000|3426.6|368|28|345|5
 22092021|22|09|2021|18|3|Banten|Kab. Lebak|Lebak|8460|199|6879|1382|1300000|3426.6|368|28|345|5
@@ -1083,6 +1087,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|18|3|Banten|Kab. Lebak|Lebak|||||1300000|3426.6|368|28|345|5
 02042020|02|04|2020|18|3|Banten|Kab. Lebak|Lebak|||||1300000|3426.6|368|28|345|5
 01042020|01|04|2020|18|3|Banten|Kab. Lebak|Lebak|||||1300000|3426.6|368|28|345|5
+26092021|26|09|2021|19|3|Banten|Kab. Pandeglang|Pandeglang|6423|248|6122|53|1200000|2746.9|442|35|339|33
+25092021|25|09|2021|19|3|Banten|Kab. Pandeglang|Pandeglang|6422|248|6122|52|1200000|2746.9|442|35|339|33
 24092021|24|09|2021|19|3|Banten|Kab. Pandeglang|Pandeglang|5725|212|4899|614|1200000|2746.9|442|35|339|33
 23092021|23|09|2021|19|3|Banten|Kab. Pandeglang|Pandeglang|5725|212|4899|614|1200000|2746.9|442|35|339|33
 22092021|22|09|2021|19|3|Banten|Kab. Pandeglang|Pandeglang|5725|212|4899|614|1200000|2746.9|442|35|339|33
@@ -1625,6 +1631,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|19|3|Banten|Kab. Pandeglang|Pandeglang|||||1200000|2746.9|442|35|339|33
 02042020|02|04|2020|19|3|Banten|Kab. Pandeglang|Pandeglang|||||1200000|2746.9|442|35|339|33
 01042020|01|04|2020|19|3|Banten|Kab. Pandeglang|Pandeglang|||||1200000|2746.9|442|35|339|33
+26092021|26|09|2021|20|3|Banten|Kab. Serang|Serang|8933|255|8640|38|1500000|1734.3|854|29|326|18
+25092021|25|09|2021|20|3|Banten|Kab. Serang|Serang|8930|255|8640|35|1500000|1734.3|854|29|326|18
 24092021|24|09|2021|20|3|Banten|Kab. Serang|Serang|8384|255|7278|851|1500000|1734.3|854|29|326|18
 23092021|23|09|2021|20|3|Banten|Kab. Serang|Serang|8384|255|7278|851|1500000|1734.3|854|29|326|18
 22092021|22|09|2021|20|3|Banten|Kab. Serang|Serang|8384|255|7278|851|1500000|1734.3|854|29|326|18
@@ -2167,6 +2175,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|20|3|Banten|Kab. Serang|Serang|||||1500000|1734.3|854|29|326|18
 02042020|02|04|2020|20|3|Banten|Kab. Serang|Serang|||||1500000|1734.3|854|29|326|18
 01042020|01|04|2020|20|3|Banten|Kab. Serang|Serang|||||1500000|1734.3|854|29|326|18
+26092021|26|09|2021|21|3|Banten|Kota Serang|Kota Serang|6840|135|6640|65|651000|266.7|2440|6|66|
+25092021|25|09|2021|21|3|Banten|Kota Serang|Kota Serang|6826|133|6623|70|651000|266.7|2440|6|66|
 24092021|24|09|2021|21|3|Banten|Kota Serang|Kota Serang|4142|104|2740|1298|651000|266.7|2440|6|66|
 23092021|23|09|2021|21|3|Banten|Kota Serang|Kota Serang|4142|104|2740|1298|651000|266.7|2440|6|66|
 22092021|22|09|2021|21|3|Banten|Kota Serang|Kota Serang|4142|104|2740|1298|651000|266.7|2440|6|66|
@@ -2709,6 +2719,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|21|3|Banten|Kota Serang|Kota Serang|||||651000|266.7|2440|6|66|
 02042020|02|04|2020|21|3|Banten|Kota Serang|Kota Serang|||||651000|266.7|2440|6|66|
 01042020|01|04|2020|21|3|Banten|Kota Serang|Kota Serang|||||651000|266.7|2440|6|66|
+26092021|26|09|2021|22|3|Banten|Kab. Tangerang|Tangerang|26815|390|26281|144|2700000|1011.9|2673|29|274|1
+25092021|25|09|2021|22|3|Banten|Kab. Tangerang|Tangerang|26809|390|26281|138|2700000|1011.9|2673|29|274|1
 24092021|24|09|2021|22|3|Banten|Kab. Tangerang|Tangerang|24109|372|22202|1535|2700000|1011.9|2673|29|274|1
 23092021|23|09|2021|22|3|Banten|Kab. Tangerang|Tangerang|24109|372|22202|1535|2700000|1011.9|2673|29|274|1
 22092021|22|09|2021|22|3|Banten|Kab. Tangerang|Tangerang|24109|372|22202|1535|2700000|1011.9|2673|29|274|1
@@ -3251,6 +3263,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|22|3|Banten|Kab. Tangerang|Tangerang|29||3|26|2700000|1011.9|2673|29|274|1
 02042020|02|04|2020|22|3|Banten|Kab. Tangerang|Tangerang|28||3|25|2700000|1011.9|2673|29|274|1
 01042020|01|04|2020|22|3|Banten|Kab. Tangerang|Tangerang|27||3|24|2700000|1011.9|2673|29|274|1
+26092021|26|09|2021|23|3|Banten|Kota Tangerang|Kota Tangerang|30122|483|29539|100|1700000|153.9|11076|13|104|
+25092021|25|09|2021|23|3|Banten|Kota Tangerang|Kota Tangerang|30117|483|29527|107|1700000|153.9|11076|13|104|
 24092021|24|09|2021|23|3|Banten|Kota Tangerang|Kota Tangerang|27890|412|25670|1808|1700000|153.9|11076|13|104|
 23092021|23|09|2021|23|3|Banten|Kota Tangerang|Kota Tangerang|27890|412|25670|1808|1700000|153.9|11076|13|104|
 22092021|22|09|2021|23|3|Banten|Kota Tangerang|Kota Tangerang|27890|412|25670|1808|1700000|153.9|11076|13|104|
@@ -3793,6 +3807,8 @@ date|day|month|year|id_district|id_province|province_name|district_name|city_nam
 03042020|03|04|2020|23|3|Banten|Kota Tangerang|Kota Tangerang|38|7|7|24|1700000|153.9|11076|13|104|
 02042020|02|04|2020|23|3|Banten|Kota Tangerang|Kota Tangerang|36|7|7|22|1700000|153.9|11076|13|104|
 01042020|01|04|2020|23|3|Banten|Kota Tangerang|Kota Tangerang|33|7|2|24|1700000|153.9|11076|13|104|
+26092021|26|09|2021|24|3|Banten|Kota Tangerang Selatan|Kota Tangerang Selatan|30709|690|29756|263|1300000|147.2|8727|7|54|1
+25092021|25|09|2021|24|3|Banten|Kota Tangerang Selatan|Kota Tangerang Selatan|30696|690|29756|250|1300000|147.2|8727|7|54|1
 24092021|24|09|2021|24|3|Banten|Kota Tangerang Selatan|Kota Tangerang Selatan|28229|690|23277|4262|1300000|147.2|8727|7|54|1
 23092021|23|09|2021|24|3|Banten|Kota Tangerang Selatan|Kota Tangerang Selatan|28229|690|23277|4262|1300000|147.2|8727|7|54|1
 22092021|22|09|2021|24|3|Banten|Kota Tangerang Selatan|Kota Tangerang Selatan|28229|690|23277|4262|1300000|147.2|8727|7|54|1
